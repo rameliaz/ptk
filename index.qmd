@@ -42,26 +42,26 @@ Kuliah dan diskusi kelompok (Pertemuan 1–7), dilanjutkan dengan praktik terbim
 
 Pertemuan 1–7 dilaksanakan pada **hari yang sama dengan PSP**, tetapi mulai pukul **13.00 WIB**, secara **daring** melalui [Microsoft Teams](https://teams.microsoft.com/meet/477005755178302?p=9IweUwRTYixgb7DBOb). Pertemuan 9–15 dilaksanakan **luring di Ruang 309**, setiap **Kamis pukul 08.00 WIB**. Jadwal Pertemuan 8 (UTS) dan 16 (UAS) menyusul.
 
-| # | Tanggal | Topik | Moda | Dosen | Materi | Materi (EN) |
-|:--|:--|:------|:--|:--|:--|:--|
-| 1 | Rab, 12 Agu | Pengertian dan jenis tes kognitif | Kuliah, diskusi kelompok | Amel | [Slide](slides/pertemuan1.html) | [Slide](slides/pertemuan1-en.html) |
-| 2 | Rab, 19 Agu | Tahapan penyusunan tes kognitif | Kuliah, diskusi kelompok | Amel | [Slide](slides/pertemuan2.html) | [Slide](slides/pertemuan2-en.html) |
-| 3 | Rab, 26 Agu | Taksonomi dan tujuan instruksional | Kuliah, diskusi kelompok | Amel | [Slide](slides/pertemuan3.html) | [Slide](slides/pertemuan3-en.html) |
-| 4 | Rab, 2 Sep | Tes prestasi: pengertian dan tujuan | Kuliah, diskusi kelompok | Amel | [Slide](slides/pertemuan4.html) | [Slide](slides/pertemuan4-en.html) |
-| 5 | Rab, 9 Sep | Tes potensi: tes bakat, TPA, dan *specific abilities* | Kuliah, diskusi kelompok | Amel | [Slide](slides/pertemuan5.html) | [Slide](slides/pertemuan5-en.html) |
-| 6 | Rab, 16 Sep | Tes inteligensi: teori dan jenis, telaah literatur | Kuliah, diskusi kelompok | Amel | [Slide](slides/pertemuan6.html) | [Slide](slides/pertemuan6-en.html) |
-| 7 | Rab, 23 Sep | Menulis item tes prestasi dan tes potensi | Kuliah, tugas | Amel | [Slide](slides/pertemuan7.html) | [Slide](slides/pertemuan7-en.html) |
-| 8 | TBA | **Ujian Tengah Semester** (materi Pertemuan 1–7) | UTS | — | — | — |
-| 9 | Kam, 15 Okt | Menulis item untuk mengukur *Higher Order Thinking Skill* (HOTS) | Kuliah | Endah | n/a | n/a |
-| 10 | Kam, 22 Okt | Praktik menyusun tes kognitif: spesifikasi item dan *blueprint* | Praktik | Endah | n/a | n/a |
-| 11 | Kam, 29 Okt | Praktik menyusun tes kognitif: menulis dan menelaah item | Praktik | Endah | n/a | n/a |
-| 12 | Kam, 5 Nov | Praktik menyusun tes kognitif: uji coba dan estimasi properti psikometri | Praktik | Endah | n/a | n/a |
-| 13 | Kam, 12 Nov | Praktik menyusun tes kognitif: estimasi reliabilitas dan validitas | Praktik | Endah | n/a | n/a |
-| 14 | Kam, 19 Nov | Praktik menyusun tes kognitif: penyusunan norma | Praktik, presentasi | Endah | n/a | n/a |
-| 15 | Kam, 26 Nov | Isu bias budaya dalam pengukuran kemampuan | Kuliah, diskusi kelompok | Endah | n/a | n/a |
-| 16 | TBA | **Ujian Akhir Semester**: penyelesaian proyek | UAS | — | — | — |
+| # | Tanggal | Topik | Moda | Dosen | Materi |
+|:--|:--|:------|:--|:--|:--|
+| 1 | Rab, 12 Agu | Pengertian dan jenis tes kognitif | Kuliah, diskusi kelompok | Amel | [Slide](slides/pertemuan1.html) |
+| 2 | Rab, 19 Agu | Tahapan penyusunan tes kognitif | Kuliah, diskusi kelompok | Amel | [Slide](slides/pertemuan2.html) |
+| 3 | Rab, 26 Agu | Taksonomi dan tujuan instruksional | Kuliah, diskusi kelompok | Amel | [Slide](slides/pertemuan3.html) |
+| 4 | Rab, 2 Sep | Tes prestasi: pengertian dan tujuan | Kuliah, diskusi kelompok | Amel | [Slide](slides/pertemuan4.html) |
+| 5 | Rab, 9 Sep | Tes potensi: tes bakat, TPA, dan *specific abilities* | Kuliah, diskusi kelompok | Amel | [Slide](slides/pertemuan5.html) |
+| 6 | Rab, 16 Sep | Tes inteligensi: teori dan jenis, telaah literatur | Kuliah, diskusi kelompok | Amel | [Slide](slides/pertemuan6.html) |
+| 7 | Rab, 23 Sep | Menulis item tes prestasi dan tes potensi | Kuliah, tugas | Amel | [Slide](slides/pertemuan7.html) |
+| 8 | TBA | **Ujian Tengah Semester** (materi Pertemuan 1–7) | UTS | — | — |
+| 9 | Kam, 15 Okt | Menulis item untuk mengukur *Higher Order Thinking Skill* (HOTS) | Kuliah | Endah | n/a |
+| 10 | Kam, 22 Okt | Praktik menyusun tes kognitif: spesifikasi item dan *blueprint* | Praktik | Endah | n/a |
+| 11 | Kam, 29 Okt | Praktik menyusun tes kognitif: menulis dan menelaah item | Praktik | Endah | n/a |
+| 12 | Kam, 5 Nov | Praktik menyusun tes kognitif: uji coba dan estimasi properti psikometri | Praktik | Endah | n/a |
+| 13 | Kam, 12 Nov | Praktik menyusun tes kognitif: estimasi reliabilitas dan validitas | Praktik | Endah | n/a |
+| 14 | Kam, 19 Nov | Praktik menyusun tes kognitif: penyusunan norma | Praktik, presentasi | Endah | n/a |
+| 15 | Kam, 26 Nov | Isu bias budaya dalam pengukuran kemampuan | Kuliah, diskusi kelompok | Endah | n/a |
+| 16 | TBA | **Ujian Akhir Semester**: penyelesaian proyek | UAS | — | — |
 
-: Rencana pertemuan Kelas C-2, Semester Gasal 2026/2027 {.striped .hover tbl-colwidths="[4,9,34,11,7,13,13]"}
+: Rencana pertemuan Kelas C-2, Semester Gasal 2026/2027 {.striped .hover tbl-colwidths="[4,9,34,11,7,13]"}
 
 ::: {.callout-note collapse="true"}
 #### Catatan tentang perkuliahan daring
