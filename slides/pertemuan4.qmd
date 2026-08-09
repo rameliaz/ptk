@@ -1,0 +1,246 @@
+---
+title: "Pengertian dan Tujuan Tes Prestasi"
+subtitle: "Penyusunan Tes Kognitif"
+author: "Rizqy Amelia Zein"
+institute:
+  - "[_Departemen Psikologi, Universitas Airlangga_](https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/)"
+date: today
+format:
+  unair-revealjs:
+    slide-number: true
+    progress: true
+    transition: slide
+    center: false
+    css: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css
+    chalkboard: true
+execute:
+  eval: false
+  echo: true
+---
+
+## _Outline_
+
+::: {.incremental}
+* Tes prestasi dalam kehidupan sehari-hari
+* Definisi dan tujuan tes prestasi
+* Empat jenis tes prestasi berdasarkan fungsi
+* Prinsip dasar penyusunan tes prestasi
+* Dari tahap umum ke tahap khusus tes prestasi
+* TIU dan TIK
+* Tabel spesifikasi tes prestasi
+* Bentuk item: objektif atau uraian
+* Aktivitas: mengidentifikasi jenis tes prestasi
+:::
+
+::: aside
+***Disclosure* penggunaan akal imitasi (AI)**
+
+Saya menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk *brainstorming* materi, mencari referensi, dan melakukan *troubleshooting* kode `quarto` dan `git`. Saya bertanggung jawab penuh atas substansi dan penyajian presentasi ini.
+:::
+
+# Tes prestasi dalam kehidupan sehari-hari {background-color="#14497F" .center}
+
+## Contoh yang sudah Anda kenal
+
+::: {.incremental}
+* Ulangan harian dan ujian akhir semester di sekolah
+* Ujian sertifikasi kompetensi kerja
+* Tes penempatan kursus bahasa asing
+* Ujian praktik mengemudi
+:::
+
+. . .
+
+Semua ini termasuk **tes prestasi** karena mengukur apa yang sudah dipelajari atau dikuasai seseorang, sesuai definisi yang diperkenalkan di Pertemuan 1.
+
+# Definisi dan tujuan {background-color="#14497F" .center}
+
+## Definisi tes prestasi
+
+::: {.callout-note}
+#### Definisi
+Tes prestasi adalah alat ukur yang dirancang untuk mengukur hasil belajar seseorang setelah mengikuti suatu proses pembelajaran atau pelatihan tertentu (Azwar, 1987).
+:::
+
+Berbeda dengan tes inteligensi atau tes bakat, tes prestasi terikat pada **materi atau tujuan pembelajaran tertentu**. Hasil tes prestasi, oleh karena itu, hanya bisa diinterpretasikan dalam kaitannya dengan materi yang diajarkan.
+
+## Tujuan tes prestasi
+
+::: {.incremental}
+* Mengukur sejauh mana tujuan pembelajaran tercapai
+* Memberikan umpan balik kepada pengajar dan peserta didik
+* Menjadi dasar pengambilan keputusan: kelulusan, penempatan, kenaikan tingkat
+* Mengidentifikasi bagian materi yang belum dikuasai
+:::
+
+::: aside
+Azwar (1987); Anastasi & Urbina (1997).
+:::
+
+# Empat jenis tes prestasi berdasarkan fungsi {background-color="#14497F" .center}
+
+## Placement, formatif, diagnostik, sumatif
+
+| Jenis | Fungsi | Ciri item |
+|---|---|---|
+| **Placement** | Menentukan kesiapan mengikuti suatu program | Item mudah, mencakup prasyarat program |
+| **Formatif** | Memberikan umpan balik selama proses pembelajaran berlangsung | Disesuaikan dengan tiap unit pengajaran |
+| **Diagnostik** | Mencari sumber kesulitan belajar | Item mudah, difokuskan pada sumber kesulitan yang umum terjadi |
+| **Sumatif** | Menentukan peringkat atau kelulusan pada akhir program | Rentang tingkat kesulitan luas, mewakili keseluruhan materi |
+
+::: aside
+Diadaptasi dari tradisi evaluasi formatif dan sumatif ([Bloom, Hastings, & Madaus, 1971](https://books.google.de/books/about/Handbook_on_Formative_and_Summative_Eval.html?id=yZwL0Qh392IC&redir_esc=y)) serta perluasannya ke evaluasi diagnostik dan penempatan dalam literatur evaluasi pendidikan terkait.
+:::
+
+## Kenapa perbedaan ini relevan
+
+::: {.incremental}
+* Keempatnya sama-sama tes prestasi, tetapi tujuan pengukurannya berbeda, sehingga cakupan materi dan tingkat kesulitan itemnya juga berbeda.
+* Tes formatif yang dipakai seolah-olah tes sumatif (atau sebaliknya) bisa menghasilkan kesimpulan yang tidak sesuai dengan tujuannya.
+:::
+
+# Prinsip dasar penyusunan tes prestasi {background-color="#14497F" .center}
+
+## Lima prinsip
+
+::: {.incremental}
+1. Mengukur hasil belajar sesuai tujuan pembelajaran yang telah ditetapkan.
+2. Mengukur sampel materi yang representatif terhadap keseluruhan materi yang diajarkan.
+3. Memilih bentuk item yang paling sesuai untuk mengukur hasil belajar yang dituju.
+4. Dirancang sesuai dengan jenis dan fungsinya (*placement*, formatif, diagnostik, atau sumatif).
+5. Memiliki reliabilitas yang memadai untuk fungsi pengambilan keputusan yang dituju.
+:::
+
+::: aside
+Diadaptasi dari Azwar (1987).
+:::
+
+# Dari tahap umum ke tahap khusus {background-color="#14497F" .center}
+
+## Menerapkan tahapan Pertemuan 2 pada tes prestasi
+
+::: {.incremental}
+* Pertemuan 2 membahas sebelas tahap penyusunan tes secara umum. Untuk tes prestasi, dua tahap awal (identifikasi tujuan, definisi konstrak) punya bentuk yang lebih spesifik.
+* **Tahap 1 (tujuan tes)** — untuk tes prestasi, berarti menentukan salah satu dari empat jenis: placement, formatif, diagnostik, atau sumatif.
+* **Tahap 2 (definisi konstrak)** — untuk tes prestasi, berarti merumuskan **Tujuan Instruksional Umum (TIU)** dan **Tujuan Instruksional Khusus (TIK)** dari materi yang diukur.
+:::
+
+# TIU dan TIK {background-color="#14497F" .center}
+
+## Dua tingkat tujuan
+
+::: {.incremental}
+* **TIU (Tujuan Instruksional Umum)** — cakupan kompetensi yang luas, misalnya *"mahasiswa memahami prinsip-prinsip tes prestasi"*.
+* **TIK (Tujuan Instruksional Khusus)** — rincian TIU ke dalam perilaku yang dapat diamati dan diukur, memakai kata kerja operasional dari taksonomi yang dibahas di Pertemuan 3.
+:::
+
+. . .
+
+::: {.callout-tip}
+#### Contoh penjabaran
+TIU: *"Mahasiswa memahami prinsip-prinsip tes prestasi."*
+
+TIK: (1) menguraikan tiap prinsip dengan kata-katanya sendiri; (2) memasangkan tiap prinsip dengan contohnya; (3) memprediksi akibat bila suatu prinsip dilanggar.
+:::
+
+Setiap TIK di atas sudah bisa langsung diterjemahkan menjadi satu atau lebih item tes.
+
+# Tabel spesifikasi tes prestasi {background-color="#14497F" .center}
+
+## Menyilangkan materi dengan level kognitif
+
+Tabel spesifikasi tes prestasi menyilangkan pokok bahasan dengan level proses kognitif (Pertemuan 3), lalu menentukan jumlah item pada tiap sel:
+
+| Pokok bahasan | Mengingat | Memahami | Menerapkan | Jumlah |
+|---|:-:|:-:|:-:|:-:|
+| Definisi istilah tes prestasi | 3 | 2 | | 5 |
+| Prinsip penyusunan tes prestasi | | 4 | 3 | 7 |
+| Jenis tes prestasi berdasarkan fungsi | 2 | 3 | 2 | 7 |
+| **Jumlah** | 5 | 9 | 5 | 19 |
+
+::: aside
+Format diadaptasi dari tradisi tabel spesifikasi tes prestasi (Azwar, 1987; [Gronlund, 1993](https://eric.ed.gov/?id=ED358581)).
+:::
+
+## Fungsinya sama seperti *blueprint* di Pertemuan 2
+
+::: {.callout-note}
+#### Catatan
+Tabel ini adalah bentuk konkret dari *blueprint* yang dibahas di Pertemuan 2, dengan dua sumbu yang sudah spesifik: pokok bahasan (dari TIU/TIK) dan level kognitif (dari taksonomi Pertemuan 3).
+:::
+
+# Bentuk item: objektif atau uraian {background-color="#14497F" .center}
+
+## Dua kategori besar
+
+::: {.incremental}
+* **Item objektif** — pilihan ganda, benar-salah, menjodohkan, isian singkat. Penyekoran tidak bergantung pada penilaian subjektif pemeriksa.
+* **Item uraian** — jawaban disusun sendiri oleh peserta, penyekoran memerlukan kriteria dan pertimbangan pemeriksa.
+:::
+
+. . .
+
+::: {.callout-note}
+#### Pertimbangan memilih bentuk item
+Pemilihan bentuk item bergantung pada sifat hasil belajar yang diukur. Hasil belajar yang menuntut penyusunan argumen atau penjelasan panjang lebih sesuai diukur dengan item uraian; hasil belajar berupa pengenalan fakta atau penerapan prosedur pada umumnya bisa diukur dengan item objektif secara lebih efisien.
+:::
+
+::: aside
+Bentuk item dibahas lebih rinci di Pertemuan 7.
+:::
+
+## Aktivitas: mengidentifikasi jenis tes prestasi
+
+Untuk tiap situasi berikut, tentukan apakah tesnya berfungsi sebagai placement, formatif, diagnostik, atau sumatif:
+
+::: {.incremental}
+1. Tes di awal semester untuk menentukan kelas bahasa Inggris peserta (dasar, menengah, atau lanjutan).
+2. Kuis singkat di akhir tiap pertemuan kuliah.
+3. Ujian akhir semester yang menentukan nilai mata kuliah.
+4. Tes yang diberikan kepada mahasiswa yang berulang kali salah pada topik yang sama, untuk mencari bagian mana yang belum dikuasai.
+:::
+
+. . .
+
+::: {.callout-tip}
+#### Kunci
+(1) *Placement*. (2) Formatif. (3) Sumatif. (4) Diagnostik.
+:::
+
+## Ringkasan
+
+::: {.incremental}
+1. Tes prestasi mengukur hasil belajar dan terikat pada materi atau tujuan pembelajaran tertentu (Azwar, 1987).
+2. Ada empat jenis tes prestasi berdasarkan fungsinya: placement, formatif, diagnostik, sumatif — masing-masing dengan cakupan materi dan tingkat kesulitan yang berbeda.
+3. Tahap "tujuan tes" dan "definisi konstrak" dari Pertemuan 2 diwujudkan pada tes prestasi sebagai penentuan jenis tes dan perumusan TIU/TIK.
+4. Tabel spesifikasi tes prestasi adalah *blueprint* yang menyilangkan pokok bahasan dengan level kognitif dari Pertemuan 3.
+5. Pemilihan bentuk item (objektif atau uraian) bergantung pada sifat hasil belajar yang diukur.
+:::
+
+## Untuk Pertemuan 5
+
+::: {.callout-tip}
+#### Selanjutnya: tes potensi
+Pertemuan 5 membahas tes potensi — jenis tes kognitif kedua dari Pertemuan 1, yang mengukur kapasitas untuk mempelajari sesuatu di masa depan, bukan apa yang sudah dipelajari.
+:::
+
+## Ada pertanyaan❓
+
+![](libs/closing.JPG){fig-align="center"}
+
+::: {.callout-note}
+### Catatan
+
+* Paparan disusun dengan menggunakan {{< fa brands r-project >}} dan [**Quarto**](https://quarto.org) dengan *template* dari [UNAIR Theme](https://github.com/rameliaz/quarto-unair-theme).
+* Kontak saya via <i class="fas fa-paper-plane"></i> <a href="mailto:amelia.zein@psikologi.unair.ac.id">amelia.zein@psikologi.unair.ac.id</a>
+:::
+
+## Rujukan
+
+Anastasi, A., & Urbina, S. (1997). *Psychological testing* (7th ed.). Prentice Hall.
+
+Azwar, S. (1987). *Tes prestasi: Fungsi dan pengembangan pengukuran prestasi belajar*. Liberty.
+
+Bloom, B. S., Hastings, J. T., & Madaus, G. F. (1971). *Handbook on formative and summative evaluation of student learning*. McGraw-Hill.
+
+Gronlund, N. E. (1993). *How to make achievement tests and assessments* (5th ed.). Allyn & Bacon.

@@ -1,0 +1,91 @@
+---
+title: "Penyusunan Tes Kognitif"
+---
+
+Kelas C-2, Sarjana Psikologi, Fakultas Psikologi, Universitas Airlangga.
+Semester Gasal 2026/2027 — 3 SKS.
+
+**Dosen pengampu:** Dr. Rizqy Amelia Zein (Pertemuan 1–7) · Dr. Endah Mastuti, M.Psi. (Pertemuan 9–15)
+**PJMK/Penanggung jawab:** Dr. Fitri Andriani, M.Si., Psikolog
+
+::: {.callout-warning}
+#### *Work in Progress* 👷‍♀️
+Materi mata kuliah ini sedang disusun secara bertahap. Slide pertemuan yang sudah tersedia bisa diakses lewat menu **Materi** di atas atau lewat tabel [Rencana Pertemuan](#rencana-pertemuan) di bawah. Jadwal Pertemuan 8–16 masih ditentukan lebih lanjut.
+:::
+
+## Deskripsi Mata Kuliah
+
+Mata kuliah ini didesain untuk membekali mahasiswa kemampuan menerapkan teori psikometri melalui kegiatan penyusunan tes kognitif. Mahasiswa dibimbing untuk menentukan spesifikasi item, menyusun *blueprint*, menulis item, melaksanakan uji coba, hingga menganalisis hasilnya. Mahasiswa akan berpraktik menyusun tes kognitif sesuai tahapan baku serta menyusun buku manual untuk tes yang dihasilkan.
+
+### Manfaat mata kuliah
+
+Mahasiswa memperoleh pengalaman langsung menyusun alat ukur kognitif dari nol — mulai dari kajian teori dan taksonomi, penulisan item, hingga pembuktian validitas, estimasi reliabilitas, dan penyusunan norma — sehingga siap merancang dan mengevaluasi asesmen psikologi kategori A dan B sesuai Kode Etik Psikologi Indonesia.
+
+### Mata kuliah prasyarat
+
+Psikometri
+
+## Capaian Pembelajaran Mata Kuliah (CPMK)
+
+Setelah mengikuti mata kuliah ini, mahasiswa mampu menguasai konsep dasar penyusunan tes kognitif, mampu menyusun alat ukur kognitif, serta mampu menguasai pengolahan data dan analisis statistik dengan *software* yang berkaitan dengan properti psikometri dari alat yang disusun — di antaranya melakukan analisis butir, membuktikan validitas, mengestimasi reliabilitas, dan menyusun norma.
+
+### Capaian pembelajaran lulusan yang didukung
+
+- Mampu melakukan penelitian psikologi menggunakan metodologi penelitian kuantitatif dan kualitatif serta mampu mengkomunikasikan hasil penelitian sesuai dengan Kode Etik Psikologi Indonesia.
+- Mampu merancang, melakukan, mengevaluasi, dan melaporkan asesmen psikologi berupa observasi, wawancara, dan tes psikologi kategori A dan B sesuai dengan prinsip psikodiagnostik dan Kode Etik Psikologi Indonesia.
+
+## Metode Pembelajaran
+
+Kuliah dan diskusi kelompok (Pertemuan 1–7), dilanjutkan dengan praktik terbimbing menyusun tes kognitif — spesifikasi item, penulisan dan penelaahan item, uji coba, analisis psikometri, dan penyusunan norma — serta presentasi proyek kelompok (Pertemuan 9–15).
+
+## Rencana Pertemuan
+
+Pertemuan 1–7 dilaksanakan pada **hari yang sama dengan PSP**, tetapi mulai pukul **13.00 WIB**, secara **daring** melalui [Microsoft Teams](https://teams.microsoft.com/meet/477005755178302?p=9IweUwRTYixgb7DBOb). Pertemuan 9–15 dilaksanakan **luring di Ruang 309**, setiap **Kamis pukul 08.00 WIB**. Jadwal Pertemuan 8 (UTS) dan 16 (UAS) menyusul.
+
+| # | Tanggal | Topik | Moda | Dosen | Materi | Materi (EN) |
+|:--|:--|:------|:--|:--|:--|:--|
+| 1 | Rab, 12 Agu | Pengertian dan jenis tes kognitif | Kuliah, diskusi kelompok | Amel | [Slide](slides/pertemuan1.html) | [Slide](slides/pertemuan1-en.html) |
+| 2 | Rab, 19 Agu | Tahapan penyusunan tes kognitif | Kuliah, diskusi kelompok | Amel | [Slide](slides/pertemuan2.html) | [Slide](slides/pertemuan2-en.html) |
+| 3 | Rab, 26 Agu | Taksonomi dan tujuan instruksional | Kuliah, diskusi kelompok | Amel | [Slide](slides/pertemuan3.html) | [Slide](slides/pertemuan3-en.html) |
+| 4 | Rab, 2 Sep | Tes prestasi: pengertian dan tujuan | Kuliah, diskusi kelompok | Amel | [Slide](slides/pertemuan4.html) | [Slide](slides/pertemuan4-en.html) |
+| 5 | Rab, 9 Sep | Tes potensi: tes bakat, TPA, dan *specific abilities* | Kuliah, diskusi kelompok | Amel | [Slide](slides/pertemuan5.html) | [Slide](slides/pertemuan5-en.html) |
+| 6 | Rab, 16 Sep | Tes inteligensi: teori dan jenis, telaah literatur | Kuliah, diskusi kelompok | Amel | [Slide](slides/pertemuan6.html) | [Slide](slides/pertemuan6-en.html) |
+| 7 | Rab, 23 Sep | Menulis item tes prestasi dan tes potensi | Kuliah, tugas | Amel | [Slide](slides/pertemuan7.html) | [Slide](slides/pertemuan7-en.html) |
+| 8 | TBA | **Ujian Tengah Semester** (materi Pertemuan 1–7) | UTS | — | — | — |
+| 9 | Kam, 15 Okt | Menulis item untuk mengukur *Higher Order Thinking Skill* (HOTS) | Kuliah | Endah | n/a | n/a |
+| 10 | Kam, 22 Okt | Praktik menyusun tes kognitif: spesifikasi item dan *blueprint* | Praktik | Endah | n/a | n/a |
+| 11 | Kam, 29 Okt | Praktik menyusun tes kognitif: menulis dan menelaah item | Praktik | Endah | n/a | n/a |
+| 12 | Kam, 5 Nov | Praktik menyusun tes kognitif: uji coba dan estimasi properti psikometri | Praktik | Endah | n/a | n/a |
+| 13 | Kam, 12 Nov | Praktik menyusun tes kognitif: estimasi reliabilitas dan validitas | Praktik | Endah | n/a | n/a |
+| 14 | Kam, 19 Nov | Praktik menyusun tes kognitif: penyusunan norma | Praktik, presentasi | Endah | n/a | n/a |
+| 15 | Kam, 26 Nov | Isu bias budaya dalam pengukuran kemampuan | Kuliah, diskusi kelompok | Endah | n/a | n/a |
+| 16 | TBA | **Ujian Akhir Semester**: penyelesaian proyek | UAS | — | — | — |
+
+: Rencana pertemuan Kelas C-2, Semester Gasal 2026/2027 {.striped .hover tbl-colwidths="[4,9,34,11,7,13,13]"}
+
+::: {.callout-note collapse="true"}
+#### Catatan tentang perkuliahan daring
+Mahasiswa **tidak perlu** memiliki akun Microsoft Teams untuk mengikuti kuliah, dan dapat bergabung langsung lewat *browser* tanpa memasang aplikasinya.
+
+Namun, untuk mengakses percakapan (*chat*) atau berkomunikasi dengan dosen lewat tautan MS Teams yang sama, mahasiswa perlu masuk menggunakan akun Microsoft Teams UNAIR (email berdomain `@drive.unair.ac.id`). Lihat [Panduan Penggunaan OneDrive dan MS Teams](https://drive.google.com/file/d/1GZRz9a7TBCpDvYjJJE_ny8-3rgShKK_6/view) dari Direktorat Sistem Informasi (DSI) Universitas Airlangga.
+:::
+
+## Tugas dan Penilaian
+
+| Komponen | Bobot |
+|:--|--:|
+| Kegiatan partisipatif (keaktifan di kelas) | 30% |
+| Hasil proyek (proyek penyusunan tes kognitif) | 40% |
+| Tugas mandiri dan kelompok | 5% |
+| Ujian Tengah Semester | 25% |
+
+: Rekapitulasi metode penilaian, mengacu pada RPP {.striped .hover}
+
+---
+
+::: {.callout-tip appearance="simple"}
+Halaman ini merupakan ringkasan **RPP**.
+:::
+
+### *Disclosure* penggunaan akal imitasi (AI)
+Kami menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk *brainstorming* materi, mencari referensi, dan melakukan *troubleshooting* kode `quarto` dan `git`. Kami (Amel dan Endah) bertanggung jawab penuh atas substansi dan penyajian materi di mata kuliah ini.

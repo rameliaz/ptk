@@ -1,0 +1,261 @@
+---
+title: "Menulis Item Tes Prestasi dan Potensi"
+subtitle: "Penyusunan Tes Kognitif"
+author: "Rizqy Amelia Zein"
+institute:
+  - "[_Departemen Psikologi, Universitas Airlangga_](https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/)"
+date: today
+format:
+  unair-revealjs:
+    slide-number: true
+    progress: true
+    transition: slide
+    center: false
+    css: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css
+    chalkboard: true
+execute:
+  eval: false
+  echo: true
+---
+
+## _Outline_
+
+::: {.incremental}
+* Anatomi item pilihan ganda
+* Menulis stem
+* Menulis pilihan jawaban
+* Menulis item tes prestasi vs. tes potensi
+* Contoh item tes potensi berdasarkan *narrow ability*
+* Contoh item tes prestasi dari TIK
+* Aktivitas: menemukan kesalahan pada item
+:::
+
+::: aside
+***Disclosure* penggunaan akal imitasi (AI)**
+
+Saya menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk *brainstorming* materi, mencari referensi, dan melakukan *troubleshooting* kode `quarto` dan `git`. Saya bertanggung jawab penuh atas substansi dan penyajian presentasi ini.
+:::
+
+# Kaitan hari ini dengan Tugas 2 {background-color="#14497F" .center}
+
+## Apa yang akan Anda kumpulkan minggu ini
+
+::: {.incremental}
+* Tugas 2 dikerjakan individu: menulis **20 butir** — 2 butir untuk tiap indikator tes prestasi (5 indikator) dan 2 butir untuk tiap indikator tes potensi (5 indikator).
+* Setiap butir mengacu pada *blueprint* yang sudah Anda susun sendiri (Pertemuan 2 dan 4).
+* Materi hari ini adalah panduan praktis untuk tahap **penulisan item**, yang merupakan Tahap 5 dari sebelas tahap di Pertemuan 2.
+:::
+
+# Anatomi item pilihan ganda {background-color="#14497F" .center}
+
+## Bagian-bagian sebuah item
+
+::: {.incremental}
+* ***Stem*** — bagian yang memuat pertanyaan atau pernyataan inti.
+* ***Options*** — pilihan jawaban yang disediakan, terdiri atas:
+  * ***Key*** — jawaban yang benar.
+  * ***Distractors*** — pilihan yang salah, tetapi dirancang tetap masuk akal.
+:::
+
+::: aside
+[Lane, Raymond, & Haladyna (2016)](https://books.google.de/books?hl=id&lr=&id=GDCvCgAAQBAJ&oi=fnd&pg=PP1&dq=Lane,+Raymond,+%26+Haladyna+(2016)&ots=pM3NPfplBv&sig=8dUxIKgAlIlv8FyMJNQ6ZCgZXAQ&redir_esc=y#v=onepage&q&f=false).
+:::
+
+## Mengapa bagian ini perlu dipisahkan dengan jelas
+
+::: {.callout-note}
+#### Catatan
+*Stem* dan *options* punya fungsi berbeda: *stem* menyampaikan **satu** ide inti yang jelas, sementara *options* menyediakan alternatif jawaban yang setara secara bentuk. Item yang baik tidak mencampur keduanya — misalnya menaruh sebagian informasi penting hanya di salah satu *option*.
+:::
+
+# Menulis stem {background-color="#14497F" .center}
+
+## Prinsip dasar
+
+::: {.incremental}
+* Sampaikan ide inti secara jelas dan ringkas di *stem* — jangan disimpan di *options*.
+* Gunakan kalimat positif; sebaiknya hindari bentuk negatif seperti "KECUALI" atau "BUKAN", yang mudah terlewat dibaca dan meningkatkan risiko salah paham.
+  + Sehingga apabila partisipan salah menjawab, Anda akan kesulitan membedakan apakah memang partisipan tidak mampu menjawab atau tidak paham instruksi soal.
+* Batasi setiap item pada satu jenis konten dan satu tingkat proses kognitif saja (Pertemuan 3).
+* Sesuaikan kompleksitas bahasa dengan kelompok yang akan mengerjakan tes; hindari kalimat yang panjang tanpa alasan.
+:::
+
+::: aside
+[Haladyna, Downing, & Rodriguez (2002)](https://www.tandfonline.com/doi/abs/10.1207/S15324818AME1503_5).
+:::
+
+# Menulis pilihan jawaban {background-color="#14497F" .center}
+
+## Prinsip untuk key dan distractors
+
+::: {.incremental}
+* Pastikan hanya ada **satu** jawaban yang benar tanpa ambiguitas.
+* Buat *distractors* yang masuk akal. Idealnya berdasarkan kesalahan berpikir yang umum terjadi pada topik tersebut, bukan pilihan yang jelas-jelas salah.
+* Samakan panjang dan struktur tata bahasa semua pilihan; pilihan yang jelas lebih panjang atau lebih detail sering menjadi petunjuk jawaban benar.
+* Hindari kata mutlak seperti "selalu" atau "tidak pernah" pada distractor, karena cenderung mudah ditebak sebagai jawaban salah.
+:::
+
+## Prinsip lanjutan
+
+::: {.incremental}
+* Hindari pilihan seperti "semua benar" atau "semua salah". Pilihan ini sering bisa dijawab tanpa benar-benar memahami opsi lain.
+* Acak posisi jawaban benar antar-item; jangan menaruhnya selalu di posisi yang sama.
+* Urutkan pilihan secara logis, misalnya menurut abjad atau nilai numerik, bila memungkinkan.
+:::
+
+::: aside
+[Haladyna, Downing, & Rodriguez (2002)](https://www.tandfonline.com/doi/abs/10.1207/S15324818AME1503_5).
+:::
+
+# Menulis item tes prestasi vs. tes potensi {background-color="#14497F" .center}
+
+## Sumber isi yang berbeda
+
+::: {.incremental}
+* **Item tes prestasi** diturunkan dari TIK yang sudah dirumuskan (Pertemuan 4). Isinya terikat pada materi atau kurikulum yang diajarkan.
+* **Item tes potensi** diturunkan dari definisi konstrak kemampuan yang lebih umum (Pertemuan 5 dan 6). Isinya sengaja dibuat tidak terikat pada satu bidang materi tertentu, agar yang diukur adalah proses bernalarnya, bukan pengetahuan spesifiknya.
+:::
+
+::: {.callout-tip}
+#### Konsekuensi praktis
+Saat menulis item tes prestasi, Anda mulai dari TIK. Saat menulis item tes potensi, Anda mulai dari kemampuan sempit (*narrow ability*) yang ingin diukur — misalnya *induction* atau *quantitative reasoning* dari kemampuan luas Gf yang dibahas di Pertemuan 6.
+:::
+
+# Contoh item tes potensi {background-color="#14497F" .center}
+
+## Berdasarkan narrow ability dari Gf
+
+Tiga *narrow ability* yang umum diukur pada tes potensi (Pertemuan 6):
+
+::: {.incremental}
+* ***Induction*** — menemukan aturan yang mendasari suatu pola.
+* ***General sequential reasoning*** — menarik kesimpulan logis dari premis yang diberikan.
+* ***Quantitative reasoning*** — bernalar menggunakan hubungan dan operasi bilangan.
+:::
+
+## Contoh: induction
+
+*"SEPATU : KAKI, sebagaimana ... : ..."*
+
+A) Anting : Telinga　B) Jari : Cincin　C) Kepala : Topi　D) Kuas : Cat
+
+. . .
+
+::: {.callout-tip}
+#### Kunci
+**A** — hubungan bagian tubuh dengan benda yang dikenakan/dipakai di sana, sama seperti sepatu di kaki.
+:::
+
+## Contoh: general sequential reasoning
+
+*"Semua bunga memiliki putik. Semua melati termasuk bunga."*
+
+A) Semua melati memiliki putik　B) Sebagian melati tidak memiliki putik　C) Sebagian bunga bukan melati　D) Semua bunga adalah melati
+
+. . .
+
+::: {.callout-tip}
+#### Kunci
+**A** — kesimpulan logis langsung dari dua premis (silogisme kategorikal).
+:::
+
+## Contoh: quantitative reasoning
+
+*"3, 6, 12, 24, ..."*
+
+A) 30　B) 36　C) 48　D) 60
+
+. . .
+
+::: {.callout-tip}
+#### Kunci
+**C (48)** — pola: tiap suku dikalikan 2.
+:::
+
+# Contoh item tes prestasi {background-color="#14497F" .center}
+
+## Diturunkan dari TIK
+
+Menggunakan TIK dari Pertemuan 4: *"Mahasiswa dapat memasangkan setiap prinsip penyusunan tes prestasi dengan contohnya."*
+
+::: {.callout-note}
+#### Contoh item
+*"Prinsip 'mengukur sampel materi yang representatif' pada tes prestasi paling sesuai dicontohkan oleh:"*
+
+A) Ujian akhir semester yang hanya berisi soal dari satu pertemuan terakhir
+
+B) Ujian akhir semester yang soalnya tersebar merata dari seluruh pertemuan
+
+C) Ujian akhir semester yang tingkat kesulitannya seragam
+
+D) Ujian akhir semester yang jumlah soalnya banyak
+:::
+
+::: aside
+Jawaban: B.
+:::
+
+## Aktivitas: menemukan kesalahan pada item
+
+Item berikut punya beberapa masalah. Diskusikan dengan teman sebangku Anda, apa saja yang perlu diperbaiki?
+
+::: {.callout-important}
+#### Item yang perlu ditelaah
+*"Manakah pernyataan berikut yang BUKAN merupakan ciri tes potensi?"*
+
+A) Selalu mengukur kemampuan bawaan sejak lahir yang tidak mungkin berubah sama sekali sepanjang hidup seseorang
+
+B) Bersifat prediktif terhadap performa mendatang
+
+C) Tidak terikat pada satu bidang materi tertentu
+
+D) Semua jawaban di atas benar
+:::
+
+. . .
+
+::: {.incremental}
+* Stem memakai kata negatif ("BUKAN") yang seharusnya dihindari.
+* Opsi A memakai kata mutlak ("selalu", "tidak mungkin", "sama sekali") yang menjadi petunjuk bahwa opsi ini salah.
+* Opsi D ("semua jawaban di atas benar") sebaiknya dihindari sesuai prinsip yang dibahas hari ini.
+:::
+
+## Ringkasan
+
+::: {.incremental}
+1. Item pilihan ganda terdiri atas *stem*, *key*, dan *distractors* — masing-masing punya fungsi dan prinsip penulisan tersendiri.
+2. *Stem* ditulis jelas, ringkas, dan positif; ide inti ada di *stem*, bukan di *options*.
+3. *Options* dibuat setara panjang dan strukturnya, dengan *distractors* yang masuk akal, tanpa kata mutlak atau opsi "semua benar/semua salah".
+4. Item tes prestasi diturunkan dari TIK; item tes potensi diturunkan dari *narrow ability* yang ingin diukur.
+5. Prinsip-prinsip ini langsung relevan untuk Tugas 2 yang dikumpulkan minggu ini.
+:::
+
+## Untuk Pertemuan 8
+
+::: {.callout-tip}
+#### Selanjutnya: UTS
+Pertemuan 8 adalah Ujian Tengah Semester, mencakup materi Pertemuan 1–7: jenis tes kognitif, tahapan penyusunan tes, taksonomi dan tujuan instruksional, tes prestasi, tes potensi, tes inteligensi, dan prinsip penulisan item.
+:::
+
+## Ada pertanyaan❓
+
+![](libs/closing.JPG){fig-align="center"}
+
+::: {.callout-note}
+### Catatan
+
+* Paparan disusun dengan menggunakan {{< fa brands r-project >}} dan [**Quarto**](https://quarto.org) dengan *template* dari [UNAIR Theme](https://github.com/rameliaz/quarto-unair-theme).
+* Kontak saya via <i class="fas fa-paper-plane"></i> <a href="mailto:amelia.zein@psikologi.unair.ac.id">amelia.zein@psikologi.unair.ac.id</a>
+:::
+
+## Rujukan
+
+Azwar, S. (1987). *Tes prestasi: Fungsi dan pengembangan pengukuran prestasi belajar*. Liberty.
+
+Haladyna, T. M., Downing, S. M., & Rodriguez, M. C. (2002). A review of multiple-choice item-writing guidelines for classroom assessment. *Applied Measurement in Education, 15*(3), 309–334.
+
+Lane, S., Raymond, M. R., & Haladyna, T. M. (Eds.). (2016). *Handbook of test development* (2nd ed.). Routledge.
+
+Osterlind, S. J. (2002). *Constructing test items: Multiple-choice, constructed-response, performance, and other formats* (2nd ed.). Kluwer Academic Publishers.
+
+Schneider, W. J., & McGrew, K. S. (2018). The Cattell–Horn–Carroll theory of cognitive abilities. In D. P. Flanagan & E. M. McDonough (Eds.), *Contemporary intellectual assessment: Theories, tests, and issues* (4th ed., pp. 73–163). Guilford Press.

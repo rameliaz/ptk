@@ -1,0 +1,223 @@
+---
+title: "Tes Potensi"
+subtitle: "Penyusunan Tes Kognitif"
+author: "Rizqy Amelia Zein"
+institute:
+  - "[_Departemen Psikologi, Universitas Airlangga_](https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/)"
+date: today
+format:
+  unair-revealjs:
+    slide-number: true
+    progress: true
+    transition: slide
+    center: false
+    css: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css
+    chalkboard: true
+execute:
+  eval: false
+  echo: true
+---
+
+## _Outline_
+
+::: {.incremental}
+* Definisi tes potensi
+* Tes potensi vs. tes prestasi
+* Dua kategori tes potensi
+* Tes Potensi Akademik (TPA)
+* Tes bakat khusus
+* Format butir yang umum dipakai
+* Aktivitas: mengklasifikasikan butir TPA
+:::
+
+::: aside
+***Disclosure* penggunaan akal imitasi (AI)**
+
+Saya menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk *brainstorming* materi, mencari referensi, dan melakukan *troubleshooting* kode `quarto` dan `git`. Saya bertanggung jawab penuh atas substansi dan penyajian presentasi ini.
+:::
+
+# Perbedaan Tes Prestasi dengan Tes Potensi {background-color="#14497F" .center}
+
+## Bandingkan
+
+::: {.incremental}
+1. Ujian akhir semester mata kuliah Statistika — mengukur seberapa jauh mahasiswa menguasai materi yang sudah diajarkan.
+2. Tes Potensi Akademik (TPA) untuk seleksi masuk program magister — mengukur seberapa besar kemungkinan calon mahasiswa berhasil menempuh studi lanjut, sebelum studi itu dimulai.
+:::
+
+. . .
+
+Keduanya sama-sama tes kognitif yang mengukur performansi maksimal. Bedanya: (1) mengukur hasil belajar yang sudah terjadi, (2) mengukur kapasitas untuk pembelajaran yang belum terjadi. Perbedaan ini sudah diperkenalkan di Pertemuan 1 — hari ini kita bahas lebih dalam untuk poin (2).
+
+# Definisi tes potensi {background-color="#14497F" .center}
+
+## Definisi
+
+::: {.callout-note}
+#### Definisi
+Tes potensi (*aptitude test*) adalah alat ukur yang dirancang untuk menaksir kapasitas seseorang mempelajari suatu keterampilan atau bidang tertentu di masa depan (Anastasi & Urbina, 1997).
+:::
+
+::: {.incremental}
+* Tes potensi tidak mengasumsikan peserta sudah pernah mempelajari materi yang diujikan secara formal.
+* Skor tes potensi diinterpretasikan sebagai **prediksi** terhadap performa yang terjadi di masa depan.
+:::
+
+::: aside
+Azwar (2019).
+:::
+
+# Tes potensi vs. tes prestasi {background-color="#14497F" .center}
+
+## Perbandingan
+
+| | Tes Potensi | Tes Prestasi |
+|---|---|---|
+| Mengukur | Kapasitas belajar di masa depan | Penguasaan materi yang sudah diajarkan |
+| Orientasi waktu | Prediktif | Retrospektif |
+| Ketergantungan pada kurikulum tertentu | Rendah | Tinggi |
+| Contoh penggunaan | Seleksi masuk, penempatan kerja | Ujian sekolah, sertifikasi |
+| Kriteria evaluasi kualitas tes | Validitas prediktif | Validitas isi |
+
+::: aside
+Diadaptasi dari Anastasi & Urbina (1997) dan Azwar (2019); lihat juga Pertemuan 1.
+:::
+
+## Batas antara keduanya tidak selalu jelas
+
+::: {.incremental}
+* Tes potensi tetap membutuhkan sejumlah pengetahuan dasar sebagai media pengukuran, misalnya soal kuantitatif tetap memakai operasi hitung yang sudah dipelajari.
+* Yang membedakan bukan "bebas dari pengaruh belajar sama sekali", melainkan **tujuan penggunaan skornya**: memprediksi performa mendatang, bukan mencatat penguasaan materi tertentu.
+:::
+
+# Dua kategori tes potensi {background-color="#14497F" .center}
+
+## Tes potensi akademik dan tes bakat khusus
+
+::: {.incremental}
+1. **Tes Potensi Akademik (TPA)** — mengukur kapasitas kognitif umum yang relevan untuk keberhasilan studi, tidak terikat pada satu bidang keahlian tertentu.
+2. **Tes bakat khusus (*specific aptitude*)** — mengukur kapasitas pada satu domain kemampuan tertentu, misalnya kemampuan mekanik, kemampuan klerikal, atau kemampuan spasial.
+:::
+
+# Tes Potensi Akademik (TPA) {background-color="#14497F" .center}
+
+## Asal-usul dan struktur umum
+
+::: {.incremental}
+* Konstruksi TPA di Indonesia mengikuti sebagian konsep pengembangan *Graduate Record Examinations* (GRE) di Amerika Serikat, yang membagi kemampuan menjadi penalaran verbal, penalaran kuantitatif, dan kemampuan analitis (bentuk soal komponen analitis ini berbeda antar era — pilihan ganda pada dekade 1980-an saat TPA Indonesia mulai dikembangkan, esai tertulis pada versi GRE saat ini).
+* TPA di Indonesia pada umumnya terdiri atas tiga subtes: **Verbal**, **Kuantitatif**, dan **Penalaran** (Azwar, 2019).
+:::
+
+## Contoh kisi-kisi TPA
+
+| Subtes | Komponen | Contoh indikator |
+|---|---|---|
+| **Verbal** | Padanan kata, lawan kata, analogi kata | Mengidentifikasi pasangan kata yang memiliki hubungan makna yang sama |
+| **Kuantitatif** | Deret angka, aritmetika, konsep aljabar | Mengidentifikasi prinsip yang mendasari suatu deret angka |
+| **Penalaran** | Berpikir logis, berpikir analitik | Menarik kesimpulan dari dua premis |
+
+::: aside
+Format kisi-kisi diadaptasi dari tradisi tabel spesifikasi TPA (Azwar, 2019).
+:::
+
+# Tes bakat khusus {background-color="#14497F" .center}
+
+## Mengukur satu domain kemampuan
+
+::: {.incremental}
+* Tes bakat khusus dipakai ketika keputusan yang diambil terkait pada satu bidang tertentu, misalnya penjurusan sekolah kejuruan atau seleksi untuk posisi kerja teknis.
+* Contoh domain yang umum diukur: kemampuan verbal, numerik, penalaran abstrak, kecepatan klerikal, penalaran mekanik, dan hubungan ruang (*space relations*).
+* Baterai tes bakat yang mengukur beberapa domain sekaligus disebut *multiple aptitude battery*. 
+  + Contohnya: *Differential Aptitude Tests* (Bennett, Seashore, & Wesman, 1947) dan *General Aptitude Test Battery*, yang sudah disebutkan di Pertemuan 1.
+:::
+
+::: aside
+Anastasi & Urbina (1997).
+:::
+
+## Kenapa relevan untuk penyusunan tes
+
+::: {.callout-note}
+#### Catatan
+Prinsip yang sama berlaku baik pada TPA maupun tes bakat khusus: konstrak yang diukur harus didefinisikan terlebih dahulu (Pertemuan 2), lalu dijabarkan ke dalam *blueprint* yang menentukan proporsi tiap komponen.
+:::
+
+# Format butir yang umum dipakai {background-color="#14497F" .center}
+
+## Beberapa contoh format
+
+::: {.incremental}
+* **Analogi verbal** — *"Sapi berhubungan dengan rumput, sebagaimana X berhubungan dengan Y"*.
+* **Sinonim/antonim** — memilih kata dengan makna yang sama atau berlawanan.
+* **Deret angka** — melengkapi pola pada suatu deret bilangan.
+* **Penalaran logis** — menarik kesimpulan dari premis yang diberikan.
+* **Penalaran non-verbal figural** — melengkapi pola pada rangkaian gambar atau bentuk.
+:::
+
+## Contoh format deret angka
+
+Format ini biasa dipakai pada subtes kuantitatif:
+
+*4, 7, 10, 13, ...*
+
+A) 15　B) 16　C) 17　D) 18
+
+. . .
+
+::: {.callout-tip}
+#### Kunci
+Jawaban **B (16)** — pola bertambah 3 setiap sukunya. Contoh ini dibuat khusus untuk ilustrasi, bukan diambil dari tes manapun, mengikuti prinsip yang sama seperti pada Pertemuan 1.
+:::
+
+## Aktivitas: mengklasifikasikan butir TPA
+
+Untuk tiap contoh butir berikut, tentukan termasuk subtes Verbal, Kuantitatif, atau Penalaran:
+
+::: {.incremental}
+1. *"Pilih kata yang paling berlawanan makna dengan kata 'optimis'."*
+2. *"Jika semua A adalah B, dan sebagian B adalah C, apakah semua A pasti C?"*
+3. *"Lengkapi deret berikut: 2, 6, 18, 54, ..."*
+:::
+
+. . .
+
+::: {.callout-tip}
+#### Kunci
+(1) Verbal. (2) Penalaran. (3) Kuantitatif.
+:::
+
+## Ringkasan
+
+::: {.incremental}
+1. Tes potensi mengukur kapasitas belajar di masa depan, berbeda dari tes prestasi yang mengukur penguasaan materi yang sudah diajarkan.
+2. Ada dua kategori tes potensi: Tes Potensi Akademik (TPA) untuk kapasitas kognitif umum, dan tes bakat khusus untuk satu domain kemampuan tertentu.
+3. TPA di Indonesia pada umumnya terdiri atas tiga subtes: Verbal, Kuantitatif, dan Penalaran, mengikuti sebagian konsep GRE.
+4. Tes bakat khusus dipakai untuk keputusan yang terkait pada satu bidang tertentu, dan bisa disusun sebagai baterai yang mengukur beberapa domain sekaligus.
+5. Prinsip penyusunan tes dari Pertemuan 2 tetap berlaku: definisi konstrak dan *blueprint* mendahului penulisan item.
+:::
+
+## Untuk Pertemuan 6
+
+::: {.callout-tip}
+#### Selanjutnya: tes inteligensi
+Pertemuan 6 membahas tes inteligensi, yang merupakan jenis tes kognitif ketiga dari Pertemuan 1, termasuk sejarah perkembangannya dan beberapa instrumen yang banyak dipakai di Indonesia.
+:::
+
+## Ada pertanyaan❓
+
+![](libs/closing.JPG){fig-align="center"}
+
+::: {.callout-note}
+### Catatan
+
+* Paparan disusun dengan menggunakan {{< fa brands r-project >}} dan [**Quarto**](https://quarto.org) dengan *template* dari [UNAIR Theme](https://github.com/rameliaz/quarto-unair-theme).
+* Kontak saya via <i class="fas fa-paper-plane"></i> <a href="mailto:amelia.zein@psikologi.unair.ac.id">amelia.zein@psikologi.unair.ac.id</a>
+:::
+
+## Rujukan {.smaller}
+
+Anastasi, A., & Urbina, S. (1997). *Psychological testing* (7th ed.). Prentice Hall.
+
+Azwar, S. (2019). *Konstruksi tes: Kemampuan kognitif*. Pustaka Pelajar.
+
+Bennett, G. K., Seashore, H. G., & Wesman, A. G. (1947). *Differential aptitude tests*. Psychological Corporation.

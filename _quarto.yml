@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - libs/
+  render:
+    - slides/
+    
+website:
+  title: "Penyusunan Tes Kognitif"
+  navbar:
+    left:
+      - href: https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/
+        icon: house
+        text: "oleh Rizqy Amelia Zein"
+    right:
+      - text: "Materi"
+      - icon: envelope
+        href: "mailto:amelia.zein@psikologi.unair.ac.id"
+  search:
+    location: navbar
+    type: overlay
+  page-footer:
+      left: "&#169; 2026 Rizqy Amelia Zein"
+      right: "Sarjana Psikologi, Universitas Airlangga"
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    toc: true
+    toc-float: true
+    toc-depth: 3
+    df-print: paged
+    highlight-style: github

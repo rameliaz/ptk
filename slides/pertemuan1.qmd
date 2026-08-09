@@ -1,0 +1,439 @@
+---
+title: "Pengantar: Pengertian dan Jenis Tes Kognitif"
+subtitle: "Penyusunan Tes Kognitif"
+author: "Rizqy Amelia Zein"
+institute:
+  - "[_Departemen Psikologi, Universitas Airlangga_](https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/)"
+date: today
+format:
+  unair-revealjs:
+    slide-number: true
+    progress: true
+    transition: slide
+    center: false
+    css: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css
+    chalkboard: true
+execute:
+  eval: false
+  echo: true
+---
+
+## _Outline_
+
+::: {.incremental}
+* Apa yang akan kita kerjakan selama satu semester?
+* Tiga situasi yang butuh jenis tes kognitif berbeda-beda
+* Jembatan dari mata kuliah Psikometri
+* Psikometri dan pengukuran psikologi
+* Istilah yang sering tertukar: tes, skala, inventori, angket
+* Ranah atribut: kognitif vs non-kognitif
+* Performansi maksimal vs performansi tipikal
+* Sejarah singkat: tiga tradisi tes kognitif
+* Tiga jenis utama tes kognitif
+* Klasifikasi tes menurut Kode Etik Psikologi Indonesia
+:::
+
+::: aside
+***Disclosure* penggunaan akal imitasi (AI)**
+
+Saya menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk *brainstorming* materi, mencari referensi, dan melakukan *troubleshooting* kode `quarto` dan `git`. Saya bertanggung jawab penuh atas substansi dan penyajian presentasi ini.
+:::
+
+# Orientasi mata kuliah {background-color="#14497F" .center}
+
+## Apa yang akan kita kerjakan selama satu semester?
+
+::: {.incremental}
+* **Proyek akhir**: setiap kelompok akan **menyusun satu set tes kognitif lengkap**, dari spesifikasi item sampai booklet dan manual tes, disertai bukti validitas dan reliabilitas. Untuk itu, Anda diminta untuk membuat kelompok dengan anggota Maks. 5 orang. 
+  + [Silakan tuliskan nama-nama anggota kelompok Anda di *spreadsheet* ini](https://docs.google.com/spreadsheets/d/1TWuEzAeO6-VahflbT3vBpnKLzG5zjd8K/edit?usp=sharing&ouid=100126014993390956583&rtpof=true&sd=true).
+  + *Spreadsheet* akan ditutup aksesnya (tidak bisa di*edit*) setelah pertemuan ke-3.
+
+* **Sebelum UTS (Pertemuan 1–7)**: membangun fondasi konseptualnya. Apa itu tes kognitif, bagaimana tahapan menyusunnya, apa itu taksonomi tujuan instruksional, dan apa beda mendasar antara tes prestasi, tes potensi, dan tes inteligensi.
+
+* **Setelah UTS (Pertemuan 9–15)**: mengerjakan proyeknya. Menulis item HOTS, menyusun spesifikasi dan *blueprint*, mengambil data uji coba, menganalisis butir, mengestimasi reliabilitas dan validitas, menyusun norma dan manual.
+:::
+
+::: aside
+Rencana lengkap ada di **RPS** dan **Kontrak Kuliah** (dibagikan terpisah di Psyche) — *slide* ini hanya ringkasannya.
+:::
+
+# Mari mulai dari tiga situasi {background-color="#14497F" .center}
+
+## Tiga situasi
+
+::: {.incremental}
+1. Sebuah SD ingin tahu apakah program literasi barunya berhasil: **apakah kemampuan membaca siswa kelas 5 tahun ini lebih baik dibanding angkatan tahun lalu**, setelah materi yang sama diajarkan?
+
+2. Sebuah *startup* menyaring 500 pelamar magang pemrograman **sebelum melihat satu baris kode pun yang mereka tulis** — mereka ingin tahu siapa yang berpotensi paling cepat belajar *coding*.
+
+3. Seorang neuropsikolog perlu menetapkan garis dasar **kemampuan penalaran umum** seorang pasien pascacedera kepala, sebelum bisa menilai apakah ada penurunan fungsi kognitif.
+:::
+
+## Apa kesamaan dan perbedaan ketiganya?
+
+::: {.incremental}
+* Ketiganya sama-sama butuh **tes kognitif**, karena mengukur performa maksimal seseorang, bukan kecenderungan atau preferensinya.
+
+* Tetapi ketiganya menanyakan pertanyaan yang **secara konseptual berbeda**: apa yang *sudah dikuasai* (situasi 1), apa yang *berpotensi dikuasai* (situasi 2), dan seberapa besar *kapasitas umum* seseorang (situasi 3).
+
+* Kalau jenis tesnya tertukar, misalnya memakai tes prestasi untuk meramalkan potensi, maka kesimpulannya bisa **keliru total**.
+:::
+
+. . .
+
+::: {.callout-warning}
+#### Ini bukan soal istilah semata
+Ketiga situasi ini akan terus muncul sepanjang mata kuliah ini dalam bentuk **tes prestasi** (Pertemuan 4), **tes potensi** (Pertemuan 5), dan **tes inteligensi** (Pertemuan 6). Hari ini kita bangun dulu pemahaman umumnya.
+:::
+
+# Jembatan dari Psikometri {background-color="#14497F" .center}
+
+## Apa yang sudah Anda pelajari?
+
+Dari mata kuliah Psikometri, Anda sudah belajar hal-hal berikut ini:
+
+::: {.incremental}
+* **Pengukuran** — mengubah atribut menjadi angka
+* **Validitas** — apakah tes mengukur apa yang seharusnya diukur?
+* **Reliabilitas** — apakah hasil pengukuran konsisten?
+* **Atribut psikologis** — konstrak yang bersifat laten, tidak teramati langsung
+:::
+
+. . .
+
+::: {.callout-note}
+#### Pertanyaan pemantik
+Anda sudah belajar *cara mengevaluasi* apakah sebuah tes punya performa yang baik (validitas, reliabilitas). Mata kuliah ini membantu Anda *cara membuatnya* dari awal, tetapi khusus untuk domain **kognitif**.
+:::
+
+# Psikometri dan pengukuran psikologi {background-color="#14497F" .center}
+
+## Psikometri: definisi
+
+::: {.callout-note}
+#### Definisi klasik
+Psikometri adalah cabang ilmu yang berkaitan dengan **teori dan teknik pengukuran** atribut pendidikan dan psikologis (Kline, 1986).
+:::
+
+Kline (1986) merumuskan dua peran utama psikometri:
+
+::: {.incremental}
+1. Membangun instrumen dan prosedur pengukuran psikologi
+2. Mengembangkan atau merevisi pendekatan teoretis untuk pengukuran psikologi
+:::
+
+. . .
+
+::: {.callout-tip}
+#### Standar profesional terbaru
+Standar internasional (AERA, APA, & NCME, 2014) menekankan bahwa kualitas tes tidak berhenti di alat ukurnya saja, **validitas adalah properti dari interpretasi dan penggunaan skor**, bukan cuma properti tesnya sendiri. 
+:::
+
+## Kenapa pengukuran psikologi itu sulit?
+
+::: {.incremental}
+* Atribut **fisik** (tinggi badan, berat badan) → langsung teramati, alat ukur baku (meteran, timbangan).
+* Atribut **psikologis** (inteligensi, agresivitas, neurotisisme) → **laten**, abstrak, hanya bisa disimpulkan dari sampel perilaku.
+:::
+
+. . .
+
+::: {.callout-important}
+#### Implikasinya
+Karena atributnya laten, **tidak ada tes yang mengukur secara sempurna**. Setiap tes adalah *sampel perilaku* yang kita generalisasikan ke konstrak yang lebih luas. Ini adalah alasan mengapa validitas dan reliabilitas selalu jadi isu sentral pengukuran psikologi.
+:::
+
+# Istilah yang sering tumpang-tindih dan tertukar {background-color="#14497F" .center}
+
+## Tes, skala, inventori, angket
+
+| Istilah | Definisi singkat |
+|---|---|
+| **Tes** | Pengukuran objektif dan standar terhadap sampel perilaku (Anastasi & Urbina, 1997) |
+| **Skala** | Instrumen untuk mengidentifikasi konstrak/atribut psikologis, biasanya non-kognitif |
+| **Inventori** | Alat untuk menaksir dan menilai tingkah laku, minat, atau preferensi |
+| **Angket/Kuesioner** | Sekumpulan pertanyaan mengenai suatu topik, jawaban berdasarkan *self-report* partisipan |
+
+. . .
+
+::: {.callout-tip}
+#### Aturan yang kita gunakan sepanjang semester
+Kalau ada jawaban **benar-salah** yang bisa dinilai objektif dari performa → ini adalah **tes**. Kalau yang diukur kecenderungan atau preferensi tanpa jawaban benar-salah → biasanya **skala** atau **inventori**.
+:::
+
+# Ranah atribut yang diukur {background-color="#14497F" .center}
+
+## Dari atribut fisik ke atribut psikologis
+
+::: {.incremental}
+* Atribut terbagi dua: **fisik** (tinggi, berat) dan **non-fisik/psikologis**.
+* Atribut psikologis sendiri terbagi dua: **kognitif** (potensial dan aktual) dan **non-kognitif** (afektif, kepribadian).
+* Mata kuliah ini berhenti di satu cabang saja: **atribut kognitif**.
+:::
+
+::: aside
+Diadaptasi dari kerangka klasifikasi Azwar (2019).
+:::
+
+# Performansi maksimal vs tipikal {background-color="#14497F" .center}
+
+## Dua cara tes mengevaluasi perilaku
+
+:::: {.columns}
+::: {.column width="50%"}
+### Performansi maksimal
+*(ability test → tes kognitif)*
+
+* Mengungkap **apa yang mampu** dilakukan seseorang, sebaik apa
+* Stimulus jelas, jawaban benar/salah
+* Skor dan waktu pengerjaan diberitahukan
+* Instruksi eksplisit: kerjakan **sebaik mungkin**
+:::
+::: {.column width="50%"}
+### Performansi tipikal
+*(personality test → non-kognitif)*
+
+* Mengungkap **kecenderungan reaksi** individu dalam situasi tertentu
+* Stimulus bisa ambigu, tidak ada jawaban benar/salah
+* Skor biasanya tidak diberitahukan
+* Instruksi implisit: jawab **sejujurnya**
+:::
+::::
+
+. . .
+
+::: {.callout-important}
+#### Kenapa ini penting bagi mata kuliah ini
+Seluruh mata kuliah ini berada di kolom kiri. Prinsip menulis item untuk performansi maksimal (ada kunci jawaban objektif) berbeda mendasar dari prinsip menulis item skala kepribadian — jangan tertukar nanti saat menulis item di Pertemuan 7.
+:::
+
+## Aktivitas: maksimal atau tipikal?
+
+Klasifikasikan tiga contoh berikut:
+
+::: {.incremental}
+1. *"Seberapa cepat Anda bisa menemukan pola berikutnya dalam deret angka ini?"*
+2. *"Seberapa sering Anda merasa cemas sebelum ujian?"*
+3. *"Pilih sinonim yang paling tepat untuk kata berikut, dalam waktu 30 detik."*
+:::
+
+. . .
+
+::: {.callout-tip}
+#### Kunci
+(1) dan (3) = performansi **maksimal** (ada jawaban benar, ada batas waktu, mengukur kemampuan). (2) = performansi **tipikal** (mengukur kecenderungan/frekuensi perasaan, tak ada jawaban benar-salah).
+:::
+
+# Sejarah singkat: 3️⃣ tradisi tes kognitif {background-color="#14497F" .center}
+
+## Tradisi 1️⃣: tes inteligensi
+
+::: {.incremental}
+* **1905, Prancis** — Alfred Binet dan Théodore Simon menyusun tes formal pertama untuk mengidentifikasi anak sekolah yang butuh bantuan belajar khusus ([Binet & Simon, 1905](https://psycnet.apa.org/record/2006-10213-047)).
+* **1916, Amerika Serikat** — Lewis Terman mengadaptasinya menjadi Stanford-Binet dan memperkenalkan gagasan *intelligence quotient* (IQ) ([Terman, 1916](https://www.brown.uk.com/teaching/socialpolicy/terman.pdf)).
+* Tradisi ini berfokus pada **kapasitas umum**: seberapa baik seseorang menyelesaikan masalah dan beradaptasi pada situasi baru.
+* Perlu Anda ketahui, bahwa sejarah awal perkembangan tes intelegensi sangat dipengaruhi oleh [pandangan *eugenics*](https://www.genome.gov/about-genomics/fact-sheets/Eugenics-and-Scientific-Racism).
+  + Terman sendiri diketahui [mendukung infertilisasi individu](https://stanfordmag.org/contents/the-vexing-legacy-of-lewis-terman) yang dianggap inferior secara kognitif.
+:::
+
+## Tradisi 2️⃣: tes bakat/potensi
+
+::: {.incremental}
+* **1917–1918** — Angkatan Darat AS menyusun *Army Alpha* (verbal) dan *Army Beta* (non-verbal) untuk menyeleksi dan menempatkan jutaan rekrutan Perang Dunia I secara massal ([Yoakum & Yerkes, 1920](https://psycnet.apa.org/record/2006-05095-005)).
+* Ini salah satu penerapan tes kognitif berskala besar pertama di luar konteks pendidikan — cikal bakal tes seleksi kerja modern.
+:::
+
+. . .
+
+::: {.callout-warning}
+#### Warisan yang tidak netral
+Hasil tes Angkatan Darat kemudian **disalahgunakan** oleh [Carl Brigham (1923)](https://www.pbs.org/wgbh/pages/frontline/shows/sats/where/three.html) untuk mendukung kebijakan imigrasi yang diskriminatif terhadap kelompok etnis tertentu. Tetapi, kesimpulan ini belakangan ditarik kembali oleh Brigham sendiri. Ini alasan mengapa Kode Etik Psikologi Indonesia yang akan kita bahas nanti membatasi ketat siapa yang boleh memakai tes psikologi.
+:::
+
+## Tradisi 3️⃣: tes prestasi
+
+::: {.incremental}
+* Berakar dari tradisi ujian kelas dan ujian sekolah, yang jauh lebih awal secara praktik, tapi lebih lambat diformalkan sebagai bidang psikometri tersendiri.
+* Contoh menarik tentang tipisnya batas prestasi vs. bakat: *Scholastic **Aptitude** Test* (SAT) di AS, yang diklaim mengukur potensi akademik bebas dari pengaruh pembelajaran sekolah, akhirnya **mengganti namanya** pada 1993 karena skornya terbukti sangat terpengaruh oleh apa yang **sudah dipelajari** oleh siswa di sekolah.
+:::
+
+. . .
+
+::: {.callout-note}
+#### Kenapa anekdot SAT ini relevan
+Ini bukti nyata bahwa membedakan "tes prestasi" dari "tes bakat/potensi" bukan cuma latihan definisi di kelas. Bahkan tes berskala nasional pun bisa salah label selama puluhan tahun.
+:::
+
+::: aside
+Untuk sejarah pengukuran psikologi yang lebih lengkap, lihat [DuBois (1970)](https://openlibrary.org/books/OL4450923M/A_history_of_psychological_testing).
+:::
+
+# 3️⃣ jenis utama tes kognitif {background-color="#14497F" .center}
+
+## Inteligensi, bakat/potensi, prestasi
+
+| Jenis | Mengukur | Sifat | Contoh pertanyaan riset |
+|---|---|---|---|
+| **Tes inteligensi** | Potensi umum menyelesaikan masalah, beradaptasi pada situasi baru | Relatif stabil lintas waktu dan konteks | "Seberapa besar kapasitas belajar umum siswa ini?" |
+| **Tes bakat/potensi** *(aptitude)* | Kapasitas mempelajari keterampilan **spesifik** di masa depan | Prediktif — dinilai dari kemampuannya memprediksi performa mendatang | "Apakah kandidat ini berpotensi jadi programmer yang baik?" |
+| **Tes prestasi** *(achievement)* | Apa yang **sudah dipelajari/dikuasai** saat ini | Retrospektif — dinilai dari kesesuaiannya dengan konten yang diajarkan | "Seberapa jauh siswa menguasai materi Bab 3?" |
+
+::: aside
+Bakat menaksir *kapasitas untuk belajar* (*future potential*); prestasi menaksir *apa yang telah dipelajari* (*prior activity*) (Anastasi & Urbina, 1997; Azwar, 1987). Ketiganya dibahas mendalam di Pertemuan 4–6.
+:::
+
+## Contoh instrumen terpublikasi
+
+:::: {.columns}
+::: {.column width="33%"}
+**Inteligensi**
+
+* Stanford-Binet
+* WAIS / WISC
+* TIKI
+* CFIT
+:::
+::: {.column width="33%"}
+**Bakat/Potensi**
+
+* Differential Aptitude Test
+* General Aptitude Test Battery
+* Flanagan Aptitude Classification Test
+:::
+::: {.column width="33%"}
+**Prestasi**
+
+* Ujian sekolah/ANBK
+* Tes hasil belajar buatan guru
+* Tes penempatan (*placement test*)
+:::
+::::
+
+. . .
+
+::: {.callout-important}
+#### Catatan etis
+Sebagian besar instrumen di atas adalah **tes psikologi berlisensi komersial dan terbatas penggunaannya**. Kita hanya membahas *cara kerja* dan *prinsipnya*.
+:::
+
+## Ilustrasi: seperti apa butir performansi maksimal?
+
+Contoh butir non-verbal **orisinal** (bukan dari tes manapun) — pola macam apa yang mengisi sel bertanda tanya?
+
+| | | |
+|:-:|:-:|:-:|
+| ● | ● ● | ● ● ● |
+| ● ● | ● ● ● | ● ● ● ● |
+| ● ● ● | ● ● ● ● | **?** |
+
+A) ● ● ●　B) ● ● ● ●　C) ● ● ● ● ●　D) ● ● ● ● ● ●
+
+. . .
+
+::: {.callout-tip}
+#### Kenapa ini contoh performansi maksimal
+Ada aturan logis (jumlah titik = nomor baris + nomor kolom − 1), jawaban objektif benar (**C**), stimulus jelas, dan tidak butuh bahasa — ciri khas butir *ability test* non-verbal, cocok mengukur penalaran yang relatif bebas budaya.
+:::
+
+# Klasifikasi menurut Kode Etik {background-color="#14497F" .center}
+
+## Tes psikologi dan kewenangan penggunaan
+
+Di Indonesia, tes psikologi **tidak bebas dipakai siapa saja**. Kode Etik Psikologi Indonesia (HIMPSI, 2010) membaginya menjadi 4 kategori, berdasarkan kualifikasi yang dibutuhkan untuk mengadministrasikan, menginterpretasikan, dan melaporkan hasilnya:
+
+::: {.incremental}
+* **Kategori A** — tidak bersifat klinis, tidak butuh keahlian khusus. Bisa diadministrasikan peneliti, mahasiswa, pendidik, staf perusahaan.
+* **Kategori B** — tidak bersifat klinis, tapi butuh pengetahuan dan keahlian dalam administrasi/interpretasi.
+* **Kategori C** — butuh pengetahuan konstruksi tes dan prosedur, didukung latar belakang statistik dan perbedaan individu; interpretasi hanya oleh yang menguasai teori tes terkait.
+* **Kategori D** — tingkat tertinggi; instrumen klinis kompleks yang menuntut pendidikan spesialisasi psikologi.
+:::
+
+. . .
+
+::: {.callout-important}
+#### Relevansi untuk CPL mata kuliah ini
+CPL mata kuliah ini secara eksplisit menyebut kewenangan atas **tes kategori A dan B**. Ini adalah batas etis tentang tes seperti apa yang boleh Anda susun dan gunakan sebagai calon sarjana psikologi.
+:::
+
+# Mengapa tes kognitif penting {background-color="#14497F" .center}
+
+## Di luar ruang kelas
+
+::: {.incremental}
+* **Pendidikan** — seleksi, penempatan, identifikasi kebutuhan belajar khusus
+* **Klinis** — asesmen kapasitas kognitif dalam konteks diagnostik
+* **Organisasi dan industri** — seleksi dan penempatan karyawan berbasis kemampuan kognitif
+* **Penelitian** — variabel kognitif sebagai prediktor, mediator, atau *outcome* dalam studi psikologi
+:::
+
+## Aktivitas: menemukan tes kognitif dalam riset
+
+Bayangkan sebuah abstrak jurnal menyebutkan:
+
+> *"...partisipan mengerjakan asesmen kemampuan penalaran non-verbal berbatas waktu untuk mengontrol variasi kemampuan kognitif umum sebelum manipulasi eksperimen dilakukan..."*
+
+::: {.incremental}
+* Apakah ini tes inteligensi, bakat, atau prestasi? Mengapa?
+* Fungsi apa yang dimainkan tes kognitif ini dalam desain penelitian tersebut — variabel kontrol, prediktor, atau *outcome*?
+:::
+
+. . .
+
+::: {.callout-note}
+#### Ini latihan untuk Tugas 1
+Di Minggu 6, Anda akan me-*review* 3 artikel jurnal asli yang menggunakan tes kognitif. Latihan identifikasi seperti ini adalah keterampilan inti yang dinilai di tugas tersebut.
+:::
+
+## Ringkasan
+
+::: {.incremental}
+1. **Psikometri** adalah teori dan teknik pengukuran atribut psikologis; tes kognitif salah satu wilayahnya.
+2. **Tes, skala, inventori, angket** berbeda pada objektivitas dan ada-tidaknya jawaban benar-salah.
+3. Atribut kognitif diukur lewat **performansi maksimal**, bukan tipikal.
+4. Tiga jenis tes kognitif — **inteligensi, bakat/potensi, prestasi** — lahir dari tiga tradisi sejarah berbeda dan mengukur hal yang berbeda pula.
+5. Penggunaan tes psikologi di Indonesia terikat **Kode Etik HIMPSI** (kategori A–D).
+:::
+
+## Untuk Pertemuan 2
+
+::: {.callout-tip}
+#### Selanjutnya: tahap penyusunan tes kognitif
+Kalau hari ini kita bicara **apa itu** tes kognitif, Pertemuan 2 membahas **bagaimana** menyusunnya. Kita mulai dari analisis kebutuhan, definisi konstrak, sampai *blueprint* awal. Ini akan menjadi fondasi untuk proyek kelompok Anda di Pertemuan 9–15.
+:::
+
+## Ada pertanyaan❓
+
+![](libs/closing.JPG){fig-align="center"}
+
+::: {.callout-note}
+### Catatan
+
+* Paparan disusun dengan menggunakan {{< fa brands r-project >}} dan [**Quarto**](https://quarto.org) dengan *template* dari [UNAIR Theme](https://github.com/rameliaz/quarto-unair-theme).
+* Kontak saya via <i class="fas fa-paper-plane"></i> <a href="mailto:amelia.zein@psikologi.unair.ac.id">amelia.zein@psikologi.unair.ac.id</a>
+:::
+
+## Rujukan {.scrollable}
+
+AERA, APA, & NCME. (2014). *Standards for educational and psychological testing*. American Educational Research Association.
+
+Anastasi, A., & Urbina, S. (1997). *Psychological testing* (7th ed.). Prentice Hall.
+
+Anastasi, A., & Urbina, S. (2016). *Tes psikologi* (Edisi ke-7). PT Indeks.
+
+Azwar, S. (1987). *Tes prestasi: Fungsi dan pengembangan pengukuran prestasi belajar*. Liberty.
+
+Azwar, S. (2019). *Konstruksi tes: Kemampuan kognitif*. Pustaka Pelajar.
+
+Binet, A., & Simon, T. (1905). Méthode nouvelle pour le diagnostic du niveau intellectuel des anormaux. *L'Année Psychologique, 11*, 191–244.
+
+Brigham, C. C. (1923). *A study of American intelligence*. Princeton University Press.
+
+DuBois, P. H. (1970). *A history of psychological testing*. Allyn & Bacon.
+
+Himpunan Psikologi Indonesia (HIMPSI). (2010). *Kode etik psikologi Indonesia*.
+
+Kline, P. (1986). *A handbook of test construction: Introduction to psychometric design*. Methuen.
+
+Terman, L. M. (1916). *The measurement of intelligence*. Houghton Mifflin.
+
+Yoakum, C. S., & Yerkes, R. M. (1920). *Army mental tests*. Henry Holt.

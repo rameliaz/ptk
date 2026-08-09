@@ -1,0 +1,891 @@
+[
+  {
+    "objectID": "slides/pertemuan3.html#outline",
+    "href": "slides/pertemuan3.html#outline",
+    "title": "Taksonomi dan Tujuan Instruksional",
+    "section": "Outline",
+    "text": "Outline\n\nDua rumusan tujuan pembelajaran\nDefinisi taksonomi dan tujuan instruksional\nTaksonomi Bloom dan revisinya\nEnam level proses kognitif\nDimensi pengetahuan\nTabel dua dimensi dan kaitannya dengan blueprint\nMerumuskan tujuan instruksional\nKata kerja yang tidak dapat diamati\nAktivitas: mengklasifikasikan tujuan instruksional\n\n\n\nDisclosure penggunaan akal imitasi (AI)\nSaya menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk brainstorming materi, mencari referensi, dan melakukan troubleshooting kode quarto dan git. Saya bertanggung jawab penuh atas substansi dan penyajian presentasi ini."
+  },
+  {
+    "objectID": "slides/pertemuan3.html#bandingkan-keduanya",
+    "href": "slides/pertemuan3.html#bandingkan-keduanya",
+    "title": "Taksonomi dan Tujuan Instruksional",
+    "section": "Bandingkan keduanya",
+    "text": "Bandingkan keduanya\n\n“Siswa memahami konsep pecahan.”\n“Siswa dapat menghitung hasil penjumlahan dua pecahan berpenyebut berbeda.”\n\n\n\n\n\n\n\n\nPerbedaannya\n\n\nRumusan pertama tidak menyebutkan perilaku yang bisa diamati. “Memahami” bisa berarti apa saja, dan tidak ada cara langsung untuk menilai apakah tujuan itu tercapai. Rumusan kedua menyebutkan perilaku spesifik yang bisa diukur dengan satu butir soal.\n\n\n\nRumusan kedua bisa langsung diturunkan menjadi item tes. Rumusan pertama tidak bisa, sebelum diterjemahkan dulu ke bentuk yang lebih spesifik."
+  },
+  {
+    "objectID": "slides/pertemuan3.html#taksonomi-dan-tujuan-instruksional",
+    "href": "slides/pertemuan3.html#taksonomi-dan-tujuan-instruksional",
+    "title": "Taksonomi dan Tujuan Instruksional",
+    "section": "Taksonomi dan tujuan instruksional",
+    "text": "Taksonomi dan tujuan instruksional\n\n\n\n\n\n\nTaksonomi\n\n\nSistem klasifikasi yang menyusun kategori secara berjenjang, dari yang paling sederhana ke yang paling kompleks.\n\n\n\n\n\n\n\n\n\nTujuan instruksional\n\n\nPernyataan tentang apa yang diharapkan mampu dilakukan peserta didik setelah proses pembelajaran, dirumuskan dalam bentuk perilaku yang dapat diamati dan diukur.\n\n\n\n\nKedua konsep ini terhubung: taksonomi menyediakan kosakata dan struktur untuk merumuskan tujuan instruksional pada level kompleksitas kognitif yang tepat."
+  },
+  {
+    "objectID": "slides/pertemuan3.html#taksonomi-bloom-1956",
+    "href": "slides/pertemuan3.html#taksonomi-bloom-1956",
+    "title": "Taksonomi dan Tujuan Instruksional",
+    "section": "Taksonomi Bloom (1956)",
+    "text": "Taksonomi Bloom (1956)\n\nBenjamin Bloom dan koleganya menyusun Taxonomy of Educational Objectives: Handbook I, Cognitive Domain (Bloom dkk., 1956).\nEnam kategori, berupa kata benda, disusun berjenjang: Pengetahuan, Pemahaman, Aplikasi, Analisis, Sintesis, Evaluasi.\nSetiap level dianggap mencakup dan membutuhkan level di bawahnya.\n\n\n\nTaksonomi ini menjadi acuan standar dalam merancang tujuan pembelajaran dan tes hasil belajar selama lebih dari empat dekade."
+  },
+  {
+    "objectID": "slides/pertemuan3.html#revisi-tahun-2001",
+    "href": "slides/pertemuan3.html#revisi-tahun-2001",
+    "title": "Taksonomi dan Tujuan Instruksional",
+    "section": "Revisi tahun 2001",
+    "text": "Revisi tahun 2001\n\nAnderson dan Krathwohl (2001) merevisi taksonomi ini bersama sekelompok peneliti pendidikan, kognisi, kurikulum, dan pengukuran.\nKrathwohl (2002) menuliskan ringkasan revisi ini, yang menjadi bacaan wajib pertemuan ini.\nCek versi singkatnya di sini.\n\n\n\n\n\n\n\n\nDua perubahan utama\n\n\n\nKategori diubah dari kata benda menjadi kata kerja (misalnya “Pengetahuan” menjadi “Mengingat”) untuk menekankan bahwa taksonomi ini menggambarkan proses kognitif, bukan sekadar isi materi.\nUrutan dua level tertinggi ditukar: Sintesis (level 5 di taksonomi lama) menjadi Mencipta (level 6, tertinggi). Alasannya, mencipta sesuatu yang baru membutuhkan evaluasi sebagai salah satu prosesnya.\nDitambahkan dimensi kedua: dimensi pengetahuan, terpisah dari dimensi proses kognitif."
+  },
+  {
+    "objectID": "slides/pertemuan3.html#level-yang-lebih-dasar",
+    "href": "slides/pertemuan3.html#level-yang-lebih-dasar",
+    "title": "Taksonomi dan Tujuan Instruksional",
+    "section": "Level yang lebih dasar",
+    "text": "Level yang lebih dasar\n\n\n\n\n\n\n\n\nLevel\nDefinisi\nContoh kata kerja\n\n\n\n\nMengingat\nMengenali atau memanggil kembali informasi\nmengidentifikasi, menyebutkan, mendaftar\n\n\nMemahami\nMenjelaskan makna dari informasi\nmenjelaskan, membandingkan, meringkas\n\n\nMenerapkan\nMenggunakan prosedur pada situasi baru\nmenghitung, menerapkan, mendemonstrasikan\n\n\n\n\n\nKrathwohl (2002)."
+  },
+  {
+    "objectID": "slides/pertemuan3.html#level-yang-lebih-kompleks",
+    "href": "slides/pertemuan3.html#level-yang-lebih-kompleks",
+    "title": "Taksonomi dan Tujuan Instruksional",
+    "section": "Level yang lebih kompleks",
+    "text": "Level yang lebih kompleks\n\n\n\n\n\n\n\n\nLevel\nDefinisi\nContoh kata kerja\n\n\n\n\nMenganalisis\nMemecah informasi menjadi bagian dan melihat hubungan antar-bagian\nmembedakan, mengorganisasikan, menghubungkan\n\n\nMengevaluasi\nMembuat penilaian berdasarkan kriteria\nmenilai, membandingkan, memprediksi kualitas\n\n\nMencipta\nMenyusun elemen menjadi sesuatu yang baru\nmerancang, merumuskan, menghasilkan\n\n\n\n\n\nKrathwohl (2002)."
+  },
+  {
+    "objectID": "slides/pertemuan3.html#tingkatan-ini-bukan-sekadar-label-kesulitan",
+    "href": "slides/pertemuan3.html#tingkatan-ini-bukan-sekadar-label-kesulitan",
+    "title": "Taksonomi dan Tujuan Instruksional",
+    "section": "Tingkatan ini bukan sekadar label kesulitan",
+    "text": "Tingkatan ini bukan sekadar label kesulitan\n\nLevel yang lebih tinggi tidak selalu berarti soal yang “lebih sulit” secara umum, tetapi menuntut proses kognitif yang berbeda.\nItem mengingat bisa saja sulit (fakta yang jarang diketahui), dan item menganalisis bisa saja mudah (perbandingan yang sederhana).\nYang membedakan level adalah jenis proses mental yang dituntut, bukan tingkat kesulitannya."
+  },
+  {
+    "objectID": "slides/pertemuan3.html#empat-jenis-pengetahuan",
+    "href": "slides/pertemuan3.html#empat-jenis-pengetahuan",
+    "title": "Taksonomi dan Tujuan Instruksional",
+    "section": "Empat jenis pengetahuan",
+    "text": "Empat jenis pengetahuan\n\nFaktual — fakta spesifik, terminologi, detail\nKonseptual — kategori, prinsip, teori, model\nProsedural — langkah-langkah, metode, teknik, kriteria kapan menggunakan suatu prosedur\nMetakognitif — kesadaran dan pengetahuan tentang proses berpikir sendiri\n\n\n\nAnderson & Krathwohl (2001); Krathwohl (2002)."
+  },
+  {
+    "objectID": "slides/pertemuan3.html#tabel-dua-dimensi",
+    "href": "slides/pertemuan3.html#tabel-dua-dimensi",
+    "title": "Taksonomi dan Tujuan Instruksional",
+    "section": "Tabel dua dimensi",
+    "text": "Tabel dua dimensi\nTaksonomi revisi menyilangkan dimensi proses kognitif dengan dimensi pengetahuan, menghasilkan tabel 6×4. Setiap sel adalah kombinasi yang mungkin diukur; tanda centang berikut menandai satu contoh kombinasi untuk tiap jenis pengetahuan:\n\n\n\n\n\n\n\n\n\n\n\n\n\nMengingat\nMemahami\nMenerapkan\nMenganalisis\nMengevaluasi\nMencipta\n\n\n\n\nFaktual\n✓\n\n\n\n\n\n\n\nKonseptual\n\n✓\n\n\n\n\n\n\nProsedural\n\n\n✓\n\n\n\n\n\nMetakognitif\n\n\n\n\n\n✓\n\n\n\n\n\n\n\n\n\n\nKaitan dengan blueprint\n\n\nPertemuan 2 menyebutkan bahwa blueprint menyilangkan domain isi dengan level kognitif. Tabel ini adalah alat yang dipakai untuk menentukan sel mana yang relevan diisi, dan berapa proporsi itemnya, sesuai konstruk yang diukur."
+  },
+  {
+    "objectID": "slides/pertemuan3.html#komponen-abcd",
+    "href": "slides/pertemuan3.html#komponen-abcd",
+    "title": "Taksonomi dan Tujuan Instruksional",
+    "section": "Komponen ABCD",
+    "text": "Komponen ABCD\nMager (1962) mengusulkan rumusan tujuan instruksional dengan tiga komponen inti: Behavior, Condition, Degree. Komponen Audience baru ditambahkan belakangan oleh penulis desain instruksional lain (bukan oleh Mager sendiri), sehingga membentuk kerangka ABCD yang lebih dikenal luas saat ini:\n\n\n\n\n\n\n\n\nKomponen\nPertanyaan\nContoh\n\n\n\n\nAudience\nSiapa yang belajar?\nMahasiswa semester 5\n\n\nBehavior\nPerilaku apa yang diharapkan, dalam kata kerja yang bisa diamati?\ndapat menghitung\n\n\nCondition\nDalam kondisi/dengan alat bantu apa?\ntanpa kalkulator, dalam waktu 2 menit\n\n\nDegree\nSeberapa baik/berapa kriteria keberhasilannya?\ndengan tingkat ketepatan minimal 80%\n\n\n\n\n\n\n\n\n\n\nContoh gabungan\n\n\n“Mahasiswa semester 5 (A) dapat menghitung hasil penjumlahan dua pecahan berpenyebut berbeda (B) tanpa kalkulator (C) dengan tingkat ketepatan minimal 80% (D).”"
+  },
+  {
+    "objectID": "slides/pertemuan3.html#perhatikan-kata-kerja-dalam-rumusan-tujuan",
+    "href": "slides/pertemuan3.html#perhatikan-kata-kerja-dalam-rumusan-tujuan",
+    "title": "Taksonomi dan Tujuan Instruksional",
+    "section": "Perhatikan kata kerja dalam rumusan tujuan",
+    "text": "Perhatikan kata kerja dalam rumusan tujuan\n\nKata kerja seperti “memahami”, “mengetahui”, “menyadari”, atau “menghargai” menggambarkan keadaan internal, bukan perilaku yang dapat diamati secara langsung.\nIni berlaku juga untuk nama level taksonomi itu sendiri — “Memahami” adalah nama kategori, bukan kata kerja operasional yang siap dipakai dalam rumusan tujuan.\nUntuk merumuskan tujuan yang bisa diukur, kata kerja dalam kategori “Memahami” perlu diterjemahkan menjadi kata kerja operasional seperti “menjelaskan”, “membandingkan”, atau “menyimpulkan”.\n\n\n\n\n\n\n\n\nRelevansi untuk penyusunan tes\n\n\nTujuan instruksional yang tidak memakai kata kerja operasional sulit diterjemahkan langsung menjadi item tes. Ini alasan mengapa daftar kata kerja pada tabel taksonomi (bukan nama levelnya) menjadi acuan praktis saat menulis tujuan maupun butir soal."
+  },
+  {
+    "objectID": "slides/pertemuan3.html#aktivitas-mengklasifikasikan-tujuan-instruksional",
+    "href": "slides/pertemuan3.html#aktivitas-mengklasifikasikan-tujuan-instruksional",
+    "title": "Taksonomi dan Tujuan Instruksional",
+    "section": "Aktivitas: mengklasifikasikan tujuan instruksional",
+    "text": "Aktivitas: mengklasifikasikan tujuan instruksional\nKlasifikasikan masing-masing rumusan berikut ke salah satu dari enam level proses kognitif:\n\n“Mahasiswa dapat menyebutkan tiga jenis tes kognitif.”\n“Mahasiswa dapat membandingkan tes prestasi dan tes potensi berdasarkan orientasi waktunya.”\n“Mahasiswa dapat menyusun blueprint tes untuk konstrak yang ditentukan.”\n\n\n\n\n\n\n\n\nKunci\n\n\n\nMengingat — memanggil kembali informasi. (2) Menganalisis — meski “membandingkan” juga muncul sebagai contoh kata kerja di tabel Memahami dan Mengevaluasi, proses yang dituntut di sini (membedah dua konsep berdasarkan kriteria tertentu) lebih tepat masuk Menganalisis. Kata kerja yang sama bisa berada di level berbeda, tergantung proses kognitif yang sebenarnya dituntut — bukan sekadar kata kerjanya. (3) Mencipta — menyusun elemen (proporsi, item, format) menjadi produk baru."
+  },
+  {
+    "objectID": "slides/pertemuan3.html#ringkasan",
+    "href": "slides/pertemuan3.html#ringkasan",
+    "title": "Taksonomi dan Tujuan Instruksional",
+    "section": "Ringkasan",
+    "text": "Ringkasan\n\nTaksonomi adalah sistem klasifikasi berjenjang; tujuan instruksional adalah pernyataan perilaku terukur yang menjadi target pembelajaran.\nTaksonomi Bloom (1956) memakai enam kategori berupa kata benda; revisi Anderson & Krathwohl (2001) mengubahnya menjadi kata kerja dan menukar urutan dua level tertinggi.\nRevisi ini menambahkan dimensi pengetahuan (faktual, konseptual, prosedural, metakognitif), membentuk tabel dua dimensi bersama proses kognitif.\nTabel dua dimensi ini adalah alat yang dipakai saat menyusun blueprint di Pertemuan 2 dan proyek Anda.\nTujuan instruksional yang terukur dirumuskan dengan kata kerja operasional (model ABCD, berakar dari Behavior-Condition-Degree Mager, 1962), bukan kata kerja yang menggambarkan keadaan internal."
+  },
+  {
+    "objectID": "slides/pertemuan3.html#untuk-pertemuan-4",
+    "href": "slides/pertemuan3.html#untuk-pertemuan-4",
+    "title": "Taksonomi dan Tujuan Instruksional",
+    "section": "Untuk Pertemuan 4",
+    "text": "Untuk Pertemuan 4\n\n\n\n\n\n\nSelanjutnya: tes prestasi\n\n\nPertemuan 4 menerapkan taksonomi ini secara langsung pada tes prestasi, yaitu jenis tes kognitif yang paling erat kaitannya dengan tujuan instruksional dan materi pembelajaran tertentu."
+  },
+  {
+    "objectID": "slides/pertemuan3.html#ada-pertanyaan",
+    "href": "slides/pertemuan3.html#ada-pertanyaan",
+    "title": "Taksonomi dan Tujuan Instruksional",
+    "section": "Ada pertanyaan❓",
+    "text": "Ada pertanyaan❓\n\n\n\n\n\n\n\nCatatan\n\n\n\nPaparan disusun dengan menggunakan  dan Quarto dengan template dari UNAIR Theme.\nKontak saya via  amelia.zein@psikologi.unair.ac.id"
+  },
+  {
+    "objectID": "slides/pertemuan3.html#rujukan",
+    "href": "slides/pertemuan3.html#rujukan",
+    "title": "Taksonomi dan Tujuan Instruksional",
+    "section": "Rujukan",
+    "text": "Rujukan\nAnderson, L. W., & Krathwohl, D. R. (Eds.). (2001). A taxonomy for learning, teaching, and assessing: A revision of Bloom’s taxonomy of educational objectives. Longman.\nBloom, B. S., Engelhart, M. D., Furst, E. J., Hill, W. H., & Krathwohl, D. R. (1956). Taxonomy of educational objectives: The classification of educational goals. Handbook I, Cognitive domain. David McKay Company.\nKrathwohl, D. R. (2002). A revision of Bloom’s taxonomy: An overview. Theory Into Practice, 41(4), 212–218. https://www.jstor.org/stable/1477405?seq=1\nMager, R. F. (1962). Preparing instructional objectives. Fearon Publishers."
+  },
+  {
+    "objectID": "slides/pertemuan4.html#outline",
+    "href": "slides/pertemuan4.html#outline",
+    "title": "Pengertian dan Tujuan Tes Prestasi",
+    "section": "Outline",
+    "text": "Outline\n\nTes prestasi dalam kehidupan sehari-hari\nDefinisi dan tujuan tes prestasi\nEmpat jenis tes prestasi berdasarkan fungsi\nPrinsip dasar penyusunan tes prestasi\nDari tahap umum ke tahap khusus tes prestasi\nTIU dan TIK\nTabel spesifikasi tes prestasi\nBentuk item: objektif atau uraian\nAktivitas: mengidentifikasi jenis tes prestasi\n\n\n\nDisclosure penggunaan akal imitasi (AI)\nSaya menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk brainstorming materi, mencari referensi, dan melakukan troubleshooting kode quarto dan git. Saya bertanggung jawab penuh atas substansi dan penyajian presentasi ini."
+  },
+  {
+    "objectID": "slides/pertemuan4.html#contoh-yang-sudah-anda-kenal",
+    "href": "slides/pertemuan4.html#contoh-yang-sudah-anda-kenal",
+    "title": "Pengertian dan Tujuan Tes Prestasi",
+    "section": "Contoh yang sudah Anda kenal",
+    "text": "Contoh yang sudah Anda kenal\n\nUlangan harian dan ujian akhir semester di sekolah\nUjian sertifikasi kompetensi kerja\nTes penempatan kursus bahasa asing\nUjian praktik mengemudi\n\n\nSemua ini termasuk tes prestasi karena mengukur apa yang sudah dipelajari atau dikuasai seseorang, sesuai definisi yang diperkenalkan di Pertemuan 1."
+  },
+  {
+    "objectID": "slides/pertemuan4.html#definisi-tes-prestasi",
+    "href": "slides/pertemuan4.html#definisi-tes-prestasi",
+    "title": "Pengertian dan Tujuan Tes Prestasi",
+    "section": "Definisi tes prestasi",
+    "text": "Definisi tes prestasi\n\n\n\n\n\n\nDefinisi\n\n\nTes prestasi adalah alat ukur yang dirancang untuk mengukur hasil belajar seseorang setelah mengikuti suatu proses pembelajaran atau pelatihan tertentu (Azwar, 1987).\n\n\n\nBerbeda dengan tes inteligensi atau tes bakat, tes prestasi terikat pada materi atau tujuan pembelajaran tertentu. Hasil tes prestasi, oleh karena itu, hanya bisa diinterpretasikan dalam kaitannya dengan materi yang diajarkan."
+  },
+  {
+    "objectID": "slides/pertemuan4.html#tujuan-tes-prestasi",
+    "href": "slides/pertemuan4.html#tujuan-tes-prestasi",
+    "title": "Pengertian dan Tujuan Tes Prestasi",
+    "section": "Tujuan tes prestasi",
+    "text": "Tujuan tes prestasi\n\nMengukur sejauh mana tujuan pembelajaran tercapai\nMemberikan umpan balik kepada pengajar dan peserta didik\nMenjadi dasar pengambilan keputusan: kelulusan, penempatan, kenaikan tingkat\nMengidentifikasi bagian materi yang belum dikuasai\n\n\n\nAzwar (1987); Anastasi & Urbina (1997)."
+  },
+  {
+    "objectID": "slides/pertemuan4.html#placement-formatif-diagnostik-sumatif",
+    "href": "slides/pertemuan4.html#placement-formatif-diagnostik-sumatif",
+    "title": "Pengertian dan Tujuan Tes Prestasi",
+    "section": "Placement, formatif, diagnostik, sumatif",
+    "text": "Placement, formatif, diagnostik, sumatif\n\n\n\n\n\n\n\n\nJenis\nFungsi\nCiri item\n\n\n\n\nPlacement\nMenentukan kesiapan mengikuti suatu program\nItem mudah, mencakup prasyarat program\n\n\nFormatif\nMemberikan umpan balik selama proses pembelajaran berlangsung\nDisesuaikan dengan tiap unit pengajaran\n\n\nDiagnostik\nMencari sumber kesulitan belajar\nItem mudah, difokuskan pada sumber kesulitan yang umum terjadi\n\n\nSumatif\nMenentukan peringkat atau kelulusan pada akhir program\nRentang tingkat kesulitan luas, mewakili keseluruhan materi\n\n\n\n\n\nDiadaptasi dari tradisi evaluasi formatif dan sumatif (Bloom, Hastings, & Madaus, 1971) serta perluasannya ke evaluasi diagnostik dan penempatan dalam literatur evaluasi pendidikan terkait."
+  },
+  {
+    "objectID": "slides/pertemuan4.html#kenapa-perbedaan-ini-relevan",
+    "href": "slides/pertemuan4.html#kenapa-perbedaan-ini-relevan",
+    "title": "Pengertian dan Tujuan Tes Prestasi",
+    "section": "Kenapa perbedaan ini relevan",
+    "text": "Kenapa perbedaan ini relevan\n\nKeempatnya sama-sama tes prestasi, tetapi tujuan pengukurannya berbeda, sehingga cakupan materi dan tingkat kesulitan itemnya juga berbeda.\nTes formatif yang dipakai seolah-olah tes sumatif (atau sebaliknya) bisa menghasilkan kesimpulan yang tidak sesuai dengan tujuannya."
+  },
+  {
+    "objectID": "slides/pertemuan4.html#lima-prinsip",
+    "href": "slides/pertemuan4.html#lima-prinsip",
+    "title": "Pengertian dan Tujuan Tes Prestasi",
+    "section": "Lima prinsip",
+    "text": "Lima prinsip\n\nMengukur hasil belajar sesuai tujuan pembelajaran yang telah ditetapkan.\nMengukur sampel materi yang representatif terhadap keseluruhan materi yang diajarkan.\nMemilih bentuk item yang paling sesuai untuk mengukur hasil belajar yang dituju.\nDirancang sesuai dengan jenis dan fungsinya (placement, formatif, diagnostik, atau sumatif).\nMemiliki reliabilitas yang memadai untuk fungsi pengambilan keputusan yang dituju.\n\n\n\nDiadaptasi dari Azwar (1987)."
+  },
+  {
+    "objectID": "slides/pertemuan4.html#menerapkan-tahapan-pertemuan-2-pada-tes-prestasi",
+    "href": "slides/pertemuan4.html#menerapkan-tahapan-pertemuan-2-pada-tes-prestasi",
+    "title": "Pengertian dan Tujuan Tes Prestasi",
+    "section": "Menerapkan tahapan Pertemuan 2 pada tes prestasi",
+    "text": "Menerapkan tahapan Pertemuan 2 pada tes prestasi\n\nPertemuan 2 membahas sebelas tahap penyusunan tes secara umum. Untuk tes prestasi, dua tahap awal (identifikasi tujuan, definisi konstrak) punya bentuk yang lebih spesifik.\nTahap 1 (tujuan tes) — untuk tes prestasi, berarti menentukan salah satu dari empat jenis: placement, formatif, diagnostik, atau sumatif.\nTahap 2 (definisi konstrak) — untuk tes prestasi, berarti merumuskan Tujuan Instruksional Umum (TIU) dan Tujuan Instruksional Khusus (TIK) dari materi yang diukur."
+  },
+  {
+    "objectID": "slides/pertemuan4.html#dua-tingkat-tujuan",
+    "href": "slides/pertemuan4.html#dua-tingkat-tujuan",
+    "title": "Pengertian dan Tujuan Tes Prestasi",
+    "section": "Dua tingkat tujuan",
+    "text": "Dua tingkat tujuan\n\nTIU (Tujuan Instruksional Umum) — cakupan kompetensi yang luas, misalnya “mahasiswa memahami prinsip-prinsip tes prestasi”.\nTIK (Tujuan Instruksional Khusus) — rincian TIU ke dalam perilaku yang dapat diamati dan diukur, memakai kata kerja operasional dari taksonomi yang dibahas di Pertemuan 3.\n\n\n\n\n\n\n\n\nContoh penjabaran\n\n\nTIU: “Mahasiswa memahami prinsip-prinsip tes prestasi.”\nTIK: (1) menguraikan tiap prinsip dengan kata-katanya sendiri; (2) memasangkan tiap prinsip dengan contohnya; (3) memprediksi akibat bila suatu prinsip dilanggar.\n\n\n\nSetiap TIK di atas sudah bisa langsung diterjemahkan menjadi satu atau lebih item tes."
+  },
+  {
+    "objectID": "slides/pertemuan4.html#menyilangkan-materi-dengan-level-kognitif",
+    "href": "slides/pertemuan4.html#menyilangkan-materi-dengan-level-kognitif",
+    "title": "Pengertian dan Tujuan Tes Prestasi",
+    "section": "Menyilangkan materi dengan level kognitif",
+    "text": "Menyilangkan materi dengan level kognitif\nTabel spesifikasi tes prestasi menyilangkan pokok bahasan dengan level proses kognitif (Pertemuan 3), lalu menentukan jumlah item pada tiap sel:\n\n\n\nPokok bahasan\nMengingat\nMemahami\nMenerapkan\nJumlah\n\n\n\n\nDefinisi istilah tes prestasi\n3\n2\n\n5\n\n\nPrinsip penyusunan tes prestasi\n\n4\n3\n7\n\n\nJenis tes prestasi berdasarkan fungsi\n2\n3\n2\n7\n\n\nJumlah\n5\n9\n5\n19\n\n\n\n\n\nFormat diadaptasi dari tradisi tabel spesifikasi tes prestasi (Azwar, 1987; Gronlund, 1993)."
+  },
+  {
+    "objectID": "slides/pertemuan4.html#fungsinya-sama-seperti-blueprint-di-pertemuan-2",
+    "href": "slides/pertemuan4.html#fungsinya-sama-seperti-blueprint-di-pertemuan-2",
+    "title": "Pengertian dan Tujuan Tes Prestasi",
+    "section": "Fungsinya sama seperti blueprint di Pertemuan 2",
+    "text": "Fungsinya sama seperti blueprint di Pertemuan 2\n\n\n\n\n\n\nCatatan\n\n\nTabel ini adalah bentuk konkret dari blueprint yang dibahas di Pertemuan 2, dengan dua sumbu yang sudah spesifik: pokok bahasan (dari TIU/TIK) dan level kognitif (dari taksonomi Pertemuan 3)."
+  },
+  {
+    "objectID": "slides/pertemuan4.html#dua-kategori-besar",
+    "href": "slides/pertemuan4.html#dua-kategori-besar",
+    "title": "Pengertian dan Tujuan Tes Prestasi",
+    "section": "Dua kategori besar",
+    "text": "Dua kategori besar\n\nItem objektif — pilihan ganda, benar-salah, menjodohkan, isian singkat. Penyekoran tidak bergantung pada penilaian subjektif pemeriksa.\nItem uraian — jawaban disusun sendiri oleh peserta, penyekoran memerlukan kriteria dan pertimbangan pemeriksa.\n\n\n\n\n\n\n\n\nPertimbangan memilih bentuk item\n\n\nPemilihan bentuk item bergantung pada sifat hasil belajar yang diukur. Hasil belajar yang menuntut penyusunan argumen atau penjelasan panjang lebih sesuai diukur dengan item uraian; hasil belajar berupa pengenalan fakta atau penerapan prosedur pada umumnya bisa diukur dengan item objektif secara lebih efisien.\n\n\n\n\n\n\nBentuk item dibahas lebih rinci di Pertemuan 7."
+  },
+  {
+    "objectID": "slides/pertemuan4.html#aktivitas-mengidentifikasi-jenis-tes-prestasi",
+    "href": "slides/pertemuan4.html#aktivitas-mengidentifikasi-jenis-tes-prestasi",
+    "title": "Pengertian dan Tujuan Tes Prestasi",
+    "section": "Aktivitas: mengidentifikasi jenis tes prestasi",
+    "text": "Aktivitas: mengidentifikasi jenis tes prestasi\nUntuk tiap situasi berikut, tentukan apakah tesnya berfungsi sebagai placement, formatif, diagnostik, atau sumatif:\n\nTes di awal semester untuk menentukan kelas bahasa Inggris peserta (dasar, menengah, atau lanjutan).\nKuis singkat di akhir tiap pertemuan kuliah.\nUjian akhir semester yang menentukan nilai mata kuliah.\nTes yang diberikan kepada mahasiswa yang berulang kali salah pada topik yang sama, untuk mencari bagian mana yang belum dikuasai.\n\n\n\n\n\n\n\n\nKunci\n\n\n\nPlacement. (2) Formatif. (3) Sumatif. (4) Diagnostik."
+  },
+  {
+    "objectID": "slides/pertemuan4.html#ringkasan",
+    "href": "slides/pertemuan4.html#ringkasan",
+    "title": "Pengertian dan Tujuan Tes Prestasi",
+    "section": "Ringkasan",
+    "text": "Ringkasan\n\nTes prestasi mengukur hasil belajar dan terikat pada materi atau tujuan pembelajaran tertentu (Azwar, 1987).\nAda empat jenis tes prestasi berdasarkan fungsinya: placement, formatif, diagnostik, sumatif — masing-masing dengan cakupan materi dan tingkat kesulitan yang berbeda.\nTahap “tujuan tes” dan “definisi konstrak” dari Pertemuan 2 diwujudkan pada tes prestasi sebagai penentuan jenis tes dan perumusan TIU/TIK.\nTabel spesifikasi tes prestasi adalah blueprint yang menyilangkan pokok bahasan dengan level kognitif dari Pertemuan 3.\nPemilihan bentuk item (objektif atau uraian) bergantung pada sifat hasil belajar yang diukur."
+  },
+  {
+    "objectID": "slides/pertemuan4.html#untuk-pertemuan-5",
+    "href": "slides/pertemuan4.html#untuk-pertemuan-5",
+    "title": "Pengertian dan Tujuan Tes Prestasi",
+    "section": "Untuk Pertemuan 5",
+    "text": "Untuk Pertemuan 5\n\n\n\n\n\n\nSelanjutnya: tes potensi\n\n\nPertemuan 5 membahas tes potensi — jenis tes kognitif kedua dari Pertemuan 1, yang mengukur kapasitas untuk mempelajari sesuatu di masa depan, bukan apa yang sudah dipelajari."
+  },
+  {
+    "objectID": "slides/pertemuan4.html#ada-pertanyaan",
+    "href": "slides/pertemuan4.html#ada-pertanyaan",
+    "title": "Pengertian dan Tujuan Tes Prestasi",
+    "section": "Ada pertanyaan❓",
+    "text": "Ada pertanyaan❓\n\n\n\n\n\n\n\nCatatan\n\n\n\nPaparan disusun dengan menggunakan  dan Quarto dengan template dari UNAIR Theme.\nKontak saya via  amelia.zein@psikologi.unair.ac.id"
+  },
+  {
+    "objectID": "slides/pertemuan4.html#rujukan",
+    "href": "slides/pertemuan4.html#rujukan",
+    "title": "Pengertian dan Tujuan Tes Prestasi",
+    "section": "Rujukan",
+    "text": "Rujukan\nAnastasi, A., & Urbina, S. (1997). Psychological testing (7th ed.). Prentice Hall.\nAzwar, S. (1987). Tes prestasi: Fungsi dan pengembangan pengukuran prestasi belajar. Liberty.\nBloom, B. S., Hastings, J. T., & Madaus, G. F. (1971). Handbook on formative and summative evaluation of student learning. McGraw-Hill.\nGronlund, N. E. (1993). How to make achievement tests and assessments (5th ed.). Allyn & Bacon."
+  },
+  {
+    "objectID": "slides/pertemuan7.html#outline",
+    "href": "slides/pertemuan7.html#outline",
+    "title": "Menulis Item Tes Prestasi dan Potensi",
+    "section": "Outline",
+    "text": "Outline\n\nAnatomi item pilihan ganda\nMenulis stem\nMenulis pilihan jawaban\nMenulis item tes prestasi vs. tes potensi\nContoh item tes potensi berdasarkan narrow ability\nContoh item tes prestasi dari TIK\nAktivitas: menemukan kesalahan pada item\n\n\n\nDisclosure penggunaan akal imitasi (AI)\nSaya menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk brainstorming materi, mencari referensi, dan melakukan troubleshooting kode quarto dan git. Saya bertanggung jawab penuh atas substansi dan penyajian presentasi ini."
+  },
+  {
+    "objectID": "slides/pertemuan7.html#apa-yang-akan-anda-kumpulkan-minggu-ini",
+    "href": "slides/pertemuan7.html#apa-yang-akan-anda-kumpulkan-minggu-ini",
+    "title": "Menulis Item Tes Prestasi dan Potensi",
+    "section": "Apa yang akan Anda kumpulkan minggu ini",
+    "text": "Apa yang akan Anda kumpulkan minggu ini\n\nTugas 2 dikerjakan individu: menulis 20 butir — 2 butir untuk tiap indikator tes prestasi (5 indikator) dan 2 butir untuk tiap indikator tes potensi (5 indikator).\nSetiap butir mengacu pada blueprint yang sudah Anda susun sendiri (Pertemuan 2 dan 4).\nMateri hari ini adalah panduan praktis untuk tahap penulisan item, yang merupakan Tahap 5 dari sebelas tahap di Pertemuan 2."
+  },
+  {
+    "objectID": "slides/pertemuan7.html#bagian-bagian-sebuah-item",
+    "href": "slides/pertemuan7.html#bagian-bagian-sebuah-item",
+    "title": "Menulis Item Tes Prestasi dan Potensi",
+    "section": "Bagian-bagian sebuah item",
+    "text": "Bagian-bagian sebuah item\n\nStem — bagian yang memuat pertanyaan atau pernyataan inti.\nOptions — pilihan jawaban yang disediakan, terdiri atas:\n\nKey — jawaban yang benar.\nDistractors — pilihan yang salah, tetapi dirancang tetap masuk akal.\n\n\n\n\nLane, Raymond, & Haladyna (2016)."
+  },
+  {
+    "objectID": "slides/pertemuan7.html#mengapa-bagian-ini-perlu-dipisahkan-dengan-jelas",
+    "href": "slides/pertemuan7.html#mengapa-bagian-ini-perlu-dipisahkan-dengan-jelas",
+    "title": "Menulis Item Tes Prestasi dan Potensi",
+    "section": "Mengapa bagian ini perlu dipisahkan dengan jelas",
+    "text": "Mengapa bagian ini perlu dipisahkan dengan jelas\n\n\n\n\n\n\nCatatan\n\n\nStem dan options punya fungsi berbeda: stem menyampaikan satu ide inti yang jelas, sementara options menyediakan alternatif jawaban yang setara secara bentuk. Item yang baik tidak mencampur keduanya — misalnya menaruh sebagian informasi penting hanya di salah satu option."
+  },
+  {
+    "objectID": "slides/pertemuan7.html#prinsip-dasar",
+    "href": "slides/pertemuan7.html#prinsip-dasar",
+    "title": "Menulis Item Tes Prestasi dan Potensi",
+    "section": "Prinsip dasar",
+    "text": "Prinsip dasar\n\nSampaikan ide inti secara jelas dan ringkas di stem — jangan disimpan di options.\nGunakan kalimat positif; sebaiknya hindari bentuk negatif seperti “KECUALI” atau “BUKAN”, yang mudah terlewat dibaca dan meningkatkan risiko salah paham.\n\nSehingga apabila partisipan salah menjawab, Anda akan kesulitan membedakan apakah memang partisipan tidak mampu menjawab atau tidak paham instruksi soal.\n\nBatasi setiap item pada satu jenis konten dan satu tingkat proses kognitif saja (Pertemuan 3).\nSesuaikan kompleksitas bahasa dengan kelompok yang akan mengerjakan tes; hindari kalimat yang panjang tanpa alasan.\n\n\n\nHaladyna, Downing, & Rodriguez (2002)."
+  },
+  {
+    "objectID": "slides/pertemuan7.html#prinsip-untuk-key-dan-distractors",
+    "href": "slides/pertemuan7.html#prinsip-untuk-key-dan-distractors",
+    "title": "Menulis Item Tes Prestasi dan Potensi",
+    "section": "Prinsip untuk key dan distractors",
+    "text": "Prinsip untuk key dan distractors\n\nPastikan hanya ada satu jawaban yang benar tanpa ambiguitas.\nBuat distractors yang masuk akal. Idealnya berdasarkan kesalahan berpikir yang umum terjadi pada topik tersebut, bukan pilihan yang jelas-jelas salah.\nSamakan panjang dan struktur tata bahasa semua pilihan; pilihan yang jelas lebih panjang atau lebih detail sering menjadi petunjuk jawaban benar.\nHindari kata mutlak seperti “selalu” atau “tidak pernah” pada distractor, karena cenderung mudah ditebak sebagai jawaban salah."
+  },
+  {
+    "objectID": "slides/pertemuan7.html#prinsip-lanjutan",
+    "href": "slides/pertemuan7.html#prinsip-lanjutan",
+    "title": "Menulis Item Tes Prestasi dan Potensi",
+    "section": "Prinsip lanjutan",
+    "text": "Prinsip lanjutan\n\nHindari pilihan seperti “semua benar” atau “semua salah”. Pilihan ini sering bisa dijawab tanpa benar-benar memahami opsi lain.\nAcak posisi jawaban benar antar-item; jangan menaruhnya selalu di posisi yang sama.\nUrutkan pilihan secara logis, misalnya menurut abjad atau nilai numerik, bila memungkinkan.\n\n\n\nHaladyna, Downing, & Rodriguez (2002)."
+  },
+  {
+    "objectID": "slides/pertemuan7.html#sumber-isi-yang-berbeda",
+    "href": "slides/pertemuan7.html#sumber-isi-yang-berbeda",
+    "title": "Menulis Item Tes Prestasi dan Potensi",
+    "section": "Sumber isi yang berbeda",
+    "text": "Sumber isi yang berbeda\n\nItem tes prestasi diturunkan dari TIK yang sudah dirumuskan (Pertemuan 4). Isinya terikat pada materi atau kurikulum yang diajarkan.\nItem tes potensi diturunkan dari definisi konstrak kemampuan yang lebih umum (Pertemuan 5 dan 6). Isinya sengaja dibuat tidak terikat pada satu bidang materi tertentu, agar yang diukur adalah proses bernalarnya, bukan pengetahuan spesifiknya.\n\n\n\n\n\n\n\nKonsekuensi praktis\n\n\nSaat menulis item tes prestasi, Anda mulai dari TIK. Saat menulis item tes potensi, Anda mulai dari kemampuan sempit (narrow ability) yang ingin diukur — misalnya induction atau quantitative reasoning dari kemampuan luas Gf yang dibahas di Pertemuan 6."
+  },
+  {
+    "objectID": "slides/pertemuan7.html#berdasarkan-narrow-ability-dari-gf",
+    "href": "slides/pertemuan7.html#berdasarkan-narrow-ability-dari-gf",
+    "title": "Menulis Item Tes Prestasi dan Potensi",
+    "section": "Berdasarkan narrow ability dari Gf",
+    "text": "Berdasarkan narrow ability dari Gf\nTiga narrow ability yang umum diukur pada tes potensi (Pertemuan 6):\n\nInduction — menemukan aturan yang mendasari suatu pola.\nGeneral sequential reasoning — menarik kesimpulan logis dari premis yang diberikan.\nQuantitative reasoning — bernalar menggunakan hubungan dan operasi bilangan."
+  },
+  {
+    "objectID": "slides/pertemuan7.html#contoh-induction",
+    "href": "slides/pertemuan7.html#contoh-induction",
+    "title": "Menulis Item Tes Prestasi dan Potensi",
+    "section": "Contoh: induction",
+    "text": "Contoh: induction\n“SEPATU : KAKI, sebagaimana … : …”\n\nAnting : Telinga　B) Jari : Cincin　C) Kepala : Topi　D) Kuas : Cat\n\n\n\n\n\n\n\n\nKunci\n\n\nA — hubungan bagian tubuh dengan benda yang dikenakan/dipakai di sana, sama seperti sepatu di kaki."
+  },
+  {
+    "objectID": "slides/pertemuan7.html#contoh-general-sequential-reasoning",
+    "href": "slides/pertemuan7.html#contoh-general-sequential-reasoning",
+    "title": "Menulis Item Tes Prestasi dan Potensi",
+    "section": "Contoh: general sequential reasoning",
+    "text": "Contoh: general sequential reasoning\n“Semua bunga memiliki putik. Semua melati termasuk bunga.”\n\nSemua melati memiliki putik　B) Sebagian melati tidak memiliki putik　C) Sebagian bunga bukan melati　D) Semua bunga adalah melati\n\n\n\n\n\n\n\n\nKunci\n\n\nA — kesimpulan logis langsung dari dua premis (silogisme kategorikal)."
+  },
+  {
+    "objectID": "slides/pertemuan7.html#contoh-quantitative-reasoning",
+    "href": "slides/pertemuan7.html#contoh-quantitative-reasoning",
+    "title": "Menulis Item Tes Prestasi dan Potensi",
+    "section": "Contoh: quantitative reasoning",
+    "text": "Contoh: quantitative reasoning\n“3, 6, 12, 24, …”\n\n30　B) 36　C) 48　D) 60\n\n\n\n\n\n\n\n\nKunci\n\n\nC (48) — pola: tiap suku dikalikan 2."
+  },
+  {
+    "objectID": "slides/pertemuan7.html#diturunkan-dari-tik",
+    "href": "slides/pertemuan7.html#diturunkan-dari-tik",
+    "title": "Menulis Item Tes Prestasi dan Potensi",
+    "section": "Diturunkan dari TIK",
+    "text": "Diturunkan dari TIK\nMenggunakan TIK dari Pertemuan 4: “Mahasiswa dapat memasangkan setiap prinsip penyusunan tes prestasi dengan contohnya.”\n\n\n\n\n\n\nContoh item\n\n\n“Prinsip ‘mengukur sampel materi yang representatif’ pada tes prestasi paling sesuai dicontohkan oleh:”\n\nUjian akhir semester yang hanya berisi soal dari satu pertemuan terakhir\nUjian akhir semester yang soalnya tersebar merata dari seluruh pertemuan\nUjian akhir semester yang tingkat kesulitannya seragam\nUjian akhir semester yang jumlah soalnya banyak\n\n\n\n\n\n\nJawaban: B."
+  },
+  {
+    "objectID": "slides/pertemuan7.html#aktivitas-menemukan-kesalahan-pada-item",
+    "href": "slides/pertemuan7.html#aktivitas-menemukan-kesalahan-pada-item",
+    "title": "Menulis Item Tes Prestasi dan Potensi",
+    "section": "Aktivitas: menemukan kesalahan pada item",
+    "text": "Aktivitas: menemukan kesalahan pada item\nItem berikut punya beberapa masalah. Diskusikan dengan teman sebangku Anda, apa saja yang perlu diperbaiki?\n\n\n\n\n\n\nItem yang perlu ditelaah\n\n\n“Manakah pernyataan berikut yang BUKAN merupakan ciri tes potensi?”\n\nSelalu mengukur kemampuan bawaan sejak lahir yang tidak mungkin berubah sama sekali sepanjang hidup seseorang\nBersifat prediktif terhadap performa mendatang\nTidak terikat pada satu bidang materi tertentu\nSemua jawaban di atas benar\n\n\n\n\n\n\nStem memakai kata negatif (“BUKAN”) yang seharusnya dihindari.\nOpsi A memakai kata mutlak (“selalu”, “tidak mungkin”, “sama sekali”) yang menjadi petunjuk bahwa opsi ini salah.\nOpsi D (“semua jawaban di atas benar”) sebaiknya dihindari sesuai prinsip yang dibahas hari ini."
+  },
+  {
+    "objectID": "slides/pertemuan7.html#ringkasan",
+    "href": "slides/pertemuan7.html#ringkasan",
+    "title": "Menulis Item Tes Prestasi dan Potensi",
+    "section": "Ringkasan",
+    "text": "Ringkasan\n\nItem pilihan ganda terdiri atas stem, key, dan distractors — masing-masing punya fungsi dan prinsip penulisan tersendiri.\nStem ditulis jelas, ringkas, dan positif; ide inti ada di stem, bukan di options.\nOptions dibuat setara panjang dan strukturnya, dengan distractors yang masuk akal, tanpa kata mutlak atau opsi “semua benar/semua salah”.\nItem tes prestasi diturunkan dari TIK; item tes potensi diturunkan dari narrow ability yang ingin diukur.\nPrinsip-prinsip ini langsung relevan untuk Tugas 2 yang dikumpulkan minggu ini."
+  },
+  {
+    "objectID": "slides/pertemuan7.html#untuk-pertemuan-8",
+    "href": "slides/pertemuan7.html#untuk-pertemuan-8",
+    "title": "Menulis Item Tes Prestasi dan Potensi",
+    "section": "Untuk Pertemuan 8",
+    "text": "Untuk Pertemuan 8\n\n\n\n\n\n\nSelanjutnya: UTS\n\n\nPertemuan 8 adalah Ujian Tengah Semester, mencakup materi Pertemuan 1–7: jenis tes kognitif, tahapan penyusunan tes, taksonomi dan tujuan instruksional, tes prestasi, tes potensi, tes inteligensi, dan prinsip penulisan item."
+  },
+  {
+    "objectID": "slides/pertemuan7.html#ada-pertanyaan",
+    "href": "slides/pertemuan7.html#ada-pertanyaan",
+    "title": "Menulis Item Tes Prestasi dan Potensi",
+    "section": "Ada pertanyaan❓",
+    "text": "Ada pertanyaan❓\n\n\n\n\n\n\n\nCatatan\n\n\n\nPaparan disusun dengan menggunakan  dan Quarto dengan template dari UNAIR Theme.\nKontak saya via  amelia.zein@psikologi.unair.ac.id"
+  },
+  {
+    "objectID": "slides/pertemuan7.html#rujukan",
+    "href": "slides/pertemuan7.html#rujukan",
+    "title": "Menulis Item Tes Prestasi dan Potensi",
+    "section": "Rujukan",
+    "text": "Rujukan\nAzwar, S. (1987). Tes prestasi: Fungsi dan pengembangan pengukuran prestasi belajar. Liberty.\nHaladyna, T. M., Downing, S. M., & Rodriguez, M. C. (2002). A review of multiple-choice item-writing guidelines for classroom assessment. Applied Measurement in Education, 15(3), 309–334.\nLane, S., Raymond, M. R., & Haladyna, T. M. (Eds.). (2016). Handbook of test development (2nd ed.). Routledge.\nOsterlind, S. J. (2002). Constructing test items: Multiple-choice, constructed-response, performance, and other formats (2nd ed.). Kluwer Academic Publishers.\nSchneider, W. J., & McGrew, K. S. (2018). The Cattell–Horn–Carroll theory of cognitive abilities. In D. P. Flanagan & E. M. McDonough (Eds.), Contemporary intellectual assessment: Theories, tests, and issues (4th ed., pp. 73–163). Guilford Press."
+  },
+  {
+    "objectID": "slides/pertemuan1.html#outline",
+    "href": "slides/pertemuan1.html#outline",
+    "title": "Pengantar: Pengertian dan Jenis Tes Kognitif",
+    "section": "Outline",
+    "text": "Outline\n\nApa yang akan kita kerjakan selama satu semester?\nTiga situasi yang butuh jenis tes kognitif berbeda-beda\nJembatan dari mata kuliah Psikometri\nPsikometri dan pengukuran psikologi\nIstilah yang sering tertukar: tes, skala, inventori, angket\nRanah atribut: kognitif vs non-kognitif\nPerformansi maksimal vs performansi tipikal\nSejarah singkat: tiga tradisi tes kognitif\nTiga jenis utama tes kognitif\nKlasifikasi tes menurut Kode Etik Psikologi Indonesia\n\n\n\nDisclosure penggunaan akal imitasi (AI)\nSaya menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk brainstorming materi, mencari referensi, dan melakukan troubleshooting kode quarto dan git. Saya bertanggung jawab penuh atas substansi dan penyajian presentasi ini."
+  },
+  {
+    "objectID": "slides/pertemuan1.html#apa-yang-akan-kita-kerjakan-selama-satu-semester",
+    "href": "slides/pertemuan1.html#apa-yang-akan-kita-kerjakan-selama-satu-semester",
+    "title": "Pengantar: Pengertian dan Jenis Tes Kognitif",
+    "section": "Apa yang akan kita kerjakan selama satu semester?",
+    "text": "Apa yang akan kita kerjakan selama satu semester?\n\nProyek akhir: setiap kelompok akan menyusun satu set tes kognitif lengkap, dari spesifikasi item sampai booklet dan manual tes, disertai bukti validitas dan reliabilitas. Untuk itu, Anda diminta untuk membuat kelompok dengan anggota Maks. 5 orang.\n\nSilakan tuliskan nama-nama anggota kelompok Anda di spreadsheet ini.\nSpreadsheet akan ditutup aksesnya (tidak bisa diedit) setelah pertemuan ke-3.\n\nSebelum UTS (Pertemuan 1–7): membangun fondasi konseptualnya. Apa itu tes kognitif, bagaimana tahapan menyusunnya, apa itu taksonomi tujuan instruksional, dan apa beda mendasar antara tes prestasi, tes potensi, dan tes inteligensi.\nSetelah UTS (Pertemuan 9–15): mengerjakan proyeknya. Menulis item HOTS, menyusun spesifikasi dan blueprint, mengambil data uji coba, menganalisis butir, mengestimasi reliabilitas dan validitas, menyusun norma dan manual.\n\n\n\nRencana lengkap ada di RPS dan Kontrak Kuliah (dibagikan terpisah di Psyche) — slide ini hanya ringkasannya."
+  },
+  {
+    "objectID": "slides/pertemuan1.html#tiga-situasi",
+    "href": "slides/pertemuan1.html#tiga-situasi",
+    "title": "Pengantar: Pengertian dan Jenis Tes Kognitif",
+    "section": "Tiga situasi",
+    "text": "Tiga situasi\n\nSebuah SD ingin tahu apakah program literasi barunya berhasil: apakah kemampuan membaca siswa kelas 5 tahun ini lebih baik dibanding angkatan tahun lalu, setelah materi yang sama diajarkan?\nSebuah startup menyaring 500 pelamar magang pemrograman sebelum melihat satu baris kode pun yang mereka tulis — mereka ingin tahu siapa yang berpotensi paling cepat belajar coding.\nSeorang neuropsikolog perlu menetapkan garis dasar kemampuan penalaran umum seorang pasien pascacedera kepala, sebelum bisa menilai apakah ada penurunan fungsi kognitif."
+  },
+  {
+    "objectID": "slides/pertemuan1.html#apa-kesamaan-dan-perbedaan-ketiganya",
+    "href": "slides/pertemuan1.html#apa-kesamaan-dan-perbedaan-ketiganya",
+    "title": "Pengantar: Pengertian dan Jenis Tes Kognitif",
+    "section": "Apa kesamaan dan perbedaan ketiganya?",
+    "text": "Apa kesamaan dan perbedaan ketiganya?\n\nKetiganya sama-sama butuh tes kognitif, karena mengukur performa maksimal seseorang, bukan kecenderungan atau preferensinya.\nTetapi ketiganya menanyakan pertanyaan yang secara konseptual berbeda: apa yang sudah dikuasai (situasi 1), apa yang berpotensi dikuasai (situasi 2), dan seberapa besar kapasitas umum seseorang (situasi 3).\nKalau jenis tesnya tertukar, misalnya memakai tes prestasi untuk meramalkan potensi, maka kesimpulannya bisa keliru total.\n\n\n\n\n\n\n\n\nIni bukan soal istilah semata\n\n\nKetiga situasi ini akan terus muncul sepanjang mata kuliah ini dalam bentuk tes prestasi (Pertemuan 4), tes potensi (Pertemuan 5), dan tes inteligensi (Pertemuan 6). Hari ini kita bangun dulu pemahaman umumnya."
+  },
+  {
+    "objectID": "slides/pertemuan1.html#apa-yang-sudah-anda-pelajari",
+    "href": "slides/pertemuan1.html#apa-yang-sudah-anda-pelajari",
+    "title": "Pengantar: Pengertian dan Jenis Tes Kognitif",
+    "section": "Apa yang sudah Anda pelajari?",
+    "text": "Apa yang sudah Anda pelajari?\nDari mata kuliah Psikometri, Anda sudah belajar hal-hal berikut ini:\n\nPengukuran — mengubah atribut menjadi angka\nValiditas — apakah tes mengukur apa yang seharusnya diukur?\nReliabilitas — apakah hasil pengukuran konsisten?\nAtribut psikologis — konstrak yang bersifat laten, tidak teramati langsung\n\n\n\n\n\n\n\n\nPertanyaan pemantik\n\n\nAnda sudah belajar cara mengevaluasi apakah sebuah tes punya performa yang baik (validitas, reliabilitas). Mata kuliah ini membantu Anda cara membuatnya dari awal, tetapi khusus untuk domain kognitif."
+  },
+  {
+    "objectID": "slides/pertemuan1.html#psikometri-definisi",
+    "href": "slides/pertemuan1.html#psikometri-definisi",
+    "title": "Pengantar: Pengertian dan Jenis Tes Kognitif",
+    "section": "Psikometri: definisi",
+    "text": "Psikometri: definisi\n\n\n\n\n\n\nDefinisi klasik\n\n\nPsikometri adalah cabang ilmu yang berkaitan dengan teori dan teknik pengukuran atribut pendidikan dan psikologis (Kline, 1986).\n\n\n\nKline (1986) merumuskan dua peran utama psikometri:\n\nMembangun instrumen dan prosedur pengukuran psikologi\nMengembangkan atau merevisi pendekatan teoretis untuk pengukuran psikologi\n\n\n\n\n\n\n\n\nStandar profesional terbaru\n\n\nStandar internasional (AERA, APA, & NCME, 2014) menekankan bahwa kualitas tes tidak berhenti di alat ukurnya saja, validitas adalah properti dari interpretasi dan penggunaan skor, bukan cuma properti tesnya sendiri."
+  },
+  {
+    "objectID": "slides/pertemuan1.html#kenapa-pengukuran-psikologi-itu-sulit",
+    "href": "slides/pertemuan1.html#kenapa-pengukuran-psikologi-itu-sulit",
+    "title": "Pengantar: Pengertian dan Jenis Tes Kognitif",
+    "section": "Kenapa pengukuran psikologi itu sulit?",
+    "text": "Kenapa pengukuran psikologi itu sulit?\n\nAtribut fisik (tinggi badan, berat badan) → langsung teramati, alat ukur baku (meteran, timbangan).\nAtribut psikologis (inteligensi, agresivitas, neurotisisme) → laten, abstrak, hanya bisa disimpulkan dari sampel perilaku.\n\n\n\n\n\n\n\n\nImplikasinya\n\n\nKarena atributnya laten, tidak ada tes yang mengukur secara sempurna. Setiap tes adalah sampel perilaku yang kita generalisasikan ke konstrak yang lebih luas. Ini adalah alasan mengapa validitas dan reliabilitas selalu jadi isu sentral pengukuran psikologi."
+  },
+  {
+    "objectID": "slides/pertemuan1.html#tes-skala-inventori-angket",
+    "href": "slides/pertemuan1.html#tes-skala-inventori-angket",
+    "title": "Pengantar: Pengertian dan Jenis Tes Kognitif",
+    "section": "Tes, skala, inventori, angket",
+    "text": "Tes, skala, inventori, angket\n\n\n\n\n\n\n\nIstilah\nDefinisi singkat\n\n\n\n\nTes\nPengukuran objektif dan standar terhadap sampel perilaku (Anastasi & Urbina, 1997)\n\n\nSkala\nInstrumen untuk mengidentifikasi konstrak/atribut psikologis, biasanya non-kognitif\n\n\nInventori\nAlat untuk menaksir dan menilai tingkah laku, minat, atau preferensi\n\n\nAngket/Kuesioner\nSekumpulan pertanyaan mengenai suatu topik, jawaban berdasarkan self-report partisipan\n\n\n\n\n\n\n\n\n\n\nAturan yang kita gunakan sepanjang semester\n\n\nKalau ada jawaban benar-salah yang bisa dinilai objektif dari performa → ini adalah tes. Kalau yang diukur kecenderungan atau preferensi tanpa jawaban benar-salah → biasanya skala atau inventori."
+  },
+  {
+    "objectID": "slides/pertemuan1.html#dari-atribut-fisik-ke-atribut-psikologis",
+    "href": "slides/pertemuan1.html#dari-atribut-fisik-ke-atribut-psikologis",
+    "title": "Pengantar: Pengertian dan Jenis Tes Kognitif",
+    "section": "Dari atribut fisik ke atribut psikologis",
+    "text": "Dari atribut fisik ke atribut psikologis\n\nAtribut terbagi dua: fisik (tinggi, berat) dan non-fisik/psikologis.\nAtribut psikologis sendiri terbagi dua: kognitif (potensial dan aktual) dan non-kognitif (afektif, kepribadian).\nMata kuliah ini berhenti di satu cabang saja: atribut kognitif.\n\n\n\nDiadaptasi dari kerangka klasifikasi Azwar (2019)."
+  },
+  {
+    "objectID": "slides/pertemuan1.html#dua-cara-tes-mengevaluasi-perilaku",
+    "href": "slides/pertemuan1.html#dua-cara-tes-mengevaluasi-perilaku",
+    "title": "Pengantar: Pengertian dan Jenis Tes Kognitif",
+    "section": "Dua cara tes mengevaluasi perilaku",
+    "text": "Dua cara tes mengevaluasi perilaku\n\n\nPerformansi maksimal\n(ability test → tes kognitif)\n\nMengungkap apa yang mampu dilakukan seseorang, sebaik apa\nStimulus jelas, jawaban benar/salah\nSkor dan waktu pengerjaan diberitahukan\nInstruksi eksplisit: kerjakan sebaik mungkin\n\n\nPerformansi tipikal\n(personality test → non-kognitif)\n\nMengungkap kecenderungan reaksi individu dalam situasi tertentu\nStimulus bisa ambigu, tidak ada jawaban benar/salah\nSkor biasanya tidak diberitahukan\nInstruksi implisit: jawab sejujurnya\n\n\n\n\n\n\n\n\n\nKenapa ini penting bagi mata kuliah ini\n\n\nSeluruh mata kuliah ini berada di kolom kiri. Prinsip menulis item untuk performansi maksimal (ada kunci jawaban objektif) berbeda mendasar dari prinsip menulis item skala kepribadian — jangan tertukar nanti saat menulis item di Pertemuan 7."
+  },
+  {
+    "objectID": "slides/pertemuan1.html#aktivitas-maksimal-atau-tipikal",
+    "href": "slides/pertemuan1.html#aktivitas-maksimal-atau-tipikal",
+    "title": "Pengantar: Pengertian dan Jenis Tes Kognitif",
+    "section": "Aktivitas: maksimal atau tipikal?",
+    "text": "Aktivitas: maksimal atau tipikal?\nKlasifikasikan tiga contoh berikut:\n\n“Seberapa cepat Anda bisa menemukan pola berikutnya dalam deret angka ini?”\n“Seberapa sering Anda merasa cemas sebelum ujian?”\n“Pilih sinonim yang paling tepat untuk kata berikut, dalam waktu 30 detik.”\n\n\n\n\n\n\n\n\nKunci\n\n\n\ndan (3) = performansi maksimal (ada jawaban benar, ada batas waktu, mengukur kemampuan). (2) = performansi tipikal (mengukur kecenderungan/frekuensi perasaan, tak ada jawaban benar-salah)."
+  },
+  {
+    "objectID": "slides/pertemuan1.html#tradisi-1-tes-inteligensi",
+    "href": "slides/pertemuan1.html#tradisi-1-tes-inteligensi",
+    "title": "Pengantar: Pengertian dan Jenis Tes Kognitif",
+    "section": "Tradisi 1️⃣: tes inteligensi",
+    "text": "Tradisi 1️⃣: tes inteligensi\n\n1905, Prancis — Alfred Binet dan Théodore Simon menyusun tes formal pertama untuk mengidentifikasi anak sekolah yang butuh bantuan belajar khusus (Binet & Simon, 1905).\n1916, Amerika Serikat — Lewis Terman mengadaptasinya menjadi Stanford-Binet dan memperkenalkan gagasan intelligence quotient (IQ) (Terman, 1916).\nTradisi ini berfokus pada kapasitas umum: seberapa baik seseorang menyelesaikan masalah dan beradaptasi pada situasi baru.\nPerlu Anda ketahui, bahwa sejarah awal perkembangan tes intelegensi sangat dipengaruhi oleh pandangan eugenics.\n\nTerman sendiri diketahui mendukung infertilisasi individu yang dianggap inferior secara kognitif."
+  },
+  {
+    "objectID": "slides/pertemuan1.html#tradisi-2-tes-bakatpotensi",
+    "href": "slides/pertemuan1.html#tradisi-2-tes-bakatpotensi",
+    "title": "Pengantar: Pengertian dan Jenis Tes Kognitif",
+    "section": "Tradisi 2️⃣: tes bakat/potensi",
+    "text": "Tradisi 2️⃣: tes bakat/potensi\n\n1917–1918 — Angkatan Darat AS menyusun Army Alpha (verbal) dan Army Beta (non-verbal) untuk menyeleksi dan menempatkan jutaan rekrutan Perang Dunia I secara massal (Yoakum & Yerkes, 1920).\nIni salah satu penerapan tes kognitif berskala besar pertama di luar konteks pendidikan — cikal bakal tes seleksi kerja modern.\n\n\n\n\n\n\n\n\nWarisan yang tidak netral\n\n\nHasil tes Angkatan Darat kemudian disalahgunakan oleh Carl Brigham (1923) untuk mendukung kebijakan imigrasi yang diskriminatif terhadap kelompok etnis tertentu. Tetapi, kesimpulan ini belakangan ditarik kembali oleh Brigham sendiri. Ini alasan mengapa Kode Etik Psikologi Indonesia yang akan kita bahas nanti membatasi ketat siapa yang boleh memakai tes psikologi."
+  },
+  {
+    "objectID": "slides/pertemuan1.html#tradisi-3-tes-prestasi",
+    "href": "slides/pertemuan1.html#tradisi-3-tes-prestasi",
+    "title": "Pengantar: Pengertian dan Jenis Tes Kognitif",
+    "section": "Tradisi 3️⃣: tes prestasi",
+    "text": "Tradisi 3️⃣: tes prestasi\n\nBerakar dari tradisi ujian kelas dan ujian sekolah, yang jauh lebih awal secara praktik, tapi lebih lambat diformalkan sebagai bidang psikometri tersendiri.\nContoh menarik tentang tipisnya batas prestasi vs. bakat: Scholastic Aptitude Test (SAT) di AS, yang diklaim mengukur potensi akademik bebas dari pengaruh pembelajaran sekolah, akhirnya mengganti namanya pada 1993 karena skornya terbukti sangat terpengaruh oleh apa yang sudah dipelajari oleh siswa di sekolah.\n\n\n\n\n\n\n\n\nKenapa anekdot SAT ini relevan\n\n\nIni bukti nyata bahwa membedakan “tes prestasi” dari “tes bakat/potensi” bukan cuma latihan definisi di kelas. Bahkan tes berskala nasional pun bisa salah label selama puluhan tahun.\n\n\n\n\n\n\nUntuk sejarah pengukuran psikologi yang lebih lengkap, lihat DuBois (1970)."
+  },
+  {
+    "objectID": "slides/pertemuan1.html#inteligensi-bakatpotensi-prestasi",
+    "href": "slides/pertemuan1.html#inteligensi-bakatpotensi-prestasi",
+    "title": "Pengantar: Pengertian dan Jenis Tes Kognitif",
+    "section": "Inteligensi, bakat/potensi, prestasi",
+    "text": "Inteligensi, bakat/potensi, prestasi\n\n\n\n\n\n\n\n\n\nJenis\nMengukur\nSifat\nContoh pertanyaan riset\n\n\n\n\nTes inteligensi\nPotensi umum menyelesaikan masalah, beradaptasi pada situasi baru\nRelatif stabil lintas waktu dan konteks\n“Seberapa besar kapasitas belajar umum siswa ini?”\n\n\nTes bakat/potensi (aptitude)\nKapasitas mempelajari keterampilan spesifik di masa depan\nPrediktif — dinilai dari kemampuannya memprediksi performa mendatang\n“Apakah kandidat ini berpotensi jadi programmer yang baik?”\n\n\nTes prestasi (achievement)\nApa yang sudah dipelajari/dikuasai saat ini\nRetrospektif — dinilai dari kesesuaiannya dengan konten yang diajarkan\n“Seberapa jauh siswa menguasai materi Bab 3?”\n\n\n\n\n\nBakat menaksir kapasitas untuk belajar (future potential); prestasi menaksir apa yang telah dipelajari (prior activity) (Anastasi & Urbina, 1997; Azwar, 1987). Ketiganya dibahas mendalam di Pertemuan 4–6."
+  },
+  {
+    "objectID": "slides/pertemuan1.html#contoh-instrumen-terpublikasi",
+    "href": "slides/pertemuan1.html#contoh-instrumen-terpublikasi",
+    "title": "Pengantar: Pengertian dan Jenis Tes Kognitif",
+    "section": "Contoh instrumen terpublikasi",
+    "text": "Contoh instrumen terpublikasi\n\n\nInteligensi\n\nStanford-Binet\nWAIS / WISC\nTIKI\nCFIT\n\n\nBakat/Potensi\n\nDifferential Aptitude Test\nGeneral Aptitude Test Battery\nFlanagan Aptitude Classification Test\n\n\nPrestasi\n\nUjian sekolah/ANBK\nTes hasil belajar buatan guru\nTes penempatan (placement test)\n\n\n\n\n\n\n\n\n\nCatatan etis\n\n\nSebagian besar instrumen di atas adalah tes psikologi berlisensi komersial dan terbatas penggunaannya. Kita hanya membahas cara kerja dan prinsipnya."
+  },
+  {
+    "objectID": "slides/pertemuan1.html#ilustrasi-seperti-apa-butir-performansi-maksimal",
+    "href": "slides/pertemuan1.html#ilustrasi-seperti-apa-butir-performansi-maksimal",
+    "title": "Pengantar: Pengertian dan Jenis Tes Kognitif",
+    "section": "Ilustrasi: seperti apa butir performansi maksimal?",
+    "text": "Ilustrasi: seperti apa butir performansi maksimal?\nContoh butir non-verbal orisinal (bukan dari tes manapun) — pola macam apa yang mengisi sel bertanda tanya?\n\n\n\n●\n● ●\n● ● ●\n\n\n● ●\n● ● ●\n● ● ● ●\n\n\n● ● ●\n● ● ● ●\n?\n\n\n\n\n● ● ●　B) ● ● ● ●　C) ● ● ● ● ●　D) ● ● ● ● ● ●\n\n\n\n\n\n\n\n\nKenapa ini contoh performansi maksimal\n\n\nAda aturan logis (jumlah titik = nomor baris + nomor kolom − 1), jawaban objektif benar (C), stimulus jelas, dan tidak butuh bahasa — ciri khas butir ability test non-verbal, cocok mengukur penalaran yang relatif bebas budaya."
+  },
+  {
+    "objectID": "slides/pertemuan1.html#tes-psikologi-dan-kewenangan-penggunaan",
+    "href": "slides/pertemuan1.html#tes-psikologi-dan-kewenangan-penggunaan",
+    "title": "Pengantar: Pengertian dan Jenis Tes Kognitif",
+    "section": "Tes psikologi dan kewenangan penggunaan",
+    "text": "Tes psikologi dan kewenangan penggunaan\nDi Indonesia, tes psikologi tidak bebas dipakai siapa saja. Kode Etik Psikologi Indonesia (HIMPSI, 2010) membaginya menjadi 4 kategori, berdasarkan kualifikasi yang dibutuhkan untuk mengadministrasikan, menginterpretasikan, dan melaporkan hasilnya:\n\nKategori A — tidak bersifat klinis, tidak butuh keahlian khusus. Bisa diadministrasikan peneliti, mahasiswa, pendidik, staf perusahaan.\nKategori B — tidak bersifat klinis, tapi butuh pengetahuan dan keahlian dalam administrasi/interpretasi.\nKategori C — butuh pengetahuan konstruksi tes dan prosedur, didukung latar belakang statistik dan perbedaan individu; interpretasi hanya oleh yang menguasai teori tes terkait.\nKategori D — tingkat tertinggi; instrumen klinis kompleks yang menuntut pendidikan spesialisasi psikologi.\n\n\n\n\n\n\n\n\nRelevansi untuk CPL mata kuliah ini\n\n\nCPL mata kuliah ini secara eksplisit menyebut kewenangan atas tes kategori A dan B. Ini adalah batas etis tentang tes seperti apa yang boleh Anda susun dan gunakan sebagai calon sarjana psikologi."
+  },
+  {
+    "objectID": "slides/pertemuan1.html#di-luar-ruang-kelas",
+    "href": "slides/pertemuan1.html#di-luar-ruang-kelas",
+    "title": "Pengantar: Pengertian dan Jenis Tes Kognitif",
+    "section": "Di luar ruang kelas",
+    "text": "Di luar ruang kelas\n\nPendidikan — seleksi, penempatan, identifikasi kebutuhan belajar khusus\nKlinis — asesmen kapasitas kognitif dalam konteks diagnostik\nOrganisasi dan industri — seleksi dan penempatan karyawan berbasis kemampuan kognitif\nPenelitian — variabel kognitif sebagai prediktor, mediator, atau outcome dalam studi psikologi"
+  },
+  {
+    "objectID": "slides/pertemuan1.html#aktivitas-menemukan-tes-kognitif-dalam-riset",
+    "href": "slides/pertemuan1.html#aktivitas-menemukan-tes-kognitif-dalam-riset",
+    "title": "Pengantar: Pengertian dan Jenis Tes Kognitif",
+    "section": "Aktivitas: menemukan tes kognitif dalam riset",
+    "text": "Aktivitas: menemukan tes kognitif dalam riset\nBayangkan sebuah abstrak jurnal menyebutkan:\n\n“…partisipan mengerjakan asesmen kemampuan penalaran non-verbal berbatas waktu untuk mengontrol variasi kemampuan kognitif umum sebelum manipulasi eksperimen dilakukan…”\n\n\nApakah ini tes inteligensi, bakat, atau prestasi? Mengapa?\nFungsi apa yang dimainkan tes kognitif ini dalam desain penelitian tersebut — variabel kontrol, prediktor, atau outcome?\n\n\n\n\n\n\n\n\nIni latihan untuk Tugas 1\n\n\nDi Minggu 6, Anda akan me-review 3 artikel jurnal asli yang menggunakan tes kognitif. Latihan identifikasi seperti ini adalah keterampilan inti yang dinilai di tugas tersebut."
+  },
+  {
+    "objectID": "slides/pertemuan1.html#ringkasan",
+    "href": "slides/pertemuan1.html#ringkasan",
+    "title": "Pengantar: Pengertian dan Jenis Tes Kognitif",
+    "section": "Ringkasan",
+    "text": "Ringkasan\n\nPsikometri adalah teori dan teknik pengukuran atribut psikologis; tes kognitif salah satu wilayahnya.\nTes, skala, inventori, angket berbeda pada objektivitas dan ada-tidaknya jawaban benar-salah.\nAtribut kognitif diukur lewat performansi maksimal, bukan tipikal.\nTiga jenis tes kognitif — inteligensi, bakat/potensi, prestasi — lahir dari tiga tradisi sejarah berbeda dan mengukur hal yang berbeda pula.\nPenggunaan tes psikologi di Indonesia terikat Kode Etik HIMPSI (kategori A–D)."
+  },
+  {
+    "objectID": "slides/pertemuan1.html#untuk-pertemuan-2",
+    "href": "slides/pertemuan1.html#untuk-pertemuan-2",
+    "title": "Pengantar: Pengertian dan Jenis Tes Kognitif",
+    "section": "Untuk Pertemuan 2",
+    "text": "Untuk Pertemuan 2\n\n\n\n\n\n\nSelanjutnya: tahap penyusunan tes kognitif\n\n\nKalau hari ini kita bicara apa itu tes kognitif, Pertemuan 2 membahas bagaimana menyusunnya. Kita mulai dari analisis kebutuhan, definisi konstrak, sampai blueprint awal. Ini akan menjadi fondasi untuk proyek kelompok Anda di Pertemuan 9–15."
+  },
+  {
+    "objectID": "slides/pertemuan1.html#ada-pertanyaan",
+    "href": "slides/pertemuan1.html#ada-pertanyaan",
+    "title": "Pengantar: Pengertian dan Jenis Tes Kognitif",
+    "section": "Ada pertanyaan❓",
+    "text": "Ada pertanyaan❓\n\n\n\n\n\n\n\nCatatan\n\n\n\nPaparan disusun dengan menggunakan  dan Quarto dengan template dari UNAIR Theme.\nKontak saya via  amelia.zein@psikologi.unair.ac.id"
+  },
+  {
+    "objectID": "slides/pertemuan1.html#rujukan",
+    "href": "slides/pertemuan1.html#rujukan",
+    "title": "Pengantar: Pengertian dan Jenis Tes Kognitif",
+    "section": "Rujukan",
+    "text": "Rujukan\nAERA, APA, & NCME. (2014). Standards for educational and psychological testing. American Educational Research Association.\nAnastasi, A., & Urbina, S. (1997). Psychological testing (7th ed.). Prentice Hall.\nAnastasi, A., & Urbina, S. (2016). Tes psikologi (Edisi ke-7). PT Indeks.\nAzwar, S. (1987). Tes prestasi: Fungsi dan pengembangan pengukuran prestasi belajar. Liberty.\nAzwar, S. (2019). Konstruksi tes: Kemampuan kognitif. Pustaka Pelajar.\nBinet, A., & Simon, T. (1905). Méthode nouvelle pour le diagnostic du niveau intellectuel des anormaux. L’Année Psychologique, 11, 191–244.\nBrigham, C. C. (1923). A study of American intelligence. Princeton University Press.\nDuBois, P. H. (1970). A history of psychological testing. Allyn & Bacon.\nHimpunan Psikologi Indonesia (HIMPSI). (2010). Kode etik psikologi Indonesia.\nKline, P. (1986). A handbook of test construction: Introduction to psychometric design. Methuen.\nTerman, L. M. (1916). The measurement of intelligence. Houghton Mifflin.\nYoakum, C. S., & Yerkes, R. M. (1920). Army mental tests. Henry Holt."
+  },
+  {
+    "objectID": "slides/pertemuan2.html#outline",
+    "href": "slides/pertemuan2.html#outline",
+    "title": "Tahap Penyusunan Tes Kognitif",
+    "section": "Outline",
+    "text": "Outline\n\nUrutan pengerjaan: menulis item lebih dulu atau menyusun rencana lebih dulu?\n11 tahap, 4 fase penyusunan\nFase Perencanaan: definisi konstrak dan blueprint\nFase Pengembangan Item\nFase Uji Empiris\nFase Finalisasi\nSifat iteratif proses\nAktivitas: menilai proses penyusunan tes\n\n\n\nDisclosure penggunaan akal imitasi (AI)\nSaya menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk brainstorming materi, mencari referensi, dan melakukan troubleshooting kode quarto dan git. Saya bertanggung jawab penuh atas substansi dan penyajian presentasi ini."
+  },
+  {
+    "objectID": "slides/pertemuan2.html#kelompok-anda-baru-saja-mendapat-tugas",
+    "href": "slides/pertemuan2.html#kelompok-anda-baru-saja-mendapat-tugas",
+    "title": "Tahap Penyusunan Tes Kognitif",
+    "section": "Kelompok Anda baru saja mendapat tugas",
+    "text": "Kelompok Anda baru saja mendapat tugas\nMenyusun tes bakat numerik untuk calon peserta pelatihan kerja. Apa yang harus dilakukan pertama kali?\n\n\nSebagian besar akan mulai dengan menulis soal hitungan, tanpa menyusun definisi konstruk atau blueprint terlebih dahulu.\nDalam satu jam, biasanya sudah terkumpul sekitar 20 butir soal.\nMasalahnya baru terlihat saat butir-butir itu diuji cobakan: domain yang diwakili tidak jelas, proporsinya tidak seimbang, dan validitas isinya sulit dipertanggungjawabkan.\n\n\n\n\n\n\n\n\n\nKonsekuensi dari urutan ini\n\n\nMenulis item sering dianggap sebagai aktivitas yang terpenting, sedangkan definisi konstruk dan blueprint dianggap sebagai langkah administratif. Namun urutan ini menentukan apakah item yang ditulis memiliki dasar yang dapat dipertanggungjawabkan-."
+  },
+  {
+    "objectID": "slides/pertemuan2.html#banyak-versi-satu-logika",
+    "href": "slides/pertemuan2.html#banyak-versi-satu-logika",
+    "title": "Tahap Penyusunan Tes Kognitif",
+    "section": "Banyak versi, satu logika",
+    "text": "Banyak versi, satu logika\n\nKline (1986) menyusun tahapannya sendiri. Azwar (2019) punya urutan yang sedikit berbeda. Downing (2006), dalam Handbook of Test Development, merinci dua belas langkah untuk pengujian berskala besar.\nDetailnya berbeda-beda, tapi logika besarnya sama: rencanakan dulu apa dan bagaimana yang mau diukur, kembangkan itemnya, uji secara empiris, baru finalisasi.\n\n\n\n\n\n\n\n\nYang kita pakai di mata kuliah ini\n\n\nKita memakai sintesis sebelas tahap yang dikelompokkan jadi empat fase besar. Ini bukan satu-satunya cara yang “benar” — tapi ini yang akan memandu proyek kelompok Anda dari Pertemuan 9 sampai 14."
+  },
+  {
+    "objectID": "slides/pertemuan2.html#peta-besarnya",
+    "href": "slides/pertemuan2.html#peta-besarnya",
+    "title": "Tahap Penyusunan Tes Kognitif",
+    "section": "Peta besarnya",
+    "text": "Peta besarnya\n\n\n\nFase\nTahap\nTerjadi di proyek Anda\n\n\n\n\nA. Perencanaan\n1–4\nPertemuan 9–10\n\n\nB. Pengembangan Item\n5–6\nPertemuan 11\n\n\nC. Uji Empiris\n7–9\nPertemuan 12–13\n\n\nD. Finalisasi\n10–11\nPertemuan 14\n\n\n\n\n\nDiadaptasi dan disintesis dari Kline (1986), Azwar (2019), dan Downing (2006)."
+  },
+  {
+    "objectID": "slides/pertemuan2.html#tahap-12-tujuan-dan-konstruk",
+    "href": "slides/pertemuan2.html#tahap-12-tujuan-dan-konstruk",
+    "title": "Tahap Penyusunan Tes Kognitif",
+    "section": "Tahap 1–2: tujuan dan konstruk",
+    "text": "Tahap 1–2: tujuan dan konstruk\n\nIdentifikasi tujuan dan cakupan konstruk yang diukur — untuk apa tes ini dipakai, dan pada populasi seperti apa?\nDefinisi konstruk — apa sebenarnya yang diukur, dirumuskan secara operasional berdasarkan teori.\n\n\n\n\n\n\n\n\nTahap yang sering terlewat\n\n\nBanyak orang cenderung melompati Tahap 2 karena dianggap “sudah jelas”. Semua orang merasa tahu apa itu “kemampuan numerik”. Tetapi tanpa definisi operasional yang eksplisit, tidak ada dasar untuk memutuskan item mana yang termasuk dan mana yang tidak termasuk ke dalam tes. Ini konsep operasionalisasi yang sudah Anda kenal dari Psikometri."
+  },
+  {
+    "objectID": "slides/pertemuan2.html#tahap-34-jenis-tes-dan-blueprint",
+    "href": "slides/pertemuan2.html#tahap-34-jenis-tes-dan-blueprint",
+    "title": "Tahap Penyusunan Tes Kognitif",
+    "section": "Tahap 3–4: jenis tes dan blueprint",
+    "text": "Tahap 3–4: jenis tes dan blueprint\n\nMenentukan jenis tes — apakah ini tes prestasi, potensi, atau inteligensi? (Pertemuan 1 relevan lagi di sini.)\nMenyusun spesifikasi tes/blueprint — proporsi item untuk tiap sub-domain, dan berapa jumlah itemnya.\n\n\n\n\n\n\n\n\nContoh sederhana blueprint\n\n\nTes bakat numerik dengan 3 sub-domain, 20 item:\n\n\n\nSub-domain\nProporsi\nJumlah item\n\n\n\n\nOperasi hitung dasar\n40%\n8\n\n\nDeret angka/pola\n30%\n6\n\n\nSoal cerita kuantitatif\n30%\n6\n\n\n\nBlueprint juga biasanya menyilangkan domain isi dengan level kognitif yang ingin diukur — ini yang akan kita bahas lebih lengkap di Pertemuan 3 lewat taksonomi tujuan instruksional."
+  },
+  {
+    "objectID": "slides/pertemuan2.html#tahap-56-menulis-dan-menelaah",
+    "href": "slides/pertemuan2.html#tahap-56-menulis-dan-menelaah",
+    "title": "Tahap Penyusunan Tes Kognitif",
+    "section": "Tahap 5–6: menulis dan menelaah",
+    "text": "Tahap 5–6: menulis dan menelaah\n\nPenulisan item — sesuai proporsi dan level kognitif yang sudah ditetapkan di blueprint, bukan berdasarkan preferensi pribadi penulis item.\nTelaah/review ahli — item diperiksa oleh pihak lain (idealnya yang paham konstruknya) sebelum diuji cobakan, sebagai bukti awal validitas isi.\n\n\n\n\n\n\n\n\nFungsi tahap telaah\n\n\nPenulis item sering tidak menyadari masalah pada item yang ditulisnya sendiri, misalnya kalimat yang ambigu, kunci jawaban ganda, atau petunjuk yang bias secara budaya. Telaah oleh pihak lain menjadi pemeriksaan pertama sebelum item digunakan pada partisipan sesungguhnya."
+  },
+  {
+    "objectID": "slides/pertemuan2.html#tahap-79-dari-data-ke-bukti",
+    "href": "slides/pertemuan2.html#tahap-79-dari-data-ke-bukti",
+    "title": "Tahap Penyusunan Tes Kognitif",
+    "section": "Tahap 7–9: dari data ke bukti",
+    "text": "Tahap 7–9: dari data ke bukti\n\nUji coba (try-out) — item diberikan pada sampel yang representatif terhadap populasi sasaran.\nAnalisis butir — memeriksa tingkat kesulitan dan daya beda tiap item dari data uji coba.\nEstimasi reliabilitas dan validitas — dihitung dari hasil analisis butir dan item yang dipertahankan.\n\n\n\n\n\n\n\n\nFungsi tahap ini\n\n\nTiga tahap ini adalah bagian proses di mana kualitas tes diuji berdasarkan data, bukan hanya penilaian ahli. Bagian ini dibahas lebih lanjut di Pertemuan 12–13."
+  },
+  {
+    "objectID": "slides/pertemuan2.html#tahap-1011-norma-dan-manual",
+    "href": "slides/pertemuan2.html#tahap-1011-norma-dan-manual",
+    "title": "Tahap Penyusunan Tes Kognitif",
+    "section": "Tahap 10–11: norma dan manual",
+    "text": "Tahap 10–11: norma dan manual\n\nPenyusunan norma — mengubah skor mentah menjadi skor yang bisa dimaknai (persentil, skor standar) relatif terhadap kelompok acuan.\nPenyusunan manual tes — dokumentasi lengkap tentang cara mengadministrasikan, menyekor, dan menginterpretasikan tes.\n\n\n\n\n\n\n\n\nIni luaran Tugas 3 Anda\n\n\nBooklet tes (berisi item yang lolos seleksi) dan manual tes yang Anda kumpulkan di Pertemuan 14 adalah Tahap 10 dan 11 ini."
+  },
+  {
+    "objectID": "slides/pertemuan2.html#pengulangan-antar-tahap",
+    "href": "slides/pertemuan2.html#pengulangan-antar-tahap",
+    "title": "Tahap Penyusunan Tes Kognitif",
+    "section": "Pengulangan antar tahap",
+    "text": "Pengulangan antar tahap\n\nSebelas tahap ini digambarkan secara linear, tetapi dalam praktiknya sering melibatkan kembali ke tahap sebelumnya.\nAnalisis butir menunjukkan item timpang di satu sub-domain → kembali ke Tahap 5 untuk menulis item pengganti, kadang kembali ke Tahap 4 untuk merevisi blueprint-nya.\nReliabilitas ternyata terlalu rendah → bisa berarti kembali ke penulisan item, bukan sekadar menambah jumlah item.\n\n\n\n\n\n\n\n\nKonsekuensi untuk jadwal proyek Anda\n\n\nAlokasikan waktu untuk kemungkinan kembali ke tahap sebelumnya. Kelompok yang mengerjakan tiap tahap hanya satu kali tanpa peninjauan ulang cenderung mengalami kendala waktu di Pertemuan 13–14."
+  },
+  {
+    "objectID": "slides/pertemuan2.html#ringkasan-tahapan-penyusunan-tes",
+    "href": "slides/pertemuan2.html#ringkasan-tahapan-penyusunan-tes",
+    "title": "Tahap Penyusunan Tes Kognitif",
+    "section": "Ringkasan Tahapan Penyusunan Tes",
+    "text": "Ringkasan Tahapan Penyusunan Tes\n\n\n\n\n\n\n\nDiagram ini menyederhanakan sebelas tahap di atas menjadi sembilan kotak visual — misalnya Tahap 5 dan 6 digabung menjadi “Penulisan item & Reviu item”, serta Tahap 10 dan 11 digabung menjadi “Bentuk Final”. Pengelompokan visualnya berbeda, tetapi logika dan urutan besarnya tetap sama."
+  },
+  {
+    "objectID": "slides/pertemuan2.html#ringkasan",
+    "href": "slides/pertemuan2.html#ringkasan",
+    "title": "Tahap Penyusunan Tes Kognitif",
+    "section": "Ringkasan",
+    "text": "Ringkasan\n\nMenulis item tanpa definisi konstrak dan blueprint terlebih dahulu adalah kesalahan umum yang berisiko menghasilkan proporsi domain yang tidak sesuai rencana.\nAda banyak versi tahapan di literatur (Kline, 1986; Azwar, 2019; Downing, 2006)).\nSebelas tahap mata kuliah ini terbagi jadi empat fase: Perencanaan, Pengembangan Item, Uji Empiris, Finalisasi.\nProsesnya iteratif, alokasikan waktu untuk kembali ke tahap sebelumnya."
+  },
+  {
+    "objectID": "slides/pertemuan2.html#untuk-pertemuan-3",
+    "href": "slides/pertemuan2.html#untuk-pertemuan-3",
+    "title": "Tahap Penyusunan Tes Kognitif",
+    "section": "Untuk Pertemuan 3",
+    "text": "Untuk Pertemuan 3\n\n\n\n\n\n\nSelanjutnya: taksonomi dan tujuan instruksional\n\n\nBlueprint yang kita singgung hari ini menyilangkan domain isi dengan level kognitif. Pertemuan 3 membahas taksonomi yang jadi dasar penentuan level kognitif tersebut — alat yang akan Anda pakai langsung saat menyusun blueprint proyek Anda."
+  },
+  {
+    "objectID": "slides/pertemuan2.html#ada-pertanyaan",
+    "href": "slides/pertemuan2.html#ada-pertanyaan",
+    "title": "Tahap Penyusunan Tes Kognitif",
+    "section": "Ada pertanyaan❓",
+    "text": "Ada pertanyaan❓\n\n\n\n\n\n\n\nCatatan\n\n\n\nPaparan disusun dengan menggunakan  dan Quarto dengan template dari UNAIR Theme.\nKontak saya via  amelia.zein@psikologi.unair.ac.id"
+  },
+  {
+    "objectID": "slides/pertemuan2.html#rujukan",
+    "href": "slides/pertemuan2.html#rujukan",
+    "title": "Tahap Penyusunan Tes Kognitif",
+    "section": "Rujukan",
+    "text": "Rujukan\nAzwar, S. (2019). Konstruksi tes: Kemampuan kognitif. Pustaka Pelajar.\nDowning, S. M. (2006). Twelve steps for effective test development. In S. M. Downing & T. M. Haladyna (Eds.), Handbook of test development. Lawrence Erlbaum Associates.\nKline, P. (1986). A handbook of test construction: Introduction to psychometric design. Methuen."
+  },
+  {
+    "objectID": "slides/pertemuan5.html#outline",
+    "href": "slides/pertemuan5.html#outline",
+    "title": "Tes Potensi",
+    "section": "Outline",
+    "text": "Outline\n\nDefinisi tes potensi\nTes potensi vs. tes prestasi\nDua kategori tes potensi\nTes Potensi Akademik (TPA)\nTes bakat khusus\nFormat butir yang umum dipakai\nAktivitas: mengklasifikasikan butir TPA\n\n\n\nDisclosure penggunaan akal imitasi (AI)\nSaya menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk brainstorming materi, mencari referensi, dan melakukan troubleshooting kode quarto dan git. Saya bertanggung jawab penuh atas substansi dan penyajian presentasi ini."
+  },
+  {
+    "objectID": "slides/pertemuan5.html#bandingkan",
+    "href": "slides/pertemuan5.html#bandingkan",
+    "title": "Tes Potensi",
+    "section": "Bandingkan",
+    "text": "Bandingkan\n\nUjian akhir semester mata kuliah Statistika — mengukur seberapa jauh mahasiswa menguasai materi yang sudah diajarkan.\nTes Potensi Akademik (TPA) untuk seleksi masuk program magister — mengukur seberapa besar kemungkinan calon mahasiswa berhasil menempuh studi lanjut, sebelum studi itu dimulai.\n\n\nKeduanya sama-sama tes kognitif yang mengukur performansi maksimal. Bedanya: (1) mengukur hasil belajar yang sudah terjadi, (2) mengukur kapasitas untuk pembelajaran yang belum terjadi. Perbedaan ini sudah diperkenalkan di Pertemuan 1 — hari ini kita bahas lebih dalam untuk poin (2)."
+  },
+  {
+    "objectID": "slides/pertemuan5.html#definisi",
+    "href": "slides/pertemuan5.html#definisi",
+    "title": "Tes Potensi",
+    "section": "Definisi",
+    "text": "Definisi\n\n\n\n\n\n\nDefinisi\n\n\nTes potensi (aptitude test) adalah alat ukur yang dirancang untuk menaksir kapasitas seseorang mempelajari suatu keterampilan atau bidang tertentu di masa depan (Anastasi & Urbina, 1997).\n\n\n\n\nTes potensi tidak mengasumsikan peserta sudah pernah mempelajari materi yang diujikan secara formal.\nSkor tes potensi diinterpretasikan sebagai prediksi terhadap performa yang terjadi di masa depan.\n\n\n\nAzwar (2019)."
+  },
+  {
+    "objectID": "slides/pertemuan5.html#perbandingan",
+    "href": "slides/pertemuan5.html#perbandingan",
+    "title": "Tes Potensi",
+    "section": "Perbandingan",
+    "text": "Perbandingan\n\n\n\n\n\n\n\n\n\nTes Potensi\nTes Prestasi\n\n\n\n\nMengukur\nKapasitas belajar di masa depan\nPenguasaan materi yang sudah diajarkan\n\n\nOrientasi waktu\nPrediktif\nRetrospektif\n\n\nKetergantungan pada kurikulum tertentu\nRendah\nTinggi\n\n\nContoh penggunaan\nSeleksi masuk, penempatan kerja\nUjian sekolah, sertifikasi\n\n\nKriteria evaluasi kualitas tes\nValiditas prediktif\nValiditas isi\n\n\n\n\n\nDiadaptasi dari Anastasi & Urbina (1997) dan Azwar (2019); lihat juga Pertemuan 1."
+  },
+  {
+    "objectID": "slides/pertemuan5.html#batas-antara-keduanya-tidak-selalu-jelas",
+    "href": "slides/pertemuan5.html#batas-antara-keduanya-tidak-selalu-jelas",
+    "title": "Tes Potensi",
+    "section": "Batas antara keduanya tidak selalu jelas",
+    "text": "Batas antara keduanya tidak selalu jelas\n\nTes potensi tetap membutuhkan sejumlah pengetahuan dasar sebagai media pengukuran, misalnya soal kuantitatif tetap memakai operasi hitung yang sudah dipelajari.\nYang membedakan bukan “bebas dari pengaruh belajar sama sekali”, melainkan tujuan penggunaan skornya: memprediksi performa mendatang, bukan mencatat penguasaan materi tertentu."
+  },
+  {
+    "objectID": "slides/pertemuan5.html#tes-potensi-akademik-dan-tes-bakat-khusus",
+    "href": "slides/pertemuan5.html#tes-potensi-akademik-dan-tes-bakat-khusus",
+    "title": "Tes Potensi",
+    "section": "Tes potensi akademik dan tes bakat khusus",
+    "text": "Tes potensi akademik dan tes bakat khusus\n\nTes Potensi Akademik (TPA) — mengukur kapasitas kognitif umum yang relevan untuk keberhasilan studi, tidak terikat pada satu bidang keahlian tertentu.\nTes bakat khusus (specific aptitude) — mengukur kapasitas pada satu domain kemampuan tertentu, misalnya kemampuan mekanik, kemampuan klerikal, atau kemampuan spasial."
+  },
+  {
+    "objectID": "slides/pertemuan5.html#asal-usul-dan-struktur-umum",
+    "href": "slides/pertemuan5.html#asal-usul-dan-struktur-umum",
+    "title": "Tes Potensi",
+    "section": "Asal-usul dan struktur umum",
+    "text": "Asal-usul dan struktur umum\n\nKonstruksi TPA di Indonesia mengikuti sebagian konsep pengembangan Graduate Record Examinations (GRE) di Amerika Serikat, yang membagi kemampuan menjadi penalaran verbal, penalaran kuantitatif, dan kemampuan analitis (bentuk soal komponen analitis ini berbeda antar era — pilihan ganda pada dekade 1980-an saat TPA Indonesia mulai dikembangkan, esai tertulis pada versi GRE saat ini).\nTPA di Indonesia pada umumnya terdiri atas tiga subtes: Verbal, Kuantitatif, dan Penalaran (Azwar, 2019)."
+  },
+  {
+    "objectID": "slides/pertemuan5.html#contoh-kisi-kisi-tpa",
+    "href": "slides/pertemuan5.html#contoh-kisi-kisi-tpa",
+    "title": "Tes Potensi",
+    "section": "Contoh kisi-kisi TPA",
+    "text": "Contoh kisi-kisi TPA\n\n\n\n\n\n\n\n\nSubtes\nKomponen\nContoh indikator\n\n\n\n\nVerbal\nPadanan kata, lawan kata, analogi kata\nMengidentifikasi pasangan kata yang memiliki hubungan makna yang sama\n\n\nKuantitatif\nDeret angka, aritmetika, konsep aljabar\nMengidentifikasi prinsip yang mendasari suatu deret angka\n\n\nPenalaran\nBerpikir logis, berpikir analitik\nMenarik kesimpulan dari dua premis\n\n\n\n\n\nFormat kisi-kisi diadaptasi dari tradisi tabel spesifikasi TPA (Azwar, 2019)."
+  },
+  {
+    "objectID": "slides/pertemuan5.html#mengukur-satu-domain-kemampuan",
+    "href": "slides/pertemuan5.html#mengukur-satu-domain-kemampuan",
+    "title": "Tes Potensi",
+    "section": "Mengukur satu domain kemampuan",
+    "text": "Mengukur satu domain kemampuan\n\nTes bakat khusus dipakai ketika keputusan yang diambil terkait pada satu bidang tertentu, misalnya penjurusan sekolah kejuruan atau seleksi untuk posisi kerja teknis.\nContoh domain yang umum diukur: kemampuan verbal, numerik, penalaran abstrak, kecepatan klerikal, penalaran mekanik, dan hubungan ruang (space relations).\nBaterai tes bakat yang mengukur beberapa domain sekaligus disebut multiple aptitude battery.\n\nContohnya: Differential Aptitude Tests (Bennett, Seashore, & Wesman, 1947) dan General Aptitude Test Battery, yang sudah disebutkan di Pertemuan 1.\n\n\n\n\nAnastasi & Urbina (1997)."
+  },
+  {
+    "objectID": "slides/pertemuan5.html#kenapa-relevan-untuk-penyusunan-tes",
+    "href": "slides/pertemuan5.html#kenapa-relevan-untuk-penyusunan-tes",
+    "title": "Tes Potensi",
+    "section": "Kenapa relevan untuk penyusunan tes",
+    "text": "Kenapa relevan untuk penyusunan tes\n\n\n\n\n\n\nCatatan\n\n\nPrinsip yang sama berlaku baik pada TPA maupun tes bakat khusus: konstrak yang diukur harus didefinisikan terlebih dahulu (Pertemuan 2), lalu dijabarkan ke dalam blueprint yang menentukan proporsi tiap komponen."
+  },
+  {
+    "objectID": "slides/pertemuan5.html#beberapa-contoh-format",
+    "href": "slides/pertemuan5.html#beberapa-contoh-format",
+    "title": "Tes Potensi",
+    "section": "Beberapa contoh format",
+    "text": "Beberapa contoh format\n\nAnalogi verbal — “Sapi berhubungan dengan rumput, sebagaimana X berhubungan dengan Y”.\nSinonim/antonim — memilih kata dengan makna yang sama atau berlawanan.\nDeret angka — melengkapi pola pada suatu deret bilangan.\nPenalaran logis — menarik kesimpulan dari premis yang diberikan.\nPenalaran non-verbal figural — melengkapi pola pada rangkaian gambar atau bentuk."
+  },
+  {
+    "objectID": "slides/pertemuan5.html#contoh-format-deret-angka",
+    "href": "slides/pertemuan5.html#contoh-format-deret-angka",
+    "title": "Tes Potensi",
+    "section": "Contoh format deret angka",
+    "text": "Contoh format deret angka\nFormat ini biasa dipakai pada subtes kuantitatif:\n4, 7, 10, 13, …\n\n15　B) 16　C) 17　D) 18\n\n\n\n\n\n\n\n\nKunci\n\n\nJawaban B (16) — pola bertambah 3 setiap sukunya. Contoh ini dibuat khusus untuk ilustrasi, bukan diambil dari tes manapun, mengikuti prinsip yang sama seperti pada Pertemuan 1."
+  },
+  {
+    "objectID": "slides/pertemuan5.html#aktivitas-mengklasifikasikan-butir-tpa",
+    "href": "slides/pertemuan5.html#aktivitas-mengklasifikasikan-butir-tpa",
+    "title": "Tes Potensi",
+    "section": "Aktivitas: mengklasifikasikan butir TPA",
+    "text": "Aktivitas: mengklasifikasikan butir TPA\nUntuk tiap contoh butir berikut, tentukan termasuk subtes Verbal, Kuantitatif, atau Penalaran:\n\n“Pilih kata yang paling berlawanan makna dengan kata ‘optimis’.”\n“Jika semua A adalah B, dan sebagian B adalah C, apakah semua A pasti C?”\n“Lengkapi deret berikut: 2, 6, 18, 54, …”\n\n\n\n\n\n\n\n\nKunci\n\n\n\nVerbal. (2) Penalaran. (3) Kuantitatif."
+  },
+  {
+    "objectID": "slides/pertemuan5.html#ringkasan",
+    "href": "slides/pertemuan5.html#ringkasan",
+    "title": "Tes Potensi",
+    "section": "Ringkasan",
+    "text": "Ringkasan\n\nTes potensi mengukur kapasitas belajar di masa depan, berbeda dari tes prestasi yang mengukur penguasaan materi yang sudah diajarkan.\nAda dua kategori tes potensi: Tes Potensi Akademik (TPA) untuk kapasitas kognitif umum, dan tes bakat khusus untuk satu domain kemampuan tertentu.\nTPA di Indonesia pada umumnya terdiri atas tiga subtes: Verbal, Kuantitatif, dan Penalaran, mengikuti sebagian konsep GRE.\nTes bakat khusus dipakai untuk keputusan yang terkait pada satu bidang tertentu, dan bisa disusun sebagai baterai yang mengukur beberapa domain sekaligus.\nPrinsip penyusunan tes dari Pertemuan 2 tetap berlaku: definisi konstrak dan blueprint mendahului penulisan item."
+  },
+  {
+    "objectID": "slides/pertemuan5.html#untuk-pertemuan-6",
+    "href": "slides/pertemuan5.html#untuk-pertemuan-6",
+    "title": "Tes Potensi",
+    "section": "Untuk Pertemuan 6",
+    "text": "Untuk Pertemuan 6\n\n\n\n\n\n\nSelanjutnya: tes inteligensi\n\n\nPertemuan 6 membahas tes inteligensi, yang merupakan jenis tes kognitif ketiga dari Pertemuan 1, termasuk sejarah perkembangannya dan beberapa instrumen yang banyak dipakai di Indonesia."
+  },
+  {
+    "objectID": "slides/pertemuan5.html#ada-pertanyaan",
+    "href": "slides/pertemuan5.html#ada-pertanyaan",
+    "title": "Tes Potensi",
+    "section": "Ada pertanyaan❓",
+    "text": "Ada pertanyaan❓\n\n\n\n\n\n\n\nCatatan\n\n\n\nPaparan disusun dengan menggunakan  dan Quarto dengan template dari UNAIR Theme.\nKontak saya via  amelia.zein@psikologi.unair.ac.id"
+  },
+  {
+    "objectID": "slides/pertemuan5.html#rujukan",
+    "href": "slides/pertemuan5.html#rujukan",
+    "title": "Tes Potensi",
+    "section": "Rujukan",
+    "text": "Rujukan\nAnastasi, A., & Urbina, S. (1997). Psychological testing (7th ed.). Prentice Hall.\nAzwar, S. (2019). Konstruksi tes: Kemampuan kognitif. Pustaka Pelajar.\nBennett, G. K., Seashore, H. G., & Wesman, A. G. (1947). Differential aptitude tests. Psychological Corporation."
+  },
+  {
+    "objectID": "slides/pertemuan6.html#outline",
+    "href": "slides/pertemuan6.html#outline",
+    "title": "Tes Intelegensi",
+    "section": "Outline",
+    "text": "Outline\n\nDefinisi tes inteligensi\nSejarah singkat teori inteligensi\nSejarah yang perlu diketahui\nTeori Cattell–Horn–Carroll (CHC)\nCHC di Indonesia\nDua teori lain: triarchic dan multiple intelligences\nJenis-jenis tes inteligensi\nAktivitas: mengidentifikasi tes inteligensi dalam artikel ilmiah\n\n\n\nDisclosure penggunaan akal imitasi (AI)\nSaya menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk brainstorming materi, mencari referensi, dan melakukan troubleshooting kode quarto dan git. Saya bertanggung jawab penuh atas substansi dan penyajian presentasi ini."
+  },
+  {
+    "objectID": "slides/pertemuan6.html#definisi-yang-paling-sering-dikutip",
+    "href": "slides/pertemuan6.html#definisi-yang-paling-sering-dikutip",
+    "title": "Tes Intelegensi",
+    "section": "Definisi yang paling sering dikutip",
+    "text": "Definisi yang paling sering dikutip\n\nIntelligence is the aggregate or global capacity of the individual to act purposefully, to think rationally and to deal effectively with his environment.\n— Wechsler (1958, p. 7)\n\n\nTerjemahan bebasnya: inteligensi adalah kapasitas global seseorang untuk bertindak dengan tujuan, berpikir rasional, dan berinteraksi secara efektif dengan lingkungannya.\n\n\n\n\n\n\nCatatan\n\n\nDefinisi ini menekankan tiga aspek sekaligus: perilaku terarah, penalaran, dan kemampuan beradaptasi dengan lingkungan."
+  },
+  {
+    "objectID": "slides/pertemuan6.html#dari-satu-faktor-ke-banyak-faktor",
+    "href": "slides/pertemuan6.html#dari-satu-faktor-ke-banyak-faktor",
+    "title": "Tes Intelegensi",
+    "section": "Dari satu faktor ke banyak faktor",
+    "text": "Dari satu faktor ke banyak faktor\n\nSpearman (1904) menemukan bahwa skor pada berbagai tes kemampuan cenderung saling berkorelasi positif, dan menyimpulkan adanya satu faktor umum yang mendasarinya, yang kemudian disebut g (general intelligence).\nThurstone (1938) menentang gagasan faktor tunggal ini. Melalui analisis faktor terhadap puluhan tes, ia mengusulkan tujuh kemampuan mental primer yang relatif independen, misalnya kemampuan verbal, numerik, dan spasial.\nCattell (1963) memakai istilah fluid intelligence (Gf) untuk kapasitas bernalar pada situasi baru, dan crystallized intelligence (Gc) untuk pengetahuan yang sudah diperoleh melalui pembelajaran."
+  },
+  {
+    "objectID": "slides/pertemuan6.html#menuju-chc",
+    "href": "slides/pertemuan6.html#menuju-chc",
+    "title": "Tes Intelegensi",
+    "section": "Menuju CHC",
+    "text": "Menuju CHC\n\nCarroll (1993) menganalisis ulang lebih dari 460 kumpulan data kemampuan kognitif dan mengusulkan model tiga lapis (three-stratum): faktor umum (g) di puncak, sejumlah faktor luas di lapis kedua, dan puluhan faktor sempit di lapis ketiga.\nModel Cattell–Horn (Gf-Gc) dan model tiga lapis Carroll kemudian digabungkan menjadi teori Cattell–Horn–Carroll (CHC) — kerangka yang dipakai secara luas pada tes inteligensi kontemporer.\n\n\n\nWasserman (2018); Schneider & McGrew (2023)."
+  },
+  {
+    "objectID": "slides/pertemuan6.html#penyalahgunaan-tes-inteligensi-di-masa-lalu",
+    "href": "slides/pertemuan6.html#penyalahgunaan-tes-inteligensi-di-masa-lalu",
+    "title": "Tes Intelegensi",
+    "section": "Penyalahgunaan tes inteligensi di masa lalu",
+    "text": "Penyalahgunaan tes inteligensi di masa lalu\n\nPada awal abad ke-20, skor tes inteligensi pernah dipakai sebagai dasar kebijakan sterilisasi paksa terhadap orang dengan disabilitas intelektual di Amerika Serikat, termasuk kasus Buck v. Bell (1927) yang disahkan oleh Mahkamah Agung AS.\nSejumlah tokoh awal dalam pengembangan tes inteligensi juga terlibat dalam gerakan eugenika, yang bertujuan “memperbaiki” populasi manusia berdasarkan atribut yang dianggap terwariskan.\n\n\n\n\n\n\n\n\nKaitan dengan Pertemuan 1\n\n\nSejarah ini adalah salah satu alasan mengapa penggunaan tes psikologi di Indonesia dibatasi oleh Kode Etik Psikologi Indonesia (HIMPSI, 2010) yang sudah dibahas di Pertemuan 1.\n\n\n\n\nWasserman (2018)."
+  },
+  {
+    "objectID": "slides/pertemuan6.html#struktur-bertingkat",
+    "href": "slides/pertemuan6.html#struktur-bertingkat",
+    "title": "Tes Intelegensi",
+    "section": "Struktur bertingkat",
+    "text": "Struktur bertingkat\nCHC menyusun kemampuan kognitif dalam empat tingkat:\n\nKemampuan spesifik — terikat pada satu tugas atau tes tertentu; satu-satunya tingkat yang bisa diukur secara langsung.\nKemampuan sempit (narrow abilities) — kumpulan kemampuan spesifik yang saling berkorelasi tinggi.\nKemampuan luas (broad abilities) — kumpulan kemampuan sempit yang saling berkorelasi lebih tinggi satu sama lain dibanding dengan kemampuan luas lainnya, diberi kode diawali huruf G.\nKemampuan umum (g) — faktor tunggal di puncak struktur.\n\n\n\nSchneider & McGrew (2018)."
+  },
+  {
+    "objectID": "slides/pertemuan6.html#chc",
+    "href": "slides/pertemuan6.html#chc",
+    "title": "Tes Intelegensi",
+    "section": "CHC",
+    "text": "CHC"
+  },
+  {
+    "objectID": "slides/pertemuan6.html#beberapa-broad-abilities-dalam-chc-1",
+    "href": "slides/pertemuan6.html#beberapa-broad-abilities-dalam-chc-1",
+    "title": "Tes Intelegensi",
+    "section": "Beberapa broad abilities dalam CHC (1)",
+    "text": "Beberapa broad abilities dalam CHC (1)\n\n\n\nKode\nbroad abilities\n\n\n\n\nGf\nFluid reasoning\n\n\nGc\nComprehension-knowledge\n\n\nGv\nVisual-spatial processing\n\n\nGa\nAuditory processing\n\n\n\n\n\nSchneider & McGrew (2018) mendaftar sekitar 16 broad abilities; tabel ini menampilkan sebagian yang paling umum diukur."
+  },
+  {
+    "objectID": "slides/pertemuan6.html#beberapa-broad-abilities-dalam-chc-2",
+    "href": "slides/pertemuan6.html#beberapa-broad-abilities-dalam-chc-2",
+    "title": "Tes Intelegensi",
+    "section": "Beberapa broad abilities dalam CHC (2)",
+    "text": "Beberapa broad abilities dalam CHC (2)\n\n\n\nKode\nbroad abilities\n\n\n\n\nGwm\nWorking memory\n\n\nGl\nLearning efficiency\n\n\nGr\nRetrieval fluency\n\n\nGs\nProcessing speed\n\n\n\n\n\n\n\n\n\n\nRelevansi untuk proyek Anda\n\n\nCHC adalah kerangka teori yang dipakai untuk menentukan konstruk pada proyek penyusunan tes kognitif Anda. Pembagian kemampuan sempit yang menjadi target pengukuran kelompok akan ditentukan lebih lanjut menjelang Pertemuan 9.\n\n\n\n\nSchneider & McGrew (2018)."
+  },
+  {
+    "objectID": "slides/pertemuan6.html#contoh-penerapan-lokal",
+    "href": "slides/pertemuan6.html#contoh-penerapan-lokal",
+    "title": "Tes Intelegensi",
+    "section": "Contoh penerapan lokal",
+    "text": "Contoh penerapan lokal\n\nSejak 2013, Yayasan Dharma Bermakna mengembangkan AJT Cognitive Assessment Test (AJT-CAT) — baterai tes kognitif individual berbasis CHC yang dinormakan pada lebih dari 4.000 anak dan remaja usia sekolah di Indonesia.\nAJT-CAT terdiri atas 27 tes yang dirancang untuk mengukur 21 kemampuan sempit, terangkum dalam delapan kemampuan luas CHC (Gf, Gc, Gv, Gwm, Ga, Gs, Gl, Gr)."
+  },
+  {
+    "objectID": "slides/pertemuan6.html#triarchic-dan-multiple-intelligences",
+    "href": "slides/pertemuan6.html#triarchic-dan-multiple-intelligences",
+    "title": "Tes Intelegensi",
+    "section": "Triarchic dan multiple intelligences",
+    "text": "Triarchic dan multiple intelligences\n\nTeori triarchic (Sternberg, 2018) — membagi inteligensi menjadi tiga bagian: kemampuan analitis, kemampuan kreatif, dan kemampuan praktis. Menekankan bahwa keberhasilan tidak hanya ditentukan oleh kemampuan yang biasa diukur tes tertulis.\nTeori multiple intelligences (Chen & Gardner, 2018) — mengusulkan sejumlah “inteligensi” yang relatif independen (misalnya linguistik, logis-matematis, musikal, kinestetik), dan menekankan bahwa individu bisa unggul pada satu ranah tanpa unggul pada ranah lain.\n\n\n\n\n\n\n\n\nCatatan\n\n\nKedua teori ini banyak memengaruhi diskusi di bidang pendidikan, tetapi belum seluas CHC dioperasionalkan ke dalam tes inteligensi terstandardisasi yang banyak dipakai secara praktis."
+  },
+  {
+    "objectID": "slides/pertemuan6.html#perdebatan-seputar-multiple-intelligences",
+    "href": "slides/pertemuan6.html#perdebatan-seputar-multiple-intelligences",
+    "title": "Tes Intelegensi",
+    "section": "Perdebatan seputar multiple intelligences",
+    "text": "Perdebatan seputar multiple intelligences\n\nBerbeda dengan CHC yang dibangun dari analisis faktor terhadap skor tes, kedelapan “inteligensi” Gardner (1983, 1999) dirumuskan terutama dari observasi klinis, studi kasus, dan kriteria konseptual. Perlu dicatat, teori aslinya (1983) memuat tujuh inteligensi; inteligensi naturalistik baru ditambahkan belakangan sehingga jumlahnya menjadi delapan (Gardner, 1999).\nKetika diuji secara psikometrik, Visser, Ashton, dan Vernon (2006) menemukan bahwa ukuran-ukuran dari delapan “inteligensi” tersebut tetap saling berkorelasi dan sebagian besar dijelaskan oleh faktor umum (g), bukan muncul sebagai kemampuan yang independen satu sama lain.\nKritik lain menyoroti bahwa sebagian “inteligensi” (misalnya musikal atau kinestetik) lebih dekat dengan pengertian bakat atau keterampilan dibanding pengertian inteligensi pada tradisi psikometri.\n\n\n\nVisser, Ashton, dan Vernon (2006)."
+  },
+  {
+    "objectID": "slides/pertemuan6.html#beberapa-instrumen-yang-banyak-dipakai",
+    "href": "slides/pertemuan6.html#beberapa-instrumen-yang-banyak-dipakai",
+    "title": "Tes Intelegensi",
+    "section": "Beberapa instrumen yang banyak dipakai",
+    "text": "Beberapa instrumen yang banyak dipakai\n\n\n\n\n\n\n\n\nInstrumen\nRentang usia/populasi\nCatatan\n\n\n\n\nStanford-Binet\nAnak hingga dewasa\nSalah satu tes inteligensi individual pertama\n\n\nWechsler (WPPSI, WISC, WAIS)\nPrasekolah hingga dewasa\nTerdiri atas beberapa skala sesuai kelompok usia\n\n\nProgressive Matrices (CPM, SPM, APM)\nAnak hingga dewasa\nNon-verbal, berbasis pola gambar\n\n\nCFIT (Culture Fair Intelligence Test)\nAnak hingga dewasa\nDirancang meminimalkan pengaruh bahasa dan budaya\n\n\nTIKI (Tes Inteligensi Kolektif Indonesia)\nSD hingga dewasa\nDikembangkan dengan norma Indonesia\n\n\n\n\n\nAnastasi & Urbina (1997); Azwar (2019)."
+  },
+  {
+    "objectID": "slides/pertemuan6.html#tentang-tes-non-verbal",
+    "href": "slides/pertemuan6.html#tentang-tes-non-verbal",
+    "title": "Tes Intelegensi",
+    "section": "Tentang tes non-verbal",
+    "text": "Tentang tes non-verbal\n\n\n\n\n\n\nCatatan\n\n\nCFIT dan Progressive Matrices dirancang mengurangi pengaruh bahasa dan latar belakang budaya terhadap skor. Desain ini tidak sepenuhnya menghilangkan pengaruh budaya. Isu ini dibahas lebih lanjut di Pertemuan 15.\n\n\n\n\n\nMcCallum (2018)."
+  },
+  {
+    "objectID": "slides/pertemuan6.html#aktivitas-mengidentifikasi-tes-inteligensi-dalam-artikel-ilmiah",
+    "href": "slides/pertemuan6.html#aktivitas-mengidentifikasi-tes-inteligensi-dalam-artikel-ilmiah",
+    "title": "Tes Intelegensi",
+    "section": "Aktivitas: mengidentifikasi tes inteligensi dalam artikel ilmiah",
+    "text": "Aktivitas: mengidentifikasi tes inteligensi dalam artikel ilmiah\nBayangkan sebuah abstrak jurnal menyebutkan:\n\n“…partisipan menyelesaikan Raven’s Standard Progressive Matrices sebagai kovariat, untuk mengontrol kemampuan penalaran umum sebelum menganalisis efek utama dari intervensi…”\n\n\nApakah instrumen ini termasuk tes inteligensi, tes bakat, atau tes prestasi? Bandingkan dengan definisi Pertemuan 1 dan Pertemuan 5.\nKemampuan CHC apa yang paling relevan dengan Progressive Matrices, berdasarkan tabel kemampuan luas hari ini?\n\n\n\n\n\n\n\n\nKunci\n\n\nProgressive Matrices termasuk tes inteligensi — dirancang mengukur kapasitas umum menyelesaikan masalah pada situasi baru. Kemampuan CHC yang paling relevan adalah Gf (penalaran cair).\n\n\n\n\n\n\nLatihan ini relevan untuk Tugas 1 (Pertemuan 6)."
+  },
+  {
+    "objectID": "slides/pertemuan6.html#ringkasan",
+    "href": "slides/pertemuan6.html#ringkasan",
+    "title": "Tes Intelegensi",
+    "section": "Ringkasan",
+    "text": "Ringkasan\n\nWechsler (1958) mendefinisikan inteligensi sebagai kapasitas global untuk bertindak dengan tujuan, berpikir rasional, dan berinteraksi efektif dengan lingkungan.\nTeori inteligensi berkembang dari model satu faktor (Spearman) ke model banyak faktor (Thurstone), lalu ke model bertingkat yang menggabungkan keduanya (CHC).\nCHC menyusun kemampuan kognitif dalam empat tingkat: spesifik, sempit, luas, dan umum — dan menjadi kerangka teori untuk proyek akhir Anda.\nAda pengembangan tes berbasis CHC di Indonesia, seperti AJT-CAT.\nTriarchic (Sternberg) dan multiple intelligences (Gardner) adalah dua teori alternatif yang lebih berpengaruh di ranah pendidikan dibanding tes klinis terstandardisasi; dukungan psikometrik untuk multiple intelligences khususnya masih diperdebatkan.\nSejarah penyalahgunaan tes inteligensi adalah salah satu alasan di balik pembatasan penggunaan tes psikologi menurut Kode Etik Psikologi Indonesia."
+  },
+  {
+    "objectID": "slides/pertemuan6.html#untuk-pertemuan-7",
+    "href": "slides/pertemuan6.html#untuk-pertemuan-7",
+    "title": "Tes Intelegensi",
+    "section": "Untuk Pertemuan 7",
+    "text": "Untuk Pertemuan 7\n\n\n\n\n\n\nSelanjutnya: menulis item tes prestasi dan potensi\n\n\nPertemuan 7 kembali ke keterampilan praktis menulis item, menerapkan perbedaan tes prestasi (Pertemuan 4) dan tes potensi (Pertemuan 5) yang sudah dibahas."
+  },
+  {
+    "objectID": "slides/pertemuan6.html#ada-pertanyaan",
+    "href": "slides/pertemuan6.html#ada-pertanyaan",
+    "title": "Tes Intelegensi",
+    "section": "Ada pertanyaan❓",
+    "text": "Ada pertanyaan❓\n\n\n\n\n\n\n\nCatatan\n\n\n\nPaparan disusun dengan menggunakan  dan Quarto dengan template dari UNAIR Theme.\nKontak saya via  amelia.zein@psikologi.unair.ac.id"
+  },
+  {
+    "objectID": "slides/pertemuan6.html#rujukan",
+    "href": "slides/pertemuan6.html#rujukan",
+    "title": "Tes Intelegensi",
+    "section": "Rujukan",
+    "text": "Rujukan\nAnastasi, A., & Urbina, S. (1997). Psychological testing (7th ed.). Prentice Hall.\nAzwar, S. (2019). Konstruksi tes: Kemampuan kognitif. Pustaka Pelajar.\nCarroll, J. B. (1993). Human cognitive abilities: A survey of factor-analytic studies. Cambridge University Press.\nCattell, R. B. (1963). Theory of fluid and crystallized intelligence: A critical experiment. Journal of Educational Psychology, 54(1), 1–22.\nChen, J.-Q., & Gardner, H. (2018). Assessment from the perspective of multiple-intelligences theory. In D. P. Flanagan & E. M. McDonough (Eds.), Contemporary intellectual assessment: Theories, tests, and issues (4th ed., pp. 164–173). Guilford Press.\nGardner, H. (1983). Frames of mind: The theory of multiple intelligences. Basic Books.\nGardner, H. (1999). Intelligence reframed: Multiple intelligences for the 21st century. Basic Books.\nHimpunan Psikologi Indonesia (HIMPSI). (2010). Kode etik psikologi Indonesia.\nMcCallum, R. S. (Ed.). (2018). Handbook of nonverbal assessment (2nd ed.). Springer.\nSchneider, W. J., & McGrew, K. S. (2018). The Cattell–Horn–Carroll theory of cognitive abilities. In D. P. Flanagan & E. M. McDonough (Eds.), Contemporary intellectual assessment: Theories, tests, and issues (4th ed., pp. 73–163). Guilford Press.\nSpearman, C. (1904). “General intelligence,” objectively determined and measured. American Journal of Psychology, 15(2), 201–292.\nSternberg, R. J. (2018). The triarchic theory of successful intelligence. In D. P. Flanagan & E. M. McDonough (Eds.), Contemporary intellectual assessment: Theories, tests, and issues (4th ed., pp. 174–194). Guilford Press.\nThurstone, L. L. (1938). Primary mental abilities. University of Chicago Press.\nVisser, B. A., Ashton, M. C., & Vernon, P. A. (2006). Beyond g: Putting multiple intelligences theory to the test. Intelligence, 34(5), 487–502.\nWasserman, J. D. (2018). A history of intelligence assessment: The unfinished tapestry. In D. P. Flanagan & E. M. McDonough (Eds.), Contemporary intellectual assessment: Theories, tests, and issues (4th ed., pp. 3–55). Guilford Press.\nWechsler, D. (1958). The measurement and appraisal of adult intelligence (4th ed.). Williams & Wilkins."
+  }
+]
