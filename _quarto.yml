@@ -4,6 +4,7 @@ project:
   resources:
     - libs/
   render:
+    - index.qmd
     - slides/
     
 website:
