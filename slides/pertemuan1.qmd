@@ -21,13 +21,12 @@ execute:
 ## _Outline_
 
 ::: {.incremental}
-* Apa yang akan kita kerjakan selama satu semester?
+* Apa yang akan kita lakukan selama satu semester?
 * Tiga situasi yang butuh jenis tes kognitif berbeda-beda
-* Jembatan dari mata kuliah Psikometri
-* Psikometri dan pengukuran psikologi
+* Mengingat kembali materi mata kuliah Psikometri
 * Istilah yang sering tertukar: tes, skala, inventori, angket
-* Ranah atribut: kognitif vs non-kognitif
-* Performansi maksimal vs performansi tipikal
+* Ranah atribut: kognitif vs. non-kognitif
+* Performansi maksimal vs. performansi tipikal
 * Sejarah singkat: tiga tradisi tes kognitif
 * Tiga jenis utama tes kognitif
 * Klasifikasi tes menurut Kode Etik Psikologi Indonesia
@@ -41,14 +40,14 @@ Saya menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk *brainstorming* m
 
 # Orientasi mata kuliah {background-color="#14497F" .center}
 
-## Apa yang akan kita kerjakan selama satu semester?
+## Apa yang akan kita lakukan selama satu semester?
 
 ::: {.incremental}
-* **Proyek akhir**: setiap kelompok akan **menyusun satu set tes kognitif lengkap**, dari spesifikasi item sampai booklet dan manual tes, disertai bukti validitas dan reliabilitas. Untuk itu, Anda diminta untuk membuat kelompok dengan anggota Maks. 5 orang. 
+* **Proyek akhir**: setiap kelompok akan **menyusun satu set tes kognitif lengkap**, dari spesifikasi item sampai *booklet* dan manual tes, disertai bukti validitas dan reliabilitas. Untuk itu, Anda diminta untuk membuat kelompok dengan anggota Maks. 5 orang. 
   + [Silakan tuliskan nama-nama anggota kelompok Anda di *spreadsheet* ini](https://docs.google.com/spreadsheets/d/1TWuEzAeO6-VahflbT3vBpnKLzG5zjd8K/edit?usp=sharing&ouid=100126014993390956583&rtpof=true&sd=true).
   + *Spreadsheet* akan ditutup aksesnya (tidak bisa di*edit*) setelah pertemuan ke-3.
 
-* **Sebelum UTS (Pertemuan 1–7)**: membangun fondasi konseptualnya. Apa itu tes kognitif, bagaimana tahapan menyusunnya, apa itu taksonomi tujuan instruksional, dan apa beda mendasar antara tes prestasi, tes potensi, dan tes inteligensi.
+* **Sebelum UTS (Pertemuan 1–7)**: membangun fondasi konseptualnya. Apa itu tes kognitif, bagaimana tahapan menyusunnya, apa itu taksonomi tujuan instruksional, dan apa perbedaan mendasar antara tes prestasi, tes potensi, dan tes inteligensi.
 
 * **Setelah UTS (Pertemuan 9–15)**: mengerjakan proyeknya. Menulis item HOTS, menyusun spesifikasi dan *blueprint*, mengambil data uji coba, menganalisis butir, mengestimasi reliabilitas dan validitas, menyusun norma dan manual.
 :::
@@ -62,11 +61,11 @@ Rencana lengkap ada di **RPS** dan **Kontrak Kuliah** (dibagikan terpisah di Psy
 ## Tiga situasi
 
 ::: {.incremental}
-1. Sebuah SD ingin tahu apakah program literasi barunya berhasil: **apakah kemampuan membaca siswa kelas 5 tahun ini lebih baik dibanding angkatan tahun lalu**, setelah materi yang sama diajarkan?
+1. Sebuah SD ingin tahu apakah program literasi barunya berhasil: **apakah kemampuan membaca siswa kelas 5 tahun ini lebih baik dibanding siswa yang masuk tahun lalu**, setelah materi yang sama diajarkan?
 
-2. Sebuah *startup* menyaring 500 pelamar magang pemrograman **sebelum melihat satu baris kode pun yang mereka tulis** — mereka ingin tahu siapa yang berpotensi paling cepat belajar *coding*.
+2. Sebuah *startup* menyaring 500 pelamar magang pemrograman **sebelum melihat satu baris kode pun yang mereka tulis**, karena mereka ingin tahu siapa yang berpotensi paling cepat belajar *coding*.
 
-3. Seorang neuropsikolog perlu menetapkan garis dasar **kemampuan penalaran umum** seorang pasien pascacedera kepala, sebelum bisa menilai apakah ada penurunan fungsi kognitif.
+3. Seorang neuropsikolog perlu menetapkan *baseline* **kemampuan penalaran umum** seorang pasien pascacedera kepala, sebelum bisa menilai apakah ada penurunan fungsi kognitif.
 :::
 
 ## Apa kesamaan dan perbedaan ketiganya?
@@ -83,17 +82,17 @@ Rencana lengkap ada di **RPS** dan **Kontrak Kuliah** (dibagikan terpisah di Psy
 
 ::: {.callout-warning}
 #### Ini bukan soal istilah semata
-Ketiga situasi ini akan terus muncul sepanjang mata kuliah ini dalam bentuk **tes prestasi** (Pertemuan 4), **tes potensi** (Pertemuan 5), dan **tes inteligensi** (Pertemuan 6). Hari ini kita bangun dulu pemahaman umumnya.
+Ketiga situasi ini akan terus muncul sepanjang mata kuliah ini dalam bentuk **tes prestasi** (Pertemuan 4), **tes potensi** (Pertemuan 5), dan **tes inteligensi** (Pertemuan 6). 
 :::
 
-# Jembatan dari Psikometri {background-color="#14497F" .center}
+# Mengingat kembali materi Psikometri {background-color="#14497F" .center}
 
 ## Apa yang sudah Anda pelajari?
 
 Dari mata kuliah Psikometri, Anda sudah belajar hal-hal berikut ini:
 
 ::: {.incremental}
-* **Pengukuran** — mengubah atribut menjadi angka
+* **Pengukuran** — mengubah atribut ukur (konstruk psikologis) menjadi angka
 * **Validitas** — apakah tes mengukur apa yang seharusnya diukur?
 * **Reliabilitas** — apakah hasil pengukuran konsisten?
 * **Atribut psikologis** — konstrak yang bersifat laten, tidak teramati langsung
@@ -140,7 +139,7 @@ Standar internasional (AERA, APA, & NCME, 2014) menekankan bahwa kualitas tes ti
 
 ::: {.callout-important}
 #### Implikasinya
-Karena atributnya laten, **tidak ada tes yang mengukur secara sempurna**. Setiap tes adalah *sampel perilaku* yang kita generalisasikan ke konstrak yang lebih luas. Ini adalah alasan mengapa validitas dan reliabilitas selalu jadi isu sentral pengukuran psikologi.
+Karena atributnya laten, **tidak ada tes yang mengukur secara sempurna**. Setiap tes adalah *sampel perilaku* yang kita generalisasikan ke konstruk yang lebih luas. Ini adalah alasan mengapa validitas dan reliabilitas selalu jadi isu sentral dalam pengukuran psikologi.
 :::
 
 # Istilah yang sering tumpang-tindih dan tertukar {background-color="#14497F" .center}
@@ -151,7 +150,7 @@ Karena atributnya laten, **tidak ada tes yang mengukur secara sempurna**. Setiap
 |---|---|
 | **Tes** | Pengukuran objektif dan standar terhadap sampel perilaku (Anastasi & Urbina, 1997) |
 | **Skala** | Instrumen untuk mengidentifikasi konstrak/atribut psikologis, biasanya non-kognitif |
-| **Inventori** | Alat untuk menaksir dan menilai tingkah laku, minat, atau preferensi |
+| **Inventori** | Alat untuk mengestimasi dan menilai tingkah laku, minat, atau preferensi |
 | **Angket/Kuesioner** | Sekumpulan pertanyaan mengenai suatu topik, jawaban berdasarkan *self-report* partisipan |
 
 . . .
@@ -168,14 +167,14 @@ Kalau ada jawaban **benar-salah** yang bisa dinilai objektif dari performa → i
 ::: {.incremental}
 * Atribut terbagi dua: **fisik** (tinggi, berat) dan **non-fisik/psikologis**.
 * Atribut psikologis sendiri terbagi dua: **kognitif** (potensial dan aktual) dan **non-kognitif** (afektif, kepribadian).
-* Mata kuliah ini berhenti di satu cabang saja: **atribut kognitif**.
+* Mata kuliah ini berhenti di satu cabang saja, yaitu **atribut kognitif**.
 :::
 
 ::: aside
 Diadaptasi dari kerangka klasifikasi Azwar (2019).
 :::
 
-# Performansi maksimal vs tipikal {background-color="#14497F" .center}
+# Performansi maksimal vs. tipikal {background-color="#14497F" .center}
 
 ## Dua cara tes mengevaluasi perilaku
 
@@ -184,7 +183,7 @@ Diadaptasi dari kerangka klasifikasi Azwar (2019).
 ### Performansi maksimal
 *(ability test → tes kognitif)*
 
-* Mengungkap **apa yang mampu** dilakukan seseorang, sebaik apa
+* Mengungkap **apa yang mampu** dilakukan seseorang, sebaik apa performanya
 * Stimulus jelas, jawaban benar/salah
 * Skor dan waktu pengerjaan diberitahukan
 * Instruksi eksplisit: kerjakan **sebaik mungkin**
@@ -240,17 +239,17 @@ Klasifikasikan tiga contoh berikut:
 
 ::: {.incremental}
 * **1917–1918** — Angkatan Darat AS menyusun *Army Alpha* (verbal) dan *Army Beta* (non-verbal) untuk menyeleksi dan menempatkan jutaan rekrutan Perang Dunia I secara massal ([Yoakum & Yerkes, 1920](https://psycnet.apa.org/record/2006-05095-005)).
-* Ini salah satu penerapan tes kognitif berskala besar pertama di luar konteks pendidikan — cikal bakal tes seleksi kerja modern.
+* Ini salah satu penerapan tes kognitif berskala besar pertama di luar konteks pendidikan, yang menjadi cikal bakal tes seleksi kerja modern.
 :::
 
 . . .
 
 ::: {.callout-warning}
 #### Warisan yang tidak netral
-Hasil tes Angkatan Darat kemudian **disalahgunakan** oleh [Carl Brigham (1923)](https://www.pbs.org/wgbh/pages/frontline/shows/sats/where/three.html) untuk mendukung kebijakan imigrasi yang diskriminatif terhadap kelompok etnis tertentu. Tetapi, kesimpulan ini belakangan ditarik kembali oleh Brigham sendiri. Ini alasan mengapa Kode Etik Psikologi Indonesia yang akan kita bahas nanti membatasi ketat siapa yang boleh memakai tes psikologi.
+Hasil tes Angkatan Darat US kemudian **disalahgunakan** oleh [Carl Brigham (1923)](https://www.pbs.org/wgbh/pages/frontline/shows/sats/where/three.html) untuk mendukung kebijakan imigrasi yang diskriminatif terhadap kelompok etnis tertentu. Tetapi, kesimpulan ini belakangan ditarik kembali oleh Brigham sendiri. Ini alasan mengapa Kode Etik Psikologi Indonesia yang akan kita bahas nanti membatasi ketat siapa yang boleh memakai tes psikologi.
 :::
 
-## Tradisi 3️⃣: tes prestasi
+## Tradisi 3️⃣: Tes prestasi
 
 ::: {.incremental}
 * Berakar dari tradisi ujian kelas dan ujian sekolah, yang jauh lebih awal secara praktik, tapi lebih lambat diformalkan sebagai bidang psikometri tersendiri.
@@ -313,7 +312,7 @@ Bakat menaksir *kapasitas untuk belajar* (*future potential*); prestasi menaksir
 
 ::: {.callout-important}
 #### Catatan etis
-Sebagian besar instrumen di atas adalah **tes psikologi berlisensi komersial dan terbatas penggunaannya**. Kita hanya membahas *cara kerja* dan *prinsipnya*.
+Sebagian besar instrumen di atas adalah **tes psikologi berlisensi komersial dan terbatas penggunaannya**. Kita hanya membahas *cara kerja* dan *prinsipnya* dalam mata kuliah ini.
 :::
 
 ## Ilustrasi: seperti apa butir performansi maksimal?
@@ -381,7 +380,7 @@ Bayangkan sebuah abstrak jurnal menyebutkan:
 
 ::: {.callout-note}
 #### Ini latihan untuk Tugas 1
-Di Minggu 6, Anda akan me-*review* 3 artikel jurnal asli yang menggunakan tes kognitif. Latihan identifikasi seperti ini adalah keterampilan inti yang dinilai di tugas tersebut.
+Di Minggu 6, Anda akan me-*review* 3 artikel jurnal yang menggunakan tes kognitif sebagai instrumen risetnya. Latihan identifikasi seperti ini adalah keterampilan inti yang dinilai di tugas tersebut.
 :::
 
 ## Ringkasan
@@ -398,7 +397,7 @@ Di Minggu 6, Anda akan me-*review* 3 artikel jurnal asli yang menggunakan tes ko
 
 ::: {.callout-tip}
 #### Selanjutnya: tahap penyusunan tes kognitif
-Kalau hari ini kita bicara **apa itu** tes kognitif, Pertemuan 2 membahas **bagaimana** menyusunnya. Kita mulai dari analisis kebutuhan, definisi konstrak, sampai *blueprint* awal. Ini akan menjadi fondasi untuk proyek kelompok Anda di Pertemuan 9–15.
+Kalau hari ini kita bicara **apa itu** tes kognitif, Pertemuan 2 akan membahas **bagaimana** menyusunnya. Kita mulai dari analisis kebutuhan, definisi konstruk, sampai *blueprint* awal.
 :::
 
 ## Ada pertanyaan❓
