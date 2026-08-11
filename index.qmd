@@ -91,8 +91,8 @@ Informasi tentang proporsi penilaian akan diumumkan (kemungkinan) minggu depan.
 ---
 
 ::: {.callout-tip appearance="simple"}
-Halaman ini merupakan ringkasan **RPP**.
+Halaman ini merupakan ringkasan **RPP**, yang selengkapnya, akan Anda dapat akses di Psyche.
 :::
 
 ### *Disclosure* penggunaan akal imitasi (AI)
-Kami menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk *brainstorming* materi, membuat grafik, mencari referensi, dan melakukan *troubleshooting* kode `quarto` dan `git`. Saya bertanggung jawab penuh atas substansi dan penyajian materi di mata kuliah ini.
+Saya (Amel) menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk *brainstorming* materi, membuat grafik, mencari referensi, dan melakukan *troubleshooting* kode `quarto` dan `git`. Saya bertanggung jawab penuh atas substansi dan penyajian materi di mata kuliah ini.

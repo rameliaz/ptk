@@ -22,7 +22,7 @@ execute:
 
 ::: {.incremental}
 * Apa yang akan kita lakukan selama satu semester?
-* Tiga situasi yang butuh jenis tes kognitif berbeda-beda
+* Tiga situasi yang membutuhkan jenis tes kognitif berbeda-beda
 * Mengingat kembali materi mata kuliah Psikometri
 * Istilah yang sering tertukar: tes, skala, inventori, angket
 * Ranah atribut: kognitif vs. non-kognitif
@@ -53,7 +53,7 @@ Saya menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk *brainstorming* m
 :::
 
 ::: aside
-Rencana lengkap ada di **RPS** dan **Kontrak Kuliah** (dibagikan terpisah di Psyche) — *slide* ini hanya ringkasannya.
+Rencana lengkap ada di **RPS** dan **Kontrak Kuliah** (akan dibagikan terpisah di Psyche) — *slide* ini hanya ringkasannya.
 :::
 
 # Mari mulai dari tiga situasi {background-color="#14497F" .center}
@@ -101,7 +101,7 @@ Dari mata kuliah Psikometri, Anda sudah belajar hal-hal berikut ini:
 . . .
 
 ::: {.callout-note}
-#### Pertanyaan pemantik
+#### Penting diingat
 Anda sudah belajar *cara mengevaluasi* apakah sebuah tes punya performa yang baik (validitas, reliabilitas). Mata kuliah ini membantu Anda *cara membuatnya* dari awal, tetapi khusus untuk domain **kognitif**.
 :::
 
@@ -124,7 +124,7 @@ Kline (1986) merumuskan dua peran utama psikometri:
 . . .
 
 ::: {.callout-tip}
-#### Standar profesional terbaru
+#### Validitas adalah properti tes
 Standar internasional (AERA, APA, & NCME, 2014) menekankan bahwa kualitas tes tidak berhenti di alat ukurnya saja, **validitas adalah properti dari interpretasi dan penggunaan skor**, bukan cuma properti tesnya sendiri. 
 :::
 
@@ -379,7 +379,7 @@ Bayangkan sebuah abstrak jurnal menyebutkan:
 . . .
 
 ::: {.callout-note}
-#### Ini latihan untuk Tugas 1
+#### Latihan untuk Tugas 1
 Di Minggu 6, Anda akan me-*review* 3 artikel jurnal yang menggunakan tes kognitif sebagai instrumen risetnya. Latihan identifikasi seperti ini adalah keterampilan inti yang dinilai di tugas tersebut.
 :::
 
