@@ -34,7 +34,7 @@ execute:
 ::: aside
 ***Disclosure* penggunaan akal imitasi (AI)**
 
-Saya menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk *brainstorming* materi, mencari referensi, dan melakukan *troubleshooting* kode `quarto` dan `git`. Saya bertanggung jawab penuh atas substansi dan penyajian presentasi ini.
+Saya menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk *brainstorming* materi, membuat grafik, mencari referensi, dan melakukan *troubleshooting* kode `quarto` dan `git`. Saya bertanggung jawab penuh atas substansi dan penyajian presentasi ini.
 :::
 
 # Definisi tes inteligensi {background-color="#14497F" .center}
@@ -68,7 +68,7 @@ Definisi ini menekankan tiga aspek sekaligus: perilaku terarah, penalaran, dan k
 
 ::: {.incremental}
 * **[Carroll (1993)](https://books.google.de/books?hl=id&lr=&id=JQX-PlF6EgYC&oi=fnd&pg=PA1&dq=carroll+1993+intelligence+theory&ots=_sMO6xvIYP&sig=3vIwKRnZ1f070onJ9kvzQc4UFFY&redir_esc=y#v=onepage&q=carroll%201993%20intelligence%20theory&f=false)** menganalisis ulang lebih dari 460 kumpulan data kemampuan kognitif dan mengusulkan model tiga lapis (*three-stratum*): faktor umum (*g*) di puncak, sejumlah faktor luas di lapis kedua, dan puluhan faktor sempit di lapis ketiga.
-* Model Cattell–Horn (Gf-Gc) dan model tiga lapis Carroll kemudian digabungkan menjadi **teori Cattell–Horn–Carroll (CHC)** — kerangka yang dipakai secara luas pada tes inteligensi kontemporer.
+* Model Cattell–Horn (Gf-Gc) dan model tiga lapis Carroll kemudian digabungkan menjadi **teori Cattell–Horn–Carroll (CHC)** sebagai kerangka teoretis yang dipakai secara luas pada tes inteligensi kontemporer.
 :::
 
 ::: aside
@@ -100,9 +100,9 @@ Sejarah ini adalah salah satu alasan mengapa penggunaan tes psikologi di Indones
 [CHC](https://en.wikipedia.org/wiki/Cattell%E2%80%93Horn%E2%80%93Carroll_theory) menyusun kemampuan kognitif dalam empat tingkat:
 
 ::: {.incremental}
-1. **Kemampuan spesifik** — terikat pada satu tugas atau tes tertentu; satu-satunya tingkat yang bisa diukur secara langsung.
-2. **Kemampuan sempit** (*narrow abilities*) — kumpulan kemampuan spesifik yang saling berkorelasi tinggi.
-3. **Kemampuan luas** (*broad abilities*) — kumpulan kemampuan sempit yang saling berkorelasi lebih tinggi satu sama lain dibanding dengan kemampuan luas lainnya, diberi kode diawali huruf G.
+1. **Kemampuan spesifik** — terikat pada satu tugas atau tes tertentu; satu-satunya level yang bisa diukur secara langsung. Perannya adalah sebagai indikator dari *narrow abilities*.
+2. ***Narrow abilities*** — kumpulan kemampuan spesifik yang saling berkorelasi tinggi.
+3. ***Broad abilities*** — kumpulan *narrow abilities* yang saling berkorelasi lebih tinggi satu sama lain dibanding dengan *broad abilities* lainnya, diberi kode diawali huruf G.
 4. **Kemampuan umum (*g*)** — faktor tunggal di puncak struktur.
 :::
 
@@ -110,48 +110,111 @@ Sejarah ini adalah salah satu alasan mengapa penggunaan tes psikologi di Indones
 [Schneider & McGrew (2018)](https://www.guilford.com/books/Contemporary-Intellectual-Assessment/Flanagan-McDonough/9781462552030?srsltid=AfmBOoobR-bSqr32LuIFH_Uck3fErZQ_9L0DuU6_B31osW-6apDWOyyt).
 :::
 
-## CHC
+## Struktur CHC
 
 ![](libs/chc.png){fig-align="center"}
 
 ## Beberapa *broad abilities* dalam CHC (1)
 
-| Kode | broad abilities |
-|---|---|
-| Gf | *Fluid reasoning* |
-| Gc | *Comprehension-knowledge* |
-| Gv | *Visual-spatial processing* |
-| Ga | *Auditory processing* |
+![](libs/chc1.png){fig-align="center"}
 
 ::: aside
-Schneider & McGrew (2018) mendaftar sekitar 16 *broad abilities*; tabel ini menampilkan sebagian yang paling umum diukur.
-:::
-
-## Beberapa *broad abilities* dalam CHC (2)
-
-| Kode | broad abilities |
-|---|---|
-| Gwm | *Working memory* |
-| Gl | *Learning efficiency* |
-| Gr | *Retrieval fluency* |
-| Gs | *Processing speed* |
-
-::: aside
-Schneider & McGrew (2018).
+Sumber: [Schneider & McGrew (2018)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118660584.ese0431?src=getftr).
 :::
 
 ::: {.callout-tip}
 #### Relevansi untuk proyek Anda
-CHC adalah kerangka teori yang dipakai untuk menentukan konstruk pada proyek penyusunan tes kognitif Anda. Pembagian kemampuan sempit yang menjadi target pengukuran kelompok akan ditentukan lebih lanjut menjelang Pertemuan 9.
+CHC adalah kerangka teori yang dipakai untuk menentukan konstruk pada proyek penyusunan tes kognitif Anda. Pembagian *narrow abilities* yang menjadi target pengukuran kelompok akan ditentukan lebih lanjut menjelang Pertemuan 9.
+:::
+
+## CHC melandasi beberapa tes intelegensi (1)
+
+| Tes | *Broad abilities* yang diukur | Catatan |
+|---|---|---|
+| Woodcock-Johnson IV (WJ IV; Schrank dkk., 2014) | 7 | Dirancang eksplisit sebagai operasionalisasi CHC; jadi acuan utama pengembangan taksonomi CHC itu sendiri |
+| Wechsler (WISC-V, WAIS-IV; Wechsler, 2014) | 5 | *Index scores* diselaraskan dengan lima *broad abilities* CHC (Gf, Gc, Gv, Gwm, Gs) |
+| Kaufman Assessment Battery for Children–II (KABC-II; Kaufman & Kaufman, 2004) | 5 | Menyediakan dua model interpretasi yang bisa dipilih penguji: CHC atau model Luria |
+
+: {tbl-colwidths="[30,15,55]"}
+
+::: aside
+[Schneider & McGrew (2018)](https://www.guilford.com/books/Contemporary-Intellectual-Assessment/Flanagan-McDonough/9781462552030?srsltid=AfmBOoobR-bSqr32LuIFH_Uck3fErZQ_9L0DuU6_B31osW-6apDWOyyt).
+:::
+
+## CHC melandasi beberapa tes intelegensi (2)
+
+| Tes | *Broad abilities* yang diukur | Catatan |
+|---|---|---|
+| Differential Ability Scales–II (DAS-II; Elliott, 2007) | 5 | Selaras dengan CHC sejak edisi kedua |
+| Stanford-Binet–5 (SB5; Roid, 2003) | 5 | Lima faktornya dipetakan langsung ke lima *broad abilities* CHC |
+
+: {tbl-colwidths="[30,15,55]"}
+
+::: {.callout-note}
+#### Catatan
+Klaim keselarasan dengan CHC pada dua slide ini berasal dari manual/*technical report* masing-masing penerbit tes. Dua slide berikutnya menunjukkan bahwa klaim ini tidak selalu bertahan ketika diuji ulang secara independen.
+:::
+
+## Bukti empirik teori CHC 1️⃣: yang didukung
+
+::: {.incremental}
+* Struktur *broad abilities* CHC dibangun dari analisis faktor terhadap ratusan kumpulan data psikometrik, termasuk reanalisis [Carroll (1993)](https://books.google.de/books?hl=id&lr=&id=JQX-PlF6EgYC&oi=fnd&pg=PA1) atas lebih dari 460 dataset, dan pengelompokan ini banyak direplikasi lintas studi.
+  + Inilah alasan mengapa CHC dianggap menawarkan landasan konseptual tentang kemampuan kognitif dengan bukti faktor-analitik paling kuat dibanding teori-teori inteligensi lain.
+* Analisis [*network psychometrics*](https://psycnet.apa.org/record/2018-10249-031) terhadap tes Woodcock–Johnson ([McGrew dkk., 2023](https://www.mdpi.com/2079-3200/11/1/19)) juga mendukung keberadaan *broad abilities* utama CHC sebagai kelompok yang secara statistik dapat dibedakan.
+* Di berbagai studi, faktor umum (*g*) tetap menjadi prediktor tunggal terkuat untuk prestasi akademik, jauh melebihi kontribusi skor *broad* atau *narrow abilities* manapun.
+:::
+
+::: aside
+[Canivez & Youngstrom (2019)](https://www.tandfonline.com/doi/abs/10.1080/08957347.2019.1619562).
+:::
+
+## Bukti empirik teori CHC 2️⃣: yang belum mencapai konsensus
+
+::: {.incremental}
+* Status *g* sendiri masih diperdebatkan oleh tokoh-tokoh yang namanya dipakai dalam CHC. 
+  + Horn menganggap *g* sebagai artefak statistik dan **tidak pernah memasukkannya** ke model Gf-Gc. 
+  + Sementara Carroll memasukkannya, tetapi sebagai **model bifaktor**, bukan hierarki bertingkat rapi seperti yang lazim digambarkan di buku teks ([Canivez & Youngstrom, 2019](https://www.tandfonline.com/doi/abs/10.1080/08957347.2019.1619562)).
+* Analisis independen (di luar penerbit tes) terhadap tes-tes utama yang mengklaim selaras dengan CHC (WJ III, WJ IV, WISC-V) berulang kali **gagal mereplikasi** jumlah dan pembagian *broad abilities* yang diklaim dalam manual tes. 
+  + Ada kesenjangan antara model teoretis dan struktur skor yang benar-benar dihasilkan alat ukurnya ([McGill & Dombrowski, 2019](https://rjmcgill.com/wp-content/uploads/2019/06/chc.pdf)).
+
+:::
+
+## Bukti empirik teori CHC 2️⃣: yang belum mencapai konsensus
+
+::: {.incremental}
+
+* Bukti validitas prediktifnya timpang: sebuah meta-analisis atas hubungan CHC dengan prestasi akademik menemukan bahwa ***g* menjelaskan ~54% varians** prestasi akademik. Jauh lebih besar daripada *broad abilities* manapun. 
+  + Sementara masing-masing *broad abilities* rata-rata hanya menjelaskan **di bawah 10%** (tidak ada yang melebihi 20%), dan sebagian besar dari itu pun sebetulnya artefak dari varians *g*, bukan varians unik milik *broad abilities* tersebut ([Zaboski, Kranzler, & Gage, 2018](https://pubmed.ncbi.nlm.nih.gov/30463669/))
+* Penerapan klinis berbasis *narrow* dan *broad abilities*, misalnya *cross-battery assessment* (XBA) untuk mendiagnosis kesulitan belajar spesifik, memicu perdebatan tajam.
+  + Pendukungnya melaporkan akurasi klasifikasi tinggi, sementara pengkritiknya mempertanyakan validitas prediktifnya untuk kasus-kasus positif ([Kranzler dkk., 2016](https://digitalcommons.memphis.edu/facpubs/7577/)).
+
+:::
+
+## Status Teori CHC
+
+::: {.incremental}
+
+* CHC paling kuat didukung sebagai **taksonomi umum** hasil analisis faktor dari berbagai kumpulan dataset besar. 
+* Namun, klaim bahwa satu tes tertentu (mis. WISC-V, WJ IV) benar-benar mengukur *broad* dan *narrow abilities* yang terpisah persis sesuai model, serta manfaat klinis dari skor-skor tersebut untuk keputusan individual, jauh lebih lemah buktinya. 
+* Bahkan status *g* sebagai faktor kausal tunggal masih diperdebatkan oleh pengembang CHC sendiri. 
+  + Teori alternatif seperti *Process Overlap Theory* ([Kovacs & Conway, 2016](https://www.tandfonline.com/doi/full/10.1080/1047840X.2016.1153946)) menjelaskan munculnya *g* dari proses kognitif yang saling tumpang tindih (bukan dari satu faktor kausal tunggal) menunjukkan struktur hierarkis CHC belum menjadi konsensus yang kuat di bidang ini.
+:::
+
+## Model hierarkis vs. model bifaktor
+
+![](libs/chc-hierarchical-vs-bifactor.svg){fig-align="center" width="95%"}
+
+::: aside
+Diadaptasi dari Figure 2 & 3 pada [Canivez & Youngstrom (2019)](https://www.tandfonline.com/doi/abs/10.1080/08957347.2019.1619562).
 :::
 
 # CHC di Indonesia {background-color="#14497F" .center}
 
-## Contoh penerapan lokal
+## Contoh penerapan di Indonesia
 
 ::: {.incremental}
 * Sejak 2013, Yayasan Dharma Bermakna mengembangkan **AJT Cognitive Assessment Test (AJT-CAT)** — baterai tes kognitif individual berbasis CHC yang dinormakan pada lebih dari 4.000 anak dan remaja usia sekolah di Indonesia.
-* AJT-CAT terdiri atas 27 tes yang dirancang untuk mengukur 21 kemampuan sempit, terangkum dalam delapan kemampuan luas CHC (Gf, Gc, Gv, Gwm, Ga, Gs, Gl, Gr).
+* AJT-CAT terdiri atas 27 tes yang dirancang untuk mengukur 21 *narrow abilities*, terangkum dalam delapan *broad abilities* CHC (Gf, Gc, Gv, Gwm, Ga, Gs, Gl, Gr).
 :::
 
 # Dua teori lain {background-color="#14497F" .center}
@@ -167,7 +230,7 @@ CHC adalah kerangka teori yang dipakai untuk menentukan konstruk pada proyek pen
 
 ::: {.callout-note}
 #### Catatan
-Kedua teori ini banyak memengaruhi diskusi di bidang pendidikan, tetapi belum seluas CHC dioperasionalkan ke dalam tes inteligensi terstandardisasi yang banyak dipakai secara praktis.
+Kedua teori ini banyak memengaruhi diskusi di bidang pendidikan, tetapi belum seluas CHC, dan belum dioperasionalkan ke dalam tes inteligensi terstandardisasi yang banyak dipakai secara praktis.
 :::
 
 ## Perdebatan seputar *multiple intelligences*
@@ -217,7 +280,7 @@ Bayangkan sebuah abstrak jurnal menyebutkan:
 
 ::: {.incremental}
 * Apakah instrumen ini termasuk tes inteligensi, tes bakat, atau tes prestasi? Bandingkan dengan definisi Pertemuan 1 dan Pertemuan 5.
-* Kemampuan CHC apa yang paling relevan dengan Progressive Matrices, berdasarkan tabel kemampuan luas hari ini?
+* Kemampuan CHC apa yang paling relevan dengan Progressive Matrices, berdasarkan tabel *broad abilities* hari ini?
 :::
 
 . . .
@@ -236,7 +299,7 @@ Latihan ini relevan untuk Tugas 1 (Pertemuan 6).
 ::: {.incremental}
 1. Wechsler (1958) mendefinisikan inteligensi sebagai kapasitas global untuk bertindak dengan tujuan, berpikir rasional, dan berinteraksi efektif dengan lingkungan.
 2. Teori inteligensi berkembang dari model satu faktor (Spearman) ke model banyak faktor (Thurstone), lalu ke model bertingkat yang menggabungkan keduanya (CHC).
-3. CHC menyusun kemampuan kognitif dalam empat tingkat: spesifik, sempit, luas, dan umum — dan menjadi kerangka teori untuk proyek akhir Anda.
+3. CHC menyusun kemampuan kognitif dalam empat tingkat: spesifik, *narrow*, *broad*, dan umum — dan menjadi kerangka teori untuk proyek akhir Anda.
 4. Ada pengembangan tes berbasis CHC di Indonesia, seperti AJT-CAT.
 5. Triarchic (Sternberg) dan multiple intelligences (Gardner) adalah dua teori alternatif yang lebih berpengaruh di ranah pendidikan dibanding tes klinis terstandardisasi; dukungan psikometrik untuk multiple intelligences khususnya masih diperdebatkan.
 6. Sejarah penyalahgunaan tes inteligensi adalah salah satu alasan di balik pembatasan penggunaan tes psikologi menurut Kode Etik Psikologi Indonesia.

@@ -95,4 +95,4 @@ Halaman ini merupakan ringkasan **RPP**.
 :::
 
 ### *Disclosure* penggunaan akal imitasi (AI)
-Kami menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk *brainstorming* materi, mencari referensi, dan melakukan *troubleshooting* kode `quarto` dan `git`. Kami (Amel dan Endah) bertanggung jawab penuh atas substansi dan penyajian materi di mata kuliah ini.
+Kami menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk *brainstorming* materi, membuat grafik, mencari referensi, dan melakukan *troubleshooting* kode `quarto` dan `git`. Saya bertanggung jawab penuh atas substansi dan penyajian materi di mata kuliah ini.

@@ -291,7 +291,7 @@
     "href": "slides/pertemuan7.html#sumber-isi-yang-berbeda",
     "title": "Menulis Item Tes Prestasi dan Potensi",
     "section": "Sumber isi yang berbeda",
-    "text": "Sumber isi yang berbeda\n\nItem tes prestasi diturunkan dari TIK yang sudah dirumuskan (Pertemuan 4). Isinya terikat pada materi atau kurikulum yang diajarkan.\nItem tes potensi diturunkan dari definisi konstrak kemampuan yang lebih umum (Pertemuan 5 dan 6). Isinya sengaja dibuat tidak terikat pada satu bidang materi tertentu, agar yang diukur adalah proses bernalarnya, bukan pengetahuan spesifiknya.\n\n\n\n\n\n\n\nKonsekuensi praktis\n\n\nSaat menulis item tes prestasi, Anda mulai dari TIK. Saat menulis item tes potensi, Anda mulai dari kemampuan sempit (narrow ability) yang ingin diukur — misalnya induction atau quantitative reasoning dari kemampuan luas Gf yang dibahas di Pertemuan 6."
+    "text": "Sumber isi yang berbeda\n\nItem tes prestasi diturunkan dari TIK yang sudah dirumuskan (Pertemuan 4). Isinya terikat pada materi atau kurikulum yang diajarkan.\nItem tes potensi diturunkan dari definisi konstrak kemampuan yang lebih umum (Pertemuan 5 dan 6). Isinya sengaja dibuat tidak terikat pada satu bidang materi tertentu, agar yang diukur adalah proses bernalarnya, bukan pengetahuan spesifiknya.\n\n\n\n\n\n\n\nKonsekuensi praktis\n\n\nSaat menulis item tes prestasi, Anda mulai dari TIK. Saat menulis item tes potensi, Anda mulai dari narrow ability yang ingin diukur — misalnya induction atau quantitative reasoning dari broad ability Gf yang dibahas di Pertemuan 6."
   },
   {
     "objectID": "slides/pertemuan7.html#berdasarkan-narrow-ability-dari-gf",
@@ -508,7 +508,7 @@
     "href": "slides/pertemuan1.html#ringkasan",
     "title": "Pengantar: Pengertian dan Jenis Tes Kognitif",
     "section": "Ringkasan",
-    "text": "Ringkasan\n\nPsikometri adalah teori dan teknik pengukuran atribut psikologis; tes kognitif salah satu wilayahnya.\nTes, skala, inventori, angket berbeda pada objektivitas dan ada-tidaknya jawaban benar-salah.\nAtribut kognitif diukur lewat performansi maksimal, bukan tipikal.\nTiga jenis tes kognitif — inteligensi, bakat/potensi, prestasi — lahir dari tiga tradisi sejarah berbeda dan mengukur hal yang berbeda pula.\nPenggunaan tes psikologi di Indonesia terikat Kode Etik HIMPSI (kategori A–D)."
+    "text": "Ringkasan\n\nPsikometri adalah teori dan teknik pengukuran atribut psikologis; tes kognitif adalah salah satu cabangnya.\nTes, skala, inventori, angket berbeda pada objektivitas dan ada-tidaknya jawaban benar-salah (ground truth).\nAtribut kognitif diukur lewat performansi maksimal, bukan tipikal.\nTiga jenis tes kognitif — inteligensi, bakat/potensi, prestasi — lahir dari tiga tradisi sejarah berbeda dan mengukur hal yang berbeda pula.\nPenggunaan tes psikologi di Indonesia terikat Kode Etik HIMPSI (kategori A–D)."
   },
   {
     "objectID": "slides/pertemuan1.html#untuk-pertemuan-2",
@@ -571,7 +571,7 @@
     "href": "index.html#tugas-dan-penilaian",
     "title": "Penyusunan Tes Kognitif",
     "section": "Tugas dan Penilaian",
-    "text": "Tugas dan Penilaian\n\nRekapitulasi metode penilaian, mengacu pada RPP\n\n\nKomponen\nBobot\n\n\n\n\nHasil proyek (proyek penyusunan tes kognitif)\n—%\n\n\nTugas review jurnal (kelompok)\n—%\n\n\nUjian Tengah Semester\n–%\n\n\nTugas menulis item (individu)\n—%\n\n\nProyek akhir (kelompok)\n—%\n\n\n\n\n\n\n\n\n\nNoteProporsi penilaian akan diumumkan minggu depan\n\n\n\nInformasi tentang proporsi penilaian akan diumumkan (kemungkinan) minggu depan.\n\n\n\n\n\n\n\n\n\nHalaman ini merupakan ringkasan RPP.\n\n\n\n\nDisclosure penggunaan akal imitasi (AI)\nKami menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk brainstorming materi, mencari referensi, dan melakukan troubleshooting kode quarto dan git. Kami (Amel dan Endah) bertanggung jawab penuh atas substansi dan penyajian materi di mata kuliah ini."
+    "text": "Tugas dan Penilaian\n\nRekapitulasi metode penilaian, mengacu pada RPP\n\n\nKomponen\nBobot\n\n\n\n\nHasil proyek (proyek penyusunan tes kognitif)\n—%\n\n\nTugas review jurnal (kelompok)\n—%\n\n\nUjian Tengah Semester\n–%\n\n\nTugas menulis item (individu)\n—%\n\n\nProyek akhir (kelompok)\n—%\n\n\n\n\n\n\n\n\n\nNoteProporsi penilaian akan diumumkan minggu depan\n\n\n\nInformasi tentang proporsi penilaian akan diumumkan (kemungkinan) minggu depan.\n\n\n\n\n\n\n\n\n\nHalaman ini merupakan ringkasan RPP.\n\n\n\n\nDisclosure penggunaan akal imitasi (AI)\nKami menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk brainstorming materi, membuat grafik, mencari referensi, dan melakukan troubleshooting kode quarto dan git. Saya bertanggung jawab penuh atas substansi dan penyajian materi di mata kuliah ini."
   },
   {
     "objectID": "slides/pertemuan2.html#outline",
@@ -802,7 +802,7 @@
     "href": "slides/pertemuan6.html#outline",
     "title": "Tes Intelegensi",
     "section": "Outline",
-    "text": "Outline\n\nDefinisi tes inteligensi\nSejarah singkat teori inteligensi\nSejarah yang perlu diketahui\nTeori Cattell–Horn–Carroll (CHC)\nCHC di Indonesia\nDua teori lain: triarchic dan multiple intelligences\nJenis-jenis tes inteligensi\nAktivitas: mengidentifikasi tes inteligensi dalam artikel ilmiah\n\n\n\nDisclosure penggunaan akal imitasi (AI)\nSaya menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk brainstorming materi, mencari referensi, dan melakukan troubleshooting kode quarto dan git. Saya bertanggung jawab penuh atas substansi dan penyajian presentasi ini."
+    "text": "Outline\n\nDefinisi tes inteligensi\nSejarah singkat teori inteligensi\nSejarah yang perlu diketahui\nTeori Cattell–Horn–Carroll (CHC)\nCHC di Indonesia\nDua teori lain: triarchic dan multiple intelligences\nJenis-jenis tes inteligensi\nAktivitas: mengidentifikasi tes inteligensi dalam artikel ilmiah\n\n\n\nDisclosure penggunaan akal imitasi (AI)\nSaya menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk brainstorming materi, membuat grafik, mencari referensi, dan melakukan troubleshooting kode quarto dan git. Saya bertanggung jawab penuh atas substansi dan penyajian presentasi ini."
   },
   {
     "objectID": "slides/pertemuan6.html#definisi-yang-paling-sering-dikutip",
@@ -823,7 +823,7 @@
     "href": "slides/pertemuan6.html#menuju-chc",
     "title": "Tes Intelegensi",
     "section": "Menuju CHC",
-    "text": "Menuju CHC\n\nCarroll (1993) menganalisis ulang lebih dari 460 kumpulan data kemampuan kognitif dan mengusulkan model tiga lapis (three-stratum): faktor umum (g) di puncak, sejumlah faktor luas di lapis kedua, dan puluhan faktor sempit di lapis ketiga.\nModel Cattell–Horn (Gf-Gc) dan model tiga lapis Carroll kemudian digabungkan menjadi teori Cattell–Horn–Carroll (CHC) — kerangka yang dipakai secara luas pada tes inteligensi kontemporer.\n\n\n\nWasserman (2018); Schneider & McGrew (2023)."
+    "text": "Menuju CHC\n\nCarroll (1993) menganalisis ulang lebih dari 460 kumpulan data kemampuan kognitif dan mengusulkan model tiga lapis (three-stratum): faktor umum (g) di puncak, sejumlah faktor luas di lapis kedua, dan puluhan faktor sempit di lapis ketiga.\nModel Cattell–Horn (Gf-Gc) dan model tiga lapis Carroll kemudian digabungkan menjadi teori Cattell–Horn–Carroll (CHC) sebagai kerangka teoretis yang dipakai secara luas pada tes inteligensi kontemporer.\n\n\n\nWasserman (2018); Schneider & McGrew (2023)."
   },
   {
     "objectID": "slides/pertemuan6.html#penyalahgunaan-tes-inteligensi-di-masa-lalu",
@@ -837,42 +837,84 @@
     "href": "slides/pertemuan6.html#struktur-bertingkat",
     "title": "Tes Intelegensi",
     "section": "Struktur bertingkat",
-    "text": "Struktur bertingkat\nCHC menyusun kemampuan kognitif dalam empat tingkat:\n\nKemampuan spesifik — terikat pada satu tugas atau tes tertentu; satu-satunya tingkat yang bisa diukur secara langsung.\nKemampuan sempit (narrow abilities) — kumpulan kemampuan spesifik yang saling berkorelasi tinggi.\nKemampuan luas (broad abilities) — kumpulan kemampuan sempit yang saling berkorelasi lebih tinggi satu sama lain dibanding dengan kemampuan luas lainnya, diberi kode diawali huruf G.\nKemampuan umum (g) — faktor tunggal di puncak struktur.\n\n\n\nSchneider & McGrew (2018)."
+    "text": "Struktur bertingkat\nCHC menyusun kemampuan kognitif dalam empat tingkat:\n\nKemampuan spesifik — terikat pada satu tugas atau tes tertentu; satu-satunya level yang bisa diukur secara langsung. Perannya adalah sebagai indikator dari narrow abilities.\nNarrow abilities — kumpulan kemampuan spesifik yang saling berkorelasi tinggi.\nBroad abilities — kumpulan narrow abilities yang saling berkorelasi lebih tinggi satu sama lain dibanding dengan broad abilities lainnya, diberi kode diawali huruf G.\nKemampuan umum (g) — faktor tunggal di puncak struktur.\n\n\n\nSchneider & McGrew (2018)."
   },
   {
-    "objectID": "slides/pertemuan6.html#chc",
-    "href": "slides/pertemuan6.html#chc",
+    "objectID": "slides/pertemuan6.html#struktur-chc",
+    "href": "slides/pertemuan6.html#struktur-chc",
     "title": "Tes Intelegensi",
-    "section": "CHC",
-    "text": "CHC"
+    "section": "Struktur CHC",
+    "text": "Struktur CHC"
   },
   {
     "objectID": "slides/pertemuan6.html#beberapa-broad-abilities-dalam-chc-1",
     "href": "slides/pertemuan6.html#beberapa-broad-abilities-dalam-chc-1",
     "title": "Tes Intelegensi",
     "section": "Beberapa broad abilities dalam CHC (1)",
-    "text": "Beberapa broad abilities dalam CHC (1)\n\n\n\nKode\nbroad abilities\n\n\n\n\nGf\nFluid reasoning\n\n\nGc\nComprehension-knowledge\n\n\nGv\nVisual-spatial processing\n\n\nGa\nAuditory processing\n\n\n\n\n\nSchneider & McGrew (2018) mendaftar sekitar 16 broad abilities; tabel ini menampilkan sebagian yang paling umum diukur."
+    "text": "Beberapa broad abilities dalam CHC (1)\n\n\n\n\n\n\n\n\n\n\n\n\nRelevansi untuk proyek Anda\n\n\nCHC adalah kerangka teori yang dipakai untuk menentukan konstruk pada proyek penyusunan tes kognitif Anda. Pembagian narrow abilities yang menjadi target pengukuran kelompok akan ditentukan lebih lanjut menjelang Pertemuan 9.\n\n\n\n\nSumber: Schneider & McGrew (2018)."
   },
   {
-    "objectID": "slides/pertemuan6.html#beberapa-broad-abilities-dalam-chc-2",
-    "href": "slides/pertemuan6.html#beberapa-broad-abilities-dalam-chc-2",
+    "objectID": "slides/pertemuan6.html#chc-melandasi-beberapa-tes-intelegensi-1",
+    "href": "slides/pertemuan6.html#chc-melandasi-beberapa-tes-intelegensi-1",
     "title": "Tes Intelegensi",
-    "section": "Beberapa broad abilities dalam CHC (2)",
-    "text": "Beberapa broad abilities dalam CHC (2)\n\n\n\nKode\nbroad abilities\n\n\n\n\nGwm\nWorking memory\n\n\nGl\nLearning efficiency\n\n\nGr\nRetrieval fluency\n\n\nGs\nProcessing speed\n\n\n\n\n\n\n\n\n\n\nRelevansi untuk proyek Anda\n\n\nCHC adalah kerangka teori yang dipakai untuk menentukan konstruk pada proyek penyusunan tes kognitif Anda. Pembagian kemampuan sempit yang menjadi target pengukuran kelompok akan ditentukan lebih lanjut menjelang Pertemuan 9.\n\n\n\n\nSchneider & McGrew (2018)."
+    "section": "CHC melandasi beberapa tes intelegensi (1)",
+    "text": "CHC melandasi beberapa tes intelegensi (1)\n\n\n\n\n\n\n\n\nTes\nBroad abilities yang diukur\nCatatan\n\n\n\n\nWoodcock-Johnson IV (WJ IV; Schrank dkk., 2014)\n7\nDirancang eksplisit sebagai operasionalisasi CHC; jadi acuan utama pengembangan taksonomi CHC itu sendiri\n\n\nWechsler (WISC-V, WAIS-IV; Wechsler, 2014)\n5\nIndex scores diselaraskan dengan lima broad abilities CHC (Gf, Gc, Gv, Gwm, Gs)\n\n\nKaufman Assessment Battery for Children–II (KABC-II; Kaufman & Kaufman, 2004)\n5\nMenyediakan dua model interpretasi yang bisa dipilih penguji: CHC atau model Luria\n\n\n\n\n\nSchneider & McGrew (2018)."
   },
   {
-    "objectID": "slides/pertemuan6.html#contoh-penerapan-lokal",
-    "href": "slides/pertemuan6.html#contoh-penerapan-lokal",
+    "objectID": "slides/pertemuan6.html#chc-melandasi-beberapa-tes-intelegensi-2",
+    "href": "slides/pertemuan6.html#chc-melandasi-beberapa-tes-intelegensi-2",
     "title": "Tes Intelegensi",
-    "section": "Contoh penerapan lokal",
-    "text": "Contoh penerapan lokal\n\nSejak 2013, Yayasan Dharma Bermakna mengembangkan AJT Cognitive Assessment Test (AJT-CAT) — baterai tes kognitif individual berbasis CHC yang dinormakan pada lebih dari 4.000 anak dan remaja usia sekolah di Indonesia.\nAJT-CAT terdiri atas 27 tes yang dirancang untuk mengukur 21 kemampuan sempit, terangkum dalam delapan kemampuan luas CHC (Gf, Gc, Gv, Gwm, Ga, Gs, Gl, Gr)."
+    "section": "CHC melandasi beberapa tes intelegensi (2)",
+    "text": "CHC melandasi beberapa tes intelegensi (2)\n\n\n\n\n\n\n\n\nTes\nBroad abilities yang diukur\nCatatan\n\n\n\n\nDifferential Ability Scales–II (DAS-II; Elliott, 2007)\n5\nSelaras dengan CHC sejak edisi kedua\n\n\nStanford-Binet–5 (SB5; Roid, 2003)\n5\nLima faktornya dipetakan langsung ke lima broad abilities CHC\n\n\n\n\n\n\n\n\n\nCatatan\n\n\nKlaim keselarasan dengan CHC pada dua slide ini berasal dari manual/technical report masing-masing penerbit tes. Dua slide berikutnya menunjukkan bahwa klaim ini tidak selalu bertahan ketika diuji ulang secara independen."
+  },
+  {
+    "objectID": "slides/pertemuan6.html#bukti-empirik-teori-chc-1-yang-didukung",
+    "href": "slides/pertemuan6.html#bukti-empirik-teori-chc-1-yang-didukung",
+    "title": "Tes Intelegensi",
+    "section": "Bukti empirik teori CHC 1️⃣: yang didukung",
+    "text": "Bukti empirik teori CHC 1️⃣: yang didukung\n\nStruktur broad abilities CHC dibangun dari analisis faktor terhadap ratusan kumpulan data psikometrik, termasuk reanalisis Carroll (1993) atas lebih dari 460 dataset, dan pengelompokan ini banyak direplikasi lintas studi.\n\nInilah alasan mengapa CHC dianggap menawarkan landasan konseptual tentang kemampuan kognitif dengan bukti faktor-analitik paling kuat dibanding teori-teori inteligensi lain.\n\nAnalisis network psychometrics terhadap tes Woodcock–Johnson (McGrew dkk., 2023) juga mendukung keberadaan broad abilities utama CHC sebagai kelompok yang secara statistik dapat dibedakan.\nDi berbagai studi, faktor umum (g) tetap menjadi prediktor tunggal terkuat untuk prestasi akademik, jauh melebihi kontribusi skor broad atau narrow abilities manapun.\n\n\n\nCanivez & Youngstrom (2019)."
+  },
+  {
+    "objectID": "slides/pertemuan6.html#bukti-empirik-teori-chc-2-yang-belum-mencapai-konsensus",
+    "href": "slides/pertemuan6.html#bukti-empirik-teori-chc-2-yang-belum-mencapai-konsensus",
+    "title": "Tes Intelegensi",
+    "section": "Bukti empirik teori CHC 2️⃣: yang belum mencapai konsensus",
+    "text": "Bukti empirik teori CHC 2️⃣: yang belum mencapai konsensus\n\nStatus g sendiri masih diperdebatkan oleh tokoh-tokoh yang namanya dipakai dalam CHC.\n\nHorn menganggap g sebagai artefak statistik dan tidak pernah memasukkannya ke model Gf-Gc.\nSementara Carroll memasukkannya, tetapi sebagai model bifaktor, bukan hierarki bertingkat rapi seperti yang lazim digambarkan di buku teks (Canivez & Youngstrom, 2019).\n\nAnalisis independen (di luar penerbit tes) terhadap tes-tes utama yang mengklaim selaras dengan CHC (WJ III, WJ IV, WISC-V) berulang kali gagal mereplikasi jumlah dan pembagian broad abilities yang diklaim dalam manual tes.\n\nAda kesenjangan antara model teoretis dan struktur skor yang benar-benar dihasilkan alat ukurnya (McGill & Dombrowski, 2019)."
+  },
+  {
+    "objectID": "slides/pertemuan6.html#bukti-empirik-teori-chc-2-yang-belum-mencapai-konsensus-1",
+    "href": "slides/pertemuan6.html#bukti-empirik-teori-chc-2-yang-belum-mencapai-konsensus-1",
+    "title": "Tes Intelegensi",
+    "section": "Bukti empirik teori CHC 2️⃣: yang belum mencapai konsensus",
+    "text": "Bukti empirik teori CHC 2️⃣: yang belum mencapai konsensus\n\nBukti validitas prediktifnya timpang: sebuah meta-analisis atas hubungan CHC dengan prestasi akademik menemukan bahwa g menjelaskan ~54% varians prestasi akademik. Jauh lebih besar daripada broad abilities manapun.\n\nSementara masing-masing broad abilities rata-rata hanya menjelaskan di bawah 10% (tidak ada yang melebihi 20%), dan sebagian besar dari itu pun sebetulnya artefak dari varians g, bukan varians unik milik broad abilities tersebut (Zaboski, Kranzler, & Gage, 2018)\n\nPenerapan klinis berbasis narrow dan broad abilities, misalnya cross-battery assessment (XBA) untuk mendiagnosis kesulitan belajar spesifik, memicu perdebatan tajam.\n\nPendukungnya melaporkan akurasi klasifikasi tinggi, sementara pengkritiknya mempertanyakan validitas prediktifnya untuk kasus-kasus positif (Kranzler dkk., 2016)."
+  },
+  {
+    "objectID": "slides/pertemuan6.html#status-teori-chc",
+    "href": "slides/pertemuan6.html#status-teori-chc",
+    "title": "Tes Intelegensi",
+    "section": "Status Teori CHC",
+    "text": "Status Teori CHC\n\nCHC paling kuat didukung sebagai taksonomi umum hasil analisis faktor dari berbagai kumpulan dataset besar.\nNamun, klaim bahwa satu tes tertentu (mis. WISC-V, WJ IV) benar-benar mengukur broad dan narrow abilities yang terpisah persis sesuai model, serta manfaat klinis dari skor-skor tersebut untuk keputusan individual, jauh lebih lemah buktinya.\nBahkan status g sebagai faktor kausal tunggal masih diperdebatkan oleh pengembang CHC sendiri.\n\nTeori alternatif seperti Process Overlap Theory (Kovacs & Conway, 2016) menjelaskan munculnya g dari proses kognitif yang saling tumpang tindih (bukan dari satu faktor kausal tunggal) menunjukkan struktur hierarkis CHC belum menjadi konsensus yang kuat di bidang ini."
+  },
+  {
+    "objectID": "slides/pertemuan6.html#model-hierarkis-vs.-model-bifaktor",
+    "href": "slides/pertemuan6.html#model-hierarkis-vs.-model-bifaktor",
+    "title": "Tes Intelegensi",
+    "section": "Model hierarkis vs. model bifaktor",
+    "text": "Model hierarkis vs. model bifaktor\n\n\n\n\n\n\n\nDiadaptasi dari Figure 2 & 3 pada Canivez & Youngstrom (2019)."
+  },
+  {
+    "objectID": "slides/pertemuan6.html#contoh-penerapan-di-indonesia",
+    "href": "slides/pertemuan6.html#contoh-penerapan-di-indonesia",
+    "title": "Tes Intelegensi",
+    "section": "Contoh penerapan di Indonesia",
+    "text": "Contoh penerapan di Indonesia\n\nSejak 2013, Yayasan Dharma Bermakna mengembangkan AJT Cognitive Assessment Test (AJT-CAT) — baterai tes kognitif individual berbasis CHC yang dinormakan pada lebih dari 4.000 anak dan remaja usia sekolah di Indonesia.\nAJT-CAT terdiri atas 27 tes yang dirancang untuk mengukur 21 narrow abilities, terangkum dalam delapan broad abilities CHC (Gf, Gc, Gv, Gwm, Ga, Gs, Gl, Gr)."
   },
   {
     "objectID": "slides/pertemuan6.html#triarchic-dan-multiple-intelligences",
     "href": "slides/pertemuan6.html#triarchic-dan-multiple-intelligences",
     "title": "Tes Intelegensi",
     "section": "Triarchic dan multiple intelligences",
-    "text": "Triarchic dan multiple intelligences\n\nTeori triarchic (Sternberg, 2018) — membagi inteligensi menjadi tiga bagian: kemampuan analitis, kemampuan kreatif, dan kemampuan praktis. Menekankan bahwa keberhasilan tidak hanya ditentukan oleh kemampuan yang biasa diukur tes tertulis.\nTeori multiple intelligences (Chen & Gardner, 2018) — mengusulkan sejumlah “inteligensi” yang relatif independen (misalnya linguistik, logis-matematis, musikal, kinestetik), dan menekankan bahwa individu bisa unggul pada satu ranah tanpa unggul pada ranah lain.\n\n\n\n\n\n\n\n\nCatatan\n\n\nKedua teori ini banyak memengaruhi diskusi di bidang pendidikan, tetapi belum seluas CHC dioperasionalkan ke dalam tes inteligensi terstandardisasi yang banyak dipakai secara praktis."
+    "text": "Triarchic dan multiple intelligences\n\nTeori triarchic (Sternberg, 2018) — membagi inteligensi menjadi tiga bagian: kemampuan analitis, kemampuan kreatif, dan kemampuan praktis. Menekankan bahwa keberhasilan tidak hanya ditentukan oleh kemampuan yang biasa diukur tes tertulis.\nTeori multiple intelligences (Chen & Gardner, 2018) — mengusulkan sejumlah “inteligensi” yang relatif independen (misalnya linguistik, logis-matematis, musikal, kinestetik), dan menekankan bahwa individu bisa unggul pada satu ranah tanpa unggul pada ranah lain.\n\n\n\n\n\n\n\n\nCatatan\n\n\nKedua teori ini banyak memengaruhi diskusi di bidang pendidikan, tetapi belum seluas CHC, dan belum dioperasionalkan ke dalam tes inteligensi terstandardisasi yang banyak dipakai secara praktis."
   },
   {
     "objectID": "slides/pertemuan6.html#perdebatan-seputar-multiple-intelligences",
@@ -900,14 +942,14 @@
     "href": "slides/pertemuan6.html#aktivitas-mengidentifikasi-tes-inteligensi-dalam-artikel-ilmiah",
     "title": "Tes Intelegensi",
     "section": "Aktivitas: mengidentifikasi tes inteligensi dalam artikel ilmiah",
-    "text": "Aktivitas: mengidentifikasi tes inteligensi dalam artikel ilmiah\nBayangkan sebuah abstrak jurnal menyebutkan:\n\n“…partisipan menyelesaikan Raven’s Standard Progressive Matrices sebagai kovariat, untuk mengontrol kemampuan penalaran umum sebelum menganalisis efek utama dari intervensi…”\n\n\nApakah instrumen ini termasuk tes inteligensi, tes bakat, atau tes prestasi? Bandingkan dengan definisi Pertemuan 1 dan Pertemuan 5.\nKemampuan CHC apa yang paling relevan dengan Progressive Matrices, berdasarkan tabel kemampuan luas hari ini?\n\n\n\n\n\n\n\n\nKunci\n\n\nProgressive Matrices termasuk tes inteligensi — dirancang mengukur kapasitas umum menyelesaikan masalah pada situasi baru. Kemampuan CHC yang paling relevan adalah Gf (penalaran cair).\n\n\n\n\n\n\nLatihan ini relevan untuk Tugas 1 (Pertemuan 6)."
+    "text": "Aktivitas: mengidentifikasi tes inteligensi dalam artikel ilmiah\nBayangkan sebuah abstrak jurnal menyebutkan:\n\n“…partisipan menyelesaikan Raven’s Standard Progressive Matrices sebagai kovariat, untuk mengontrol kemampuan penalaran umum sebelum menganalisis efek utama dari intervensi…”\n\n\nApakah instrumen ini termasuk tes inteligensi, tes bakat, atau tes prestasi? Bandingkan dengan definisi Pertemuan 1 dan Pertemuan 5.\nKemampuan CHC apa yang paling relevan dengan Progressive Matrices, berdasarkan tabel broad abilities hari ini?\n\n\n\n\n\n\n\n\nKunci\n\n\nProgressive Matrices termasuk tes inteligensi — dirancang mengukur kapasitas umum menyelesaikan masalah pada situasi baru. Kemampuan CHC yang paling relevan adalah Gf (penalaran cair).\n\n\n\n\n\n\nLatihan ini relevan untuk Tugas 1 (Pertemuan 6)."
   },
   {
     "objectID": "slides/pertemuan6.html#ringkasan",
     "href": "slides/pertemuan6.html#ringkasan",
     "title": "Tes Intelegensi",
     "section": "Ringkasan",
-    "text": "Ringkasan\n\nWechsler (1958) mendefinisikan inteligensi sebagai kapasitas global untuk bertindak dengan tujuan, berpikir rasional, dan berinteraksi efektif dengan lingkungan.\nTeori inteligensi berkembang dari model satu faktor (Spearman) ke model banyak faktor (Thurstone), lalu ke model bertingkat yang menggabungkan keduanya (CHC).\nCHC menyusun kemampuan kognitif dalam empat tingkat: spesifik, sempit, luas, dan umum — dan menjadi kerangka teori untuk proyek akhir Anda.\nAda pengembangan tes berbasis CHC di Indonesia, seperti AJT-CAT.\nTriarchic (Sternberg) dan multiple intelligences (Gardner) adalah dua teori alternatif yang lebih berpengaruh di ranah pendidikan dibanding tes klinis terstandardisasi; dukungan psikometrik untuk multiple intelligences khususnya masih diperdebatkan.\nSejarah penyalahgunaan tes inteligensi adalah salah satu alasan di balik pembatasan penggunaan tes psikologi menurut Kode Etik Psikologi Indonesia."
+    "text": "Ringkasan\n\nWechsler (1958) mendefinisikan inteligensi sebagai kapasitas global untuk bertindak dengan tujuan, berpikir rasional, dan berinteraksi efektif dengan lingkungan.\nTeori inteligensi berkembang dari model satu faktor (Spearman) ke model banyak faktor (Thurstone), lalu ke model bertingkat yang menggabungkan keduanya (CHC).\nCHC menyusun kemampuan kognitif dalam empat tingkat: spesifik, narrow, broad, dan umum — dan menjadi kerangka teori untuk proyek akhir Anda.\nAda pengembangan tes berbasis CHC di Indonesia, seperti AJT-CAT.\nTriarchic (Sternberg) dan multiple intelligences (Gardner) adalah dua teori alternatif yang lebih berpengaruh di ranah pendidikan dibanding tes klinis terstandardisasi; dukungan psikometrik untuk multiple intelligences khususnya masih diperdebatkan.\nSejarah penyalahgunaan tes inteligensi adalah salah satu alasan di balik pembatasan penggunaan tes psikologi menurut Kode Etik Psikologi Indonesia."
   },
   {
     "objectID": "slides/pertemuan6.html#untuk-pertemuan-7",

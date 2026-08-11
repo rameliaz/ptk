@@ -386,8 +386,8 @@ Di Minggu 6, Anda akan me-*review* 3 artikel jurnal yang menggunakan tes kogniti
 ## Ringkasan
 
 ::: {.incremental}
-1. **Psikometri** adalah teori dan teknik pengukuran atribut psikologis; tes kognitif salah satu wilayahnya.
-2. **Tes, skala, inventori, angket** berbeda pada objektivitas dan ada-tidaknya jawaban benar-salah.
+1. **Psikometri** adalah teori dan teknik pengukuran atribut psikologis; tes kognitif adalah salah satu cabangnya.
+2. **Tes, skala, inventori, angket** berbeda pada objektivitas dan ada-tidaknya jawaban benar-salah (*ground truth*).
 3. Atribut kognitif diukur lewat **performansi maksimal**, bukan tipikal.
 4. Tiga jenis tes kognitif — **inteligensi, bakat/potensi, prestasi** — lahir dari tiga tradisi sejarah berbeda dan mengukur hal yang berbeda pula.
 5. Penggunaan tes psikologi di Indonesia terikat **Kode Etik HIMPSI** (kategori A–D).

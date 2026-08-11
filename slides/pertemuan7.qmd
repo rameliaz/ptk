@@ -118,7 +118,7 @@ Saya menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk *brainstorming* m
 
 ::: {.callout-tip}
 #### Konsekuensi praktis
-Saat menulis item tes prestasi, Anda mulai dari TIK. Saat menulis item tes potensi, Anda mulai dari kemampuan sempit (*narrow ability*) yang ingin diukur — misalnya *induction* atau *quantitative reasoning* dari kemampuan luas Gf yang dibahas di Pertemuan 6.
+Saat menulis item tes prestasi, Anda mulai dari TIK. Saat menulis item tes potensi, Anda mulai dari *narrow ability* yang ingin diukur — misalnya *induction* atau *quantitative reasoning* dari *broad ability* Gf yang dibahas di Pertemuan 6.
 :::
 
 # Contoh item tes potensi {background-color="#14497F" .center}
