@@ -8,7 +8,7 @@ Semester Gasal 2026/2027 — 3 SKS.
 **Dosen pengampu:** Dr. Rizqy Amelia Zein (Pertemuan 1–7) · Dr. Endah Mastuti, M.Psi. (Pertemuan 9–15)
 **PJMK/Penanggung jawab:** Dr. Fitri Andriani, M.Si., Psikolog
 
-::: {.callout-warning}
+::: {.callout-warning collapse="true"}
 #### *Work in Progress* 👷‍♀️
 Materi mata kuliah ini sedang disusun secara bertahap. Slide pertemuan yang sudah tersedia bisa diakses lewat menu **Materi** di atas atau lewat tabel [Rencana Pertemuan](#rencana-pertemuan) di bawah. Jadwal Pertemuan 8–16 masih ditentukan lebih lanjut.
 :::
@@ -40,17 +40,17 @@ Kuliah dan diskusi kelompok (Pertemuan 1–7), dilanjutkan dengan praktik terbim
 
 ## Rencana Pertemuan
 
-Pertemuan 1–7 dilaksanakan pada **hari yang sama dengan PSP**, tetapi mulai pukul **13.00 WIB**, secara **daring** melalui [Microsoft Teams](https://teams.microsoft.com/meet/477005755178302?p=9IweUwRTYixgb7DBOb). Pertemuan 9–15 dilaksanakan **luring di Ruang 309**, setiap **Kamis pukul 08.00 WIB**. Jadwal Pertemuan 8 (UTS) dan 16 (UAS) menyusul.
+Pertemuan 1–7 dilaksanakan pada hari **Rabu pukul 13.00 WIB**, secara **daring** melalui [Microsoft Teams](https://teams.microsoft.com/meet/477005755178302?p=9IweUwRTYixgb7DBOb). Pertemuan 9–15 dilaksanakan **luring di Ruang 309**, setiap **Kamis pukul 08.00 WIB**. Jadwal Pertemuan 8 (UTS) dan 16 (UAS) menyusul.
 
 | # | Tanggal | Pukul | Topik | Moda | Dosen | Materi | Tautan MS Teams |
 |:--|:--|:--|:------|:--|:--|:--|:--|
-| 1 | Rab, 12 Agu | 13.00 WIB | Pengertian dan jenis tes kognitif | Kuliah, diskusi kelompok | Amel | [Slide](slides/pertemuan1.html) | [Gabung](https://teams.microsoft.com/meet/477005755178302?p=9IweUwRTYixgb7DBOb) |
-| 2 | Rab, 19 Agu | 13.00 WIB | Tahapan penyusunan tes kognitif | Kuliah, diskusi kelompok | Amel | [Slide](slides/pertemuan2.html) | [Gabung](https://teams.microsoft.com/meet/477005755178302?p=9IweUwRTYixgb7DBOb) |
-| 3 | Rab, 26 Agu | 13.00 WIB | Taksonomi dan tujuan instruksional | Kuliah, diskusi kelompok | Amel | [Slide](slides/pertemuan3.html) | [Gabung](https://teams.microsoft.com/meet/477005755178302?p=9IweUwRTYixgb7DBOb) |
-| 4 | Rab, 2 Sep | 13.00 WIB | Tes prestasi: pengertian dan tujuan | Kuliah, diskusi kelompok | Amel | [Slide](slides/pertemuan4.html) | [Gabung](https://teams.microsoft.com/meet/477005755178302?p=9IweUwRTYixgb7DBOb) |
-| 5 | Rab, 9 Sep | 13.00 WIB | Tes potensi: tes bakat, TPA, dan *specific abilities* | Kuliah, diskusi kelompok | Amel | [Slide](slides/pertemuan5.html) | [Gabung](https://teams.microsoft.com/meet/477005755178302?p=9IweUwRTYixgb7DBOb) |
-| 6 | Rab, 16 Sep | 13.00 WIB | Tes inteligensi: teori dan jenis, telaah literatur | Kuliah, diskusi kelompok | Amel | [Slide](slides/pertemuan6.html) | [Gabung](https://teams.microsoft.com/meet/477005755178302?p=9IweUwRTYixgb7DBOb) |
-| 7 | Rab, 23 Sep | 13.00 WIB | Menulis item tes prestasi dan tes potensi | Kuliah, tugas | Amel | [Slide](slides/pertemuan7.html) | [Gabung](https://teams.microsoft.com/meet/477005755178302?p=9IweUwRTYixgb7DBOb) |
+| 1 | Rab, 12 Agu | 13.00 WIB | Pengertian dan jenis tes kognitif | Kuliah, diskusi kelompok | Amel | [Slide](slides/pertemuan1.html) | [Klik untuk bergabung](https://teams.microsoft.com/meet/477005755178302?p=9IweUwRTYixgb7DBOb) |
+| 2 | Rab, 19 Agu | 13.00 WIB | Tahapan penyusunan tes kognitif | Kuliah, diskusi kelompok | Amel | [Slide](slides/pertemuan2.html) | [Klik untuk bergabung](https://teams.microsoft.com/meet/477005755178302?p=9IweUwRTYixgb7DBOb) |
+| 3 | Rab, 26 Agu | 13.00 WIB | Taksonomi dan tujuan instruksional | Kuliah, diskusi kelompok | Amel | [Slide](slides/pertemuan3.html) | [Klik untuk bergabung](https://teams.microsoft.com/meet/477005755178302?p=9IweUwRTYixgb7DBOb) |
+| 4 | Rab, 2 Sep | 13.00 WIB | Tes prestasi: pengertian dan tujuan | Kuliah, diskusi kelompok | Amel | [Slide](slides/pertemuan4.html) | [Klik untuk bergabung](https://teams.microsoft.com/meet/477005755178302?p=9IweUwRTYixgb7DBOb) |
+| 5 | Rab, 9 Sep | 13.00 WIB | Tes potensi: tes bakat, TPA, dan *specific abilities* | Kuliah, diskusi kelompok | Amel | [Slide](slides/pertemuan5.html) | [Klik untuk bergabung](https://teams.microsoft.com/meet/477005755178302?p=9IweUwRTYixgb7DBOb) |
+| 6 | Rab, 16 Sep | 13.00 WIB | Tes inteligensi: teori dan jenis, telaah literatur | Kuliah, diskusi kelompok | Amel | [Slide](slides/pertemuan6.html) | [Klik untuk bergabung](https://teams.microsoft.com/meet/477005755178302?p=9IweUwRTYixgb7DBOb) |
+| 7 | Rab, 23 Sep | 13.00 WIB | Menulis item tes prestasi dan tes potensi | Kuliah, tugas | Amel | [Slide](slides/pertemuan7.html) | [Klik untuk bergabung](https://teams.microsoft.com/meet/477005755178302?p=9IweUwRTYixgb7DBOb) |
 | 8 | TBA | TBA | **Ujian Tengah Semester** (materi Pertemuan 1–7) | UTS | — | — | — |
 | 9 | Kam, 15 Okt | 08.00 WIB | Menulis item untuk mengukur *Higher Order Thinking Skill* (HOTS) | Kuliah | Endah | n/a | — |
 | 10 | Kam, 22 Okt | 08.00 WIB | Praktik menyusun tes kognitif: spesifikasi item dan *blueprint* | Praktik | Endah | n/a | — |
@@ -74,12 +74,19 @@ Namun, untuk mengakses percakapan (*chat*) atau berkomunikasi dengan dosen lewat
 
 | Komponen | Bobot |
 |:--|--:|
-| Kegiatan partisipatif (keaktifan di kelas) | 30% |
-| Hasil proyek (proyek penyusunan tes kognitif) | 40% |
-| Tugas mandiri dan kelompok | 5% |
-| Ujian Tengah Semester | 25% |
+| Hasil proyek (proyek penyusunan tes kognitif) | ---% |
+| Tugas review jurnal (kelompok) | ---% |
+| Ujian Tengah Semester | --% |
+| Tugas menulis item (individu) | ---% |
+| Proyek akhir (kelompok) | ---% |
 
 : Rekapitulasi metode penilaian, mengacu pada RPP {.striped .hover}
+
+::: {.callout-note}
+### Proporsi penilaian akan diumumkan minggu depan
+Informasi tentang proporsi penilaian akan diumumkan (kemungkinan) minggu depan.
+
+:::
 
 ---
 
