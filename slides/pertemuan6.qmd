@@ -122,11 +122,6 @@ Sejarah ini adalah salah satu alasan mengapa penggunaan tes psikologi di Indones
 Sumber: [Schneider & McGrew (2018)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118660584.ese0431?src=getftr).
 :::
 
-::: {.callout-tip}
-#### Relevansi untuk proyek Anda
-CHC adalah kerangka teori yang dipakai untuk menentukan konstruk pada proyek penyusunan tes kognitif Anda. Pembagian *narrow abilities* yang menjadi target pengukuran kelompok akan ditentukan lebih lanjut menjelang Pertemuan 9.
-:::
-
 ## CHC melandasi beberapa tes intelegensi (1)
 
 | Tes | *Broad abilities* yang diukur | Catatan |
