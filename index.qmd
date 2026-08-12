@@ -63,7 +63,7 @@ Pertemuan 1–7 dilaksanakan pada hari **Rabu pukul 13.00 WIB**, secara **daring
 
 : Rencana pertemuan Kelas C-2, Semester Gasal 2026/2027 {.striped .hover tbl-colwidths="[4,8,7,26,9,6,8,12]"}
 
-::: {.callout-note collapse="true"}
+::: {.callout-note}
 #### Catatan tentang perkuliahan daring
 Mahasiswa **tidak harus** memiliki akun Microsoft Teams untuk mengikuti kuliah, dan dapat bergabung langsung lewat *browser* tanpa memasang aplikasinya.
 
