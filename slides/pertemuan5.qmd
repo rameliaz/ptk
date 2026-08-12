@@ -87,7 +87,8 @@ Diadaptasi dari Anastasi & Urbina (1997) dan Azwar (2019); lihat juga Pertemuan 
 
 ::: {.incremental}
 * Tes potensi tetap membutuhkan sejumlah pengetahuan dasar sebagai media pengukuran, misalnya soal kuantitatif tetap memakai operasi hitung yang sudah dipelajari.
-* Yang membedakan bukan "bebas dari pengaruh belajar sama sekali", melainkan **tujuan penggunaan skornya**: memprediksi performa mendatang, bukan mencatat penguasaan materi tertentu.
+* Oleh karena itu, beberapa ahli menyebutkan bahwa korelasi yang kuat antara skor tes prestasi dengan tes potensi sebagai kasus [*jangle fallacy*](https://russellwarne.com/2019/10/23/the-jangle-fallacy-aptitude-%E2%89%88-achievement/). Nama tesnya/konstruknya berbeda, tetapi sebenarnya mendeskripsikan fenomena psikologis yang sama.
+* Jadi, perbedaannya mungkin terletak pada **tujuan penggunaan skornya**: memprediksi performa mendatang, bukan mengevaluasi hasil belajar yang telah lampau.
 :::
 
 # Dua kategori tes potensi {background-color="#14497F" .center}

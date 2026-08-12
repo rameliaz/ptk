@@ -72,6 +72,12 @@ Namun, untuk mengakses percakapan (*chat*) atau berkomunikasi dengan dosen lewat
 
 ## Tugas dan Penilaian
 
+::: {.callout-note}
+### Pembagian kelompok
+
+Silakan Anda memilih anggota kelompok Anda sendiri dan [tuliskan nama seluruh anggota kelompok di *spreadsheet* ini](https://docs.google.com/spreadsheets/d/1TWuEzAeO6-VahflbT3vBpnKLzG5zjd8K/edit?usp=sharing&ouid=100126014993390956583&rtpof=true&sd=true). *Spreadsheet* akan dikunci aksesnya (tidak dapat di*edit*) pada Pertemuan ke-3.
+:::
+
 | Komponen | Bobot |
 |:--|--:|
 | Hasil proyek (proyek penyusunan tes kognitif) | ---% |
