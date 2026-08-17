@@ -55,15 +55,17 @@ Menyusun tes bakat numerik untuk calon peserta pelatihan kerja. Apa yang harus d
 
 ::: {.callout-warning}
 #### Konsekuensi dari urutan ini
-Menulis item sering dianggap sebagai aktivitas yang terpenting, sedangkan definisi konstruk dan *blueprint* dianggap sebagai langkah administratif. Namun urutan ini menentukan apakah item yang ditulis memiliki dasar yang dapat dipertanggungjawabkan-.
+Menulis item sering dianggap sebagai aktivitas yang terpenting, sedangkan definisi konstruk dan *blueprint* dianggap sebagai langkah administratif. Namun urutan ini menentukan apakah item yang ditulis memiliki dasar yang dapat dipertanggungjawabkan.
 :::
 
-# Tidak ada satu resep baku {background-color="#14497F" .center}
+# Tidak ada resep baku {background-color="#14497F" .center}
 
-## Banyak versi, satu logika
+## Ada banyak versi, tetapi logikanya sama
 
 ::: {.incremental}
-* [Kline (1986)](https://psycnet.apa.org/record/1987-97491-000) menyusun tahapannya sendiri. Azwar (2019) punya urutan yang sedikit berbeda. [Downing (2006)](https://fatihegitim.wordpress.com/wp-content/uploads/2014/03/hndb-t-devt.pdf), dalam *Handbook of Test Development*, merinci **dua belas langkah** untuk pengujian berskala besar.
+* [Kline (1986)](https://psycnet.apa.org/record/1987-97491-000) menyusun tahapannya sendiri. 
+* Azwar (2019) punya urutan yang sedikit berbeda. 
+* [Downing (2006)](https://fatihegitim.wordpress.com/wp-content/uploads/2014/03/hndb-t-devt.pdf), dalam *Handbook of Test Development*, merinci **dua belas langkah** untuk pengujian berskala besar.
 * Detailnya berbeda-beda, tapi **logika besarnya sama**: rencanakan dulu apa dan bagaimana yang mau diukur, kembangkan itemnya, uji secara empiris, baru finalisasi.
 :::
 
@@ -78,7 +80,7 @@ Kita memakai sintesis sebelas tahap yang dikelompokkan jadi empat fase besar. In
 
 ## Peta besarnya
 
-| Fase | Tahap | Terjadi di proyek Anda |
+| Fase | Tahap | Di MK ini |
 |---|---|:-:|
 | **A. Perencanaan** | 1–4 | Pertemuan 9–10 |
 | **B. Pengembangan Item** | 5–6 | Pertemuan 11 |
@@ -102,10 +104,10 @@ Diadaptasi dan disintesis dari [Kline (1986)](https://psycnet.apa.org/record/198
 
 ::: {.callout-important}
 #### Tahap yang sering terlewat
-Banyak orang cenderung melompati Tahap 2 karena dianggap "sudah jelas". Semua orang merasa tahu apa itu "kemampuan numerik". Tetapi tanpa definisi operasional yang eksplisit, tidak ada dasar untuk memutuskan item mana yang **termasuk** dan mana yang **tidak termasuk** ke dalam tes. Ini konsep operasionalisasi yang sudah Anda kenal dari Psikometri.
+Banyak orang cenderung melompati Tahap 2 karena dianggap "sudah jelas". Semua orang merasa tahu apa itu "kemampuan numerik". Tetapi tanpa definisi operasional yang eksplisit, tidak ada dasar untuk memutuskan item mana yang **termasuk** dan mana yang **tidak termasuk** ke dalam tes. Ini konsep operasionalisasi konstruk yang sudah Anda pelajari dari MK Psikometri.
 :::
 
-## Tahap 3–4: jenis tes dan blueprint
+## Tahap 3–4: jenis tes dan *blueprint*
 
 ::: {.incremental}
 3. **Menentukan jenis tes** — apakah ini tes prestasi, potensi, atau inteligensi? (Pertemuan 1 relevan lagi di sini.)
@@ -124,7 +126,7 @@ Tes bakat numerik dengan 3 sub-domain, 20 item:
 | Deret angka/pola | 30% | 6 |
 | Soal cerita kuantitatif | 30% | 6 |
 
-*Blueprint* juga biasanya menyilangkan domain isi dengan **level kognitif** yang ingin diukur — ini yang akan kita bahas lebih lengkap di Pertemuan 3 lewat taksonomi tujuan instruksional.
+*Blueprint* juga biasanya menyilangkan domain isi dengan **level kognitif** yang ingin diukur, dan akan kita bahas lebih lengkap di Pertemuan 3 lewat taksonomi tujuan instruksional.
 :::
 
 # Fase B: Pengembangan Item {background-color="#14497F" .center}
@@ -165,7 +167,7 @@ Tiga tahap ini adalah bagian proses di mana kualitas tes diuji berdasarkan data,
 ## Tahap 10–11: norma dan manual
 
 ::: {.incremental}
-10. **Penyusunan norma** — mengubah skor mentah menjadi skor yang bisa dimaknai (persentil, skor standar) relatif terhadap kelompok acuan.
+10. **Penyusunan norma** — mengubah skor mentah menjadi skor yang bisa dimaknai (desil, persentil, skor standar) relatif terhadap kelompok acuan.
 11. **Penyusunan manual tes** — dokumentasi lengkap tentang cara mengadministrasikan, menyekor, dan menginterpretasikan tes.
 :::
 
@@ -173,15 +175,15 @@ Tiga tahap ini adalah bagian proses di mana kualitas tes diuji berdasarkan data,
 
 ::: {.callout-tip}
 #### Ini luaran Tugas 3 Anda
-Booklet tes (berisi item yang lolos seleksi) dan manual tes yang Anda kumpulkan di Pertemuan 14 **adalah** Tahap 10 dan 11 ini.
+*Booklet* tes (berisi item yang lolos seleksi) dan manual tes yang Anda kumpulkan di Pertemuan 14 **adalah** Tahap 10 dan 11 ini.
 :::
 
-# Sifat iteratif proses {background-color="#14497F" .center}
+# Sifat iteratif proses pengembangan tes {background-color="#14497F" .center}
 
 ## Pengulangan antar tahap
 
 ::: {.incremental}
-* Sebelas tahap ini digambarkan secara linear, tetapi dalam praktiknya sering melibatkan kembali ke tahap sebelumnya.
+* Sebelas tahap ini digambarkan secara linear, tetapi dalam praktiknya sering perlu kembali ke tahap sebelumnya.
 * Analisis butir menunjukkan item timpang di satu sub-domain → kembali ke **Tahap 5** untuk menulis item pengganti, kadang kembali ke **Tahap 4** untuk merevisi *blueprint*-nya.
 * Reliabilitas ternyata terlalu rendah → bisa berarti kembali ke penulisan item, bukan sekadar menambah jumlah item.
 :::
@@ -195,7 +197,7 @@ Alokasikan waktu untuk kemungkinan kembali ke tahap sebelumnya. Kelompok yang me
 
 ## Ringkasan Tahapan Penyusunan Tes
 
-![](libs/penyusunan_tes.png){fig-align="center"}
+![](libs/penyusunan_tes.png){fig-align="center" width="60%"}
 
 ::: aside
 Diagram ini menyederhanakan sebelas tahap di atas menjadi sembilan kotak visual — misalnya Tahap 5 dan 6 digabung menjadi "Penulisan item & Reviu item", serta Tahap 10 dan 11 digabung menjadi "Bentuk Final". Pengelompokan visualnya berbeda, tetapi logika dan urutan besarnya tetap sama.
@@ -205,7 +207,7 @@ Diagram ini menyederhanakan sebelas tahap di atas menjadi sembilan kotak visual 
 ## Ringkasan
 
 ::: {.incremental}
-1. Menulis item tanpa definisi konstrak dan *blueprint* terlebih dahulu adalah kesalahan umum yang berisiko menghasilkan proporsi domain yang tidak sesuai rencana.
+1. Menulis item tanpa definisi konstruk dan *blueprint* terlebih dahulu adalah kesalahan umum yang berisiko menghasilkan proporsi domain yang tidak sesuai rencana.
 2. Ada banyak versi tahapan di literatur ([Kline, 1986](https://psycnet.apa.org/record/1987-97491-000); Azwar, 2019; [Downing, 2006)](https://fatihegitim.wordpress.com/wp-content/uploads/2014/03/hndb-t-devt.pdf)).
 3. Sebelas tahap mata kuliah ini terbagi jadi empat fase: **Perencanaan, Pengembangan Item, Uji Empiris, Finalisasi**.
 4. Prosesnya **iteratif**, alokasikan waktu untuk kembali ke tahap sebelumnya.

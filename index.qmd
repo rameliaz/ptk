@@ -3,7 +3,7 @@ title: "Penyusunan Tes Kognitif"
 ---
 
 Kelas C-2, Sarjana Psikologi, Fakultas Psikologi, Universitas Airlangga.
-Semester Gasal 2026/2027 — 3 SKS.
+Semester Gasal 2026/2027 — 3 SKS (PSA 305).
 
 **Dosen pengampu:** Dr. Rizqy Amelia Zein (Pertemuan 1–7) · Dr. Endah Mastuti, M.Psi. (Pertemuan 9–15)
 **PJMK/Penanggung jawab:** Dr. Fitri Andriani, M.Si., Psikolog
@@ -78,27 +78,90 @@ Namun, untuk mengakses percakapan (*chat*) atau berkomunikasi dengan dosen lewat
 Silakan Anda memilih anggota kelompok Anda sendiri dan [tuliskan nama seluruh anggota kelompok di *spreadsheet* ini](https://docs.google.com/spreadsheets/d/1TWuEzAeO6-VahflbT3vBpnKLzG5zjd8K/edit?usp=sharing&ouid=100126014993390956583&rtpof=true&sd=true). *Spreadsheet* akan dikunci aksesnya (tidak dapat di*edit*) pada Pertemuan ke-3.
 :::
 
-| Komponen | Bobot |
-|:--|--:|
-| Hasil proyek (proyek penyusunan tes kognitif) | ---% |
-| Tugas review jurnal (kelompok) | ---% |
-| Ujian Tengah Semester | --% |
-| Tugas menulis item (individu) | ---% |
-| Proyek akhir (kelompok) | ---% |
+| Tugas | Minggu ke- | Bentuk | Objek Garapan | Bobot |
+|:--|:--:|:--|:--|--:|
+| Tugas 1 — Review Artikel Ilmiah | 6 | Kelompok (4–5 orang) | Review 3 artikel ilmiah bereputasi bertema tes kognitif (inteligensi/tes potensi/lainnya) | 10% |
+| Tugas 2 — Latihan Menulis Item | 7 | Individu | 20 butir item tes prestasi & tes potensi beserta *blueprint*-nya | 5% |
+| Ujian Tengah Semester | 8 | Individu | Materi Pertemuan 1–7 | 30% |
+| Tugas 3 — Proyek Penyusunan Tes Kognitif | 14 | Kelompok (4–5 orang) | Laporan penyusunan tes, *booklet* item, dan buku manual tes | 55% |
 
-: Rekapitulasi metode penilaian, mengacu pada RPP {.striped .hover}
+: Rekapitulasi tugas, mengacu pada RTM (Rancangan Tugas Mahasiswa) {.striped .hover}
 
 ::: {.callout-note}
 ### Proporsi penilaian akan diumumkan minggu depan
 Informasi tentang proporsi penilaian akan diumumkan (kemungkinan) minggu depan.
+:::
 
+::: {.callout-tip collapse="true"}
+### Rincian Tugas 1 — Review Artikel Ilmiah (Minggu ke-6️⃣)
+
+**Tujuan:** mengidentifikasi tes kognitif (inteligensi/tes potensi/tes kognitif lainnya) yang digunakan dalam artikel ilmiah, untuk menumbuhkan kesadaran mengenai peran tes kognitif.
+
+**Ketentuan:**
+
+- Dikerjakan berkelompok (4–5 orang), memilih 3 artikel bertema tes kognitif dari jurnal bereputasi.
+- Laporan terdiri dari: (a) *review* umum tiap artikel, (b) resume mengenai tes kognitif, (c) resume teori yang mendasari, didukung referensi yang sesuai.
+- Dikumpulkan melalui Psyche, berkas `.pdf`. Tugas yang tidak sesuai ketentuan tidak dinilai.
+
+| Kriteria | Indikator | Nilai Maksimum |
+|:--|:--|--:|
+| Struktur | Laporan disusun sesuai urutan yang ditentukan | 30 |
+| Kejelasan | Laporan jelas dan mudah dipahami (tampilan & uraian) | 40 |
+| Akurasi Konten | Interpretasi sesuai materi, didukung referensi yang sesuai | 30 |
+| **Total** | | **100** |
+:::
+
+::: {.callout-tip collapse="true"}
+### Rincian Tugas 2 — Latihan Menulis Item (Minggu ke-7️⃣)
+
+**Tujuan:** melatih keterampilan menulis item tes prestasi maupun tes potensi, serta membedakan penulisan item kedua jenis tes tersebut.
+
+**Ketentuan:**
+
+- Dikerjakan individu (item bukan bagian dari tugas akhir), waktu pengerjaan 1 minggu.
+- Menentukan 5 indikator untuk tes prestasi dan 5 indikator untuk tes potensi, masing-masing 2 butir per indikator (± 20 butir total).
+- Laporan terdiri dari *blueprint* + item tes prestasi, dan *blueprint* + item tes potensi.
+- Dikumpulkan melalui Psyche, berkas `.pdf`. Tugas yang tidak sesuai ketentuan tidak dinilai.
+
+| Kriteria | Indikator | Nilai Maksimum |
+|:--|:--|--:|
+| Struktur | Laporan disusun sesuai urutan yang ditentukan | 30 |
+| Kejelasan | Penulisan item jelas dan mudah dipahami (tampilan & uraian) | 40 |
+| Akurasi Konten | Mampu membedakan bentuk item tes prestasi & tes potensi, didukung referensi yang sesuai | 30 |
+| **Total** | | **100** |
+:::
+
+::: {.callout-tip collapse="true"}
+### Rincian Tugas 3 — Proyek Penyusunan Tes Kognitif (Minggu ke-1️⃣4️⃣)
+
+**Tujuan:** menyusun tes kognitif (tes potensi/kecerdasan) sesuai kaidah dan tahapan yang benar.
+
+**Ketentuan:**
+
+- Dikerjakan berkelompok (4–5 orang); jenis *ability* yang disusun tiap kelompok dipandu dosen.
+- Minimal 50 item mengikuti indikator/*blueprint* berbasis teori; meliputi penyusunan item, uji coba, analisis item, uji validitas & reliabilitas, hingga pelaporan.
+- Berkas terdiri dari 3 dokumen `.pdf` dalam satu folder: Laporan Penyusunan Tes Kognitif (sistematika Bab I–V mengikuti standar APA), *Booklet* Tes Kognitif (item yang "baik" dan layak pakai), dan Buku Manual Tes.
+- Dikumpulkan melalui Psyche. Tugas yang tidak sesuai ketentuan tidak dinilai.
+
+| Kriteria | Indikator | Nilai Maksimum |
+|:--|:--|--:|
+| Pendahuluan | Latar belakang, tujuan, dan manfaat penyusunan alat ukur | 15 |
+| Tinjauan Teoretik | Konsep teori konstrak & konsep pengukuran/tahapan penyusunan | 15 |
+| Metode | Definisi operasional, *blueprint*, validitas & reliabilitas yang digunakan | 15 |
+| Hasil | Item alat ukur, bukti validitas (min. 2), analisis item, pemilihan item, reliabilitas skala | 20 |
+| Penutup | Kesimpulan dan keterbatasan alat ukur | 5 |
+| Daftar Pustaka | Referensi lengkap sesuai standar APA | 5 |
+| Manual | Manual penggunaan tes | 5 |
+| Lampiran | Data validitas, data uji coba, output analisis | 5 |
+| *Booklet* | *Booklet* Tes dan *Booklet* Manual | 15 |
+| **Total** | | **100** |
 :::
 
 ---
 
 ::: {.callout-tip appearance="simple"}
-Halaman ini merupakan ringkasan **RPP**, yang selengkapnya, akan Anda dapat akses di Psyche.
+Halaman ini merupakan ringkasan **RPP** dan **RTM**, yang selengkapnya, akan Anda dapat akses di Psyche.
 :::
 
 ### *Disclosure* penggunaan akal imitasi (AI)
-Saya (Amel) menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk *brainstorming* materi, membuat grafik, mencari referensi, dan melakukan *troubleshooting* kode `quarto` dan `git`. Saya bertanggung jawab penuh atas substansi dan penyajian materi di mata kuliah ini.
+Saya (Amel) menggunakan Claude Code (Model Sonnet 5) untuk *brainstorming* materi, membuat grafik, mencari referensi, dan melakukan *troubleshooting* kode `quarto` dan `git`. Saya bertanggung jawab penuh atas substansi dan penyajian materi di mata kuliah ini.
