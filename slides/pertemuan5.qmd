@@ -215,7 +215,7 @@ Pertemuan 6 membahas tes inteligensi, yang merupakan jenis tes kognitif ketiga d
 * Kontak saya via <i class="fas fa-paper-plane"></i> <a href="mailto:amelia.zein@psikologi.unair.ac.id">amelia.zein@psikologi.unair.ac.id</a>
 :::
 
-## Rujukan
+## Rujukan {.scrollable}
 
 Anastasi, A., & Urbina, S. (1997). *Psychological testing* (7th ed.). Prentice Hall.
 

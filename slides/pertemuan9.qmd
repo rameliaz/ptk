@@ -1,0 +1,267 @@
+---
+title: "Menulis item untuk mengukur *Higher Order Thinking Skill* (HOTS)"
+subtitle: "Penyusunan Tes Kognitif"
+author: "Rizqy Amelia Zein"
+institute:
+  - "[_Departemen Psikologi, Universitas Airlangga_](https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/)"
+date: today
+format:
+  unair-revealjs:
+    slide-number: true
+    progress: true
+    transition: slide
+    center: false
+    css: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css
+    chalkboard: true
+execute:
+  eval: false
+  echo: true
+---
+
+## _Outline_
+
+::: {.incremental}
+* Dari LOTS ke HOTS
+* Definisi dan ciri item HOTS
+* Menulis item level Menganalisis
+* Menulis item level Mengevaluasi
+* Menulis item level Mencipta
+* HOTS pada tes prestasi vs. tes potensi
+* Kesalahan umum menulis item HOTS
+* Aktivitas: menelaah butir HOTS
+:::
+
+::: aside
+***Disclosure* penggunaan akal imitasi (AI)**
+
+Saya menggunakan Claude Code (Model Sonnet 5) untuk *brainstorming* dan membuat *baseline* materi, mencari referensi, dan melakukan *troubleshooting* kode `quarto` dan `git`. Saya bertanggung jawab penuh atas substansi dan penyajian presentasi ini.
+:::
+
+# Dari LOTS ke HOTS {background-color="#14497F" .center}
+
+## Recap: enam level proses kognitif
+
+Pertemuan 3 membahas taksonomi Bloom revisi (Anderson & Krathwohl, 2001) dengan enam level proses kognitif, berjenjang dari yang paling sederhana:
+
+Mengingat → Memahami → Menerapkan → Menganalisis → Mengevaluasi → Mencipta
+
+::: {.callout-note}
+#### LOTS vs. HOTS
+Tiga level pertama biasa disebut ***lower order thinking skills* (LOTS)**; tiga level terakhir disebut ***higher order thinking skills* (HOTS)**. Hari ini kita fokus pada level Menganalisis, Mengevaluasi, dan Mencipta.
+:::
+
+## Mengapa item level LOTS saja tidak cukup
+
+Item yang hanya mengukur level Mengingat menuntut peserta memanggil kembali informasi, tanpa perlu menunjukkan bahwa mereka benar-benar memahami, menafsirkan, atau mampu menerapkan informasi tersebut untuk memecahkan persoalan yang belum pernah mereka jumpai persis dalam bentuk itu.
+
+::: {.callout-tip}
+#### Konsekuensi praktis
+Semakin tinggi level kognitif yang diukur, semakin dituntut kemampuan berpikir kompleks dari peserta — bukan sekadar semakin sulit soalnya.
+:::
+
+# Definisi dan ciri item HOTS {background-color="#14497F" .center}
+
+## Apa itu HOTS
+
+::: {.callout-note}
+#### Definisi
+HOTS mencakup proses berpikir yang melampaui mengingat dan memahami: menganalisis, mengevaluasi (melakukan *judgement*), dan mencipta, termasuk di dalamnya berpikir kritis, berpikir kreatif, dan pemecahan masalah.
+:::
+
+::: aside
+Bloom dkk. (1956); Anderson & Krathwohl (2001); Brookhart (2010).
+:::
+
+## Dua ciri item HOTS yang baik
+
+::: {.incremental}
+1. Ada **pengantar soal (*stimulus*)** — teks, grafik, tabel, kasus — sebagai bahan berpikir bagi peserta.
+2. Konteks atau masalah yang **belum pernah dijumpai peserta persis dalam bentuk yang sama**, sehingga item tidak bisa dijawab hanya dengan mengandalkan ingatan.
+:::
+
+. . .
+
+::: {.callout-important}
+#### Yang sering keliru
+Stimulus yang panjang dan tampak rumit **tidak otomatis** membuat sebuah item mengukur HOTS. Kalau jawabannya bisa ditemukan langsung dengan mencocokkan kalimat pada stimulus, tanpa perlu memproses informasi itu, proses kognitif yang sebenarnya dituntut tetap Mengingat.
+:::
+
+::: aside
+Brookhart (2010).
+:::
+
+# Menulis item level Menganalisis {background-color="#14497F" .center}
+
+## Tiga jenis proses analisis
+
+::: {.incremental}
+* **Analisis unsur** — mengenali asumsi yang tidak dinyatakan secara eksplisit, membedakan fakta dari opini, membedakan kesimpulan dari fakta yang mendukungnya.
+* **Analisis hubungan** — mengidentifikasi hubungan antar-ide, mengenali hubungan sebab-akibat, membedakan argumen yang relevan dari yang tidak relevan.
+* **Analisis prinsip pengorganisasian** — mengenali bentuk, pola, atau struktur yang implisit dalam sebuah teks atau komunikasi.
+:::
+
+::: aside
+Bloom dkk. (1956).
+:::
+
+## Contoh item: analisis hubungan
+
+::: {.callout-note}
+#### Stimulus
+*"Sebuah laporan menemukan bahwa penjualan es krim dan jumlah kasus tenggelam di kolam renang umum sama-sama meningkat sepanjang tahun. Penulis laporan menyimpulkan bahwa membeli es krim meningkatkan risiko tenggelam."*
+:::
+
+*"Kelemahan utama pada kesimpulan tersebut adalah..."*
+
+A) Data penjualan es krim kurang akurat　B) Kedua hal itu kemungkinan sama-sama dipengaruhi musim panas　C) Kasus tenggelam terlalu sedikit untuk dianalisis　D) Kolam renang umum tidak representatif
+
+. . .
+
+::: {.callout-tip}
+#### Kunci
+**B** — korelasi antara dua variabel tidak membuktikan salah satu menyebabkan yang lain; keduanya bisa dijelaskan oleh variabel ketiga (musim panas). Menjawab ini menuntut analisis hubungan sebab-akibat, bukan sekadar mengingat definisi korelasi.
+:::
+
+# Menulis item level Mengevaluasi {background-color="#14497F" .center}
+
+## Dua jenis kriteria penilaian
+
+::: {.incremental}
+* **Kriteria internal** — akurasi, konsistensi, dan urutan logis dari karya atau argumen itu sendiri.
+* **Kriteria eksternal** — standar di luar karya itu, misalnya efisiensi, kesesuaian dengan tujuan tertentu, atau perbandingan dengan alternatif lain.
+:::
+
+::: aside
+Bloom dkk. (1956).
+:::
+
+## Contoh item: mengevaluasi
+
+::: {.callout-note}
+#### Stimulus
+*"Dua rancangan studi berikut sama-sama menguji apakah pelatihan X meningkatkan skor tes Y."*
+
+Rancangan 1: Mengukur skor Y pada kelompok yang sama, sebelum dan sesudah pelatihan, tanpa kelompok pembanding.
+
+Rancangan 2: Mengukur skor Y pada kelompok yang mengikuti pelatihan dan kelompok yang tidak, keduanya diukur pada waktu yang sama.
+:::
+
+*"Berdasarkan kriteria kemampuan mengontrol penjelasan alternatif, rancangan manakah yang lebih kuat?"*
+
+A) Rancangan 1　B) Rancangan 2　C) Sama kuat　D) Tidak bisa ditentukan
+
+. . .
+
+::: {.callout-tip}
+#### Kunci
+**B** — rancangan dengan kelompok pembanding lebih mampu mengontrol penjelasan alternatif seperti efek waktu atau kematangan, yang tidak bisa disingkirkan pada Rancangan 1.
+:::
+
+# Menulis item level Mencipta {background-color="#14497F" .center}
+
+## Tiga bentuk produk yang dituntut
+
+Taksonomi asli Bloom dkk. (1956) menyebut level ini Sintesis; taksonomi revisi menggabungkannya ke dalam Mencipta (Pertemuan 3). Ketiga sub-kategori aslinya tetap berguna sebagai panduan menulis item:
+
+::: {.incremental}
+* **Menghasilkan komunikasi unik** — cerita pendek, esai, komposisi.
+* **Menyusun rencana atau rancangan** — proposal eksperimen, rancangan intervensi.
+* **Menurunkan hubungan abstrak** — merumuskan hipotesis, menyusun skema konseptual baru.
+:::
+
+## Keterbatasan pilihan ganda untuk level ini
+
+::: {.callout-important}
+#### Catatan jujur
+Item pilihan ganda kurang cocok untuk mengukur Mencipta secara murni, karena level ini menekankan kemampuan peserta menghasilkan ide orisinal — bukan memilih dari opsi yang sudah disediakan. Dalam praktiknya, level ini lebih sering diukur lewat esai, tugas otentik, atau proyek dibanding tes obyektif.
+:::
+
+Untuk tes yang harus tetap terstandardisasi dan objektif skornya (seperti tes potensi), pendekatan yang lebih realistis adalah meminta peserta **mengenali** hasil sintesis terbaik dari beberapa opsi yang disediakan, bukan memproduksinya secara bebas.
+
+# HOTS pada tes prestasi vs. tes potensi {background-color="#14497F" .center}
+
+## Jalan yang berbeda menuju level yang sama
+
+::: {.incremental}
+* **Tes potensi** — item dirancang mengukur proses bernalar, bukan isi materi (Pertemuan 5–7). Karena itu, item yang baik pada tes potensi hampir otomatis berada di level Menganalisis atau Mengevaluasi; misalnya item *induction* dan *general sequential reasoning* yang sudah dibahas di Pertemuan 7.
+* **Tes prestasi** — item diturunkan dari TIK yang terikat pada materi tertentu (Pertemuan 4). Naik dari LOTS ke HOTS di sini harus disengaja: soal hafalan TIK perlu diubah menjadi soal yang menuntut analisis kasus atau penerapan pada situasi baru.
+:::
+
+::: {.callout-tip}
+#### Relevansi untuk proyek akhir
+Tes kognitif yang Anda susun untuk proyek akhir (Pertemuan 14) akan lebih kuat validitas isinya jika sebagian butirnya secara sengaja dirancang di level HOTS, sesuai proporsi pada *blueprint* Anda (Pertemuan 2 dan 3).
+:::
+
+# Kesalahan umum menulis item HOTS {background-color="#14497F" .center}
+
+## Dua kesalahan yang sering terjadi
+
+::: {.incremental}
+* **HOTS semu** — stimulus dibuat panjang dan tampak kompleks, tetapi jawabannya bisa ditemukan langsung dari stimulus tanpa perlu memproses informasi baru. Proses kognitif yang sebenarnya dituntut tetap Mengingat.
+* **Kesulitan bahasa yang tidak relevan** — stimulus ditulis dengan bahasa yang terlalu rumit sehingga item lebih banyak menguji kemampuan literasi peserta dibanding proses kognitif yang dimaksud.
+:::
+
+::: {.callout-note}
+#### Catatan
+Prinsip menulis *stem* dan *options* dari Pertemuan 7 — kalimat positif, satu ide inti, panjang pilihan yang setara — tetap berlaku penuh untuk item HOTS. Level kognitif yang lebih tinggi bukan alasan untuk mengabaikan prinsip dasar ini.
+:::
+
+## Aktivitas: menelaah butir HOTS
+
+::: {.callout-important}
+#### Item untuk ditelaah
+*"Bacalah paragraf berikut: 'Bias budaya dalam tes kognitif terjadi ketika sebuah tes menghasilkan kesalahan pengukuran yang sistematis terhadap kelompok budaya tertentu.' Berdasarkan paragraf di atas, definisi dari bias budaya adalah..."*
+
+A) Kesalahan pengukuran acak pada semua peserta　B) Kesalahan pengukuran sistematis terhadap kelompok budaya tertentu　C) Perbedaan skor rata-rata antar kelompok budaya　D) Ketidaksesuaian norma tes dengan populasi
+
+:::
+
+Diskusikan dengan teman sebangku: apakah item ini benar-benar mengukur level Menganalisis?
+
+. . .
+
+::: {.callout-tip}
+#### Kunci
+Bukan — jawaban (B) bisa ditemukan dengan mencocokkan kalimat pada stimulus secara langsung, tanpa perlu memproses atau menghubungkan informasi apa pun. Ini contoh **HOTS semu**: stimulus terlihat seperti bacaan analitis, tetapi proses kognitif yang dituntut tetap Mengingat.
+:::
+
+## Ringkasan
+
+::: {.incremental}
+1. HOTS mencakup tiga level tertinggi taksonomi Bloom revisi: Menganalisis, Mengevaluasi, dan Mencipta.
+2. Item HOTS yang baik punya stimulus dan konteks yang belum pernah dijumpai peserta persis dalam bentuk yang sama — bukan sekadar stimulus yang panjang.
+3. Sub-kategori taksonomi asli Bloom dkk. (1956) — analisis unsur/hubungan/prinsip pengorganisasian, kriteria evaluasi internal/eksternal, tiga bentuk produk sintesis — tetap berguna sebagai panduan praktis menulis item.
+4. Mencipta secara murni sulit diukur dengan pilihan ganda; tes potensi biasanya mendekatinya lewat item pengenalan pola, bukan produksi bebas.
+5. Item tes potensi cenderung otomatis berada di level HOTS; item tes prestasi perlu sengaja dinaikkan levelnya dari TIK yang ada.
+6. Waspadai HOTS semu — stimulus rumit yang jawabannya tetap bisa ditemukan lewat mengingat, bukan menganalisis.
+:::
+
+## Untuk Pertemuan 10
+
+::: {.callout-tip}
+#### Selanjutnya: praktik terstruktur
+Pertemuan 10 memulai rangkaian praktik menyusun tes kognitif dengan bimbingan terstruktur, dimulai dari spesifikasi item dan penyusunan *blueprint* untuk proyek akhir kelompok Anda.
+:::
+
+## Ada pertanyaan❓
+
+![](libs/closing.JPG){fig-align="center"}
+
+::: {.callout-note}
+### Catatan
+
+* Paparan disusun dengan menggunakan {{< fa brands r-project >}} dan [**Quarto**](https://quarto.org) dengan *template* dari [UNAIR Theme](https://github.com/rameliaz/quarto-unair-theme).
+* Kontak saya via <i class="fas fa-paper-plane"></i> <a href="mailto:amelia.zein@psikologi.unair.ac.id">amelia.zein@psikologi.unair.ac.id</a>
+:::
+
+## Rujukan {.scrollable}
+
+Anderson, L. W., & Krathwohl, D. R. (Eds.). (2001). *A taxonomy for learning, teaching, and assessing: A revision of Bloom's taxonomy of educational objectives*. Longman.
+
+Bloom, B. S., Engelhart, M. D., Furst, E. J., Hill, W. H., & Krathwohl, D. R. (1956). *Taxonomy of educational objectives: The classification of educational goals. Handbook I, Cognitive domain*. David McKay Company.
+
+Brookhart, S. M. (2010). *How to assess higher-order thinking skills in your classroom*. ASCD.
+
+Haladyna, T. M., Downing, S. M., & Rodriguez, M. C. (2002). A review of multiple-choice item-writing guidelines for classroom assessment. *Applied Measurement in Education, 15*(3), 309–334.
+
+Krathwohl, D. R. (2002). A revision of Bloom's taxonomy: An overview. *Theory Into Practice, 41*(4), 212–218. <https://www.jstor.org/stable/1477405?seq=1>

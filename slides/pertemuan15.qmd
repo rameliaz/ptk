@@ -1,0 +1,303 @@
+---
+title: "Isu Bias Budaya dalam Penyusunan Tes Kognitif"
+subtitle: "Penyusunan Tes Kognitif"
+author: "Rizqy Amelia Zein"
+institute:
+  - "[_Departemen Psikologi, Universitas Airlangga_](https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/)"
+date: today
+format:
+  unair-revealjs:
+    slide-number: true
+    progress: true
+    transition: slide
+    center: false
+    css: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css
+    chalkboard: true
+execute:
+  eval: false
+  echo: true
+---
+
+## _Outline_
+
+::: {.incremental}
+* Mengingat kembali janji Pertemuan 6
+* Bias, muatan budaya, dan *fairness*
+* Sejarah litigasi tes di Amerika Serikat
+* Mendeteksi bias secara statistik
+* Empat pendekatan menguji individu lintas budaya
+* Tes non-verbal: benarkah bebas budaya?
+* Kerangka *Culture-Language Test Classification*
+* Implikasi untuk konteks Indonesia
+* Aktivitas: menganalisis kasus
+:::
+
+::: aside
+***Disclosure* penggunaan akal imitasi (AI)**
+
+Saya menggunakan Claude Code (Model Sonnet 5) untuk *brainstorming* dan membuat *baseline* materi, mencari referensi, dan melakukan *troubleshooting* kode `quarto` dan `git`. Saya bertanggung jawab penuh atas substansi dan penyajian presentasi ini.
+:::
+
+# Mengingat kembali {background-color="#14497F" .center}
+
+## *Leftover* dari Pertemuan 6
+
+::: {.callout-note}
+#### Yang sudah disinggung
+CFIT dan *Progressive Matrices* dirancang mengurangi pengaruh bahasa dan latar belakang budaya terhadap skor. Desain ini tidak sepenuhnya menghilangkan pengaruh budaya, dan isu ini kita bahas mendalam hari ini.
+:::
+
+Umumnya, ada tiga masalah yang sering tertukar: bias, muatan budaya, dan *fairness*.
+
+::: aside
+McCallum (2018).
+:::
+
+# Bias, muatan budaya, dan *fairness* {background-color="#14497F" .center}
+
+## Tiga istilah yang sering tertukar
+
+::: {.incremental}
+* **Bias tes** — istilah teknis dan statistik: kesalahan pengukuran yang sistematis terhadap keanggotaan kelompok budaya atau ras tertentu, yang dampaknya merugikan peserta tes dengan latar belakang tertentu, dibuktikan lewat suatu prosedur statistik.
+* **Muatan budaya (*cultural loading*)** — sejauh mana isi atau stimulus tes mengasumsikan perlunya pengetahuan dan pengalaman budaya tertentu untuk merespon tes tersebut.
+* ***Fairness*** — konsep yang lebih luas: apakah tes memberi peluang setara bagi semua peserta, terlepas dari latar belakangnya dan hasil uji bias secara statistik, untuk menunjukkan kemampuan optimalnya.
+:::
+
+::: aside
+McCallum (2018).
+:::
+
+## Kombinasi yang sering diabaikan
+
+::: {.callout-important}
+#### Poin kunci hari ini
+Tes bisa bermuatan budaya tinggi **tanpa** terbukti bias secara statistik, dan sebaliknya bisa bebas muatan budaya namun tetap bias. Kedua hal ini adalah dimensi yang berbeda, bukan satu spektrum yang sama.
+:::
+
+Sebagian besar tes inteligensi dan kemampuan kognitif utama, ketika diuji ulang, tidak terbukti bias secara statistik dalam pengertian ini, tetapi ini tidak berarti tes tersebut otomatis bebas muatan budaya atau adil ketika dipakai perbandingan lintas kelompok.
+
+::: aside
+Reynolds & Lowe (2009), dalam McCallum (2018).
+:::
+
+# Sejarah litigasi tes di Amerika Serikat {background-color="#14497F" .center}
+
+## Kasus yang mengubah praktik tes
+
+::: {.incremental}
+* ***Diana v. State Board of Education*** (1970) dan ***Larry P. v. Riles*** (1979) — gugatan terhadap penggunaan skor tes inteligensi (yang dinormakan pada kelompok mayoritas) untuk menempatkan anak-anak minoritas ke kelas pendidikan khusus.
+* Hasil litigasi ini mendorong pengembang tes membuat instrumen yang lebih memperhitungkan keragaman budaya, dan memengaruhi regulasi seperti *Individuals with Disabilities Education Act*.
+:::
+
+::: {.callout-note}
+#### Kaitan dengan Pertemuan 6
+Ini adalah babak lanjutan dari sejarah penyalahgunaan tes inteligensi yang sudah dibahas di Pertemuan 6. Isu ini sangat berkaitan dengan keputusan yang diambil (pilihan sekolah) berdasarkan hasil tes.
+:::
+
+::: aside
+McCallum (2018).
+:::
+
+# Mendeteksi bias secara statistik {background-color="#14497F" .center}
+
+## *Differential Item Functioning* (DIF)
+
+::: {.incremental}
+* DIF terjadi saat sebuah butir menunjukkan properti statistik berbeda antara dua kelompok — **kelompok referensi** (mis. mayoritas) dan **kelompok *focal*** (mis. minoritas) — yang **sudah disetarakan kemampuannya**.
+* **DIF uniform** — butir menguntungkan satu kelompok secara konsisten di semua tingkat kemampuan.
+* **DIF non-uniform** — daya beda butir berbeda antar kelompok tergantung tingkat kemampuannya.
+:::
+
+::: {.callout-note}
+#### Catatan
+DIF adalah indikator statistik, bukan otomatis bukti "bias". Butir yang terdeteksi DIF tetap perlu ditelaah secara kualitatif untuk memastikan penyebabnya benar-benar konten yang tidak adil, bukan sekadar perbedaan kemampuan riil antar kelompok.
+:::
+
+::: aside
+Maller & Pei (2018), dalam McCallum (2018).
+:::
+
+## Dari butir ke keseluruhan tes
+
+::: {.incremental}
+* **Invariansi faktor** — apakah struktur faktor tes sama pada kedua kelompok yang dibandingkan.
+* **Bias prediksi** — apakah tes memprediksi kriteria (misalnya prestasi belajar) dengan akurasi yang sama untuk semua kelompok.
+:::
+
+Kajian bias yang baik dimulai dari DIF di level butir, lanjut ke invariansi faktor, dan diakhiri dengan uji bias prediksi di level skor total.
+
+::: aside
+Maller & Pei (2018), dalam McCallum (2018).
+:::
+
+## *Fairness* menurut *Standards* (2014)
+
+::: {.callout-tip}
+#### Definisi *fairness*
+*"A fair test does not advantage or disadvantage some individuals because of characteristics irrelevant to the intended construct."* — *Standards for Educational and Psychological Testing* (AERA, APA, & NCME, 2014, hlm. 50)
+:::
+
+*Fairness* mencakup lebih dari sekadar hasil uji statistik: desain tes, prosedur administrasi, dan interpretasi skor semuanya harus memberi kesempatan yang setara bagi peserta untuk menunjukkan kemampuannya.
+
+## Asumsi keterbandingan
+
+::: {.callout-important}
+#### Asumsi yang sering tidak terpenuhi
+Saat membandingkan skor peserta dengan norma, kita mengasumsikan tingkat akulturasi peserta setara — bukan identik — dengan sampel standardisasi. Ketika latar belakang pengalaman peserta berbeda jauh dari sampel norma, penggunaan norma itu untuk menilai atau memprediksi performanya bisa jadi tidak tepat.
+:::
+
+::: aside
+Salvia & Ysseldyke (1991), dalam Ortiz dkk. (2018).
+:::
+
+# Empat pendekatan menguji individu lintas budaya {background-color="#14497F" .center}
+
+## Tidak ada solusi tunggal yang sempurna
+
+| Pendekatan | Deskripsi singkat | Keterbatasan utama |
+|---|---|---|
+| Tes dimodifikasi/diadaptasi | Menghapus/menyederhanakan sebagian item atau instruksi, menghilangkan batas waktu | Melanggar prosedur standardisasi → menambah *error* yang tidak terkontrol |
+| Penerjemah/interpreter | Item diterjemahkan langsung saat administrasi | Item tetap terikat budaya asal; standardisasi tetap dilanggar |
+| Tes bahasa asli (*native-language*) | Tes yang memang dikembangkan dan distandardisasi dalam bahasa peserta | Norma sering berasal dari penutur monolingual di negara lain, tidak merepresentasikan peserta bilingual di negara tujuan |
+| Tes non-verbal | Item dirancang meminimalkan tuntutan bahasa | Tetap bermuatan budaya lewat stimulus visual dan instruksi gestur |
+
+: {tbl-colwidths="[20,40,40]"}
+
+::: aside
+Ortiz, Piazza, Ochoa, & Dynda (2018).
+:::
+
+## Yang paling sering dipilih praktisi
+
+Survei terhadap psikolog sekolah menemukan bahwa 88% memilih tes non-verbal, 40% menggunakan penerjemah, dan 20% menggunakan tes bahasa asli saat mengevaluasi individu yang beragam secara budaya dan bahasa — jauh lebih sedikit yang benar-benar memeriksa validitas skor secara langsung.
+
+::: aside
+Sotelo-Dynega dkk. (2011), dalam Ortiz dkk. (2018).
+:::
+
+# Tes non-verbal: benarkah bebas budaya? {background-color="#14497F" .center}
+
+## "Non-verbal" adalah istilah yang sedikit menyesatkan
+
+::: {.incremental}
+* Bahkan tes yang diklaim "100% non-verbal" tetap membutuhkan komunikasi — minimal untuk menjelaskan kapan mulai, kapan berhenti, dan apa yang dianggap jawaban benar, biasanya lewat gestur yang juga harus dipelajari peserta.
+* Stimulus visual (gambar benda, simbol) tetap bisa lebih familiar bagi satu budaya dibanding budaya lain.
+* Istilah yang lebih akurat: tes ***language-reduced***, bukan benar-benar bebas bahasa atau bebas budaya.
+:::
+
+::: aside
+Ortiz dkk. (2018); McCallum (2018).
+:::
+
+## Bukti bahwa tes non-verbal tidak otomatis adil
+
+::: {.callout-important}
+#### Temuan empirik
+Kajian terhadap tiga tes non-verbal populer yang biasa dipakai mengidentifikasi anak berbakat menemukan selisih skor yang besar antara siswa *English language learner* (ELL) dan bukan ELL. Kesimpulannya: tes non-verbal tidak otomatis "menyetarakan lapangan permainan" bagi anak dari latar belakang budaya berbeda.
+:::
+
+::: aside
+Lohman dkk. (2008), dalam Ortiz dkk. (2018).
+:::
+
+# Kerangka *Culture-Language Test Classification* {background-color="#14497F" .center}
+
+## Memetakan muatan budaya dan tuntutan bahasa
+
+Alih-alih berasumsi sebuah tes "bebas budaya" atau tidak, kerangka ini memetakan derajat muatan budaya dan tuntutan bahasa setiap subtes ke dalam matriks 2×2:
+
+| | Tuntutan bahasa rendah | Tuntutan bahasa sedang | Tuntutan bahasa tinggi |
+|---|:-:|:-:|:-:|
+| **Muatan budaya rendah** | Subtes paling minim terpengaruh | | |
+| **Muatan budaya sedang** | | Subtes penalaran analogis | |
+| **Muatan budaya tinggi** | Subtes memori spasial | | Subtes paling terpengaruh |
+
+::: aside
+Flanagan dkk. (2007, 2013), dalam McCallum (2018).
+:::
+
+## Manfaat praktisnya
+
+::: {.callout-tip}
+#### Bukan menghilangkan, tapi mengelola
+Kerangka ini membantu praktisi memilih subtes yang tuntutan budaya dan bahasanya paling sesuai dengan latar belakang peserta. Ini bukan cara menghilangkan pengaruh budaya sepenuhnya — karena menurut kerangka ini, semua tes pasti bermuatan budaya sampai taraf tertentu — melainkan cara mengelolanya secara sadar saat memilih dan menafsirkan instrumen.
+:::
+
+# Implikasi untuk konteks Indonesia {background-color="#14497F" .center}
+
+## Beberapa pertanyaan reflektif
+
+::: {.incremental}
+* Sebagian besar tes kognitif yang dipakai di Indonesia (mis. Wechsler, CFIT, *Progressive Matrices*) awalnya dikembangkan dan dinormakan di luar Indonesia (Pertemuan 6).
+* Adaptasi tes lintas budaya idealnya lebih dari sekadar menerjemahkan kata per kata — mencakup uji ulang properti psikometri pada sampel lokal (Pertemuan 2), bukan hanya alih bahasa.
+* Indonesia sendiri sangat beragam secara bahasa dan budaya antar-daerah; satu norma nasional tunggal berisiko menyembunyikan variasi ini.
+:::
+
+::: {.callout-note}
+#### Bukan alasan untuk berhenti memakai tes
+Ini bukan alasan untuk berhenti memakai tes-tes tersebut, melainkan alasan untuk membaca manual tes secara kritis dan melaporkan keterbatasannya secara jujur saat menafsirkan skor — sejalan dengan Kode Etik Psikologi Indonesia yang sudah dibahas di Pertemuan 1 dan 6.
+:::
+
+# Aktivitas: menganalisis kasus {background-color="#14497F" .center}
+
+## Kasus untuk didiskusikan
+
+::: {.callout-important}
+#### Kasus
+Seorang psikolog menggunakan CFIT (dinormakan di Amerika Serikat dan Eropa) untuk menilai anak-anak di sebuah desa yang jarang terpapar tes psikologi terstandardisasi — termasuk format pilihan ganda dan pengerjaan dengan batas waktu. Psikolog itu menyimpulkan bahwa skor yang rendah menunjukkan kemampuan kognitif yang rendah.
+:::
+
+Diskusikan dengan kelompok Anda:
+
+::: {.incremental}
+* Apakah ini murni soal bias statistik, muatan budaya, atau *fairness* yang lebih luas?
+* Dari empat pendekatan yang sudah dibahas, mana yang paling mengurangi risiko salah tafsir pada kasus ini?
+:::
+
+. . .
+
+::: {.callout-tip}
+#### Kunci
+Ini terutama kasus pelanggaran **asumsi keterbandingan** dan **muatan budaya**, bukan murni bias statistik — psikolog di kasus ini tidak melakukan uji DIF apa pun, dan kemungkinan besar anak-anak tersebut belum familiar dengan format tes itu sendiri (bukan sekadar isinya). Tidak ada pendekatan tunggal yang sepenuhnya menyelesaikan masalah ini; rekomendasi terbaik adalah mengombinasikan tes non-verbal dengan dokumentasi keterbatasan interpretasi secara eksplisit dalam laporan.
+:::
+
+## Ringkasan
+
+::: {.incremental}
+1. Bias tes (istilah statistik), muatan budaya (istilah tentang isi), dan *fairness* (konsep validitas interpretasi yang lebih luas) adalah tiga hal yang berbeda.
+2. DIF adalah metode utama mendeteksi bias di level butir; invariansi faktor dan bias prediksi menguji bias di level skor total.
+3. Empat pendekatan menguji individu lintas budaya — modifikasi, penerjemah, bahasa asli, non-verbal — masing-masing punya keterbatasan; tidak ada yang sepenuhnya bebas masalah validitas.
+4. Tes non-verbal mengurangi, bukan menghilangkan, muatan bahasa dan budaya, sehingga lebih tepat disebut *language-reduced*.
+5. Kerangka seperti *Culture-Language Test Classification* membantu praktisi mengelola muatan budaya secara sadar, bukan berpura-pura ia tidak ada.
+6. Bagi praktisi di Indonesia, isu ini relevan langsung dengan tes-tes adaptasi luar negeri yang dipakai sehari-hari.
+:::
+
+## Untuk Pertemuan 16
+
+::: {.callout-tip}
+#### Selanjutnya: penyelesaian proyek dan UAS
+Pertemuan 16 adalah penyelesaian proyek akhir dan Ujian Akhir Semester, mencakup keseluruhan proses penyusunan tes kognitif dari Pertemuan 1 hingga 15, termasuk kesadaran atas keterbatasan budaya instrumen yang Anda susun.
+:::
+
+## Ada pertanyaan❓
+
+![](libs/closing.JPG){fig-align="center"}
+
+::: {.callout-note}
+### Catatan
+
+* Paparan disusun dengan menggunakan {{< fa brands r-project >}} dan [**Quarto**](https://quarto.org) dengan *template* dari [UNAIR Theme](https://github.com/rameliaz/quarto-unair-theme).
+* Kontak saya via <i class="fas fa-paper-plane"></i> <a href="mailto:amelia.zein@psikologi.unair.ac.id">amelia.zein@psikologi.unair.ac.id</a>
+:::
+
+## Rujukan {.scrollable}
+
+American Educational Research Association, American Psychological Association, & National Council on Measurement in Education. (2014). *Standards for educational and psychological testing*. AERA.
+
+Franklin, T. (2018). Best practices in multicultural assessment of cognition. In R. S. McCallum (Ed.), *Handbook of nonverbal assessment* (2nd ed., pp. 46–53). Springer.
+
+Maller, S. J., & Pei, L.-K. (2018). Best practices in detecting bias in cognitive tests. In R. S. McCallum (Ed.), *Handbook of nonverbal assessment* (2nd ed., pp. 29–45). Springer.
+
+McCallum, R. S. (2018). Context for nonverbal assessment of intelligence and related abilities. In R. S. McCallum (Ed.), *Handbook of nonverbal assessment* (2nd ed., pp. 12–28). Springer.
+
+Ortiz, S. O., Piazza, N., Ochoa, S. H., & Dynda, A. M. (2018). Testing with culturally and linguistically diverse populations: New directions in fairness and validity. In D. P. Flanagan & E. M. McDonough (Eds.), *Contemporary intellectual assessment: Theories, tests, and issues* (4th ed., pp. 684–735). Guilford Press.

@@ -231,7 +231,7 @@ Diagram ini menyederhanakan sebelas tahap di atas menjadi sembilan kotak visual 
 * Kontak saya via <i class="fas fa-paper-plane"></i> <a href="mailto:amelia.zein@psikologi.unair.ac.id">amelia.zein@psikologi.unair.ac.id</a>
 :::
 
-## Rujukan
+## Rujukan {.scrollable}
 
 Azwar, S. (2019). *Konstruksi tes: Kemampuan kognitif*. Pustaka Pelajar.
 

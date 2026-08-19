@@ -1,5 +1,152 @@
 [
   {
+    "objectID": "slides/pertemuan15.html#outline",
+    "href": "slides/pertemuan15.html#outline",
+    "title": "Isu Bias Budaya dalam Penyusunan Tes Kognitif",
+    "section": "Outline",
+    "text": "Outline\n\nMengingat kembali janji Pertemuan 6\nBias, muatan budaya, dan fairness\nSejarah litigasi tes di Amerika Serikat\nMendeteksi bias secara statistik\nEmpat pendekatan menguji individu lintas budaya\nTes non-verbal: benarkah bebas budaya?\nKerangka Culture-Language Test Classification\nImplikasi untuk konteks Indonesia\nAktivitas: menganalisis kasus\n\n\n\nDisclosure penggunaan akal imitasi (AI)\nSaya menggunakan Claude Code (Model Sonnet 5) untuk brainstorming dan membuat baseline materi, mencari referensi, dan melakukan troubleshooting kode quarto dan git. Saya bertanggung jawab penuh atas substansi dan penyajian presentasi ini."
+  },
+  {
+    "objectID": "slides/pertemuan15.html#leftover-dari-pertemuan-6",
+    "href": "slides/pertemuan15.html#leftover-dari-pertemuan-6",
+    "title": "Isu Bias Budaya dalam Penyusunan Tes Kognitif",
+    "section": "Leftover dari Pertemuan 6",
+    "text": "Leftover dari Pertemuan 6\n\n\n\n\n\n\nYang sudah disinggung\n\n\nCFIT dan Progressive Matrices dirancang mengurangi pengaruh bahasa dan latar belakang budaya terhadap skor. Desain ini tidak sepenuhnya menghilangkan pengaruh budaya, dan isu ini kita bahas mendalam hari ini.\n\n\n\nUmumnya, ada tiga masalah yang sering tertukar: bias, muatan budaya, dan fairness.\n\n\nMcCallum (2018)."
+  },
+  {
+    "objectID": "slides/pertemuan15.html#tiga-istilah-yang-sering-tertukar",
+    "href": "slides/pertemuan15.html#tiga-istilah-yang-sering-tertukar",
+    "title": "Isu Bias Budaya dalam Penyusunan Tes Kognitif",
+    "section": "Tiga istilah yang sering tertukar",
+    "text": "Tiga istilah yang sering tertukar\n\nBias tes — istilah teknis dan statistik: kesalahan pengukuran yang sistematis terhadap keanggotaan kelompok budaya atau ras tertentu, yang dampaknya merugikan peserta tes dengan latar belakang tertentu, dibuktikan lewat suatu prosedur statistik.\nMuatan budaya (cultural loading) — sejauh mana isi atau stimulus tes mengasumsikan perlunya pengetahuan dan pengalaman budaya tertentu untuk merespon tes tersebut.\nFairness — konsep yang lebih luas: apakah tes memberi peluang setara bagi semua peserta, terlepas dari latar belakangnya dan hasil uji bias secara statistik, untuk menunjukkan kemampuan optimalnya.\n\n\n\nMcCallum (2018)."
+  },
+  {
+    "objectID": "slides/pertemuan15.html#kombinasi-yang-sering-diabaikan",
+    "href": "slides/pertemuan15.html#kombinasi-yang-sering-diabaikan",
+    "title": "Isu Bias Budaya dalam Penyusunan Tes Kognitif",
+    "section": "Kombinasi yang sering diabaikan",
+    "text": "Kombinasi yang sering diabaikan\n\n\n\n\n\n\nPoin kunci hari ini\n\n\nTes bisa bermuatan budaya tinggi tanpa terbukti bias secara statistik, dan sebaliknya bisa bebas muatan budaya namun tetap bias. Kedua hal ini adalah dimensi yang berbeda, bukan satu spektrum yang sama.\n\n\n\nSebagian besar tes inteligensi dan kemampuan kognitif utama, ketika diuji ulang, tidak terbukti bias secara statistik dalam pengertian ini, tetapi ini tidak berarti tes tersebut otomatis bebas muatan budaya atau adil ketika dipakai perbandingan lintas kelompok.\n\n\nReynolds & Lowe (2009), dalam McCallum (2018)."
+  },
+  {
+    "objectID": "slides/pertemuan15.html#kasus-yang-mengubah-praktik-tes",
+    "href": "slides/pertemuan15.html#kasus-yang-mengubah-praktik-tes",
+    "title": "Isu Bias Budaya dalam Penyusunan Tes Kognitif",
+    "section": "Kasus yang mengubah praktik tes",
+    "text": "Kasus yang mengubah praktik tes\n\nDiana v. State Board of Education (1970) dan Larry P. v. Riles (1979) — gugatan terhadap penggunaan skor tes inteligensi (yang dinormakan pada kelompok mayoritas) untuk menempatkan anak-anak minoritas ke kelas pendidikan khusus.\nHasil litigasi ini mendorong pengembang tes membuat instrumen yang lebih memperhitungkan keragaman budaya, dan memengaruhi regulasi seperti Individuals with Disabilities Education Act.\n\n\n\n\n\n\n\nKaitan dengan Pertemuan 6\n\n\nIni adalah babak lanjutan dari sejarah penyalahgunaan tes inteligensi yang sudah dibahas di Pertemuan 6. Isu ini sangat berkaitan dengan keputusan yang diambil (pilihan sekolah) berdasarkan hasil tes.\n\n\n\n\n\nMcCallum (2018)."
+  },
+  {
+    "objectID": "slides/pertemuan15.html#differential-item-functioning-dif",
+    "href": "slides/pertemuan15.html#differential-item-functioning-dif",
+    "title": "Isu Bias Budaya dalam Penyusunan Tes Kognitif",
+    "section": "Differential Item Functioning (DIF)",
+    "text": "Differential Item Functioning (DIF)\n\nDIF terjadi saat sebuah butir menunjukkan properti statistik berbeda antara dua kelompok — kelompok referensi (mis. mayoritas) dan kelompok focal (mis. minoritas) — yang sudah disetarakan kemampuannya.\nDIF uniform — butir menguntungkan satu kelompok secara konsisten di semua tingkat kemampuan.\nDIF non-uniform — daya beda butir berbeda antar kelompok tergantung tingkat kemampuannya.\n\n\n\n\n\n\n\nCatatan\n\n\nDIF adalah indikator statistik, bukan otomatis bukti “bias”. Butir yang terdeteksi DIF tetap perlu ditelaah secara kualitatif untuk memastikan penyebabnya benar-benar konten yang tidak adil, bukan sekadar perbedaan kemampuan riil antar kelompok.\n\n\n\n\n\nMaller & Pei (2018), dalam McCallum (2018)."
+  },
+  {
+    "objectID": "slides/pertemuan15.html#dari-butir-ke-keseluruhan-tes",
+    "href": "slides/pertemuan15.html#dari-butir-ke-keseluruhan-tes",
+    "title": "Isu Bias Budaya dalam Penyusunan Tes Kognitif",
+    "section": "Dari butir ke keseluruhan tes",
+    "text": "Dari butir ke keseluruhan tes\n\nInvariansi faktor — apakah struktur faktor tes sama pada kedua kelompok yang dibandingkan.\nBias prediksi — apakah tes memprediksi kriteria (misalnya prestasi belajar) dengan akurasi yang sama untuk semua kelompok.\n\nKajian bias yang baik dimulai dari DIF di level butir, lanjut ke invariansi faktor, dan diakhiri dengan uji bias prediksi di level skor total.\n\n\nMaller & Pei (2018), dalam McCallum (2018)."
+  },
+  {
+    "objectID": "slides/pertemuan15.html#fairness-menurut-standards-2014",
+    "href": "slides/pertemuan15.html#fairness-menurut-standards-2014",
+    "title": "Isu Bias Budaya dalam Penyusunan Tes Kognitif",
+    "section": "Fairness menurut Standards (2014)",
+    "text": "Fairness menurut Standards (2014)\n\n\n\n\n\n\nDefinisi fairness\n\n\n“A fair test does not advantage or disadvantage some individuals because of characteristics irrelevant to the intended construct.” — Standards for Educational and Psychological Testing (AERA, APA, & NCME, 2014, hlm. 50)\n\n\n\nFairness mencakup lebih dari sekadar hasil uji statistik: desain tes, prosedur administrasi, dan interpretasi skor semuanya harus memberi kesempatan yang setara bagi peserta untuk menunjukkan kemampuannya."
+  },
+  {
+    "objectID": "slides/pertemuan15.html#asumsi-keterbandingan",
+    "href": "slides/pertemuan15.html#asumsi-keterbandingan",
+    "title": "Isu Bias Budaya dalam Penyusunan Tes Kognitif",
+    "section": "Asumsi keterbandingan",
+    "text": "Asumsi keterbandingan\n\n\n\n\n\n\nAsumsi yang sering tidak terpenuhi\n\n\nSaat membandingkan skor peserta dengan norma, kita mengasumsikan tingkat akulturasi peserta setara — bukan identik — dengan sampel standardisasi. Ketika latar belakang pengalaman peserta berbeda jauh dari sampel norma, penggunaan norma itu untuk menilai atau memprediksi performanya bisa jadi tidak tepat.\n\n\n\n\n\nSalvia & Ysseldyke (1991), dalam Ortiz dkk. (2018)."
+  },
+  {
+    "objectID": "slides/pertemuan15.html#tidak-ada-solusi-tunggal-yang-sempurna",
+    "href": "slides/pertemuan15.html#tidak-ada-solusi-tunggal-yang-sempurna",
+    "title": "Isu Bias Budaya dalam Penyusunan Tes Kognitif",
+    "section": "Tidak ada solusi tunggal yang sempurna",
+    "text": "Tidak ada solusi tunggal yang sempurna\n\n\n\n\n\n\n\n\nPendekatan\nDeskripsi singkat\nKeterbatasan utama\n\n\n\n\nTes dimodifikasi/diadaptasi\nMenghapus/menyederhanakan sebagian item atau instruksi, menghilangkan batas waktu\nMelanggar prosedur standardisasi → menambah error yang tidak terkontrol\n\n\nPenerjemah/interpreter\nItem diterjemahkan langsung saat administrasi\nItem tetap terikat budaya asal; standardisasi tetap dilanggar\n\n\nTes bahasa asli (native-language)\nTes yang memang dikembangkan dan distandardisasi dalam bahasa peserta\nNorma sering berasal dari penutur monolingual di negara lain, tidak merepresentasikan peserta bilingual di negara tujuan\n\n\nTes non-verbal\nItem dirancang meminimalkan tuntutan bahasa\nTetap bermuatan budaya lewat stimulus visual dan instruksi gestur\n\n\n\n\n\nOrtiz, Piazza, Ochoa, & Dynda (2018)."
+  },
+  {
+    "objectID": "slides/pertemuan15.html#yang-paling-sering-dipilih-praktisi",
+    "href": "slides/pertemuan15.html#yang-paling-sering-dipilih-praktisi",
+    "title": "Isu Bias Budaya dalam Penyusunan Tes Kognitif",
+    "section": "Yang paling sering dipilih praktisi",
+    "text": "Yang paling sering dipilih praktisi\nSurvei terhadap psikolog sekolah menemukan bahwa 88% memilih tes non-verbal, 40% menggunakan penerjemah, dan 20% menggunakan tes bahasa asli saat mengevaluasi individu yang beragam secara budaya dan bahasa — jauh lebih sedikit yang benar-benar memeriksa validitas skor secara langsung.\n\n\nSotelo-Dynega dkk. (2011), dalam Ortiz dkk. (2018)."
+  },
+  {
+    "objectID": "slides/pertemuan15.html#non-verbal-adalah-istilah-yang-sedikit-menyesatkan",
+    "href": "slides/pertemuan15.html#non-verbal-adalah-istilah-yang-sedikit-menyesatkan",
+    "title": "Isu Bias Budaya dalam Penyusunan Tes Kognitif",
+    "section": "“Non-verbal” adalah istilah yang sedikit menyesatkan",
+    "text": "“Non-verbal” adalah istilah yang sedikit menyesatkan\n\nBahkan tes yang diklaim “100% non-verbal” tetap membutuhkan komunikasi — minimal untuk menjelaskan kapan mulai, kapan berhenti, dan apa yang dianggap jawaban benar, biasanya lewat gestur yang juga harus dipelajari peserta.\nStimulus visual (gambar benda, simbol) tetap bisa lebih familiar bagi satu budaya dibanding budaya lain.\nIstilah yang lebih akurat: tes language-reduced, bukan benar-benar bebas bahasa atau bebas budaya.\n\n\n\nOrtiz dkk. (2018); McCallum (2018)."
+  },
+  {
+    "objectID": "slides/pertemuan15.html#bukti-bahwa-tes-non-verbal-tidak-otomatis-adil",
+    "href": "slides/pertemuan15.html#bukti-bahwa-tes-non-verbal-tidak-otomatis-adil",
+    "title": "Isu Bias Budaya dalam Penyusunan Tes Kognitif",
+    "section": "Bukti bahwa tes non-verbal tidak otomatis adil",
+    "text": "Bukti bahwa tes non-verbal tidak otomatis adil\n\n\n\n\n\n\nTemuan empirik\n\n\nKajian terhadap tiga tes non-verbal populer yang biasa dipakai mengidentifikasi anak berbakat menemukan selisih skor yang besar antara siswa English language learner (ELL) dan bukan ELL. Kesimpulannya: tes non-verbal tidak otomatis “menyetarakan lapangan permainan” bagi anak dari latar belakang budaya berbeda.\n\n\n\n\n\nLohman dkk. (2008), dalam Ortiz dkk. (2018)."
+  },
+  {
+    "objectID": "slides/pertemuan15.html#memetakan-muatan-budaya-dan-tuntutan-bahasa",
+    "href": "slides/pertemuan15.html#memetakan-muatan-budaya-dan-tuntutan-bahasa",
+    "title": "Isu Bias Budaya dalam Penyusunan Tes Kognitif",
+    "section": "Memetakan muatan budaya dan tuntutan bahasa",
+    "text": "Memetakan muatan budaya dan tuntutan bahasa\nAlih-alih berasumsi sebuah tes “bebas budaya” atau tidak, kerangka ini memetakan derajat muatan budaya dan tuntutan bahasa setiap subtes ke dalam matriks 2×2:\n\n\n\n\n\n\n\n\n\n\nTuntutan bahasa rendah\nTuntutan bahasa sedang\nTuntutan bahasa tinggi\n\n\n\n\nMuatan budaya rendah\nSubtes paling minim terpengaruh\n\n\n\n\nMuatan budaya sedang\n\nSubtes penalaran analogis\n\n\n\nMuatan budaya tinggi\nSubtes memori spasial\n\nSubtes paling terpengaruh\n\n\n\n\n\nFlanagan dkk. (2007, 2013), dalam McCallum (2018)."
+  },
+  {
+    "objectID": "slides/pertemuan15.html#manfaat-praktisnya",
+    "href": "slides/pertemuan15.html#manfaat-praktisnya",
+    "title": "Isu Bias Budaya dalam Penyusunan Tes Kognitif",
+    "section": "Manfaat praktisnya",
+    "text": "Manfaat praktisnya\n\n\n\n\n\n\nBukan menghilangkan, tapi mengelola\n\n\nKerangka ini membantu praktisi memilih subtes yang tuntutan budaya dan bahasanya paling sesuai dengan latar belakang peserta. Ini bukan cara menghilangkan pengaruh budaya sepenuhnya — karena menurut kerangka ini, semua tes pasti bermuatan budaya sampai taraf tertentu — melainkan cara mengelolanya secara sadar saat memilih dan menafsirkan instrumen."
+  },
+  {
+    "objectID": "slides/pertemuan15.html#beberapa-pertanyaan-reflektif",
+    "href": "slides/pertemuan15.html#beberapa-pertanyaan-reflektif",
+    "title": "Isu Bias Budaya dalam Penyusunan Tes Kognitif",
+    "section": "Beberapa pertanyaan reflektif",
+    "text": "Beberapa pertanyaan reflektif\n\nSebagian besar tes kognitif yang dipakai di Indonesia (mis. Wechsler, CFIT, Progressive Matrices) awalnya dikembangkan dan dinormakan di luar Indonesia (Pertemuan 6).\nAdaptasi tes lintas budaya idealnya lebih dari sekadar menerjemahkan kata per kata — mencakup uji ulang properti psikometri pada sampel lokal (Pertemuan 2), bukan hanya alih bahasa.\nIndonesia sendiri sangat beragam secara bahasa dan budaya antar-daerah; satu norma nasional tunggal berisiko menyembunyikan variasi ini.\n\n\n\n\n\n\n\nBukan alasan untuk berhenti memakai tes\n\n\nIni bukan alasan untuk berhenti memakai tes-tes tersebut, melainkan alasan untuk membaca manual tes secara kritis dan melaporkan keterbatasannya secara jujur saat menafsirkan skor — sejalan dengan Kode Etik Psikologi Indonesia yang sudah dibahas di Pertemuan 1 dan 6."
+  },
+  {
+    "objectID": "slides/pertemuan15.html#kasus-untuk-didiskusikan",
+    "href": "slides/pertemuan15.html#kasus-untuk-didiskusikan",
+    "title": "Isu Bias Budaya dalam Penyusunan Tes Kognitif",
+    "section": "Kasus untuk didiskusikan",
+    "text": "Kasus untuk didiskusikan\n\n\n\n\n\n\nKasus\n\n\nSeorang psikolog menggunakan CFIT (dinormakan di Amerika Serikat dan Eropa) untuk menilai anak-anak di sebuah desa yang jarang terpapar tes psikologi terstandardisasi — termasuk format pilihan ganda dan pengerjaan dengan batas waktu. Psikolog itu menyimpulkan bahwa skor yang rendah menunjukkan kemampuan kognitif yang rendah.\n\n\n\nDiskusikan dengan kelompok Anda:\n\nApakah ini murni soal bias statistik, muatan budaya, atau fairness yang lebih luas?\nDari empat pendekatan yang sudah dibahas, mana yang paling mengurangi risiko salah tafsir pada kasus ini?\n\n\n\n\n\n\n\n\nKunci\n\n\nIni terutama kasus pelanggaran asumsi keterbandingan dan muatan budaya, bukan murni bias statistik — psikolog di kasus ini tidak melakukan uji DIF apa pun, dan kemungkinan besar anak-anak tersebut belum familiar dengan format tes itu sendiri (bukan sekadar isinya). Tidak ada pendekatan tunggal yang sepenuhnya menyelesaikan masalah ini; rekomendasi terbaik adalah mengombinasikan tes non-verbal dengan dokumentasi keterbatasan interpretasi secara eksplisit dalam laporan."
+  },
+  {
+    "objectID": "slides/pertemuan15.html#ringkasan",
+    "href": "slides/pertemuan15.html#ringkasan",
+    "title": "Isu Bias Budaya dalam Penyusunan Tes Kognitif",
+    "section": "Ringkasan",
+    "text": "Ringkasan\n\nBias tes (istilah statistik), muatan budaya (istilah tentang isi), dan fairness (konsep validitas interpretasi yang lebih luas) adalah tiga hal yang berbeda.\nDIF adalah metode utama mendeteksi bias di level butir; invariansi faktor dan bias prediksi menguji bias di level skor total.\nEmpat pendekatan menguji individu lintas budaya — modifikasi, penerjemah, bahasa asli, non-verbal — masing-masing punya keterbatasan; tidak ada yang sepenuhnya bebas masalah validitas.\nTes non-verbal mengurangi, bukan menghilangkan, muatan bahasa dan budaya, sehingga lebih tepat disebut language-reduced.\nKerangka seperti Culture-Language Test Classification membantu praktisi mengelola muatan budaya secara sadar, bukan berpura-pura ia tidak ada.\nBagi praktisi di Indonesia, isu ini relevan langsung dengan tes-tes adaptasi luar negeri yang dipakai sehari-hari."
+  },
+  {
+    "objectID": "slides/pertemuan15.html#untuk-pertemuan-16",
+    "href": "slides/pertemuan15.html#untuk-pertemuan-16",
+    "title": "Isu Bias Budaya dalam Penyusunan Tes Kognitif",
+    "section": "Untuk Pertemuan 16",
+    "text": "Untuk Pertemuan 16\n\n\n\n\n\n\nSelanjutnya: penyelesaian proyek dan UAS\n\n\nPertemuan 16 adalah penyelesaian proyek akhir dan Ujian Akhir Semester, mencakup keseluruhan proses penyusunan tes kognitif dari Pertemuan 1 hingga 15, termasuk kesadaran atas keterbatasan budaya instrumen yang Anda susun."
+  },
+  {
+    "objectID": "slides/pertemuan15.html#ada-pertanyaan",
+    "href": "slides/pertemuan15.html#ada-pertanyaan",
+    "title": "Isu Bias Budaya dalam Penyusunan Tes Kognitif",
+    "section": "Ada pertanyaan❓",
+    "text": "Ada pertanyaan❓\n\n\n\n\n\n\n\nCatatan\n\n\n\nPaparan disusun dengan menggunakan  dan Quarto dengan template dari UNAIR Theme.\nKontak saya via  amelia.zein@psikologi.unair.ac.id"
+  },
+  {
+    "objectID": "slides/pertemuan15.html#rujukan",
+    "href": "slides/pertemuan15.html#rujukan",
+    "title": "Isu Bias Budaya dalam Penyusunan Tes Kognitif",
+    "section": "Rujukan",
+    "text": "Rujukan\nAmerican Educational Research Association, American Psychological Association, & National Council on Measurement in Education. (2014). Standards for educational and psychological testing. AERA.\nFranklin, T. (2018). Best practices in multicultural assessment of cognition. In R. S. McCallum (Ed.), Handbook of nonverbal assessment (2nd ed., pp. 46–53). Springer.\nMaller, S. J., & Pei, L.-K. (2018). Best practices in detecting bias in cognitive tests. In R. S. McCallum (Ed.), Handbook of nonverbal assessment (2nd ed., pp. 29–45). Springer.\nMcCallum, R. S. (2018). Context for nonverbal assessment of intelligence and related abilities. In R. S. McCallum (Ed.), Handbook of nonverbal assessment (2nd ed., pp. 12–28). Springer.\nOrtiz, S. O., Piazza, N., Ochoa, S. H., & Dynda, A. M. (2018). Testing with culturally and linguistically diverse populations: New directions in fairness and validity. In D. P. Flanagan & E. M. McDonough (Eds.), Contemporary intellectual assessment: Theories, tests, and issues (4th ed., pp. 684–735). Guilford Press."
+  },
+  {
     "objectID": "slides/pertemuan3.html#outline",
     "href": "slides/pertemuan3.html#outline",
     "title": "Taksonomi dan Tujuan Instruksional",
@@ -81,14 +228,14 @@
     "href": "slides/pertemuan3.html#perhatikan-kata-kerja-dalam-rumusan-tujuan",
     "title": "Taksonomi dan Tujuan Instruksional",
     "section": "Perhatikan kata kerja dalam rumusan tujuan",
-    "text": "Perhatikan kata kerja dalam rumusan tujuan\n\nKata kerja seperti “memahami”, “mengetahui”, “menyadari”, atau “menghargai” menggambarkan keadaan internal, bukan perilaku yang dapat diamati secara langsung.\nIni berlaku juga untuk nama level taksonomi itu sendiri — “Memahami” adalah nama kategori, bukan kata kerja operasional yang siap dipakai dalam rumusan tujuan.\nUntuk merumuskan tujuan yang bisa diukur, kata kerja dalam kategori “Memahami” perlu diterjemahkan menjadi kata kerja operasional seperti “menjelaskan”, “membandingkan”, atau “menyimpulkan”.\n\n\n\n\n\n\n\n\nRelevansi untuk penyusunan tes\n\n\nTujuan instruksional yang tidak memakai kata kerja operasional sulit diterjemahkan langsung menjadi item tes. Ini alasan mengapa daftar kata kerja pada tabel taksonomi (bukan nama levelnya) menjadi acuan praktis saat menulis tujuan maupun butir soal."
+    "text": "Perhatikan kata kerja dalam rumusan tujuan\n\nKata kerja seperti “memahami”, “mengetahui”, “menyadari”, atau “menghargai” menggambarkan keadaan internal, bukan perilaku yang dapat diamati secara langsung.\nIni berlaku juga untuk nama level taksonomi itu sendiri. “Memahami” adalah nama kategori, bukan kata kerja operasional yang siap dipakai dalam rumusan tujuan.\nUntuk merumuskan tujuan yang bisa diukur, kata kerja dalam kategori “Memahami” perlu diterjemahkan menjadi kata kerja operasional seperti “menjelaskan”, “membandingkan”, atau “menyimpulkan”.\n\n\n\n\n\n\n\n\nRelevansi untuk penyusunan tes\n\n\nTujuan instruksional yang tidak memakai kata kerja operasional sulit diterjemahkan langsung menjadi item tes. Ini alasan mengapa daftar kata kerja pada tabel taksonomi (bukan nama levelnya) menjadi acuan praktis saat menulis tujuan maupun butir soal."
   },
   {
     "objectID": "slides/pertemuan3.html#aktivitas-mengklasifikasikan-tujuan-instruksional",
     "href": "slides/pertemuan3.html#aktivitas-mengklasifikasikan-tujuan-instruksional",
     "title": "Taksonomi dan Tujuan Instruksional",
     "section": "Aktivitas: mengklasifikasikan tujuan instruksional",
-    "text": "Aktivitas: mengklasifikasikan tujuan instruksional\nKlasifikasikan masing-masing rumusan berikut ke salah satu dari enam level proses kognitif:\n\n“Mahasiswa dapat menyebutkan tiga jenis tes kognitif.”\n“Mahasiswa dapat membandingkan tes prestasi dan tes potensi berdasarkan orientasi waktunya.”\n“Mahasiswa dapat menyusun blueprint tes untuk konstrak yang ditentukan.”\n\n\n\n\n\n\n\n\nKunci\n\n\n\nMengingat — memanggil kembali informasi. (2) Menganalisis — meski “membandingkan” juga muncul sebagai contoh kata kerja di tabel Memahami dan Mengevaluasi, proses yang dituntut di sini (membedah dua konsep berdasarkan kriteria tertentu) lebih tepat masuk Menganalisis. Kata kerja yang sama bisa berada di level berbeda, tergantung proses kognitif yang sebenarnya dituntut — bukan sekadar kata kerjanya. (3) Mencipta — menyusun elemen (proporsi, item, format) menjadi produk baru."
+    "text": "Aktivitas: mengklasifikasikan tujuan instruksional\nKlasifikasikan masing-masing rumusan berikut ke salah satu dari enam level proses kognitif:\n\n“Mahasiswa dapat menyebutkan tiga jenis tes kognitif.”\n“Mahasiswa dapat membandingkan tes prestasi dan tes potensi berdasarkan orientasi waktunya.”\n“Mahasiswa dapat menyusun blueprint tes untuk konstrak yang ditentukan.”\n\n\n\n\n\n\n\n\nKunci\n\n\n\nMengingat — memanggil kembali informasi. (2) Menganalisis — meskipun “membandingkan” juga muncul sebagai contoh kata kerja di tabel Memahami dan Mengevaluasi, proses yang dituntut di sini (membedah dua konsep berdasarkan kriteria tertentu) lebih tepat masuk Menganalisis. Kata kerja yang sama bisa berada di level berbeda, tergantung proses kognitif yang sebenarnya dituntut — bukan sekadar kata kerjanya. (3) Mencipta — menyusun elemen (proporsi, item, format) menjadi produk baru."
   },
   {
     "objectID": "slides/pertemuan3.html#ringkasan",
@@ -564,14 +711,14 @@
     "href": "index.html#rencana-pertemuan",
     "title": "Penyusunan Tes Kognitif",
     "section": "Rencana Pertemuan",
-    "text": "Rencana Pertemuan\nPertemuan 1–7 dilaksanakan pada hari Rabu pukul 13.00 WIB, secara daring melalui Microsoft Teams. Pertemuan 9–15 dilaksanakan luring di Ruang 309, setiap Kamis pukul 08.00 WIB. Jadwal Pertemuan 8 (UTS) dan 16 (UAS) menyusul.\n\nRencana pertemuan Kelas C-2, Semester Gasal 2026/2027\n\n\n\n\n\n\n\n\n\n\n\n\n#\nTanggal\nPukul\nTopik\nModa\nDosen\nMateri\nTautan MS Teams\n\n\n\n\n1\nRabu, 12 Agu\n13.00 WIB\nPengertian dan jenis tes kognitif\nKuliah, diskusi kelompok\nAmel\nSlide\nKlik untuk bergabung\n\n\n2\nRabu, 19 Agu\n13.00 WIB\nTahapan penyusunan tes kognitif\nKuliah, diskusi kelompok\nAmel\nSlide\nKlik untuk bergabung\n\n\n3\nRabu, 26 Agu\n13.00 WIB\nTaksonomi dan tujuan instruksional\nKuliah, diskusi kelompok\nAmel\nSlide\nKlik untuk bergabung\n\n\n4\nRabu, 2 Sep\n13.00 WIB\nTes prestasi: pengertian dan tujuan\nKuliah, diskusi kelompok\nAmel\nSlide\nKlik untuk bergabung\n\n\n5\nRabu, 9 Sep\n13.00 WIB\nTes potensi: tes bakat, TPA, dan specific abilities\nKuliah, diskusi kelompok\nAmel\nSlide\nKlik untuk bergabung\n\n\n6\nRabu, 16 Sep\n13.00 WIB\nTes inteligensi: teori dan jenis, telaah literatur\nKuliah, diskusi kelompok\nAmel\nSlide\nKlik untuk bergabung\n\n\n7\nRabu, 23 Sep\n13.00 WIB\nMenulis item tes prestasi dan tes potensi\nKuliah, tugas\nAmel\nSlide\nKlik untuk bergabung\n\n\n8\nTBA\nTBA\nUjian Tengah Semester (materi Pertemuan 1–7)\nUTS\n—\n—\n—\n\n\n9\nKamis, 15 Okt\n08.00 WIB\nMenulis item untuk mengukur Higher Order Thinking Skill (HOTS)\nKuliah\nEndah\nn/a\n—\n\n\n10\nKamis, 22 Okt\n08.00 WIB\nPraktik menyusun tes kognitif: spesifikasi item dan blueprint\nPraktik\nEndah\nn/a\n—\n\n\n11\nKamis, 29 Okt\n08.00 WIB\nPraktik menyusun tes kognitif: menulis dan menelaah item\nPraktik\nEndah\nn/a\n—\n\n\n12\nKamis, 5 Nov\n08.00 WIB\nPraktik menyusun tes kognitif: uji coba dan estimasi properti psikometri\nPraktik\nEndah\nn/a\n—\n\n\n13\nKamis, 12 Nov\n08.00 WIB\nPraktik menyusun tes kognitif: estimasi reliabilitas dan validitas\nPraktik\nEndah\nn/a\n—\n\n\n14\nKamis, 19 Nov\n08.00 WIB\nPraktik menyusun tes kognitif: penyusunan norma\nPraktik, presentasi\nEndah\nn/a\n—\n\n\n15\nKamis, 26 Nov\n08.00 WIB\nIsu bias budaya dalam pengukuran kemampuan\nKuliah, diskusi kelompok\nEndah\nn/a\n—\n\n\n16\nTBA\nTBA\nUjian Akhir Semester: penyelesaian proyek\nUAS\n—\n—\n—\n\n\n\n\n\n\n\n\n\nNoteCatatan tentang perkuliahan daring\n\n\n\nMahasiswa tidak harus memiliki akun Microsoft Teams untuk mengikuti kuliah, dan dapat bergabung langsung lewat browser tanpa memasang aplikasinya.\nNamun, untuk mengakses percakapan (chat) atau berkomunikasi dengan dosen lewat tautan MS Teams yang sama, mahasiswa perlu masuk menggunakan akun Microsoft Teams UNAIR (email berdomain @drive.unair.ac.id). Lihat Panduan Penggunaan OneDrive dan MS Teams dari Direktorat Sistem Informasi (DSI) Universitas Airlangga."
+    "text": "Rencana Pertemuan\nPertemuan 1–7 dilaksanakan pada hari Rabu pukul 13.00 WIB, secara daring melalui Microsoft Teams. Pertemuan 9–15 dilaksanakan luring di Ruang 309, setiap Kamis pukul 08.00 WIB. Jadwal Pertemuan 8 (UTS) dan 16 (UAS) menyusul.\n\nRencana pertemuan Kelas C-2, Semester Gasal 2026/2027\n\n\n\n\n\n\n\n\n\n\n\n\n#\nTanggal\nPukul\nTopik\nModa\nDosen\nMateri\nTautan MS Teams\n\n\n\n\n1\nRabu, 12 Agu\n13.00 WIB\nPengertian dan jenis tes kognitif\nKuliah, diskusi kelompok\nAmel\nSlide\nKlik untuk bergabung\n\n\n2\nRabu, 19 Agu\n13.00 WIB\nTahapan penyusunan tes kognitif\nKuliah, diskusi kelompok\nAmel\nSlide\nKlik untuk bergabung\n\n\n3\nRabu, 26 Agu\n13.00 WIB\nTaksonomi dan tujuan instruksional\nKuliah, diskusi kelompok\nAmel\nSlide\nKlik untuk bergabung\n\n\n4\nRabu, 2 Sep\n13.00 WIB\nTes prestasi: pengertian dan tujuan\nKuliah, diskusi kelompok\nAmel\nSlide\nKlik untuk bergabung\n\n\n5\nRabu, 9 Sep\n13.00 WIB\nTes potensi: tes bakat, TPA, dan specific abilities\nKuliah, diskusi kelompok\nAmel\nSlide\nKlik untuk bergabung\n\n\n6\nRabu, 16 Sep\n13.00 WIB\nTes inteligensi: teori dan jenis, telaah literatur\nKuliah, diskusi kelompok\nAmel\nSlide\nKlik untuk bergabung\n\n\n7\nRabu, 23 Sep\n13.00 WIB\nMenulis item tes prestasi dan tes potensi\nKuliah, tugas\nAmel\nSlide\nKlik untuk bergabung\n\n\n8\nTBA\nTBA\nUjian Tengah Semester (materi Pertemuan 1–7)\nUTS\n—\n—\n—\n\n\n9\nKamis, 15 Okt\n08.00 WIB\nMenulis item untuk mengukur Higher Order Thinking Skill (HOTS)\nKuliah\nEndah\nn/a\n—\n\n\n10\nKamis, 22 Okt\n08.00 WIB\nPraktik menyusun tes kognitif: spesifikasi item dan blueprint\nPraktik\nEndah\nn/a\n—\n\n\n11\nKamis, 29 Okt\n08.00 WIB\nPraktik menyusun tes kognitif: menulis dan menelaah item\nPraktik\nEndah\nn/a\n—\n\n\n12\nKamis, 5 Nov\n08.00 WIB\nPraktik menyusun tes kognitif: uji coba dan estimasi properti psikometri\nPraktik\nEndah\nn/a\n—\n\n\n13\nKamis, 12 Nov\n08.00 WIB\nPraktik menyusun tes kognitif: estimasi reliabilitas dan validitas\nPraktik\nEndah\nn/a\n—\n\n\n14\nKamis, 19 Nov\n08.00 WIB\nPraktik menyusun tes kognitif: penyusunan norma\nPraktik, presentasi\nEndah\nn/a\n—\n\n\n15\nKamis, 26 Nov\n08.00 WIB\nIsu bias budaya dalam pengukuran kemampuan\nKuliah, diskusi kelompok\nEndah\nn/a\n—\n\n\n16\nTBA\nTBA\nUjian Akhir Semester: penyelesaian proyek\nUAS\n—\n—\n—\n\n\n\n\n\n\n\n\n\nNoteCatatan tentang perkuliahan daring\n\n\n\nMahasiswa tidak harus memiliki akun Microsoft Teams untuk mengikuti kuliah, dan dapat bergabung langsung lewat browser tanpa memasang aplikasinya.\nNamun, untuk mengakses percakapan (chat) atau berkomunikasi dengan dosen lewat tautan MS Teams yang sama, mahasiswa perlu masuk menggunakan akun Microsoft Teams UNAIR (email berdomain @drive.unair.ac.id). Lihat Panduan Penggunaan OneDrive dan MS Teams dari Direktorat Sistem Informasi (DSI) Universitas Airlangga.\n\n\n\n\n\n\n\n\nTipPetunjuk mengunduh slide 🖨️\n\n\n\nKlik icon ☰ yang ada di pojok kiri bawah slide → klik Tools di pojok kiri atas → pilih PDF Export Mode → tekan tombol ctrl + p hingga keluar pop-up window untuk mencetak slide, kemudian print sebagai file PDF.\nAlternatifnya, Anda bisa menekan tombol e sebagai shortcut, lalu mencetak slide sebagai file PDF.\n‼️Saya akan selalu memperbarui konten dalam slide deck di atas. Oleh karena itu, sebaiknya perlakukan slide ini sebagai dokumen hidup (living document). Apabila Anda menyimpan versi PDF yang sifatnya statis, maka perubahan dan pembaruan yang saya lakukan setelah Anda menyimpan versi statisnya, tidak akan terlihat dalam file yang Anda unduh."
   },
   {
     "objectID": "index.html#tugas-dan-penilaian",
     "href": "index.html#tugas-dan-penilaian",
     "title": "Penyusunan Tes Kognitif",
     "section": "Tugas dan Penilaian",
-    "text": "Tugas dan Penilaian\n\n\n\n\n\n\nNotePembagian kelompok\n\n\n\nSilakan Anda memilih anggota kelompok Anda sendiri dan tuliskan nama seluruh anggota kelompok di spreadsheet ini. Spreadsheet akan dikunci aksesnya (tidak dapat diedit) pada Pertemuan ke-3.\n\n\n\nRekapitulasi tugas, mengacu pada RTM (Rancangan Tugas Mahasiswa)\n\n\n\n\n\n\n\n\n\nTugas\nMinggu ke-\nBentuk\nObjek Garapan\nBobot\n\n\n\n\nTugas 1 — Review Artikel Ilmiah\n6\nKelompok (4–5 orang)\nReview 3 artikel ilmiah bereputasi bertema tes kognitif (inteligensi/tes potensi/lainnya)\n10%\n\n\nTugas 2 — Latihan Menulis Item\n7\nIndividu\n20 butir item tes prestasi & tes potensi beserta blueprint-nya\n5%\n\n\nUjian Tengah Semester\n8\nIndividu\nMateri Pertemuan 1–7\n30%\n\n\nTugas 3 — Proyek Penyusunan Tes Kognitif\n14\nKelompok (4–5 orang)\nLaporan penyusunan tes, booklet item, dan buku manual tes\n55%\n\n\n\n\n\n\n\n\n\nNoteProporsi penilaian akan diumumkan minggu depan\n\n\n\nInformasi tentang proporsi penilaian akan diumumkan (kemungkinan) minggu depan.\n\n\n\n\n\n\n\n\nTipRincian Tugas 1 — Review Artikel Ilmiah (Minggu ke-6️⃣)\n\n\n\n\n\nTujuan: mengidentifikasi tes kognitif (inteligensi/tes potensi/tes kognitif lainnya) yang digunakan dalam artikel ilmiah, untuk menumbuhkan kesadaran mengenai peran tes kognitif.\nKetentuan:\n\nDikerjakan berkelompok (4–5 orang), memilih 3 artikel bertema tes kognitif dari jurnal bereputasi.\nLaporan terdiri dari: (a) review umum tiap artikel, (b) resume mengenai tes kognitif, (c) resume teori yang mendasari, didukung referensi yang sesuai.\nDikumpulkan melalui Psyche, berkas .pdf. Tugas yang tidak sesuai ketentuan tidak dinilai.\n\n\n\n\n\n\n\n\n\nKriteria\nIndikator\nNilai Maksimum\n\n\n\n\nStruktur\nLaporan disusun sesuai urutan yang ditentukan\n30\n\n\nKejelasan\nLaporan jelas dan mudah dipahami (tampilan & uraian)\n40\n\n\nAkurasi Konten\nInterpretasi sesuai materi, didukung referensi yang sesuai\n30\n\n\nTotal\n\n100\n\n\n\n\n\n\n\n\n\n\n\n\nTipRincian Tugas 2 — Latihan Menulis Item (Minggu ke-7️⃣)\n\n\n\n\n\nTujuan: melatih keterampilan menulis item tes prestasi maupun tes potensi, serta membedakan penulisan item kedua jenis tes tersebut.\nKetentuan:\n\nDikerjakan individu (item bukan bagian dari tugas akhir), waktu pengerjaan 1 minggu.\nMenentukan 5 indikator untuk tes prestasi dan 5 indikator untuk tes potensi, masing-masing 2 butir per indikator (± 20 butir total).\nLaporan terdiri dari blueprint + item tes prestasi, dan blueprint + item tes potensi.\nDikumpulkan melalui Psyche, berkas .pdf. Tugas yang tidak sesuai ketentuan tidak dinilai.\n\n\n\n\n\n\n\n\n\nKriteria\nIndikator\nNilai Maksimum\n\n\n\n\nStruktur\nLaporan disusun sesuai urutan yang ditentukan\n30\n\n\nKejelasan\nPenulisan item jelas dan mudah dipahami (tampilan & uraian)\n40\n\n\nAkurasi Konten\nMampu membedakan bentuk item tes prestasi & tes potensi, didukung referensi yang sesuai\n30\n\n\nTotal\n\n100\n\n\n\n\n\n\n\n\n\n\n\n\nTipRincian Tugas 3 — Proyek Penyusunan Tes Kognitif (Minggu ke-1️⃣4️⃣)\n\n\n\n\n\nTujuan: menyusun tes kognitif (tes potensi/kecerdasan) sesuai kaidah dan tahapan yang benar.\nKetentuan:\n\nDikerjakan berkelompok (4–5 orang); jenis ability yang disusun tiap kelompok dipandu dosen.\nMinimal 50 item mengikuti indikator/blueprint berbasis teori; meliputi penyusunan item, uji coba, analisis item, uji validitas & reliabilitas, hingga pelaporan.\nBerkas terdiri dari 3 dokumen .pdf dalam satu folder: Laporan Penyusunan Tes Kognitif (sistematika Bab I–V mengikuti standar APA), Booklet Tes Kognitif (item yang “baik” dan layak pakai), dan Buku Manual Tes.\nDikumpulkan melalui Psyche. Tugas yang tidak sesuai ketentuan tidak dinilai.\n\n\n\n\n\n\n\n\n\nKriteria\nIndikator\nNilai Maksimum\n\n\n\n\nPendahuluan\nLatar belakang, tujuan, dan manfaat penyusunan alat ukur\n15\n\n\nTinjauan Teoretik\nKonsep teori konstrak & konsep pengukuran/tahapan penyusunan\n15\n\n\nMetode\nDefinisi operasional, blueprint, validitas & reliabilitas yang digunakan\n15\n\n\nHasil\nItem alat ukur, bukti validitas (min. 2), analisis item, pemilihan item, reliabilitas skala\n20\n\n\nPenutup\nKesimpulan dan keterbatasan alat ukur\n5\n\n\nDaftar Pustaka\nReferensi lengkap sesuai standar APA\n5\n\n\nManual\nManual penggunaan tes\n5\n\n\nLampiran\nData validitas, data uji coba, output analisis\n5\n\n\nBooklet\nBooklet Tes dan Booklet Manual\n15\n\n\nTotal\n\n100\n\n\n\n\n\n\n\n\n\n\n\n\n\nHalaman ini merupakan ringkasan RPP dan RTM, yang selengkapnya, akan Anda dapat akses di Psyche.\n\n\n\n\nDisclosure penggunaan akal imitasi (AI)\nSaya (Amel) menggunakan Claude Code (Model Sonnet 5) untuk brainstorming materi, membuat grafik, mencari referensi, dan melakukan troubleshooting kode quarto dan git. Saya bertanggung jawab penuh atas substansi dan penyajian materi di mata kuliah ini."
+    "text": "Tugas dan Penilaian\n\n\n\n\n\n\nNotePembagian kelompok\n\n\n\nSilakan Anda memilih anggota kelompok Anda sendiri dan tuliskan nama seluruh anggota kelompok di spreadsheet ini. Spreadsheet akan dikunci aksesnya (tidak dapat diedit) pada Pertemuan ke-3.\n\n\n\nRekapitulasi tugas, mengacu pada RTM (Rancangan Tugas Mahasiswa)\n\n\n\n\n\n\n\n\n\nTugas\nMinggu ke-\nBentuk\nObjek Garapan\nBobot\n\n\n\n\nTugas 1 — Review Artikel Ilmiah\n6\nKelompok (4–5 orang)\nReview 3 artikel ilmiah bereputasi bertema tes kognitif (inteligensi/tes potensi/lainnya)\n10%\n\n\nTugas 2 — Latihan Menulis Item\n7\nIndividu\n20 butir item tes prestasi & tes potensi beserta blueprint-nya\n5%\n\n\nUjian Tengah Semester\n8\nIndividu\nMateri Pertemuan 1–7\n30%\n\n\nTugas 3 — Proyek Penyusunan Tes Kognitif\n14\nKelompok (4–5 orang)\nLaporan penyusunan tes, booklet item, dan buku manual tes\n55%\n\n\n\n\n\n\n\n\n\nTipRincian Tugas 1 — Review Artikel Ilmiah (Minggu ke-6️⃣)\n\n\n\n\n\nTujuan: mengidentifikasi tes kognitif (inteligensi/tes potensi/tes kognitif lainnya) yang digunakan dalam artikel ilmiah, untuk menumbuhkan kesadaran mengenai peran tes kognitif.\nKetentuan:\n\nDikerjakan berkelompok (4–5 orang), memilih 3 artikel bertema tes kognitif dari jurnal bereputasi.\nLaporan terdiri dari: (a) review umum tiap artikel, (b) resume mengenai tes kognitif, (c) resume teori yang mendasari, didukung referensi yang sesuai.\nDikumpulkan melalui Psyche, berkas .pdf. Tugas yang tidak sesuai ketentuan tidak dinilai.\n\n\n\n\n\n\n\n\n\nKriteria\nIndikator\nNilai Maksimum\n\n\n\n\nStruktur\nLaporan disusun sesuai urutan yang ditentukan\n30\n\n\nKejelasan\nLaporan jelas dan mudah dipahami (tampilan & uraian)\n40\n\n\nAkurasi Konten\nInterpretasi sesuai materi, didukung referensi yang sesuai\n30\n\n\nTotal\n\n100\n\n\n\n\n\n\n\n\n\n\n\n\nTipRincian Tugas 2 — Latihan Menulis Item (Minggu ke-7️⃣)\n\n\n\n\n\nTujuan: melatih keterampilan menulis item tes prestasi maupun tes potensi, serta membedakan penulisan item kedua jenis tes tersebut.\nKetentuan:\n\nDikerjakan individu (item bukan bagian dari tugas akhir), waktu pengerjaan 1 minggu.\nMenentukan 5 indikator untuk tes prestasi dan 5 indikator untuk tes potensi, masing-masing 2 butir per indikator (± 20 butir total).\nLaporan terdiri dari blueprint + item tes prestasi, dan blueprint + item tes potensi.\nDikumpulkan melalui Psyche, berkas .pdf. Tugas yang tidak sesuai ketentuan tidak dinilai.\n\n\n\n\n\n\n\n\n\nKriteria\nIndikator\nNilai Maksimum\n\n\n\n\nStruktur\nLaporan disusun sesuai urutan yang ditentukan\n30\n\n\nKejelasan\nPenulisan item jelas dan mudah dipahami (tampilan & uraian)\n40\n\n\nAkurasi Konten\nMampu membedakan bentuk item tes prestasi & tes potensi, didukung referensi yang sesuai\n30\n\n\nTotal\n\n100\n\n\n\n\n\n\n\n\n\n\n\n\nTipRincian Tugas 3 — Proyek Penyusunan Tes Kognitif (Minggu ke-1️⃣4️⃣)\n\n\n\n\n\nTujuan: menyusun tes kognitif (tes potensi/kecerdasan) sesuai kaidah dan tahapan yang benar.\nKetentuan:\n\nDikerjakan berkelompok (4–5 orang); jenis ability yang disusun tiap kelompok dipandu dosen.\nMinimal 50 item mengikuti indikator/blueprint berbasis teori; meliputi penyusunan item, uji coba, analisis item, uji validitas & reliabilitas, hingga pelaporan.\nBerkas terdiri dari 3 dokumen .pdf dalam satu folder: Laporan Penyusunan Tes Kognitif (sistematika Bab I–V mengikuti standar APA), Booklet Tes Kognitif (item yang “baik” dan layak pakai), dan Buku Manual Tes.\nDikumpulkan melalui Psyche. Tugas yang tidak sesuai ketentuan tidak dinilai.\n\n\n\n\n\n\n\n\n\nKriteria\nIndikator\nNilai Maksimum\n\n\n\n\nPendahuluan\nLatar belakang, tujuan, dan manfaat penyusunan alat ukur\n15\n\n\nTinjauan Teoretik\nKonsep teori konstrak & konsep pengukuran/tahapan penyusunan\n15\n\n\nMetode\nDefinisi operasional, blueprint, validitas & reliabilitas yang digunakan\n15\n\n\nHasil\nItem alat ukur, bukti validitas (min. 2), analisis item, pemilihan item, reliabilitas skala\n20\n\n\nPenutup\nKesimpulan dan keterbatasan alat ukur\n5\n\n\nDaftar Pustaka\nReferensi lengkap sesuai standar APA\n5\n\n\nManual\nManual penggunaan tes\n5\n\n\nLampiran\nData validitas, data uji coba, output analisis\n5\n\n\nBooklet\nBooklet Tes dan Booklet Manual\n15\n\n\nTotal\n\n100\n\n\n\n\n\n\n\n\n\n\n\n\n\nHalaman ini merupakan ringkasan RPP dan RTM, yang selengkapnya, akan Anda dapat akses di Psyche.\n\n\n\n\nDisclosure penggunaan akal imitasi (AI)\nSaya (Amel) menggunakan Claude Code (Model Sonnet 5) untuk brainstorming materi, membuat grafik, mencari referensi, dan melakukan troubleshooting kode quarto dan git. Saya bertanggung jawab penuh atas substansi dan penyajian materi di mata kuliah ini."
   },
   {
     "objectID": "slides/pertemuan2.html#outline",
@@ -971,5 +1118,131 @@
     "title": "Tes Intelegensi",
     "section": "Rujukan",
     "text": "Rujukan\nAnastasi, A., & Urbina, S. (1997). Psychological testing (7th ed.). Prentice Hall.\nAzwar, S. (2019). Konstruksi tes: Kemampuan kognitif. Pustaka Pelajar.\nCarroll, J. B. (1993). Human cognitive abilities: A survey of factor-analytic studies. Cambridge University Press.\nCattell, R. B. (1963). Theory of fluid and crystallized intelligence: A critical experiment. Journal of Educational Psychology, 54(1), 1–22.\nChen, J.-Q., & Gardner, H. (2018). Assessment from the perspective of multiple-intelligences theory. In D. P. Flanagan & E. M. McDonough (Eds.), Contemporary intellectual assessment: Theories, tests, and issues (4th ed., pp. 164–173). Guilford Press.\nGardner, H. (1983). Frames of mind: The theory of multiple intelligences. Basic Books.\nGardner, H. (1999). Intelligence reframed: Multiple intelligences for the 21st century. Basic Books.\nHimpunan Psikologi Indonesia (HIMPSI). (2010). Kode etik psikologi Indonesia.\nMcCallum, R. S. (Ed.). (2018). Handbook of nonverbal assessment (2nd ed.). Springer.\nSchneider, W. J., & McGrew, K. S. (2018). The Cattell–Horn–Carroll theory of cognitive abilities. In D. P. Flanagan & E. M. McDonough (Eds.), Contemporary intellectual assessment: Theories, tests, and issues (4th ed., pp. 73–163). Guilford Press.\nSpearman, C. (1904). “General intelligence,” objectively determined and measured. American Journal of Psychology, 15(2), 201–292.\nSternberg, R. J. (2018). The triarchic theory of successful intelligence. In D. P. Flanagan & E. M. McDonough (Eds.), Contemporary intellectual assessment: Theories, tests, and issues (4th ed., pp. 174–194). Guilford Press.\nThurstone, L. L. (1938). Primary mental abilities. University of Chicago Press.\nVisser, B. A., Ashton, M. C., & Vernon, P. A. (2006). Beyond g: Putting multiple intelligences theory to the test. Intelligence, 34(5), 487–502.\nWasserman, J. D. (2018). A history of intelligence assessment: The unfinished tapestry. In D. P. Flanagan & E. M. McDonough (Eds.), Contemporary intellectual assessment: Theories, tests, and issues (4th ed., pp. 3–55). Guilford Press.\nWechsler, D. (1958). The measurement and appraisal of adult intelligence (4th ed.). Williams & Wilkins."
+  },
+  {
+    "objectID": "slides/pertemuan9.html#outline",
+    "href": "slides/pertemuan9.html#outline",
+    "title": "Menulis item untuk mengukur Higher Order Thinking Skill (HOTS)",
+    "section": "Outline",
+    "text": "Outline\n\nDari LOTS ke HOTS\nDefinisi dan ciri item HOTS\nMenulis item level Menganalisis\nMenulis item level Mengevaluasi\nMenulis item level Mencipta\nHOTS pada tes prestasi vs. tes potensi\nKesalahan umum menulis item HOTS\nAktivitas: menelaah butir HOTS\n\n\n\nDisclosure penggunaan akal imitasi (AI)\nSaya menggunakan Claude Code (Model Sonnet 5) untuk brainstorming dan membuat baseline materi, mencari referensi, dan melakukan troubleshooting kode quarto dan git. Saya bertanggung jawab penuh atas substansi dan penyajian presentasi ini."
+  },
+  {
+    "objectID": "slides/pertemuan9.html#recap-enam-level-proses-kognitif",
+    "href": "slides/pertemuan9.html#recap-enam-level-proses-kognitif",
+    "title": "Menulis item untuk mengukur Higher Order Thinking Skill (HOTS)",
+    "section": "Recap: enam level proses kognitif",
+    "text": "Recap: enam level proses kognitif\nPertemuan 3 membahas taksonomi Bloom revisi (Anderson & Krathwohl, 2001) dengan enam level proses kognitif, berjenjang dari yang paling sederhana:\nMengingat → Memahami → Menerapkan → Menganalisis → Mengevaluasi → Mencipta\n\n\n\n\n\n\nLOTS vs. HOTS\n\n\nTiga level pertama biasa disebut lower order thinking skills (LOTS); tiga level terakhir disebut higher order thinking skills (HOTS). Hari ini kita fokus pada level Menganalisis, Mengevaluasi, dan Mencipta."
+  },
+  {
+    "objectID": "slides/pertemuan9.html#mengapa-item-level-lots-saja-tidak-cukup",
+    "href": "slides/pertemuan9.html#mengapa-item-level-lots-saja-tidak-cukup",
+    "title": "Menulis item untuk mengukur Higher Order Thinking Skill (HOTS)",
+    "section": "Mengapa item level LOTS saja tidak cukup",
+    "text": "Mengapa item level LOTS saja tidak cukup\nItem yang hanya mengukur level Mengingat menuntut peserta memanggil kembali informasi, tanpa perlu menunjukkan bahwa mereka benar-benar memahami, menafsirkan, atau mampu menerapkan informasi tersebut untuk memecahkan persoalan yang belum pernah mereka jumpai persis dalam bentuk itu.\n\n\n\n\n\n\nKonsekuensi praktis\n\n\nSemakin tinggi level kognitif yang diukur, semakin dituntut kemampuan berpikir kompleks dari peserta — bukan sekadar semakin sulit soalnya."
+  },
+  {
+    "objectID": "slides/pertemuan9.html#apa-itu-hots",
+    "href": "slides/pertemuan9.html#apa-itu-hots",
+    "title": "Menulis item untuk mengukur Higher Order Thinking Skill (HOTS)",
+    "section": "Apa itu HOTS",
+    "text": "Apa itu HOTS\n\n\n\n\n\n\nDefinisi\n\n\nHOTS mencakup proses berpikir yang melampaui mengingat dan memahami: menganalisis, mengevaluasi (melakukan judgement), dan mencipta, termasuk di dalamnya berpikir kritis, berpikir kreatif, dan pemecahan masalah.\n\n\n\n\n\nBloom dkk. (1956); Anderson & Krathwohl (2001); Brookhart (2010)."
+  },
+  {
+    "objectID": "slides/pertemuan9.html#dua-ciri-item-hots-yang-baik",
+    "href": "slides/pertemuan9.html#dua-ciri-item-hots-yang-baik",
+    "title": "Menulis item untuk mengukur Higher Order Thinking Skill (HOTS)",
+    "section": "Dua ciri item HOTS yang baik",
+    "text": "Dua ciri item HOTS yang baik\n\nAda pengantar soal (stimulus) — teks, grafik, tabel, kasus — sebagai bahan berpikir bagi peserta.\nKonteks atau masalah yang belum pernah dijumpai peserta persis dalam bentuk yang sama, sehingga item tidak bisa dijawab hanya dengan mengandalkan ingatan.\n\n\n\n\n\n\n\n\nYang sering keliru\n\n\nStimulus yang panjang dan tampak rumit tidak otomatis membuat sebuah item mengukur HOTS. Kalau jawabannya bisa ditemukan langsung dengan mencocokkan kalimat pada stimulus, tanpa perlu memproses informasi itu, proses kognitif yang sebenarnya dituntut tetap Mengingat.\n\n\n\n\n\n\nBrookhart (2010)."
+  },
+  {
+    "objectID": "slides/pertemuan9.html#tiga-jenis-proses-analisis",
+    "href": "slides/pertemuan9.html#tiga-jenis-proses-analisis",
+    "title": "Menulis item untuk mengukur Higher Order Thinking Skill (HOTS)",
+    "section": "Tiga jenis proses analisis",
+    "text": "Tiga jenis proses analisis\n\nAnalisis unsur — mengenali asumsi yang tidak dinyatakan secara eksplisit, membedakan fakta dari opini, membedakan kesimpulan dari fakta yang mendukungnya.\nAnalisis hubungan — mengidentifikasi hubungan antar-ide, mengenali hubungan sebab-akibat, membedakan argumen yang relevan dari yang tidak relevan.\nAnalisis prinsip pengorganisasian — mengenali bentuk, pola, atau struktur yang implisit dalam sebuah teks atau komunikasi.\n\n\n\nBloom dkk. (1956)."
+  },
+  {
+    "objectID": "slides/pertemuan9.html#contoh-item-analisis-hubungan",
+    "href": "slides/pertemuan9.html#contoh-item-analisis-hubungan",
+    "title": "Menulis item untuk mengukur Higher Order Thinking Skill (HOTS)",
+    "section": "Contoh item: analisis hubungan",
+    "text": "Contoh item: analisis hubungan\n\n\n\n\n\n\nStimulus\n\n\n“Sebuah laporan menemukan bahwa penjualan es krim dan jumlah kasus tenggelam di kolam renang umum sama-sama meningkat sepanjang tahun. Penulis laporan menyimpulkan bahwa membeli es krim meningkatkan risiko tenggelam.”\n\n\n\n“Kelemahan utama pada kesimpulan tersebut adalah…”\n\nData penjualan es krim kurang akurat　B) Kedua hal itu kemungkinan sama-sama dipengaruhi musim panas　C) Kasus tenggelam terlalu sedikit untuk dianalisis　D) Kolam renang umum tidak representatif\n\n\n\n\n\n\n\n\nKunci\n\n\nB — korelasi antara dua variabel tidak membuktikan salah satu menyebabkan yang lain; keduanya bisa dijelaskan oleh variabel ketiga (musim panas). Menjawab ini menuntut analisis hubungan sebab-akibat, bukan sekadar mengingat definisi korelasi."
+  },
+  {
+    "objectID": "slides/pertemuan9.html#dua-jenis-kriteria-penilaian",
+    "href": "slides/pertemuan9.html#dua-jenis-kriteria-penilaian",
+    "title": "Menulis item untuk mengukur Higher Order Thinking Skill (HOTS)",
+    "section": "Dua jenis kriteria penilaian",
+    "text": "Dua jenis kriteria penilaian\n\nKriteria internal — akurasi, konsistensi, dan urutan logis dari karya atau argumen itu sendiri.\nKriteria eksternal — standar di luar karya itu, misalnya efisiensi, kesesuaian dengan tujuan tertentu, atau perbandingan dengan alternatif lain.\n\n\n\nBloom dkk. (1956)."
+  },
+  {
+    "objectID": "slides/pertemuan9.html#contoh-item-mengevaluasi",
+    "href": "slides/pertemuan9.html#contoh-item-mengevaluasi",
+    "title": "Menulis item untuk mengukur Higher Order Thinking Skill (HOTS)",
+    "section": "Contoh item: mengevaluasi",
+    "text": "Contoh item: mengevaluasi\n\n\n\n\n\n\nStimulus\n\n\n“Dua rancangan studi berikut sama-sama menguji apakah pelatihan X meningkatkan skor tes Y.”\nRancangan 1: Mengukur skor Y pada kelompok yang sama, sebelum dan sesudah pelatihan, tanpa kelompok pembanding.\nRancangan 2: Mengukur skor Y pada kelompok yang mengikuti pelatihan dan kelompok yang tidak, keduanya diukur pada waktu yang sama.\n\n\n\n“Berdasarkan kriteria kemampuan mengontrol penjelasan alternatif, rancangan manakah yang lebih kuat?”\n\nRancangan 1　B) Rancangan 2　C) Sama kuat　D) Tidak bisa ditentukan\n\n\n\n\n\n\n\n\nKunci\n\n\nB — rancangan dengan kelompok pembanding lebih mampu mengontrol penjelasan alternatif seperti efek waktu atau kematangan, yang tidak bisa disingkirkan pada Rancangan 1."
+  },
+  {
+    "objectID": "slides/pertemuan9.html#tiga-bentuk-produk-yang-dituntut",
+    "href": "slides/pertemuan9.html#tiga-bentuk-produk-yang-dituntut",
+    "title": "Menulis item untuk mengukur Higher Order Thinking Skill (HOTS)",
+    "section": "Tiga bentuk produk yang dituntut",
+    "text": "Tiga bentuk produk yang dituntut\nTaksonomi asli Bloom dkk. (1956) menyebut level ini Sintesis; taksonomi revisi menggabungkannya ke dalam Mencipta (Pertemuan 3). Ketiga sub-kategori aslinya tetap berguna sebagai panduan menulis item:\n\nMenghasilkan komunikasi unik — cerita pendek, esai, komposisi.\nMenyusun rencana atau rancangan — proposal eksperimen, rancangan intervensi.\nMenurunkan hubungan abstrak — merumuskan hipotesis, menyusun skema konseptual baru."
+  },
+  {
+    "objectID": "slides/pertemuan9.html#keterbatasan-pilihan-ganda-untuk-level-ini",
+    "href": "slides/pertemuan9.html#keterbatasan-pilihan-ganda-untuk-level-ini",
+    "title": "Menulis item untuk mengukur Higher Order Thinking Skill (HOTS)",
+    "section": "Keterbatasan pilihan ganda untuk level ini",
+    "text": "Keterbatasan pilihan ganda untuk level ini\n\n\n\n\n\n\nCatatan jujur\n\n\nItem pilihan ganda kurang cocok untuk mengukur Mencipta secara murni, karena level ini menekankan kemampuan peserta menghasilkan ide orisinal — bukan memilih dari opsi yang sudah disediakan. Dalam praktiknya, level ini lebih sering diukur lewat esai, tugas otentik, atau proyek dibanding tes obyektif.\n\n\n\nUntuk tes yang harus tetap terstandardisasi dan objektif skornya (seperti tes potensi), pendekatan yang lebih realistis adalah meminta peserta mengenali hasil sintesis terbaik dari beberapa opsi yang disediakan, bukan memproduksinya secara bebas."
+  },
+  {
+    "objectID": "slides/pertemuan9.html#jalan-yang-berbeda-menuju-level-yang-sama",
+    "href": "slides/pertemuan9.html#jalan-yang-berbeda-menuju-level-yang-sama",
+    "title": "Menulis item untuk mengukur Higher Order Thinking Skill (HOTS)",
+    "section": "Jalan yang berbeda menuju level yang sama",
+    "text": "Jalan yang berbeda menuju level yang sama\n\nTes potensi — item dirancang mengukur proses bernalar, bukan isi materi (Pertemuan 5–7). Karena itu, item yang baik pada tes potensi hampir otomatis berada di level Menganalisis atau Mengevaluasi; misalnya item induction dan general sequential reasoning yang sudah dibahas di Pertemuan 7.\nTes prestasi — item diturunkan dari TIK yang terikat pada materi tertentu (Pertemuan 4). Naik dari LOTS ke HOTS di sini harus disengaja: soal hafalan TIK perlu diubah menjadi soal yang menuntut analisis kasus atau penerapan pada situasi baru.\n\n\n\n\n\n\n\nRelevansi untuk proyek akhir\n\n\nTes kognitif yang Anda susun untuk proyek akhir (Pertemuan 14) akan lebih kuat validitas isinya jika sebagian butirnya secara sengaja dirancang di level HOTS, sesuai proporsi pada blueprint Anda (Pertemuan 2 dan 3)."
+  },
+  {
+    "objectID": "slides/pertemuan9.html#dua-kesalahan-yang-sering-terjadi",
+    "href": "slides/pertemuan9.html#dua-kesalahan-yang-sering-terjadi",
+    "title": "Menulis item untuk mengukur Higher Order Thinking Skill (HOTS)",
+    "section": "Dua kesalahan yang sering terjadi",
+    "text": "Dua kesalahan yang sering terjadi\n\nHOTS semu — stimulus dibuat panjang dan tampak kompleks, tetapi jawabannya bisa ditemukan langsung dari stimulus tanpa perlu memproses informasi baru. Proses kognitif yang sebenarnya dituntut tetap Mengingat.\nKesulitan bahasa yang tidak relevan — stimulus ditulis dengan bahasa yang terlalu rumit sehingga item lebih banyak menguji kemampuan literasi peserta dibanding proses kognitif yang dimaksud.\n\n\n\n\n\n\n\nCatatan\n\n\nPrinsip menulis stem dan options dari Pertemuan 7 — kalimat positif, satu ide inti, panjang pilihan yang setara — tetap berlaku penuh untuk item HOTS. Level kognitif yang lebih tinggi bukan alasan untuk mengabaikan prinsip dasar ini."
+  },
+  {
+    "objectID": "slides/pertemuan9.html#aktivitas-menelaah-butir-hots",
+    "href": "slides/pertemuan9.html#aktivitas-menelaah-butir-hots",
+    "title": "Menulis item untuk mengukur Higher Order Thinking Skill (HOTS)",
+    "section": "Aktivitas: menelaah butir HOTS",
+    "text": "Aktivitas: menelaah butir HOTS\n\n\n\n\n\n\nItem untuk ditelaah\n\n\n“Bacalah paragraf berikut: ‘Bias budaya dalam tes kognitif terjadi ketika sebuah tes menghasilkan kesalahan pengukuran yang sistematis terhadap kelompok budaya tertentu.’ Berdasarkan paragraf di atas, definisi dari bias budaya adalah…”\n\nKesalahan pengukuran acak pada semua peserta　B) Kesalahan pengukuran sistematis terhadap kelompok budaya tertentu　C) Perbedaan skor rata-rata antar kelompok budaya　D) Ketidaksesuaian norma tes dengan populasi\n\n\n\n\nDiskusikan dengan teman sebangku: apakah item ini benar-benar mengukur level Menganalisis?\n\n\n\n\n\n\n\nKunci\n\n\nBukan — jawaban (B) bisa ditemukan dengan mencocokkan kalimat pada stimulus secara langsung, tanpa perlu memproses atau menghubungkan informasi apa pun. Ini contoh HOTS semu: stimulus terlihat seperti bacaan analitis, tetapi proses kognitif yang dituntut tetap Mengingat."
+  },
+  {
+    "objectID": "slides/pertemuan9.html#ringkasan",
+    "href": "slides/pertemuan9.html#ringkasan",
+    "title": "Menulis item untuk mengukur Higher Order Thinking Skill (HOTS)",
+    "section": "Ringkasan",
+    "text": "Ringkasan\n\nHOTS mencakup tiga level tertinggi taksonomi Bloom revisi: Menganalisis, Mengevaluasi, dan Mencipta.\nItem HOTS yang baik punya stimulus dan konteks yang belum pernah dijumpai peserta persis dalam bentuk yang sama — bukan sekadar stimulus yang panjang.\nSub-kategori taksonomi asli Bloom dkk. (1956) — analisis unsur/hubungan/prinsip pengorganisasian, kriteria evaluasi internal/eksternal, tiga bentuk produk sintesis — tetap berguna sebagai panduan praktis menulis item.\nMencipta secara murni sulit diukur dengan pilihan ganda; tes potensi biasanya mendekatinya lewat item pengenalan pola, bukan produksi bebas.\nItem tes potensi cenderung otomatis berada di level HOTS; item tes prestasi perlu sengaja dinaikkan levelnya dari TIK yang ada.\nWaspadai HOTS semu — stimulus rumit yang jawabannya tetap bisa ditemukan lewat mengingat, bukan menganalisis."
+  },
+  {
+    "objectID": "slides/pertemuan9.html#untuk-pertemuan-10",
+    "href": "slides/pertemuan9.html#untuk-pertemuan-10",
+    "title": "Menulis item untuk mengukur Higher Order Thinking Skill (HOTS)",
+    "section": "Untuk Pertemuan 10",
+    "text": "Untuk Pertemuan 10\n\n\n\n\n\n\nSelanjutnya: praktik terstruktur\n\n\nPertemuan 10 memulai rangkaian praktik menyusun tes kognitif dengan bimbingan terstruktur, dimulai dari spesifikasi item dan penyusunan blueprint untuk proyek akhir kelompok Anda."
+  },
+  {
+    "objectID": "slides/pertemuan9.html#ada-pertanyaan",
+    "href": "slides/pertemuan9.html#ada-pertanyaan",
+    "title": "Menulis item untuk mengukur Higher Order Thinking Skill (HOTS)",
+    "section": "Ada pertanyaan❓",
+    "text": "Ada pertanyaan❓\n\n\n\n\n\n\n\nCatatan\n\n\n\nPaparan disusun dengan menggunakan  dan Quarto dengan template dari UNAIR Theme.\nKontak saya via  amelia.zein@psikologi.unair.ac.id"
+  },
+  {
+    "objectID": "slides/pertemuan9.html#rujukan",
+    "href": "slides/pertemuan9.html#rujukan",
+    "title": "Menulis item untuk mengukur Higher Order Thinking Skill (HOTS)",
+    "section": "Rujukan",
+    "text": "Rujukan\nAnderson, L. W., & Krathwohl, D. R. (Eds.). (2001). A taxonomy for learning, teaching, and assessing: A revision of Bloom’s taxonomy of educational objectives. Longman.\nBloom, B. S., Engelhart, M. D., Furst, E. J., Hill, W. H., & Krathwohl, D. R. (1956). Taxonomy of educational objectives: The classification of educational goals. Handbook I, Cognitive domain. David McKay Company.\nBrookhart, S. M. (2010). How to assess higher-order thinking skills in your classroom. ASCD.\nHaladyna, T. M., Downing, S. M., & Rodriguez, M. C. (2002). A review of multiple-choice item-writing guidelines for classroom assessment. Applied Measurement in Education, 15(3), 309–334.\nKrathwohl, D. R. (2002). A revision of Bloom’s taxonomy: An overview. Theory Into Practice, 41(4), 212–218. https://www.jstor.org/stable/1477405?seq=1"
   }
 ]

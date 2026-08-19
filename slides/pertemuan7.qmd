@@ -248,7 +248,7 @@ Pertemuan 8 adalah Ujian Tengah Semester, mencakup materi Pertemuan 1–7: jenis
 * Kontak saya via <i class="fas fa-paper-plane"></i> <a href="mailto:amelia.zein@psikologi.unair.ac.id">amelia.zein@psikologi.unair.ac.id</a>
 :::
 
-## Rujukan
+## Rujukan {.scrollable}
 
 Azwar, S. (1987). *Tes prestasi: Fungsi dan pengembangan pengukuran prestasi belajar*. Liberty.
 

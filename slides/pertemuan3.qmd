@@ -198,7 +198,7 @@ Mager (1962) mengusulkan rumusan tujuan instruksional dengan tiga komponen inti:
 
 ::: {.incremental}
 * Kata kerja seperti "memahami", "mengetahui", "menyadari", atau "menghargai" menggambarkan **keadaan internal**, bukan perilaku yang dapat diamati secara langsung.
-* Ini berlaku juga untuk nama level taksonomi itu sendiri — "Memahami" adalah nama kategori, bukan kata kerja operasional yang siap dipakai dalam rumusan tujuan.
+* Ini berlaku juga untuk nama level taksonomi itu sendiri. "Memahami" adalah nama kategori, bukan kata kerja operasional yang siap dipakai dalam rumusan tujuan.
 * Untuk merumuskan tujuan yang bisa diukur, kata kerja dalam kategori "Memahami" perlu diterjemahkan menjadi kata kerja operasional seperti "menjelaskan", "membandingkan", atau "menyimpulkan".
 :::
 
@@ -223,7 +223,7 @@ Klasifikasikan masing-masing rumusan berikut ke salah satu dari enam level prose
 
 ::: {.callout-tip}
 #### Kunci
-(1) Mengingat — memanggil kembali informasi. (2) Menganalisis — meski "membandingkan" juga muncul sebagai contoh kata kerja di tabel Memahami dan Mengevaluasi, proses yang dituntut di sini (membedah dua konsep berdasarkan kriteria tertentu) lebih tepat masuk Menganalisis. Kata kerja yang sama bisa berada di level berbeda, tergantung proses kognitif yang sebenarnya dituntut — bukan sekadar kata kerjanya. (3) Mencipta — menyusun elemen (proporsi, item, format) menjadi produk baru.
+(1) Mengingat — memanggil kembali informasi. (2) Menganalisis — meskipun "membandingkan" juga muncul sebagai contoh kata kerja di tabel Memahami dan Mengevaluasi, proses yang dituntut di sini (membedah dua konsep berdasarkan kriteria tertentu) lebih tepat masuk Menganalisis. Kata kerja yang sama bisa berada di level berbeda, tergantung proses kognitif yang sebenarnya dituntut — bukan sekadar kata kerjanya. (3) Mencipta — menyusun elemen (proporsi, item, format) menjadi produk baru.
 :::
 
 ## Ringkasan
@@ -254,7 +254,7 @@ Pertemuan 4 menerapkan taksonomi ini secara langsung pada tes prestasi, yaitu je
 * Kontak saya via <i class="fas fa-paper-plane"></i> <a href="mailto:amelia.zein@psikologi.unair.ac.id">amelia.zein@psikologi.unair.ac.id</a>
 :::
 
-## Rujukan
+## Rujukan {.scrollable}
 
 Anderson, L. W., & Krathwohl, D. R. (Eds.). (2001). *A taxonomy for learning, teaching, and assessing: A revision of Bloom's taxonomy of educational objectives*. Longman.
 
