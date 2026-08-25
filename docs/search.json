@@ -151,14 +151,14 @@
     "href": "slides/pertemuan3.html#outline",
     "title": "Taksonomi dan Tujuan Instruksional",
     "section": "Outline",
-    "text": "Outline\n\nDua rumusan tujuan pembelajaran\nDefinisi taksonomi dan tujuan instruksional\nTaksonomi Bloom dan revisinya\nEnam level proses kognitif\nDimensi pengetahuan\nTabel dua dimensi dan kaitannya dengan blueprint\nMerumuskan tujuan instruksional\nKata kerja yang tidak dapat diamati\nAktivitas: mengklasifikasikan tujuan instruksional\n\n\n\nDisclosure penggunaan akal imitasi (AI)\nSaya menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk brainstorming materi, mencari referensi, dan melakukan troubleshooting kode quarto dan git. Saya bertanggung jawab penuh atas substansi dan penyajian presentasi ini."
+    "text": "Outline\n\nDua rumusan tujuan pembelajaran\nDefinisi taksonomi dan tujuan instruksional\nTaksonomi Bloom dan revisinya\n6️⃣ level proses kognitif\nDimensi pengetahuan\nTabel dua dimensi dan kaitannya dengan blueprint\nMerumuskan tujuan instruksional\nKata kerja yang tidak dapat diamati\nAktivitas: mengklasifikasikan tujuan instruksional\n\n\n\nDisclosure penggunaan akal imitasi (AI)\nSaya menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk brainstorming materi, mencari referensi, dan melakukan troubleshooting kode quarto dan git. Saya bertanggung jawab penuh atas substansi dan penyajian presentasi ini."
   },
   {
     "objectID": "slides/pertemuan3.html#bandingkan-keduanya",
     "href": "slides/pertemuan3.html#bandingkan-keduanya",
     "title": "Taksonomi dan Tujuan Instruksional",
     "section": "Bandingkan keduanya",
-    "text": "Bandingkan keduanya\n\n“Siswa memahami konsep pecahan.”\n“Siswa dapat menghitung hasil penjumlahan dua pecahan berpenyebut berbeda.”\n\n\n\n\n\n\n\n\nPerbedaannya\n\n\nRumusan pertama tidak menyebutkan perilaku yang bisa diamati. “Memahami” bisa berarti apa saja, dan tidak ada cara langsung untuk menilai apakah tujuan itu tercapai. Rumusan kedua menyebutkan perilaku spesifik yang bisa diukur dengan satu butir soal.\n\n\n\nRumusan kedua bisa langsung diturunkan menjadi item tes. Rumusan pertama tidak bisa, sebelum diterjemahkan dulu ke bentuk yang lebih spesifik."
+    "text": "Bandingkan keduanya\n\n“Siswa memahami konsep pecahan.”\n“Siswa dapat menghitung hasil penjumlahan dua pecahan berpenyebut berbeda.”\n\n\n\n\n\n\n\n\nRumusan pertama tidak menyebutkan perilaku yang bisa diamati. “Memahami” bisa berarti apa saja, dan tidak ada cara langsung untuk menilai apakah tujuan itu tercapai. Rumusan kedua menyebutkan perilaku spesifik yang bisa diukur dengan satu butir soal.\n\n\n\nRumusan kedua bisa langsung diturunkan menjadi item tes. Rumusan pertama tidak bisa, sebelum diterjemahkan dulu ke bentuk yang lebih spesifik."
   },
   {
     "objectID": "slides/pertemuan3.html#taksonomi-dan-tujuan-instruksional",
@@ -196,11 +196,11 @@
     "text": "Level yang lebih kompleks\n\n\n\n\n\n\n\n\nLevel\nDefinisi\nContoh kata kerja\n\n\n\n\nMenganalisis\nMemecah informasi menjadi bagian dan melihat hubungan antar-bagian\nmembedakan, mengorganisasikan, menghubungkan\n\n\nMengevaluasi\nMembuat penilaian berdasarkan kriteria\nmenilai, membandingkan, memprediksi kualitas\n\n\nMencipta\nMenyusun elemen menjadi sesuatu yang baru\nmerancang, merumuskan, menghasilkan\n\n\n\n\n\nKrathwohl (2002)."
   },
   {
-    "objectID": "slides/pertemuan3.html#tingkatan-ini-bukan-sekadar-label-kesulitan",
-    "href": "slides/pertemuan3.html#tingkatan-ini-bukan-sekadar-label-kesulitan",
+    "objectID": "slides/pertemuan3.html#tingkatan-ini-lebih-dari-sekadar-label-kesulitan",
+    "href": "slides/pertemuan3.html#tingkatan-ini-lebih-dari-sekadar-label-kesulitan",
     "title": "Taksonomi dan Tujuan Instruksional",
-    "section": "Tingkatan ini bukan sekadar label kesulitan",
-    "text": "Tingkatan ini bukan sekadar label kesulitan\n\nLevel yang lebih tinggi tidak selalu berarti soal yang “lebih sulit” secara umum, tetapi menuntut proses kognitif yang berbeda.\nItem mengingat bisa saja sulit (fakta yang jarang diketahui), dan item menganalisis bisa saja mudah (perbandingan yang sederhana).\nYang membedakan level adalah jenis proses mental yang dituntut, bukan tingkat kesulitannya."
+    "section": "Tingkatan ini lebih dari sekadar label kesulitan",
+    "text": "Tingkatan ini lebih dari sekadar label kesulitan\n\nLevel yang lebih tinggi tidak selalu berarti soal yang “lebih sulit” secara umum, tetapi menuntut proses kognitif yang berbeda.\nItem mengingat bisa saja sulit (fakta yang jarang diketahui), dan item menganalisis bisa saja mudah (perbandingan yang sederhana).\nYang membedakan level adalah jenis proses mental yang dituntut, bukan tingkat kesulitannya."
   },
   {
     "objectID": "slides/pertemuan3.html#empat-jenis-pengetahuan",
@@ -214,7 +214,7 @@
     "href": "slides/pertemuan3.html#tabel-dua-dimensi",
     "title": "Taksonomi dan Tujuan Instruksional",
     "section": "Tabel dua dimensi",
-    "text": "Tabel dua dimensi\nTaksonomi revisi menyilangkan dimensi proses kognitif dengan dimensi pengetahuan, menghasilkan tabel 6×4. Setiap sel adalah kombinasi yang mungkin diukur; tanda centang berikut menandai satu contoh kombinasi untuk tiap jenis pengetahuan:\n\n\n\n\n\n\n\n\n\n\n\n\n\nMengingat\nMemahami\nMenerapkan\nMenganalisis\nMengevaluasi\nMencipta\n\n\n\n\nFaktual\n✓\n\n\n\n\n\n\n\nKonseptual\n\n✓\n\n\n\n\n\n\nProsedural\n\n\n✓\n\n\n\n\n\nMetakognitif\n\n\n\n\n\n✓\n\n\n\n\n\n\n\n\n\n\nKaitan dengan blueprint\n\n\nPertemuan 2 menyebutkan bahwa blueprint menyilangkan domain isi dengan level kognitif. Tabel ini adalah alat yang dipakai untuk menentukan sel mana yang relevan diisi, dan berapa proporsi itemnya, sesuai konstruk yang diukur."
+    "text": "Tabel dua dimensi\nTaksonomi revisi menyilangkan dimensi proses kognitif dengan dimensi pengetahuan, menghasilkan tabel 6×4. Setiap sel adalah kombinasi yang mungkin diukur; tanda centang berikut menandai satu contoh kombinasi untuk tiap jenis pengetahuan:\n\n\n\n\n\n\n\n\n\n\n\n\n\nMengingat\nMemahami\nMenerapkan\nMenganalisis\nMengevaluasi\nMencipta\n\n\n\n\nFaktual\n✓\n\n\n\n\n\n\n\nKonseptual\n\n✓\n\n✓\n\n\n\n\nProsedural\n\n\n✓\n✓\n✓\n\n\n\nMetakognitif\n\n\n\n✓\n✓\n✓\n\n\n\n\n\n\n\n\n\n\nKaitan dengan blueprint\n\n\nPertemuan 2 menyebutkan bahwa blueprint menyilangkan domain isi dengan level kognitif. Tabel ini adalah alat yang dipakai untuk menentukan sel mana yang relevan diisi, dan berapa proporsi itemnya, sesuai konstruk yang diukur."
   },
   {
     "objectID": "slides/pertemuan3.html#komponen-abcd",
@@ -242,7 +242,7 @@
     "href": "slides/pertemuan3.html#ringkasan",
     "title": "Taksonomi dan Tujuan Instruksional",
     "section": "Ringkasan",
-    "text": "Ringkasan\n\nTaksonomi adalah sistem klasifikasi berjenjang; tujuan instruksional adalah pernyataan perilaku terukur yang menjadi target pembelajaran.\nTaksonomi Bloom (1956) memakai enam kategori berupa kata benda; revisi Anderson & Krathwohl (2001) mengubahnya menjadi kata kerja dan menukar urutan dua level tertinggi.\nRevisi ini menambahkan dimensi pengetahuan (faktual, konseptual, prosedural, metakognitif), membentuk tabel dua dimensi bersama proses kognitif.\nTabel dua dimensi ini adalah alat yang dipakai saat menyusun blueprint di Pertemuan 2 dan proyek Anda.\nTujuan instruksional yang terukur dirumuskan dengan kata kerja operasional (model ABCD, berakar dari Behavior-Condition-Degree Mager, 1962), bukan kata kerja yang menggambarkan keadaan internal."
+    "text": "Ringkasan\n\nTaksonomi adalah sistem klasifikasi berjenjang; tujuan instruksional adalah pernyataan perilaku terukur yang menjadi target pembelajaran.\nTaksonomi Bloom (1956) memakai enam kategori berupa kata benda; revisi Anderson dan Krathwohl (2001) mengubahnya menjadi kata kerja dan menukar urutan dua level tertinggi.\nRevisi ini menambahkan dimensi pengetahuan (faktual, konseptual, prosedural, metakognitif), membentuk tabel dua dimensi bersama proses kognitif.\nTabel dua dimensi ini adalah alat yang dipakai saat menyusun blueprint di Pertemuan 2 dan proyek Anda.\nTujuan instruksional yang terukur dirumuskan dengan kata kerja operasional (model ABCD, berakar dari Behavior-Condition-Degree Mager, 1962), bukan kata kerja yang menggambarkan keadaan internal peserta didik."
   },
   {
     "objectID": "slides/pertemuan3.html#untuk-pertemuan-4",
@@ -725,7 +725,7 @@
     "href": "slides/pertemuan2.html#outline",
     "title": "Tahap Penyusunan Tes Kognitif",
     "section": "Outline",
-    "text": "Outline\n\nUrutan pengerjaan: menulis item lebih dulu atau menyusun rencana lebih dulu?\n11 tahap, 4 fase penyusunan\nFase Perencanaan: definisi konstrak dan blueprint\nFase Pengembangan Item\nFase Uji Empiris\nFase Finalisasi\nSifat iteratif proses\nAktivitas: menilai proses penyusunan tes\n\n\n\nDisclosure penggunaan akal imitasi (AI)\nSaya menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk brainstorming materi, mencari referensi, dan melakukan troubleshooting kode quarto dan git. Saya bertanggung jawab penuh atas substansi dan penyajian presentasi ini."
+    "text": "Outline\n\nUrutan pengerjaan: menulis item lebih dulu atau menyusun rencana lebih dulu?\n11 tahap, 4 fase penyusunan\nFase Perencanaan: definisi konstrak dan blueprint\nFase Pengembangan Item\nFase Uji Empiris\nFase Finalisasi\nSifat iteratif proses\n\n\n\nDisclosure penggunaan akal imitasi (AI)\nSaya menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk brainstorming materi, mencari referensi, dan melakukan troubleshooting kode quarto dan git. Saya bertanggung jawab penuh atas substansi dan penyajian presentasi ini."
   },
   {
     "objectID": "slides/pertemuan2.html#kelompok-anda-baru-saja-mendapat-tugas",

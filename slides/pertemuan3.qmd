@@ -24,9 +24,9 @@ execute:
 * Dua rumusan tujuan pembelajaran
 * Definisi taksonomi dan tujuan instruksional
 * Taksonomi Bloom dan revisinya
-* Enam level proses kognitif
+* 6️⃣ level proses kognitif
 * Dimensi pengetahuan
-* Tabel dua dimensi dan kaitannya dengan blueprint
+* Tabel dua dimensi dan kaitannya dengan *blueprint*
 * Merumuskan tujuan instruksional
 * Kata kerja yang tidak dapat diamati
 * Aktivitas: mengklasifikasikan tujuan instruksional
@@ -38,7 +38,7 @@ execute:
 Saya menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk *brainstorming* materi, mencari referensi, dan melakukan *troubleshooting* kode `quarto` dan `git`. Saya bertanggung jawab penuh atas substansi dan penyajian presentasi ini.
 :::
 
-# Dua rumusan tujuan pembelajaran {background-color="#14497F" .center}
+# 2️⃣ rumusan tujuan pembelajaran {background-color="#14497F" .center}
 
 ## Bandingkan keduanya
 
@@ -49,8 +49,7 @@ Saya menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk *brainstorming* m
 
 . . .
 
-::: {.callout-note}
-#### Perbedaannya
+::: {.callout-note appearance="simple"}
 Rumusan pertama tidak menyebutkan perilaku yang bisa diamati. "Memahami" bisa berarti apa saja, dan tidak ada cara langsung untuk menilai apakah tujuan itu tercapai. Rumusan kedua menyebutkan perilaku spesifik yang bisa diukur dengan satu butir soal.
 :::
 
@@ -91,7 +90,7 @@ Taksonomi ini menjadi acuan standar dalam merancang tujuan pembelajaran dan tes 
 ## Revisi tahun 2001
 
 ::: {.incremental}
-* Anderson dan Krathwohl (2001) merevisi taksonomi ini bersama sekelompok peneliti pendidikan, kognisi, kurikulum, dan pengukuran.
+* [Anderson dan Krathwohl (2001)](https://books.google.de/books/about/A_Taxonomy_for_Learning_Teaching_and_Ass.html?hl=de&id=EMQlAQAAIAAJ&redir_esc=y) merevisi taksonomi ini bersama sekelompok peneliti pendidikan, kognisi, kurikulum, dan pengukuran.
 * [Krathwohl (2002)](https://www.jstor.org/stable/1477405) menuliskan ringkasan revisi ini, yang menjadi bacaan wajib pertemuan ini.
 * [Cek versi singkatnya di sini](libs/bloom_revised.pdf).
 :::
@@ -131,10 +130,10 @@ Taksonomi ini menjadi acuan standar dalam merancang tujuan pembelajaran dan tes 
 [Krathwohl (2002)](https://www.jstor.org/stable/1477405?seq=1).
 :::
 
-## Tingkatan ini bukan sekadar label kesulitan
+## Tingkatan ini lebih dari sekadar label kesulitan
 
 ::: {.incremental}
-* Level yang lebih tinggi tidak selalu berarti soal yang "lebih sulit" secara umum, tetapi menuntut proses kognitif yang berbeda.
+* Level yang lebih tinggi tidak selalu berarti soal yang "lebih sulit" secara umum, tetapi menuntut **proses kognitif yang berbeda**.
 * Item mengingat bisa saja sulit (fakta yang jarang diketahui), dan item menganalisis bisa saja mudah (perbandingan yang sederhana).
 * Yang membedakan level adalah **jenis proses mental** yang dituntut, bukan tingkat kesulitannya.
 :::
@@ -161,9 +160,9 @@ Taksonomi revisi menyilangkan dimensi proses kognitif dengan dimensi pengetahuan
 | | Mengingat | Memahami | Menerapkan | Menganalisis | Mengevaluasi | Mencipta |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|
 | **Faktual** | ✓ | | | | | |
-| **Konseptual** | | ✓ | | | | |
-| **Prosedural** | | | ✓ | | | |
-| **Metakognitif** | | | | | | ✓ |
+| **Konseptual** | | ✓ | | ✓ | | |
+| **Prosedural** | | | ✓ | ✓ | ✓ | |
+| **Metakognitif** | | | | ✓ | ✓ | ✓ |
 
 . . .
 
@@ -184,6 +183,8 @@ Mager (1962) mengusulkan rumusan tujuan instruksional dengan tiga komponen inti:
 | **Behavior** | Perilaku apa yang diharapkan, dalam kata kerja yang bisa diamati? | dapat menghitung |
 | **Condition** | Dalam kondisi/dengan alat bantu apa? | tanpa kalkulator, dalam waktu 2 menit |
 | **Degree** | Seberapa baik/berapa kriteria keberhasilannya? | dengan tingkat ketepatan minimal 80% |
+
+: {tbl-colwidths="[15,45,40]"}
 
 . . .
 
@@ -230,10 +231,10 @@ Klasifikasikan masing-masing rumusan berikut ke salah satu dari enam level prose
 
 ::: {.incremental}
 1. Taksonomi adalah sistem klasifikasi berjenjang; tujuan instruksional adalah pernyataan perilaku terukur yang menjadi target pembelajaran.
-2. Taksonomi Bloom (1956) memakai enam kategori berupa kata benda; revisi Anderson & Krathwohl (2001) mengubahnya menjadi kata kerja dan menukar urutan dua level tertinggi.
+2. Taksonomi Bloom (1956) memakai enam kategori berupa kata benda; revisi [Anderson dan Krathwohl (2001)](https://books.google.de/books/about/A_Taxonomy_for_Learning_Teaching_and_Ass.html?hl=de&id=EMQlAQAAIAAJ&redir_esc=y) mengubahnya menjadi kata kerja dan menukar urutan dua level tertinggi.
 3. Revisi ini menambahkan dimensi pengetahuan (faktual, konseptual, prosedural, metakognitif), membentuk tabel dua dimensi bersama proses kognitif.
 4. Tabel dua dimensi ini adalah alat yang dipakai saat menyusun *blueprint* di Pertemuan 2 dan proyek Anda.
-5. Tujuan instruksional yang terukur dirumuskan dengan kata kerja operasional (model ABCD, berakar dari Behavior-Condition-Degree Mager, 1962), bukan kata kerja yang menggambarkan keadaan internal.
+5. Tujuan instruksional yang terukur dirumuskan dengan kata kerja operasional (model ABCD, berakar dari Behavior-Condition-Degree Mager, 1962), bukan kata kerja yang menggambarkan keadaan internal peserta didik.
 :::
 
 ## Untuk Pertemuan 4

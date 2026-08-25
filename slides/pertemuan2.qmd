@@ -28,7 +28,6 @@ execute:
 * Fase Uji Empiris
 * Fase Finalisasi
 * Sifat iteratif proses
-* Aktivitas: menilai proses penyusunan tes
 :::
 
 ::: aside
