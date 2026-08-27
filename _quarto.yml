@@ -16,6 +16,34 @@ website:
         text: "oleh Rizqy Amelia Zein"
     right:
       - text: "Materi"
+        menu:
+          - text: "Pertemuan 1: Pengantar: Pengertian dan Jenis Tes Kognitif"
+            href: slides/pertemuan1.qmd
+          - text: "Pertemuan 2: Tahap Penyusunan Tes Kognitif"
+            href: slides/pertemuan2.qmd
+          - text: "Pertemuan 3: Taksonomi dan Tujuan Instruksional"
+            href: slides/pertemuan3.qmd
+          - text: "Pertemuan 4: Pengertian dan Tujuan Tes Prestasi"
+            href: slides/pertemuan4.qmd
+          - text: "Pertemuan 5: Tes Potensi"
+            href: slides/pertemuan5.qmd
+          - text: "Pertemuan 6: Tes Intelegensi"
+            href: slides/pertemuan6.qmd
+          - text: "Pertemuan 7: Menulis Item Tes Prestasi dan Potensi"
+            href: slides/pertemuan7.qmd
+          - text: "Pertemuan 9: Menulis Item HOTS"
+            href: slides/pertemuan9.qmd
+          - text: "Pertemuan 15: Isu Bias Budaya dalam Penyusunan Tes Kognitif"
+            href: slides/pertemuan15.qmd
+    tools:
+      - icon: github
+        menu: 
+          - text: "Source Code"
+            href: https://github.com/rameliaz/ptk
+          - text: "Report Issues"
+            href: https://github.com/rameliaz/ptk/issues
+      - icon: house-heart
+        url: https://rameliaz.github.io/            
       - icon: envelope
         href: "mailto:amelia.zein@psikologi.unair.ac.id"
   search:
