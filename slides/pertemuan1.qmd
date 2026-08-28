@@ -80,8 +80,7 @@ Rencana lengkap ada di **RPS** dan **Kontrak Kuliah** (akan dibagikan terpisah d
 
 . . .
 
-::: {.callout-warning}
-#### Ini bukan soal istilah semata
+::: {.callout-warning appearance="simple"}
 Ketiga situasi ini akan terus muncul sepanjang mata kuliah ini dalam bentuk **tes prestasi** (Pertemuan 4), **tes potensi** (Pertemuan 5), dan **tes inteligensi** (Pertemuan 6). 
 :::
 
@@ -260,7 +259,7 @@ Hasil tes Angkatan Darat US kemudian **disalahgunakan** oleh [Carl Brigham (1923
 
 ::: {.callout-note}
 #### Kenapa anekdot SAT ini relevan
-Ini bukti nyata bahwa membedakan "tes prestasi" dari "tes bakat/potensi" bukan cuma latihan definisi di kelas. Bahkan tes berskala nasional pun bisa salah label selama puluhan tahun.
+Ini bukti bahwa membedakan "tes prestasi" dari "tes bakat/potensi" bukan sekadar latihan definisi di kelas. Bahkan tes berskala nasional pun bisa salah label selama puluhan tahun.
 :::
 
 ::: aside
@@ -317,7 +316,7 @@ Sebagian besar instrumen di atas adalah **tes psikologi berlisensi komersial dan
 
 ## Ilustrasi: seperti apa butir performansi maksimal?
 
-Contoh butir non-verbal **orisinal** (bukan dari tes manapun) — pola macam apa yang mengisi sel bertanda tanya?
+Contoh butir non-verbal **orisinal** (bukan dari tes manapun): pola macam apa yang mengisi sel bertanda tanya?
 
 | | | |
 |:-:|:-:|:-:|

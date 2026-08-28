@@ -72,7 +72,7 @@ Menulis item sering dianggap sebagai aktivitas yang terpenting, sedangkan defini
 
 ::: {.callout-note}
 #### Yang kita pakai di mata kuliah ini
-Kita memakai sintesis sebelas tahap yang dikelompokkan jadi empat fase besar. Ini **bukan** satu-satunya cara yang "benar" — tapi ini yang akan memandu proyek kelompok Anda dari Pertemuan 9 sampai 14.
+Kita memakai sintesis sebelas tahap yang dikelompokkan jadi empat fase besar. Ini **bukan** satu-satunya cara yang "benar", tetapi ini yang akan memandu proyek kelompok Anda dari Pertemuan 9 sampai 14.
 :::
 
 # 1️⃣1️⃣ tahap, 4️⃣ fase {background-color="#14497F" .center}
@@ -158,7 +158,7 @@ Penulis item sering tidak menyadari masalah pada item yang ditulisnya sendiri, m
 
 ::: {.callout-note}
 #### Fungsi tahap ini
-Tiga tahap ini adalah bagian proses di mana kualitas tes diuji berdasarkan data, bukan hanya penilaian ahli. Bagian ini dibahas lebih lanjut di Pertemuan 12–13.
+Tiga tahap ini adalah bagian proses di mana kualitas tes diuji berdasarkan data empirik. Bagian ini dibahas lebih lanjut di Pertemuan 12–13.
 :::
 
 # Fase D: Finalisasi {background-color="#14497F" .center}
@@ -184,7 +184,7 @@ Tiga tahap ini adalah bagian proses di mana kualitas tes diuji berdasarkan data,
 ::: {.incremental}
 * Sebelas tahap ini digambarkan secara linear, tetapi dalam praktiknya sering perlu kembali ke tahap sebelumnya.
 * Analisis butir menunjukkan item timpang di satu sub-domain → kembali ke **Tahap 5** untuk menulis item pengganti, kadang kembali ke **Tahap 4** untuk merevisi *blueprint*-nya.
-* Reliabilitas ternyata terlalu rendah → bisa berarti kembali ke penulisan item, bukan sekadar menambah jumlah item.
+* Reliabilitas ternyata terlalu rendah → bisa berarti kembali ke penulisan item.
 :::
 
 . . .

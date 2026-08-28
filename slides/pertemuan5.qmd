@@ -167,7 +167,7 @@ A) 15　B) 16　C) 17　D) 18
 
 ::: {.callout-tip}
 #### Kunci
-Jawaban **B (16)** — pola bertambah 3 setiap sukunya. Contoh ini dibuat khusus untuk ilustrasi, bukan diambil dari tes manapun, mengikuti prinsip yang sama seperti pada Pertemuan 1.
+Jawaban **B (16)** — pola bertambah 3 setiap sukunya. Contoh ini dibuat khusus untuk ilustrasi, tidak diambil dari tes manapun, mengikuti prinsip yang sama seperti pada Pertemuan 1.
 :::
 
 ## Aktivitas: mengklasifikasikan butir TPA

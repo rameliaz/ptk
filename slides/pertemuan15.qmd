@@ -71,7 +71,7 @@ McCallum (2018).
 
 ::: {.callout-important}
 #### Poin kunci hari ini
-Tes bisa bermuatan budaya tinggi **tanpa** terbukti bias secara statistik, dan sebaliknya bisa bebas muatan budaya namun tetap bias. Kedua hal ini adalah dimensi yang berbeda, bukan satu spektrum yang sama.
+Tes bisa bermuatan budaya tinggi **tanpa** terbukti bias secara statistik, dan sebaliknya bisa bebas muatan budaya namun tetap bias. Kedua hal ini adalah dimensi yang berbeda.
 :::
 
 Sebagian besar tes inteligensi dan kemampuan kognitif utama, ketika diuji ulang, tidak terbukti bias secara statistik dalam pengertian ini, tetapi ini tidak berarti tes tersebut otomatis bebas muatan budaya atau adil ketika dipakai perbandingan lintas kelompok.
@@ -110,7 +110,7 @@ McCallum (2018).
 
 ::: {.callout-note}
 #### Catatan
-DIF adalah indikator statistik, bukan otomatis bukti "bias". Butir yang terdeteksi DIF tetap perlu ditelaah secara kualitatif untuk memastikan penyebabnya benar-benar konten yang tidak adil, bukan sekadar perbedaan kemampuan riil antar kelompok.
+DIF adalah indikator statistik, tetapi bukan otomatis bukti "bias". Butir yang terdeteksi DIF tetap perlu ditelaah secara kualitatif untuk memastikan penyebabnya benar-benar konten yang tidak adil, bukan sekadar perbedaan kemampuan riil antar kelompok.
 :::
 
 ::: aside
@@ -143,7 +143,7 @@ Maller & Pei (2018), dalam McCallum (2018).
 
 ::: {.callout-important}
 #### Asumsi yang sering tidak terpenuhi
-Saat membandingkan skor peserta dengan norma, kita mengasumsikan tingkat akulturasi peserta setara — bukan identik — dengan sampel standardisasi. Ketika latar belakang pengalaman peserta berbeda jauh dari sampel norma, penggunaan norma itu untuk menilai atau memprediksi performanya bisa jadi tidak tepat.
+Saat membandingkan skor peserta dengan norma, kita mengasumsikan tingkat akulturasi peserta setara dengan sampel standardisasi. Ketika latar belakang pengalaman peserta berbeda jauh dari sampel norma, penggunaan norma itu untuk menilai atau memprediksi performanya bisa jadi tidak tepat.
 :::
 
 ::: aside
@@ -182,7 +182,7 @@ Sotelo-Dynega dkk. (2011), dalam Ortiz dkk. (2018).
 ::: {.incremental}
 * Bahkan tes yang diklaim "100% non-verbal" tetap membutuhkan komunikasi — minimal untuk menjelaskan kapan mulai, kapan berhenti, dan apa yang dianggap jawaban benar, biasanya lewat gestur yang juga harus dipelajari peserta.
 * Stimulus visual (gambar benda, simbol) tetap bisa lebih familiar bagi satu budaya dibanding budaya lain.
-* Istilah yang lebih akurat: tes ***language-reduced***, bukan benar-benar bebas bahasa atau bebas budaya.
+* Istilah yang lebih akurat: tes ***language-reduced***, sehingga tes-tes ini **tidak benar-benar bebas bahasa atau bebas budaya**.
 :::
 
 ::: aside
@@ -219,8 +219,8 @@ Flanagan dkk. (2007, 2013), dalam McCallum (2018).
 ## Manfaat praktisnya
 
 ::: {.callout-tip}
-#### Bukan menghilangkan, tapi mengelola
-Kerangka ini membantu praktisi memilih subtes yang tuntutan budaya dan bahasanya paling sesuai dengan latar belakang peserta. Ini bukan cara menghilangkan pengaruh budaya sepenuhnya — karena menurut kerangka ini, semua tes pasti bermuatan budaya sampai taraf tertentu — melainkan cara mengelolanya secara sadar saat memilih dan menafsirkan instrumen.
+#### Mengelola bias dalam tes, bukan menghilangkannya sama sekali
+Kerangka ini membantu praktisi memilih subtes yang tuntutan budaya dan bahasanya paling sesuai dengan latar belakang peserta. Ini bukan cara menghilangkan pengaruh budaya sepenuhnya, karena menurut kerangka ini, semua tes pasti bermuatan budaya sampai taraf tertentu. Tetapi, yang bisa diusahakan adalah mengelolanya secara sadar saat memilih instrumen dan menafsirkan skornya.
 :::
 
 # Implikasi untuk konteks Indonesia {background-color="#14497F" .center}
@@ -229,7 +229,7 @@ Kerangka ini membantu praktisi memilih subtes yang tuntutan budaya dan bahasanya
 
 ::: {.incremental}
 * Sebagian besar tes kognitif yang dipakai di Indonesia (mis. Wechsler, CFIT, *Progressive Matrices*) awalnya dikembangkan dan dinormakan di luar Indonesia (Pertemuan 6).
-* Adaptasi tes lintas budaya idealnya lebih dari sekadar menerjemahkan kata per kata — mencakup uji ulang properti psikometri pada sampel lokal (Pertemuan 2), bukan hanya alih bahasa.
+* Adaptasi tes lintas budaya idealnya lebih dari sekadar menerjemahkan kata per kata, tetapi mencakup uji ulang properti psikometri pada sampel lokal (Pertemuan 2), bukan hanya sekadar alih bahasa.
 * Indonesia sendiri sangat beragam secara bahasa dan budaya antar-daerah; satu norma nasional tunggal berisiko menyembunyikan variasi ini.
 :::
 
@@ -268,7 +268,7 @@ Ini terutama kasus pelanggaran **asumsi keterbandingan** dan **muatan budaya**, 
 2. DIF adalah metode utama mendeteksi bias di level butir; invariansi faktor dan bias prediksi menguji bias di level skor total.
 3. Empat pendekatan menguji individu lintas budaya — modifikasi, penerjemah, bahasa asli, non-verbal — masing-masing punya keterbatasan; tidak ada yang sepenuhnya bebas masalah validitas.
 4. Tes non-verbal mengurangi, bukan menghilangkan, muatan bahasa dan budaya, sehingga lebih tepat disebut *language-reduced*.
-5. Kerangka seperti *Culture-Language Test Classification* membantu praktisi mengelola muatan budaya secara sadar, bukan berpura-pura ia tidak ada.
+5. Kerangka seperti *Culture-Language Test Classification* membantu praktisi mengelola muatan budaya dengan lebih baik.
 6. Bagi praktisi di Indonesia, isu ini relevan langsung dengan tes-tes adaptasi luar negeri yang dipakai sehari-hari.
 :::
 

@@ -90,7 +90,7 @@ Saya menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk *brainstorming* m
 
 ::: {.incremental}
 * Pastikan hanya ada **satu** jawaban yang benar tanpa ambiguitas.
-* Buat *distractors* yang masuk akal. Idealnya berdasarkan kesalahan berpikir yang umum terjadi pada topik tersebut, bukan pilihan yang jelas-jelas salah.
+* Buat *distractors* yang masuk akal. Idealnya berdasarkan kesalahan berpikir yang umum terjadi pada topik tersebut, bukan pilihan yang jelas-jelas salah/tidak mungkin benar.
 * Samakan panjang dan struktur tata bahasa semua pilihan; pilihan yang jelas lebih panjang atau lebih detail sering menjadi petunjuk jawaban benar.
 * Hindari kata mutlak seperti "selalu" atau "tidak pernah" pada distractor, karena cenderung mudah ditebak sebagai jawaban salah.
 :::

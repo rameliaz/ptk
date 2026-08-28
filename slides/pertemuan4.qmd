@@ -83,7 +83,7 @@ Azwar (1987); Anastasi & Urbina (1997).
 
 | Jenis | Fungsi | Ciri item |
 |---|---|---|
-| **Placement** | Menentukan kesiapan mengikuti suatu program | Item mudah, mencakup prasyarat program |
+| ***Placement*** | Menentukan kesiapan mengikuti suatu program | Item mudah, mencakup prasyarat program |
 | **Formatif** | Memberikan umpan balik selama proses pembelajaran berlangsung | Disesuaikan dengan tiap unit pengajaran |
 | **Diagnostik** | Mencari sumber kesulitan belajar | Item mudah, difokuskan pada sumber kesulitan yang umum terjadi |
 | **Sumatif** | Menentukan peringkat atau kelulusan pada akhir program | Rentang tingkat kesulitan luas, mewakili keseluruhan materi |
@@ -115,7 +115,7 @@ Diadaptasi dari tradisi evaluasi formatif dan sumatif ([Bloom, Hastings, & Madau
 Diadaptasi dari Azwar (1987).
 :::
 
-# Dari tahap umum ke tahap khusus {background-color="#14497F" .center}
+# Tahapan penyusunan tes prestasi {background-color="#14497F" .center}
 
 ## Menerapkan tahapan Pertemuan 2 pada tes prestasi
 

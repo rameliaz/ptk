@@ -186,10 +186,10 @@ Mager (1962) mengusulkan rumusan tujuan instruksional dengan tiga komponen inti:
 
 : {tbl-colwidths="[15,45,40]"}
 
-. . .
+## Komponen ABCD
 
 ::: {.callout-note}
-#### Contoh gabungan
+#### Contoh tujuan instruksional
 *"Mahasiswa semester 5 (A) dapat menghitung hasil penjumlahan dua pecahan berpenyebut berbeda (B) tanpa kalkulator (C) dengan tingkat ketepatan minimal 80% (D)."*
 :::
 
@@ -224,7 +224,7 @@ Klasifikasikan masing-masing rumusan berikut ke salah satu dari enam level prose
 
 ::: {.callout-tip}
 #### Kunci
-(1) Mengingat — memanggil kembali informasi. (2) Menganalisis — meskipun "membandingkan" juga muncul sebagai contoh kata kerja di tabel Memahami dan Mengevaluasi, proses yang dituntut di sini (membedah dua konsep berdasarkan kriteria tertentu) lebih tepat masuk Menganalisis. Kata kerja yang sama bisa berada di level berbeda, tergantung proses kognitif yang sebenarnya dituntut — bukan sekadar kata kerjanya. (3) Mencipta — menyusun elemen (proporsi, item, format) menjadi produk baru.
+(1) Mengingat — memanggil kembali informasi. (2) Menganalisis — meskipun "membandingkan" juga muncul sebagai contoh kata kerja di tabel Memahami dan Mengevaluasi, proses yang dituntut di sini (membedah dua konsep berdasarkan kriteria tertentu) lebih tepat masuk Menganalisis. Kata kerja yang sama bisa berada di level berbeda, tergantung proses kognitif yang sebenarnya dituntut. (3) Mencipta — menyusun elemen (proporsi, item, format) menjadi produk baru.
 :::
 
 ## Ringkasan

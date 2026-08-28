@@ -56,7 +56,7 @@ Item yang hanya mengukur level Mengingat menuntut peserta memanggil kembali info
 
 ::: {.callout-tip}
 #### Konsekuensi praktis
-Semakin tinggi level kognitif yang diukur, semakin dituntut kemampuan berpikir kompleks dari peserta — bukan sekadar semakin sulit soalnya.
+Semakin tinggi level kognitif yang diukur, semakin dituntut kemampuan berpikir kompleks dari peserta, jadi **lebih dari sekadar** semakin tinggi tingkat kesulitan soalnya.
 :::
 
 # Definisi dan ciri item HOTS {background-color="#14497F" .center}
@@ -117,9 +117,8 @@ A) Data penjualan es krim kurang akurat　B) Kedua hal itu kemungkinan sama-sama
 
 . . .
 
-::: {.callout-tip}
-#### Kunci
-**B** — korelasi antara dua variabel tidak membuktikan salah satu menyebabkan yang lain; keduanya bisa dijelaskan oleh variabel ketiga (musim panas). Menjawab ini menuntut analisis hubungan sebab-akibat, bukan sekadar mengingat definisi korelasi.
+::: {.callout-tip appearance="simple"}
+**B** — korelasi antara dua variabel tidak membuktikan salah satu menyebabkan yang lain; keduanya bisa dijelaskan oleh variabel ketiga (musim panas). Menjawab ini menuntut analisis hubungan sebab-akibat.
 :::
 
 # Menulis item level Mengevaluasi {background-color="#14497F" .center}
@@ -171,12 +170,11 @@ Taksonomi asli Bloom dkk. (1956) menyebut level ini Sintesis; taksonomi revisi m
 
 ## Keterbatasan pilihan ganda untuk level ini
 
-::: {.callout-important}
-#### Catatan jujur
-Item pilihan ganda kurang cocok untuk mengukur Mencipta secara murni, karena level ini menekankan kemampuan peserta menghasilkan ide orisinal — bukan memilih dari opsi yang sudah disediakan. Dalam praktiknya, level ini lebih sering diukur lewat esai, tugas otentik, atau proyek dibanding tes obyektif.
+::: {.callout-important appearance="simple"}
+Item pilihan ganda kurang cocok untuk mengukur Mencipta secara murni, karena level ini menekankan kemampuan peserta menghasilkan ide orisinal. Dalam praktiknya, level ini lebih sering diukur lewat esai atau *project-based assessment* dibanding tes obyektif.
 :::
 
-Untuk tes yang harus tetap terstandardisasi dan objektif skornya (seperti tes potensi), pendekatan yang lebih realistis adalah meminta peserta **mengenali** hasil sintesis terbaik dari beberapa opsi yang disediakan, bukan memproduksinya secara bebas.
+Untuk tes yang harus tetap terstandardisasi dan objektif skornya (seperti tes potensi), pendekatan yang lebih realistis adalah meminta peserta **mengenali** hasil sintesis terbaik dari beberapa opsi yang disediakan.
 
 # HOTS pada tes prestasi vs. tes potensi {background-color="#14497F" .center}
 
@@ -203,7 +201,7 @@ Tes kognitif yang Anda susun untuk proyek akhir (Pertemuan 14) akan lebih kuat v
 
 ::: {.callout-note}
 #### Catatan
-Prinsip menulis *stem* dan *options* dari Pertemuan 7 — kalimat positif, satu ide inti, panjang pilihan yang setara — tetap berlaku penuh untuk item HOTS. Level kognitif yang lebih tinggi bukan alasan untuk mengabaikan prinsip dasar ini.
+Prinsip menulis *stem* dan *options* dari Pertemuan 7 — kalimat positif, satu ide inti, panjang pilihan yang setara juga tetap berlaku penuh untuk item HOTS. Level kognitif yang lebih tinggi bukan alasan untuk mengabaikan prinsip dasar ini.
 :::
 
 ## Aktivitas: menelaah butir HOTS
@@ -222,18 +220,18 @@ Diskusikan dengan teman sebangku: apakah item ini benar-benar mengukur level Men
 
 ::: {.callout-tip}
 #### Kunci
-Bukan — jawaban (B) bisa ditemukan dengan mencocokkan kalimat pada stimulus secara langsung, tanpa perlu memproses atau menghubungkan informasi apa pun. Ini contoh **HOTS semu**: stimulus terlihat seperti bacaan analitis, tetapi proses kognitif yang dituntut tetap Mengingat.
+Bukan — jawaban (B) bisa ditemukan dengan mencocokkan kalimat pada stimulus secara langsung, tanpa perlu memproses atau menghubungkan informasi apa pun. Ini contoh **HOTS semu**: stimulus terlihat seperti seolah-olah membutuhkan keterampilan analisis, tetapi proses kognitif yang dituntut tetap Mengingat.
 :::
 
 ## Ringkasan
 
 ::: {.incremental}
 1. HOTS mencakup tiga level tertinggi taksonomi Bloom revisi: Menganalisis, Mengevaluasi, dan Mencipta.
-2. Item HOTS yang baik punya stimulus dan konteks yang belum pernah dijumpai peserta persis dalam bentuk yang sama — bukan sekadar stimulus yang panjang.
+2. Item HOTS yang baik punya stimulus dan konteks yang belum pernah dijumpai peserta persis dalam bentuk yang sama.
 3. Sub-kategori taksonomi asli Bloom dkk. (1956) — analisis unsur/hubungan/prinsip pengorganisasian, kriteria evaluasi internal/eksternal, tiga bentuk produk sintesis — tetap berguna sebagai panduan praktis menulis item.
-4. Mencipta secara murni sulit diukur dengan pilihan ganda; tes potensi biasanya mendekatinya lewat item pengenalan pola, bukan produksi bebas.
+4. Mencipta secara murni sulit diukur dengan pilihan ganda; tes potensi biasanya mendekatinya lewat item pengenalan pola.
 5. Item tes potensi cenderung otomatis berada di level HOTS; item tes prestasi perlu sengaja dinaikkan levelnya dari TIK yang ada.
-6. Waspadai HOTS semu — stimulus rumit yang jawabannya tetap bisa ditemukan lewat mengingat, bukan menganalisis.
+6. Waspadai HOTS semu — stimulus rumit yang jawabannya tetap bisa ditemukan lewat mengingat.
 :::
 
 ## Untuk Pertemuan 10
