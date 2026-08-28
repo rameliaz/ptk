@@ -8,11 +8,6 @@ Semester Gasal 2026/2027 — 3 SKS (PSA 305).
 **Dosen pengampu:** Dr. Rizqy Amelia Zein (Pertemuan 1–7) · Dr. Endah Mastuti, M.Psi. (Pertemuan 9–15)
 **PJMK/Penanggung jawab:** Dr. Fitri Andriani, M.Si., Psikolog
 
-::: {.callout-warning collapse="true"}
-#### *Work in Progress* 👷‍♀️
-Materi mata kuliah ini sedang disusun secara bertahap. Slide pertemuan yang sudah tersedia bisa diakses lewat menu **Materi** di atas atau lewat tabel [Rencana Pertemuan](#rencana-pertemuan) di bawah. Jadwal Pertemuan 8–16 masih ditentukan lebih lanjut.
-:::
-
 ## Deskripsi Mata Kuliah
 
 Mata kuliah ini didesain untuk membekali mahasiswa kemampuan menerapkan teori psikometri melalui kegiatan penyusunan tes kognitif. Mahasiswa dibimbing untuk menentukan spesifikasi item, menyusun *blueprint*, menulis item, melaksanakan uji coba, hingga menganalisis hasilnya. Mahasiswa akan berpraktik menyusun tes kognitif sesuai tahapan baku serta menyusun buku manual untuk tes yang dihasilkan.
