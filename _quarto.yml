@@ -9,14 +9,16 @@ project:
     
 website:
   title: "Penyusunan Tes Kognitif"
-  navbar:
-    left:
-      - href: https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/
-        icon: house
-        text: "oleh Rizqy Amelia Zein"
-    right:
-      - text: "Materi"
-        menu:
+  repo-url: https://github.com/rameliaz/ptk
+  repo-actions: [edit, source, issue]  
+  repo-branch: master  
+  sidebar:
+    style: docked
+    contents:
+      - text: "Beranda"
+        href: index.qmd
+      - section: "Materi"
+        contents:
           - text: "Pertemuan 1: Pengantar: Pengertian dan Jenis Tes Kognitif"
             href: slides/pertemuan1.qmd
           - text: "Pertemuan 2: Tahap Penyusunan Tes Kognitif"
@@ -35,6 +37,11 @@ website:
             href: slides/pertemuan9.qmd
           - text: "Pertemuan 15: Isu Bias Budaya dalam Penyusunan Tes Kognitif"
             href: slides/pertemuan15.qmd
+  navbar:
+    left:
+      - href: https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/
+        icon: house-heart
+        text: "oleh Rizqy Amelia Zein"
     tools:
       - icon: github
         menu: 
