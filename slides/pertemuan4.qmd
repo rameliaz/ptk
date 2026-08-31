@@ -25,10 +25,10 @@ execute:
 * Definisi dan tujuan tes prestasi
 * Empat jenis tes prestasi berdasarkan fungsi
 * Prinsip dasar penyusunan tes prestasi
-* Dari tahap umum ke tahap khusus tes prestasi
+* Tahapan penyusunan tes prestasi 
 * TIU dan TIK
 * Tabel spesifikasi tes prestasi
-* Bentuk item: objektif atau uraian
+* Bentuk item: objektif atau uraian (esai)
 * Aktivitas: mengidentifikasi jenis tes prestasi
 :::
 
@@ -40,7 +40,7 @@ Saya menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk *brainstorming* m
 
 # Tes prestasi dalam kehidupan sehari-hari {background-color="#14497F" .center}
 
-## Contoh yang sudah Anda kenal
+## Beberapa contoh yang Anda sudah familiar
 
 ::: {.incremental}
 * Ulangan harian dan ujian akhir semester di sekolah
@@ -51,7 +51,7 @@ Saya menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk *brainstorming* m
 
 . . .
 
-Semua ini termasuk **tes prestasi** karena mengukur apa yang sudah dipelajari atau dikuasai seseorang, sesuai definisi yang diperkenalkan di Pertemuan 1.
+Semua tes di atas termasuk **tes prestasi** karena mengukur apa yang sudah dipelajari atau dikuasai seseorang, sesuai definisi yang diperkenalkan di Pertemuan 1.
 
 # Definisi dan tujuan {background-color="#14497F" .center}
 
@@ -79,7 +79,7 @@ Azwar (1987); Anastasi & Urbina (1997).
 
 # Empat jenis tes prestasi berdasarkan fungsi {background-color="#14497F" .center}
 
-## Placement, formatif, diagnostik, sumatif
+## *Placement*, formatif, diagnostik, sumatif
 
 | Jenis | Fungsi | Ciri item |
 |---|---|---|
@@ -120,9 +120,9 @@ Diadaptasi dari Azwar (1987).
 ## Menerapkan tahapan Pertemuan 2 pada tes prestasi
 
 ::: {.incremental}
-* Pertemuan 2 membahas sebelas tahap penyusunan tes secara umum. Untuk tes prestasi, dua tahap awal (identifikasi tujuan, definisi konstrak) punya bentuk yang lebih spesifik.
-* **Tahap 1 (tujuan tes)** — untuk tes prestasi, berarti menentukan salah satu dari empat jenis: placement, formatif, diagnostik, atau sumatif.
-* **Tahap 2 (definisi konstrak)** — untuk tes prestasi, berarti merumuskan **Tujuan Instruksional Umum (TIU)** dan **Tujuan Instruksional Khusus (TIK)** dari materi yang diukur.
+* Pertemuan 2 membahas sebelas tahap penyusunan tes secara umum. Untuk tes prestasi, dua tahap awal (identifikasi tujuan, definisi konstruk) punya bentuk yang lebih spesifik.
+* **Tahap 1 (tujuan tes)** — untuk tes prestasi, berarti menentukan salah satu dari empat jenis: *placement*, formatif, diagnostik, atau sumatif.
+* **Tahap 2 (definisi konstruk)** — untuk tes prestasi, berarti merumuskan **Tujuan Instruksional Umum (TIU)** dan **Tujuan Instruksional Khusus (TIK)** dari materi yang diukur.
 :::
 
 # TIU dan TIK {background-color="#14497F" .center}
@@ -131,7 +131,7 @@ Diadaptasi dari Azwar (1987).
 
 ::: {.incremental}
 * **TIU (Tujuan Instruksional Umum)** — cakupan kompetensi yang luas, misalnya *"mahasiswa memahami prinsip-prinsip tes prestasi"*.
-* **TIK (Tujuan Instruksional Khusus)** — rincian TIU ke dalam perilaku yang dapat diamati dan diukur, memakai kata kerja operasional dari taksonomi yang dibahas di Pertemuan 3.
+* **TIK (Tujuan Instruksional Khusus)** — rincian TIU ke dalam perilaku yang dapat diamati dan diukur, memakai kata kerja operasional dari taksonomi yang sudah dibahas di Pertemuan 3.
 :::
 
 . . .
@@ -221,7 +221,7 @@ Untuk tiap situasi berikut, tentukan apakah tesnya berfungsi sebagai placement, 
 
 ::: {.callout-tip}
 #### Selanjutnya: tes potensi
-Pertemuan 5 membahas tes potensi — jenis tes kognitif kedua dari Pertemuan 1, yang mengukur kapasitas untuk mempelajari sesuatu di masa depan, bukan apa yang sudah dipelajari.
+Pertemuan 5 membahas tes potensi, yaitu jenis tes kognitif kedua dari Pertemuan 1, yang mengukur kapasitas untuk mempelajari sesuatu di masa depan, bukan apa yang sudah dipelajari.
 :::
 
 ## Ada pertanyaan❓
