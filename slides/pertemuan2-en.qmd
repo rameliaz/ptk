@@ -1,0 +1,239 @@
+---
+title: "Stages of Cognitive Test Development"
+subtitle: "Cognitive Test Development"
+author: "Rizqy Amelia Zein"
+institute:
+  - "[_Departemen Psikologi, Universitas Airlangga_](https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/)"
+date: today
+format:
+  unair-revealjs:
+    slide-number: true
+    progress: true
+    transition: slide
+    center: false
+    css: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css
+    chalkboard: true
+execute:
+  eval: false
+  echo: true
+---
+
+## _Outline_
+
+::: {.incremental}
+* Order of work: write items first, or plan first?
+* 11 stages, 4 phases of development
+* Planning Phase: construct definition and blueprint
+* Item Development Phase
+* Empirical Testing Phase
+* Finalization Phase
+* The iterative nature of the process
+:::
+
+::: aside
+***Disclosure* on the use of artificial intelligence (AI)**
+
+I used Claude Code (Opus 5 and Sonnet 5 models) to *brainstorm* material, search for references, and *troubleshoot* `quarto` and `git` code. I take full responsibility for the substance and delivery of this presentation.
+:::
+
+# The order of writing items {background-color="#14497F" .center}
+
+## Your group has just been given an assignment
+
+Develop a numerical aptitude test for job-training applicants. What should you do **first**?
+
+. . .
+
+::: {.incremental}
+* Most people start by writing arithmetic questions, without first drafting a construct definition or *blueprint*.
+* Within an hour, they've usually collected around 20 items.
+* The problem only becomes visible once those items are tried out: the domain represented is unclear, the proportions are unbalanced, and the content validity is hard to defend.
+:::
+
+. . .
+
+::: {.callout-warning}
+#### The consequence of this order
+Writing items is often treated as the most important activity, while defining the construct and drafting the *blueprint* are seen as mere administrative steps. But this order determines whether the items you write rest on a defensible foundation.
+:::
+
+# There's no fixed recipe {background-color="#14497F" .center}
+
+## Many versions exist, but the logic is the same
+
+::: {.incremental}
+* [Kline (1986)](https://psycnet.apa.org/record/1987-97491-000) laid out his own set of stages.
+* Azwar (2019) has a slightly different order.
+* [Downing (2006)](https://fatihegitim.wordpress.com/wp-content/uploads/2014/03/hndb-t-devt.pdf), in the *Handbook of Test Development*, spells out **twelve steps** for large-scale testing.
+* The details differ, but the **overall logic is the same**: plan first what and how you want to measure, develop the items, test them empirically, then finalize.
+:::
+
+. . .
+
+::: {.callout-note}
+#### What we use in this course
+We use a synthesis of eleven stages grouped into four broad phases. This is **not** the only "correct" way to do it, but it's what will guide your group project from Meeting 9 through Meeting 14.
+:::
+
+# 1️⃣1️⃣ stages, 4️⃣ phases {background-color="#14497F" .center}
+
+## The big picture
+
+| Phase | Stages | In this course |
+|---|---|:-:|
+| **A. Planning** | 1–4 | Meetings 9–10 |
+| **B. Item Development** | 5–6 | Meeting 11 |
+| **C. Empirical Testing** | 7–9 | Meetings 12–13 |
+| **D. Finalization** | 10–11 | Meeting 14 |
+
+::: aside
+Adapted and synthesized from [Kline (1986)](https://psycnet.apa.org/record/1987-97491-000), Azwar (2019), and [Downing (2006)](https://fatihegitim.wordpress.com/wp-content/uploads/2014/03/hndb-t-devt.pdf).
+:::
+
+# Phase A: Planning {background-color="#14497F" .center}
+
+## Stages 1–2: purpose and construct
+
+::: {.incremental}
+1. **Identify the purpose and scope of the construct being measured** — what will this test be used for, and with what population?
+2. **Define the construct** — what exactly is being measured, formulated operationally based on theory.
+:::
+
+. . .
+
+::: {.callout-important}
+#### A stage that's often skipped
+Many people tend to skip Stage 2 because it seems "obvious." Everyone feels they know what "numerical ability" means. But without an explicit operational definition, there's no basis for deciding which items **belong** and which **don't belong** in the test. This is the construct operationalization concept you already learned in Psychometrics.
+:::
+
+## Stages 3–4: test type and *blueprint*
+
+::: {.incremental}
+3. **Determine the type of test** — is this an achievement test, an aptitude test, or an intelligence test? (Meeting 1 is relevant again here.)
+4. **Draft the test specification/*blueprint*** — the proportion of items for each sub-domain, and how many items in total.
+:::
+
+. . .
+
+::: {.callout-tip}
+#### A simple blueprint example
+A numerical aptitude test with 3 sub-domains, 20 items:
+
+| Sub-domain | Proportion | Number of items |
+|---|:-:|:-:|
+| Basic arithmetic operations | 40% | 8 |
+| Number series/patterns | 30% | 6 |
+| Quantitative word problems | 30% | 6 |
+
+A *blueprint* also typically crosses content domains with the **cognitive level** to be measured, which we'll cover in more depth in Meeting 3 through the taxonomy of instructional objectives.
+:::
+
+# Phase B: Item Development {background-color="#14497F" .center}
+
+## Stages 5–6: writing and review
+
+::: {.incremental}
+5. **Item writing** — following the proportions and cognitive levels already set in the *blueprint*, not the item writer's personal preferences.
+6. **Expert review** — items are examined by another party (ideally someone who understands the construct) before being tried out, as initial evidence of content validity.
+:::
+
+. . .
+
+::: {.callout-warning}
+#### The function of the review stage
+Item writers often don't notice problems in the items they wrote themselves — ambiguous wording, multiple correct answers, or culturally biased cues, for example. Review by another party becomes the first check before items are used with actual participants.
+:::
+
+# Phase C: Empirical Testing {background-color="#14497F" .center}
+
+## Stages 7–9: from data to evidence
+
+::: {.incremental}
+7. **Try-out** — items are administered to a sample representative of the target population.
+8. **Item analysis** — examining the difficulty level and discrimination index of each item from the try-out data.
+9. **Reliability and validity estimation** — calculated from the item analysis results and the items retained.
+:::
+
+. . .
+
+::: {.callout-note}
+#### The function of this stage
+These three stages are the part of the process where test quality is examined based on empirical data. This part will be covered further in Meetings 12–13.
+:::
+
+# Phase D: Finalization {background-color="#14497F" .center}
+
+## Stages 10–11: norms and manual
+
+::: {.incremental}
+10. **Norm development** — converting raw scores into scores that can be meaningfully interpreted (deciles, percentiles, standard scores) relative to a reference group.
+11. **Test manual preparation** — complete documentation on how to administer, score, and interpret the test.
+:::
+
+. . .
+
+::: {.callout-tip}
+#### This is your Assignment 3 output
+The test *booklet* (containing the items that passed selection) and the test manual you submit in Meeting 14 **are** Stages 10 and 11.
+:::
+
+# The iterative nature of the test development process {background-color="#14497F" .center}
+
+## Repetition across stages
+
+::: {.incremental}
+* These eleven stages are depicted linearly, but in practice you often need to go back to an earlier stage.
+* Item analysis shows an imbalance of items in one sub-domain → go back to **Stage 5** to write replacement items, sometimes back to **Stage 4** to revise the *blueprint*.
+* Reliability turns out too low → this may mean going back to item writing.
+:::
+
+. . .
+
+::: {.callout-important}
+#### Consequence for your project timeline
+Set aside time for the possibility of returning to an earlier stage. Groups that work through each stage only once, with no revisiting, tend to run into time pressure in Meetings 13–14.
+:::
+
+## Summary of the Test Development Stages
+
+![](libs/penyusunan_tes.png){fig-align="center" width="60%"}
+
+::: aside
+This diagram simplifies the eleven stages above into nine visual boxes — for example, Stages 5 and 6 are merged into "Item Writing & Item Review," and Stages 10 and 11 are merged into "Final Form." The visual grouping differs, but the overall logic and order stay the same.
+:::
+
+
+## Summary
+
+::: {.incremental}
+1. Writing items without first defining the construct and *blueprint* is a common mistake that risks producing domain proportions that don't match the plan.
+2. There are many versions of these stages in the literature ([Kline, 1986](https://psycnet.apa.org/record/1987-97491-000); Azwar, 2019; [Downing, 2006)](https://fatihegitim.wordpress.com/wp-content/uploads/2014/03/hndb-t-devt.pdf)).
+3. This course's eleven stages are grouped into four phases: **Planning, Item Development, Empirical Testing, Finalization**.
+4. The process is **iterative** — set aside time to return to earlier stages.
+:::
+
+## For Meeting 3
+
+::: {.callout-tip}
+#### Coming up: taxonomy and instructional objectives
+The *blueprint* we touched on today crosses content domains with **cognitive level**. Meeting 3 covers the taxonomy that underlies how that cognitive level is determined — a tool you'll use directly when drafting your project's *blueprint*.
+:::
+
+## Any questions❓
+
+![](libs/closing.JPG){fig-align="center"}
+
+::: {.callout-note}
+### Note
+
+* This presentation was prepared using {{< fa brands r-project >}} and [**Quarto**](https://quarto.org) with a *template* from [UNAIR Theme](https://github.com/rameliaz/quarto-unair-theme).
+* Contact me via <i class="fas fa-paper-plane"></i> <a href="mailto:amelia.zein@psikologi.unair.ac.id">amelia.zein@psikologi.unair.ac.id</a>
+:::
+
+## References {.scrollable}
+
+Azwar, S. (2019). *Konstruksi tes: Kemampuan kognitif*. Pustaka Pelajar.
+
+Downing, S. M. (2006). Twelve steps for effective test development. In S. M. Downing & T. M. Haladyna (Eds.), *Handbook of test development*. Lawrence Erlbaum Associates.
+
+Kline, P. (1986). *A handbook of test construction: Introduction to psychometric design*. Methuen.

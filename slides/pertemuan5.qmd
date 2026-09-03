@@ -140,7 +140,7 @@ Anastasi & Urbina (1997).
 
 ::: {.callout-note}
 #### Catatan
-Prinsip yang sama berlaku baik pada TPA maupun tes bakat khusus: konstrak yang diukur harus didefinisikan terlebih dahulu (Pertemuan 2), lalu dijabarkan ke dalam *blueprint* yang menentukan proporsi tiap komponen.
+Prinsip yang sama berlaku baik pada TPA maupun tes bakat khusus: konstruk yang diukur harus didefinisikan terlebih dahulu (Pertemuan 2), lalu dijabarkan ke dalam *blueprint* yang menentukan proporsi tiap komponen.
 :::
 
 # Format butir yang umum dipakai {background-color="#14497F" .center}
@@ -194,7 +194,7 @@ Untuk tiap contoh butir berikut, tentukan termasuk subtes Verbal, Kuantitatif, a
 2. Ada dua kategori tes potensi: Tes Potensi Akademik (TPA) untuk kapasitas kognitif umum, dan tes bakat khusus untuk satu domain kemampuan tertentu.
 3. TPA di Indonesia pada umumnya terdiri atas tiga subtes: Verbal, Kuantitatif, dan Penalaran, mengikuti sebagian konsep GRE.
 4. Tes bakat khusus dipakai untuk keputusan yang terkait pada satu bidang tertentu, dan bisa disusun sebagai baterai yang mengukur beberapa domain sekaligus.
-5. Prinsip penyusunan tes dari Pertemuan 2 tetap berlaku: definisi konstrak dan *blueprint* mendahului penulisan item.
+5. Prinsip penyusunan tes dari Pertemuan 2 tetap berlaku: definisi konstruk dan *blueprint* mendahului penulisan item.
 :::
 
 ## Untuk Pertemuan 6

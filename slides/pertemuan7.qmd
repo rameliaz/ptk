@@ -113,7 +113,7 @@ Saya menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk *brainstorming* m
 
 ::: {.incremental}
 * **Item tes prestasi** diturunkan dari TIK yang sudah dirumuskan (Pertemuan 4). Isinya terikat pada materi atau kurikulum yang diajarkan.
-* **Item tes potensi** diturunkan dari definisi konstrak kemampuan yang lebih umum (Pertemuan 5 dan 6). Isinya sengaja dibuat tidak terikat pada satu bidang materi tertentu, agar yang diukur adalah proses bernalarnya, bukan pengetahuan spesifiknya.
+* **Item tes potensi** diturunkan dari definisi konstruk kemampuan yang lebih umum (Pertemuan 5 dan 6). Isinya sengaja dibuat tidak terikat pada satu bidang materi tertentu, agar yang diukur adalah proses bernalarnya, bukan pengetahuan spesifiknya.
 :::
 
 ::: {.callout-tip}

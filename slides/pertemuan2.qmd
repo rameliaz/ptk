@@ -23,7 +23,7 @@ execute:
 ::: {.incremental}
 * Urutan pengerjaan: menulis item lebih dulu atau menyusun rencana lebih dulu?
 * 11 tahap, 4 fase penyusunan
-* Fase Perencanaan: definisi konstrak dan blueprint
+* Fase Perencanaan: definisi konstruk dan blueprint
 * Fase Pengembangan Item
 * Fase Uji Empiris
 * Fase Finalisasi

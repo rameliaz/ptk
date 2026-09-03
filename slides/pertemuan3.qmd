@@ -217,7 +217,7 @@ Klasifikasikan masing-masing rumusan berikut ke salah satu dari enam level prose
 ::: {.incremental}
 1. *"Mahasiswa dapat menyebutkan tiga jenis tes kognitif."*
 2. *"Mahasiswa dapat membandingkan tes prestasi dan tes potensi berdasarkan orientasi waktunya."*
-3. *"Mahasiswa dapat menyusun *blueprint* tes untuk konstrak yang ditentukan."*
+3. *"Mahasiswa dapat menyusun *blueprint* tes untuk konstruk yang ditentukan."*
 :::
 
 . . .

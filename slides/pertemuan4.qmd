@@ -212,7 +212,7 @@ Untuk tiap situasi berikut, tentukan apakah tesnya berfungsi sebagai placement, 
 ::: {.incremental}
 1. Tes prestasi mengukur hasil belajar dan terikat pada materi atau tujuan pembelajaran tertentu (Azwar, 1987).
 2. Ada empat jenis tes prestasi berdasarkan fungsinya: placement, formatif, diagnostik, sumatif — masing-masing dengan cakupan materi dan tingkat kesulitan yang berbeda.
-3. Tahap "tujuan tes" dan "definisi konstrak" dari Pertemuan 2 diwujudkan pada tes prestasi sebagai penentuan jenis tes dan perumusan TIU/TIK.
+3. Tahap "tujuan tes" dan "definisi konstruk" dari Pertemuan 2 diwujudkan pada tes prestasi sebagai penentuan jenis tes dan perumusan TIU/TIK.
 4. Tabel spesifikasi tes prestasi adalah *blueprint* yang menyilangkan pokok bahasan dengan level kognitif dari Pertemuan 3.
 5. Pemilihan bentuk item (objektif atau uraian) bergantung pada sifat hasil belajar yang diukur.
 :::

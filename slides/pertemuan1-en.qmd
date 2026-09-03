@@ -1,0 +1,437 @@
+---
+title: "Introduction: Definition and Types of Cognitive Tests"
+subtitle: "Cognitive Test Development"
+author: "Rizqy Amelia Zein"
+institute:
+  - "[_Department of Psychology, Universitas Airlangga_](https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/)"
+date: today
+format:
+  unair-revealjs:
+    slide-number: true
+    progress: true
+    transition: slide
+    center: false
+    css: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css
+    chalkboard: true
+execute:
+  eval: false
+  echo: true
+---
+
+## _Outline_
+
+::: {.incremental}
+* What will we do over the semester?
+* Three situations that call for different types of cognitive tests
+* Recalling material from the Psychometrics course
+* Terms often confused: test, scale, inventory, questionnaire
+* Attribute domains: cognitive vs. non-cognitive
+* Maximal performance vs. typical performance
+* A brief history: three traditions of cognitive testing
+* Three main types of cognitive tests
+* Test classification under the Indonesian Psychological Code of Ethics
+:::
+
+::: aside
+***Disclosure* on the use of artificial intelligence (AI)**
+
+I used Claude Code (Opus 5 and Sonnet 5 models) to *brainstorm* material, search for references, and *troubleshoot* `quarto` and `git` code. I take full responsibility for the substance and presentation of these slides.
+:::
+
+# Course orientation {background-color="#14497F" .center}
+
+## What will we do over the semester?
+
+::: {.incremental}
+* **Final project**: each group will **develop one complete set of cognitive tests**, from item specifications through the test *booklet* and manual, supported by evidence of validity and reliability. For this, you are asked to form groups of at most 5 members.
+  + [Please write your group members' names in this spreadsheet](https://docs.google.com/spreadsheets/d/1TWuEzAeO6-VahflbT3vBpnKLzG5zjd8K/edit?usp=sharing&ouid=100126014993390956583&rtpof=true&sd=true).
+  + The *spreadsheet*'s access will be closed (no longer editable) after Meeting 3.
+
+* **Before the midterm (Meetings 1–7)**: building the conceptual foundation. What a cognitive test is, the stages of developing one, what a taxonomy of instructional objectives is, and the fundamental differences among achievement tests, aptitude tests, and intelligence tests.
+
+* **After the midterm (Meetings 9–15)**: working on the project. Writing HOTS items, developing specifications and a *blueprint*, collecting pilot-test data, analyzing items, estimating reliability and validity, and developing norms and the manual.
+:::
+
+::: aside
+The complete plan is in the **RPS (Semester Learning Plan)** and **Course Contract** (to be shared separately on Psyche) — these *slides* are only a summary.
+:::
+
+# Let's start with three situations {background-color="#14497F" .center}
+
+## Three situations
+
+::: {.incremental}
+1. An elementary school wants to know whether its new literacy program is working: **is this year's 5th-grade students' reading ability better than that of the students who entered last year**, after the same material was taught?
+
+2. A *startup* is screening 500 applicants for a programming internship **before seeing a single line of code they've written**, because they want to know who has the greatest potential to learn *coding* quickly.
+
+3. A neuropsychologist needs to establish a *baseline* for a patient's **general reasoning ability** after a head injury, before being able to assess whether there has been a decline in cognitive function.
+:::
+
+## What do these three situations have in common, and how do they differ?
+
+::: {.incremental}
+* All three alike require a **cognitive test**, because they measure a person's maximal performance, not their tendencies or preferences.
+
+* But the three ask **conceptually different** questions: what has *already been mastered* (situation 1), what *could potentially be mastered* (situation 2), and how large a person's *general capacity* is (situation 3).
+
+* If the wrong type of test is used — for instance, using an achievement test to predict potential — the conclusions can be **completely wrong**.
+:::
+
+. . .
+
+::: {.callout-warning appearance="simple"}
+These three situations will keep coming up throughout the course in the form of **achievement tests** (Meeting 4), **aptitude tests** (Meeting 5), and **intelligence tests** (Meeting 6).
+:::
+
+# Recalling material from Psychometrics {background-color="#14497F" .center}
+
+## What have you already learned?
+
+From the Psychometrics course, you have already learned the following:
+
+::: {.incremental}
+* **Measurement** — converting a measured attribute (psychological construct) into numbers
+* **Validity** — does the test measure what it is supposed to measure?
+* **Reliability** — are the measurement results consistent?
+* **Psychological attributes** — latent constructs that cannot be observed directly
+:::
+
+. . .
+
+::: {.callout-note}
+#### Important to remember
+You have already learned *how to evaluate* whether a test performs well (validity, reliability). This course will help you learn *how to build one* from scratch, but specifically for the **cognitive** domain.
+:::
+
+# Psychometrics and psychological measurement {background-color="#14497F" .center}
+
+## Psychometrics: definition
+
+::: {.callout-note}
+#### Classic definition
+Psychometrics is the branch of science concerned with the **theory and technique of measurement** of educational and psychological attributes (Kline, 1986).
+:::
+
+Kline (1986) formulated two main roles of psychometrics:
+
+::: {.incremental}
+1. Constructing instruments and procedures for psychological measurement
+2. Developing or revising theoretical approaches to psychological measurement
+:::
+
+. . .
+
+::: {.callout-tip}
+#### Validity is a property of the test
+International standards (AERA, APA, & NCME, 2014) emphasize that test quality does not stop at the measurement tool itself — **validity is a property of the interpretation and use of scores**, not merely a property of the test itself.
+:::
+
+## Why is psychological measurement difficult?
+
+::: {.incremental}
+* **Physical** attributes (height, weight) → directly observable, standardized measurement tools (tape measure, scale).
+* **Psychological** attributes (intelligence, aggressiveness, neuroticism) → **latent**, abstract, can only be inferred from a sample of behavior.
+:::
+
+. . .
+
+::: {.callout-important}
+#### The implication
+Because the attribute is latent, **no test measures it perfectly**. Every test is a *sample of behavior* that we generalize to a broader construct. This is why validity and reliability are always central issues in psychological measurement.
+:::
+
+# Terms that often overlap and get confused {background-color="#14497F" .center}
+
+## Test, scale, inventory, questionnaire
+
+| Term | Brief definition |
+|---|---|
+| **Test** | An objective, standardized measurement of a sample of behavior (Anastasi & Urbina, 1997) |
+| **Scale** | An instrument for identifying psychological constructs/attributes, usually non-cognitive |
+| **Inventory** | A tool for estimating and assessing behavior, interests, or preferences |
+| **Questionnaire** | A set of questions about a topic, answered based on participants' *self-report* |
+
+. . .
+
+::: {.callout-tip}
+#### The rule we'll use throughout the semester
+If there is a **right-or-wrong** answer that can be objectively scored from performance → it's a **test**. If what's being measured is a tendency or preference with no right-or-wrong answer → it's usually a **scale** or **inventory**.
+:::
+
+# The domain of attributes being measured {background-color="#14497F" .center}
+
+## Branching of attributes: physical and psychological
+
+::: {.incremental}
+* Attributes split into two: **physical** (height, weight) and **non-physical/psychological**.
+* Psychological attributes themselves split into two: **cognitive** (potential and actual) and **non-cognitive** (affective, personality).
+* This course stops at just one branch: **cognitive attributes**.
+:::
+
+::: aside
+Adapted from Azwar's (2019) classification framework.
+:::
+
+# Maximal vs. typical performance {background-color="#14497F" .center}
+
+## Two ways tests evaluate behavior
+
+:::: {.columns}
+::: {.column width="50%"}
+### Maximal performance
+*(ability test → cognitive test)*
+
+* Reveals **what a person is capable** of doing, and how good their performance is
+* Clear stimulus, right/wrong answer
+* Score and time taken are disclosed
+* Explicit instruction: perform **as well as possible**
+:::
+::: {.column width="50%"}
+### Typical performance
+*(personality test → non-cognitive)*
+
+* Reveals an individual's **tendency to react** in a given situation
+* Stimulus can be ambiguous, no right/wrong answer
+* Score is usually not disclosed
+* Implicit instruction: answer **honestly**
+:::
+::::
+
+. . .
+
+::: {.callout-important}
+#### Why this matters for this course
+This entire course lives in the left-hand column. The principles for writing items for maximal performance (with an objective answer key) are fundamentally different from the principles for writing personality-scale items — don't mix them up later when writing items in Meeting 7.
+:::
+
+## Activity: maximal or typical?
+
+Classify the following three examples:
+
+::: {.incremental}
+1. *"How quickly can you find the next pattern in this number sequence?"*
+2. *"How often do you feel anxious before an exam?"*
+3. *"Choose the most appropriate synonym for the following word, within 30 seconds."*
+:::
+
+. . .
+
+::: {.callout-tip}
+#### Answer key
+(1) and (3) = **maximal** performance (there's a correct answer, a time limit, and it measures ability). (2) = **typical** performance (measures the tendency/frequency of a feeling, with no right-or-wrong answer).
+:::
+
+# A brief history: 3️⃣ traditions of cognitive testing {background-color="#14497F" .center}
+
+## Tradition 1️⃣: intelligence testing
+
+::: {.incremental}
+* **1905, France** — Alfred Binet and Théodore Simon developed the first formal test to identify schoolchildren who needed special learning support ([Binet & Simon, 1905](https://psycnet.apa.org/record/2006-10213-047)).
+* **1916, United States** — Lewis Terman adapted it into the Stanford-Binet and introduced the notion of the *intelligence quotient* (IQ) ([Terman, 1916](https://www.brown.uk.com/teaching/socialpolicy/terman.pdf)).
+* This tradition focuses on **general capacity**: how well a person solves problems and adapts to new situations.
+* It's worth knowing that the early history of intelligence-test development was heavily shaped by [*eugenics*](https://www.genome.gov/about-genomics/fact-sheets/Eugenics-and-Scientific-Racism) thinking.
+  + Terman himself is known to have [supported the sterilization of individuals](https://stanfordmag.org/contents/the-vexing-legacy-of-lewis-terman) deemed cognitively inferior.
+:::
+
+## Tradition 2️⃣: aptitude testing
+
+::: {.incremental}
+* **1917–1918** — The US Army developed the *Army Alpha* (verbal) and *Army Beta* (non-verbal) tests to screen and place millions of World War I recruits en masse ([Yoakum & Yerkes, 1920](https://psycnet.apa.org/record/2006-05095-005)).
+* This was one of the first large-scale applications of cognitive testing outside an educational context, and it became the forerunner of modern job-selection testing.
+:::
+
+. . .
+
+::: {.callout-warning}
+#### A legacy that was not neutral
+The results of the US Army tests were later **misused** by [Carl Brigham (1923)](https://www.pbs.org/wgbh/pages/frontline/shows/sats/where/three.html) to support immigration policies that discriminated against certain ethnic groups. However, this conclusion was later retracted by Brigham himself. This is why the Indonesian Psychological Code of Ethics, which we'll discuss later, strictly limits who is permitted to use psychological tests.
+:::
+
+## Tradition 3️⃣: achievement testing
+
+::: {.incremental}
+* Rooted in the tradition of classroom and school exams, which is much older in practice, but was formalized later as its own field within psychometrics.
+* An interesting example of how thin the line between achievement and aptitude can be: the *Scholastic **Aptitude** Test* (SAT) in the US, which claimed to measure academic potential free of the influence of school learning, eventually **changed its name** in 1993 because its scores turned out to be heavily influenced by what students had **already learned** in school.
+:::
+
+. . .
+
+::: {.callout-note}
+#### Why this SAT anecdote matters
+This is proof that distinguishing "achievement test" from "aptitude test" is not merely a classroom definition exercise. Even a nationally administered test can carry the wrong label for decades.
+:::
+
+::: aside
+For a more complete history of psychological measurement, see [DuBois (1970)](https://openlibrary.org/books/OL4450923M/A_history_of_psychological_testing).
+:::
+
+# 3️⃣ main types of cognitive tests {background-color="#14497F" .center}
+
+## Intelligence, aptitude, achievement
+
+| Type | Measures | Nature | Example research question |
+|---|---|---|---|
+| **Intelligence test** | General potential for solving problems and adapting to new situations | Relatively stable across time and context | "How large is this student's general learning capacity?" |
+| **Aptitude test** *(aptitude)* | Capacity to learn a **specific** skill in the future | Predictive — judged by its ability to predict future performance | "Does this candidate have the potential to become a good programmer?" |
+| **Achievement test** *(achievement)* | What has **already been learned/mastered** at present | Retrospective — judged by how well it matches the content taught | "How well has the student mastered the Chapter 3 material?" |
+
+::: aside
+Aptitude gauges *the capacity to learn* (*future potential*); achievement gauges *what has already been learned* (*prior activity*) (Anastasi & Urbina, 1997; Azwar, 1987). All three are discussed in depth in Meetings 4–6.
+:::
+
+## Examples of published instruments
+
+:::: {.columns}
+::: {.column width="33%"}
+**Intelligence**
+
+* Stanford-Binet
+* WAIS / WISC
+* TIKI
+* CFIT
+:::
+::: {.column width="33%"}
+**Aptitude**
+
+* Differential Aptitude Test
+* General Aptitude Test Battery
+* Flanagan Aptitude Classification Test
+:::
+::: {.column width="33%"}
+**Achievement**
+
+* School exams/ANBK
+* Teacher-made achievement tests
+* Placement tests (*placement test*)
+:::
+::::
+
+. . .
+
+::: {.callout-important}
+#### Ethical note
+Most of the instruments above are **commercially licensed psychological tests with restricted use**. In this course we only discuss *how they work* and *their underlying principles*.
+:::
+
+## Illustration: what does a maximal-performance item look like?
+
+Example of an **original** non-verbal item (not taken from any actual test): what pattern fills the cell marked with a question mark?
+
+| | | |
+|:-:|:-:|:-:|
+| ● | ● ● | ● ● ● |
+| ● ● | ● ● ● | ● ● ● ● |
+| ● ● ● | ● ● ● ● | **?** |
+
+A) ● ● ●　B) ● ● ● ●　C) ● ● ● ● ●　D) ● ● ● ● ● ●
+
+. . .
+
+::: {.callout-tip}
+#### Why this is an example of maximal performance
+There is a logical rule (number of dots = row number + column number − 1), an objectively correct answer (**C**), a clear stimulus, and no language is required — the hallmark of a non-verbal *ability test* item, well-suited to measuring reasoning that is relatively free of cultural bias.
+:::
+
+# Classification under the Code of Ethics {background-color="#14497F" .center}
+
+## Psychological tests and authority to use them
+
+In Indonesia, psychological tests **are not free for just anyone to use**. The Indonesian Psychological Code of Ethics (HIMPSI, 2010) divides them into 4 categories, based on the qualifications needed to administer, interpret, and report their results:
+
+::: {.incremental}
+* **Category A** — non-clinical, requires no special expertise. Can be administered by researchers, students, educators, or company staff.
+* **Category B** — non-clinical, but requires knowledge and expertise in administration/interpretation.
+* **Category C** — requires knowledge of test construction and procedures, backed by a background in statistics and individual differences; interpretation is done only by those who have mastered the relevant test theory.
+* **Category D** — the highest level; complex clinical instruments that require specialized education in psychology.
+:::
+
+. . .
+
+::: {.callout-important}
+#### Relevance to this course's CPL
+This course's CPL (Graduate Learning Outcomes) explicitly names the authority to use **Category A and B tests**. This is the ethical boundary on what kinds of tests you may develop and use as a prospective psychology graduate.
+:::
+
+# Why cognitive tests matter {background-color="#14497F" .center}
+
+## Beyond the classroom
+
+::: {.incremental}
+* **Education** — selection, placement, identifying special learning needs
+* **Clinical** — assessment of cognitive capacity in a diagnostic context
+* **Organizational and industrial** — employee selection and placement based on cognitive ability
+* **Research** — cognitive variables as predictors, mediators, or *outcomes* in psychological studies
+:::
+
+## Activity: spotting cognitive tests in research
+
+Imagine a journal abstract states:
+
+> *"...participants completed a timed assessment of non-verbal reasoning ability to control for variation in general cognitive ability before the experimental manipulation was administered..."*
+
+::: {.incremental}
+* Is this an intelligence test, an aptitude test, or an achievement test? Why?
+* What role does this cognitive test play in the study's design — a control variable, a predictor, or an *outcome*?
+:::
+
+. . .
+
+::: {.callout-note}
+#### Practice for Assignment 1
+In Week 6, you will *review* 3 journal articles that use a cognitive test as their research instrument. Practicing this kind of identification is a core skill assessed in that assignment.
+:::
+
+## Summary
+
+::: {.incremental}
+1. **Psychometrics** is the theory and technique of measuring psychological attributes; cognitive testing is one of its branches.
+2. **Tests, scales, inventories, and questionnaires** differ in their objectivity and in whether there is a right-or-wrong answer (*ground truth*).
+3. Cognitive attributes are measured through **maximal performance**, not typical performance.
+4. The three types of cognitive tests — **intelligence, aptitude, and achievement** — arose from three different historical traditions and measure different things.
+5. The use of psychological tests in Indonesia is bound by the **HIMPSI Code of Ethics** (Categories A–D).
+:::
+
+## For Meeting 2
+
+::: {.callout-tip}
+#### Next: the stages of developing a cognitive test
+If today we talked about **what** a cognitive test is, Meeting 2 will cover **how** to develop one. We'll start with needs analysis and construct definition, through to an initial *blueprint*.
+:::
+
+## Any questions❓
+
+![](libs/closing.JPG){fig-align="center"}
+
+::: {.callout-note}
+### Note
+
+* This presentation was prepared using {{< fa brands r-project >}} and [**Quarto**](https://quarto.org) with a *template* from [UNAIR Theme](https://github.com/rameliaz/quarto-unair-theme).
+* Contact me via <i class="fas fa-paper-plane"></i> <a href="mailto:amelia.zein@psikologi.unair.ac.id">amelia.zein@psikologi.unair.ac.id</a>
+:::
+
+## References {.scrollable}
+
+AERA, APA, & NCME. (2014). *Standards for educational and psychological testing*. American Educational Research Association.
+
+Anastasi, A., & Urbina, S. (1997). *Psychological testing* (7th ed.). Prentice Hall.
+
+Anastasi, A., & Urbina, S. (2016). *Tes psikologi* (Edisi ke-7). PT Indeks.
+
+Azwar, S. (1987). *Tes prestasi: Fungsi dan pengembangan pengukuran prestasi belajar*. Liberty.
+
+Azwar, S. (2019). *Konstruksi tes: Kemampuan kognitif*. Pustaka Pelajar.
+
+Binet, A., & Simon, T. (1905). Méthode nouvelle pour le diagnostic du niveau intellectuel des anormaux. *L'Année Psychologique, 11*, 191–244.
+
+Brigham, C. C. (1923). *A study of American intelligence*. Princeton University Press.
+
+DuBois, P. H. (1970). *A history of psychological testing*. Allyn & Bacon.
+
+Himpunan Psikologi Indonesia (HIMPSI). (2010). *Kode etik psikologi Indonesia*.
+
+Kline, P. (1986). *A handbook of test construction: Introduction to psychometric design*. Methuen.
+
+Terman, L. M. (1916). *The measurement of intelligence*. Houghton Mifflin.
+
+Yoakum, C. S., & Yerkes, R. M. (1920). *Army mental tests*. Henry Holt.

@@ -21,7 +21,6 @@ execute:
 ## _Outline_
 
 ::: {.incremental}
-* Mengingat kembali janji Pertemuan 6
 * Bias, muatan budaya, dan *fairness*
 * Sejarah litigasi tes di Amerika Serikat
 * Mendeteksi bias secara statistik
@@ -55,7 +54,7 @@ McCallum (2018).
 
 # Bias, muatan budaya, dan *fairness* {background-color="#14497F" .center}
 
-## Tiga istilah yang sering tertukar
+## 3️⃣ istilah yang sering tertukar
 
 ::: {.incremental}
 * **Bias tes** — istilah teknis dan statistik: kesalahan pengukuran yang sistematis terhadap keanggotaan kelompok budaya atau ras tertentu, yang dampaknya merugikan peserta tes dengan latar belakang tertentu, dibuktikan lewat suatu prosedur statistik.
@@ -85,7 +84,7 @@ Reynolds & Lowe (2009), dalam McCallum (2018).
 ## Kasus yang mengubah praktik tes
 
 ::: {.incremental}
-* ***Diana v. State Board of Education*** (1970) dan ***Larry P. v. Riles*** (1979) — gugatan terhadap penggunaan skor tes inteligensi (yang dinormakan pada kelompok mayoritas) untuk menempatkan anak-anak minoritas ke kelas pendidikan khusus.
+* [***Diana v. State Board of Education***](https://serr.disabilityrightsca.org/serr-manual/chapter-2-information-on-evaluations-assessments/2-48-what-was-the-diana-v-state-board-of-education-case-what-impact-does-the-diana-case-have-on-spanish-speaking-students/) (1970) dan [***Larry P. v. Riles***](https://en.wikipedia.org/wiki/Larry_P._v._Riles) (1979) — gugatan terhadap penggunaan skor tes inteligensi (yang dinormakan pada kelompok mayoritas) untuk menempatkan anak-anak minoritas ke kelas pendidikan khusus.
 * Hasil litigasi ini mendorong pengembang tes membuat instrumen yang lebih memperhitungkan keragaman budaya, dan memengaruhi regulasi seperti *Individuals with Disabilities Education Act*.
 :::
 
@@ -103,13 +102,12 @@ McCallum (2018).
 ## *Differential Item Functioning* (DIF)
 
 ::: {.incremental}
-* DIF terjadi saat sebuah butir menunjukkan properti statistik berbeda antara dua kelompok — **kelompok referensi** (mis. mayoritas) dan **kelompok *focal*** (mis. minoritas) — yang **sudah disetarakan kemampuannya**.
-* **DIF uniform** — butir menguntungkan satu kelompok secara konsisten di semua tingkat kemampuan.
-* **DIF non-uniform** — daya beda butir berbeda antar kelompok tergantung tingkat kemampuannya.
+* DIF terjadi saat sebuah butir menunjukkan properti statistik berbeda antara dua kelompok, yaitu **kelompok referensi** (mis. mayoritas) dan **kelompok *focal*** (mis. minoritas), yang **sudah disetarakan kemampuannya**.
+* **DIF *uniform*** — butir menguntungkan satu kelompok secara konsisten di semua tingkat kemampuan.
+* **DIF *non-uniform*** — daya beda butir berbeda antar kelompok tergantung tingkat kemampuannya.
 :::
 
-::: {.callout-note}
-#### Catatan
+::: {.callout-note appearance="simple"}
 DIF adalah indikator statistik, tetapi bukan otomatis bukti "bias". Butir yang terdeteksi DIF tetap perlu ditelaah secara kualitatif untuk memastikan penyebabnya benar-benar konten yang tidak adil, bukan sekadar perbedaan kemampuan riil antar kelompok.
 :::
 
@@ -117,14 +115,14 @@ DIF adalah indikator statistik, tetapi bukan otomatis bukti "bias". Butir yang t
 Maller & Pei (2018), dalam McCallum (2018).
 :::
 
-## Dari butir ke keseluruhan tes
+## DIF: Level item/butir vs. tes
 
 ::: {.incremental}
-* **Invariansi faktor** — apakah struktur faktor tes sama pada kedua kelompok yang dibandingkan.
+* ***Factor invariance*** — apakah struktur faktor tes sama pada kedua kelompok yang dibandingkan.
 * **Bias prediksi** — apakah tes memprediksi kriteria (misalnya prestasi belajar) dengan akurasi yang sama untuk semua kelompok.
 :::
 
-Kajian bias yang baik dimulai dari DIF di level butir, lanjut ke invariansi faktor, dan diakhiri dengan uji bias prediksi di level skor total.
+Kajian bias yang baik dimulai dari DIF di level butir, lanjut ke *factor invariance*, dan diakhiri dengan uji bias prediksi di level skor total.
 
 ::: aside
 Maller & Pei (2018), dalam McCallum (2018).
@@ -169,7 +167,9 @@ Ortiz, Piazza, Ochoa, & Dynda (2018).
 
 ## Yang paling sering dipilih praktisi
 
-Survei terhadap psikolog sekolah menemukan bahwa 88% memilih tes non-verbal, 40% menggunakan penerjemah, dan 20% menggunakan tes bahasa asli saat mengevaluasi individu yang beragam secara budaya dan bahasa — jauh lebih sedikit yang benar-benar memeriksa validitas skor secara langsung.
+* Survei terhadap psikolog sekolah menemukan bahwa 88% memilih tes non-verbal, 40% menggunakan penerjemah, dan 20% menggunakan tes bahasa asli saat mengevaluasi individu yang beragam secara budaya dan bahasa. 
+
+* Jadi, jauh lebih sedikit yang benar-benar memeriksa validitas skor secara langsung.
 
 ::: aside
 Sotelo-Dynega dkk. (2011), dalam Ortiz dkk. (2018).
@@ -180,7 +180,8 @@ Sotelo-Dynega dkk. (2011), dalam Ortiz dkk. (2018).
 ## "Non-verbal" adalah istilah yang sedikit menyesatkan
 
 ::: {.incremental}
-* Bahkan tes yang diklaim "100% non-verbal" tetap membutuhkan komunikasi — minimal untuk menjelaskan kapan mulai, kapan berhenti, dan apa yang dianggap jawaban benar, biasanya lewat gestur yang juga harus dipelajari peserta.
+* Bahkan tes yang diklaim "100% non-verbal" tetap membutuhkan komunikasi. 
+  + Minimal untuk menjelaskan kapan mulai, kapan berhenti, dan apa yang dianggap jawaban benar, biasanya lewat gestur yang juga harus dipelajari peserta.
 * Stimulus visual (gambar benda, simbol) tetap bisa lebih familiar bagi satu budaya dibanding budaya lain.
 * Istilah yang lebih akurat: tes ***language-reduced***, sehingga tes-tes ini **tidak benar-benar bebas bahasa atau bebas budaya**.
 :::
@@ -193,7 +194,9 @@ Ortiz dkk. (2018); McCallum (2018).
 
 ::: {.callout-important}
 #### Temuan empirik
-Kajian terhadap tiga tes non-verbal populer yang biasa dipakai mengidentifikasi anak berbakat menemukan selisih skor yang besar antara siswa *English language learner* (ELL) dan bukan ELL. Kesimpulannya: tes non-verbal tidak otomatis "menyetarakan lapangan permainan" bagi anak dari latar belakang budaya berbeda.
+Kajian terhadap tiga tes non-verbal populer yang biasa dipakai mengidentifikasi anak berbakat menemukan selisih skor yang besar antara siswa *English language learner* (ELL) dan bukan ELL. 
+
+Kesimpulannya: tes non-verbal tidak otomatis "menyetarakan *playing field*" bagi anak dari latar belakang budaya berbeda.
 :::
 
 ::: aside
@@ -220,7 +223,11 @@ Flanagan dkk. (2007, 2013), dalam McCallum (2018).
 
 ::: {.callout-tip}
 #### Mengelola bias dalam tes, bukan menghilangkannya sama sekali
-Kerangka ini membantu praktisi memilih subtes yang tuntutan budaya dan bahasanya paling sesuai dengan latar belakang peserta. Ini bukan cara menghilangkan pengaruh budaya sepenuhnya, karena menurut kerangka ini, semua tes pasti bermuatan budaya sampai taraf tertentu. Tetapi, yang bisa diusahakan adalah mengelolanya secara sadar saat memilih instrumen dan menafsirkan skornya.
+Kerangka ini membantu praktisi memilih subtes yang tuntutan budaya dan bahasanya paling sesuai dengan latar belakang peserta. 
+
+Ini bukan cara menghilangkan pengaruh budaya sepenuhnya, karena menurut kerangka ini, semua tes pasti bermuatan budaya sampai taraf tertentu. 
+
+Tetapi, yang dapat diusahakan adalah mengelolanya secara sadar saat memilih instrumen dan menafsirkan skornya.
 :::
 
 # Implikasi untuk konteks Indonesia {background-color="#14497F" .center}
@@ -229,13 +236,12 @@ Kerangka ini membantu praktisi memilih subtes yang tuntutan budaya dan bahasanya
 
 ::: {.incremental}
 * Sebagian besar tes kognitif yang dipakai di Indonesia (mis. Wechsler, CFIT, *Progressive Matrices*) awalnya dikembangkan dan dinormakan di luar Indonesia (Pertemuan 6).
-* Adaptasi tes lintas budaya idealnya lebih dari sekadar menerjemahkan kata per kata, tetapi mencakup uji ulang properti psikometri pada sampel lokal (Pertemuan 2), bukan hanya sekadar alih bahasa.
+* Adaptasi tes lintas budaya idealnya mencakup uji ulang properti psikometri pada sampel lokal (Pertemuan 2), bukan sekadar menerjemahkan kata per kata.
 * Indonesia sendiri sangat beragam secara bahasa dan budaya antar-daerah; satu norma nasional tunggal berisiko menyembunyikan variasi ini.
 :::
 
-::: {.callout-note}
-#### Bukan alasan untuk berhenti memakai tes
-Ini bukan alasan untuk berhenti memakai tes-tes tersebut, melainkan alasan untuk membaca manual tes secara kritis dan melaporkan keterbatasannya secara jujur saat menafsirkan skor — sejalan dengan Kode Etik Psikologi Indonesia yang sudah dibahas di Pertemuan 1 dan 6.
+::: {.callout-note appearance="simple"}
+Tetapi, ini bukan berarti kita HARUS berhenti memakai tes-tes tersebut, melainkan alasan untuk membaca manual tes secara kritis dan melaporkan keterbatasannya secara jujur saat menafsirkan skor. Ini juga sejalan dengan Kode Etik Psikologi Indonesia yang sudah dibahas di Pertemuan 1 dan 6.
 :::
 
 # Aktivitas: menganalisis kasus {background-color="#14497F" .center}
@@ -244,7 +250,7 @@ Ini bukan alasan untuk berhenti memakai tes-tes tersebut, melainkan alasan untuk
 
 ::: {.callout-important}
 #### Kasus
-Seorang psikolog menggunakan CFIT (dinormakan di Amerika Serikat dan Eropa) untuk menilai anak-anak di sebuah desa yang jarang terpapar tes psikologi terstandardisasi — termasuk format pilihan ganda dan pengerjaan dengan batas waktu. Psikolog itu menyimpulkan bahwa skor yang rendah menunjukkan kemampuan kognitif yang rendah.
+Seorang psikolog menggunakan CFIT (dinormakan di Amerika Serikat dan Eropa) untuk menilai anak-anak di sebuah desa yang jarang terpapar tes psikologi terstandardisasi, termasuk format pilihan ganda dan pengerjaan dengan batas waktu. Psikolog itu menyimpulkan bahwa skor yang rendah menunjukkan kemampuan kognitif yang rendah.
 :::
 
 Diskusikan dengan kelompok Anda:
@@ -254,29 +260,19 @@ Diskusikan dengan kelompok Anda:
 * Dari empat pendekatan yang sudah dibahas, mana yang paling mengurangi risiko salah tafsir pada kasus ini?
 :::
 
-. . .
-
-::: {.callout-tip}
-#### Kunci
+::: {.notes}
 Ini terutama kasus pelanggaran **asumsi keterbandingan** dan **muatan budaya**, bukan murni bias statistik — psikolog di kasus ini tidak melakukan uji DIF apa pun, dan kemungkinan besar anak-anak tersebut belum familiar dengan format tes itu sendiri (bukan sekadar isinya). Tidak ada pendekatan tunggal yang sepenuhnya menyelesaikan masalah ini; rekomendasi terbaik adalah mengombinasikan tes non-verbal dengan dokumentasi keterbatasan interpretasi secara eksplisit dalam laporan.
 :::
 
 ## Ringkasan
 
 ::: {.incremental}
-1. Bias tes (istilah statistik), muatan budaya (istilah tentang isi), dan *fairness* (konsep validitas interpretasi yang lebih luas) adalah tiga hal yang berbeda.
-2. DIF adalah metode utama mendeteksi bias di level butir; invariansi faktor dan bias prediksi menguji bias di level skor total.
+1. Bias tes (berkaitan dengan statistik), muatan budaya (berkaitan tentang isi tes), dan *fairness* (konsep validitas interpretasi yang lebih luas) adalah tiga hal yang berbeda.
+2. DIF adalah metode utama mendeteksi bias di level butir; *factor invariance* dan bias prediksi menguji bias di level skor total.
 3. Empat pendekatan menguji individu lintas budaya — modifikasi, penerjemah, bahasa asli, non-verbal — masing-masing punya keterbatasan; tidak ada yang sepenuhnya bebas masalah validitas.
 4. Tes non-verbal mengurangi, bukan menghilangkan, muatan bahasa dan budaya, sehingga lebih tepat disebut *language-reduced*.
 5. Kerangka seperti *Culture-Language Test Classification* membantu praktisi mengelola muatan budaya dengan lebih baik.
 6. Bagi praktisi di Indonesia, isu ini relevan langsung dengan tes-tes adaptasi luar negeri yang dipakai sehari-hari.
-:::
-
-## Untuk Pertemuan 16
-
-::: {.callout-tip}
-#### Selanjutnya: penyelesaian proyek dan UAS
-Pertemuan 16 adalah penyelesaian proyek akhir dan Ujian Akhir Semester, mencakup keseluruhan proses penyusunan tes kognitif dari Pertemuan 1 hingga 15, termasuk kesadaran atas keterbatasan budaya instrumen yang Anda susun.
 :::
 
 ## Ada pertanyaan❓

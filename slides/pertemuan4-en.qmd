@@ -1,0 +1,246 @@
+---
+title: "Definition and Purpose of Achievement Tests"
+subtitle: "Cognitive Test Development"
+author: "Rizqy Amelia Zein"
+institute:
+  - "[_Department of Psychology, Universitas Airlangga_](https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/)"
+date: today
+format:
+  unair-revealjs:
+    slide-number: true
+    progress: true
+    transition: slide
+    center: false
+    css: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css
+    chalkboard: true
+execute:
+  eval: false
+  echo: true
+---
+
+## _Outline_
+
+::: {.incremental}
+* Achievement tests in everyday life
+* Definition and purpose of achievement tests
+* Four types of achievement tests by function
+* Basic principles of achievement test construction
+* Steps in constructing an achievement test
+* General and specific instructional objectives
+* Achievement test table of specifications
+* Item formats: objective or essay
+* Activity: identifying types of achievement tests
+:::
+
+::: aside
+***Disclosure* on the use of artificial intelligence (AI)**
+
+I used Claude Code (Opus 5 and Sonnet 5 models) to brainstorm material, search for references, and troubleshoot `quarto` and `git` code. I take full responsibility for the substance and presentation of this material.
+:::
+
+# Achievement tests in everyday life {background-color="#14497F" .center}
+
+## Some examples you're already familiar with
+
+::: {.incremental}
+* Daily quizzes and end-of-semester exams at school
+* Job competency certification exams
+* Foreign language course placement tests
+* Driving practical exams
+:::
+
+. . .
+
+All of the tests above are **achievement tests** because they measure what someone has already learned or mastered, consistent with the definition introduced in Meeting 1.
+
+# Definition and purpose {background-color="#14497F" .center}
+
+## Definition of an achievement test
+
+::: {.callout-note}
+#### Definition
+An achievement test is a measurement instrument designed to measure a person's learning outcomes after undergoing a particular learning or training process (Azwar, 1987).
+:::
+
+Unlike intelligence tests or aptitude tests, achievement tests are tied to **specific instructional material or objectives**. The results of an achievement test can therefore only be interpreted in relation to the material that was taught.
+
+## Purpose of achievement tests
+
+::: {.incremental}
+* Measuring how far learning objectives have been achieved
+* Providing feedback to instructors and learners
+* Serving as a basis for decisions: passing, placement, grade advancement
+* Identifying parts of the material that have not yet been mastered
+:::
+
+::: aside
+Azwar (1987); Anastasi & Urbina (1997).
+:::
+
+# Four types of achievement tests by function {background-color="#14497F" .center}
+
+## *Placement*, formative, diagnostic, summative
+
+| Type | Function | Item characteristics |
+|---|---|---|
+| ***Placement*** | Determining readiness to enter a program | Easy items, covering program prerequisites |
+| **Formative** | Providing feedback during the ongoing learning process | Tailored to each instructional unit |
+| **Diagnostic** | Identifying the source of learning difficulties | Easy items, focused on commonly occurring sources of difficulty |
+| **Summative** | Determining ranking or passing at the end of a program | Wide range of difficulty levels, representing the material as a whole |
+
+::: aside
+Adapted from the formative and summative evaluation tradition ([Bloom, Hastings, & Madaus, 1971](https://books.google.de/books/about/Handbook_on_Formative_and_Summative_Eval.html?id=yZwL0Qh392IC&redir_esc=y)) and its extension to diagnostic and placement evaluation in the related educational evaluation literature.
+:::
+
+## Why this distinction matters
+
+::: {.incremental}
+* All four are achievement tests, but their measurement purposes differ, so the scope of material and the difficulty level of their items also differ.
+* A formative test used as though it were a summative test (or vice versa) can produce conclusions that don't match its intended purpose.
+:::
+
+# Basic principles of achievement test construction {background-color="#14497F" .center}
+
+## Five principles
+
+::: {.incremental}
+1. Measure learning outcomes in line with the established learning objectives.
+2. Measure a representative sample of material relative to all the material taught.
+3. Choose the item format best suited to measuring the intended learning outcome.
+4. Design the test according to its type and function (*placement*, formative, diagnostic, or summative).
+5. Ensure reliability adequate for the intended decision-making function.
+:::
+
+::: aside
+Adapted from Azwar (1987).
+:::
+
+# Steps in constructing an achievement test {background-color="#14497F" .center}
+
+## Applying the Meeting 2 steps to achievement tests
+
+::: {.incremental}
+* Meeting 2 covered eleven general steps in test construction. For achievement tests, the first two steps (identifying the purpose, defining the construct) take a more specific form.
+* **Step 1 (test purpose)** — for an achievement test, this means determining which of the four types applies: *placement*, formative, diagnostic, or summative.
+* **Step 2 (construct definition)** — for an achievement test, this means formulating the **General Instructional Objective (GIO)** and **Specific Instructional Objectives (SIOs)** for the material being measured.
+:::
+
+# General and specific instructional objectives {background-color="#14497F" .center}
+
+## Two levels of objectives
+
+::: {.incremental}
+* **GIO (General Instructional Objective)** — a broad competency scope, for example *"students understand the principles of achievement testing"*.
+* **SIO (Specific Instructional Objective)** — breaks the GIO down into observable, measurable behaviors, using operational verbs from the taxonomy already covered in Meeting 3.
+:::
+
+. . .
+
+::: {.callout-tip}
+#### Example breakdown
+GIO: *"Students understand the principles of achievement testing."*
+
+SIOs: (1) explain each principle in their own words; (2) match each principle with an example; (3) predict the consequences if a principle is violated.
+:::
+
+Each of the SIOs above can already be translated directly into one or more test items.
+
+# Achievement test table of specifications {background-color="#14497F" .center}
+
+## Crossing content with cognitive level
+
+The achievement test table of specifications crosses content topics with cognitive process levels (Meeting 3), then determines the number of items in each cell:
+
+| Content topic | Remembering | Understanding | Applying | Total |
+|---|:-:|:-:|:-:|:-:|
+| Definition of achievement test terms | 3 | 2 | | 5 |
+| Achievement test construction principles | | 4 | 3 | 7 |
+| Types of achievement tests by function | 2 | 3 | 2 | 7 |
+| **Total** | 5 | 9 | 5 | 19 |
+
+::: aside
+Format adapted from the achievement test table-of-specifications tradition (Azwar, 1987; [Gronlund, 1993](https://eric.ed.gov/?id=ED358581)).
+:::
+
+## Serves the same function as the *blueprint* from Meeting 2
+
+::: {.callout-note}
+#### Note
+This table is the concrete form of the *blueprint* discussed in Meeting 2, with two axes now made specific: content topic (from the GIO/SIOs) and cognitive level (from the Meeting 3 taxonomy).
+:::
+
+# Item formats: objective or essay {background-color="#14497F" .center}
+
+## Two broad categories
+
+::: {.incremental}
+* **Objective items** — multiple choice, true-false, matching, short answer. Scoring does not depend on the examiner's subjective judgment.
+* **Essay items** — answers are composed by the test-taker themselves; scoring requires criteria and examiner judgment.
+:::
+
+. . .
+
+::: {.callout-note}
+#### Considerations for choosing an item format
+The choice of item format depends on the nature of the learning outcome being measured. Learning outcomes that call for constructing arguments or lengthy explanations are better measured with essay items; learning outcomes involving recognizing facts or applying procedures can generally be measured more efficiently with objective items.
+:::
+
+::: aside
+Item formats are discussed in more detail in Meeting 7.
+:::
+
+## Activity: identifying types of achievement tests
+
+For each situation below, determine whether the test functions as placement, formative, diagnostic, or summative:
+
+::: {.incremental}
+1. A test at the start of the semester to determine a participant's English class level (beginner, intermediate, or advanced).
+2. A short quiz at the end of each lecture session.
+3. A final semester exam that determines the course grade.
+4. A test given to students who repeatedly get the same topic wrong, to find out which part they haven't mastered.
+:::
+
+. . .
+
+::: {.callout-tip}
+#### Answer key
+(1) *Placement*. (2) Formative. (3) Summative. (4) Diagnostic.
+:::
+
+## Summary
+
+::: {.incremental}
+1. An achievement test measures learning outcomes and is tied to specific instructional material or objectives (Azwar, 1987).
+2. There are four types of achievement tests by function: placement, formative, diagnostic, summative — each with a different scope of material and level of item difficulty.
+3. The "test purpose" and "construct definition" steps from Meeting 2 take shape, for achievement tests, as determining the test type and formulating the GIO/SIOs.
+4. The achievement test table of specifications is the *blueprint* that crosses content topics with the cognitive levels from Meeting 3.
+5. The choice of item format (objective or essay) depends on the nature of the learning outcome being measured.
+:::
+
+## For Meeting 5
+
+::: {.callout-tip}
+#### Next: aptitude tests
+Meeting 5 covers aptitude tests, the second type of cognitive test from Meeting 1, which measure the capacity to learn something in the future rather than what has already been learned.
+:::
+
+## Any questions❓
+
+![](libs/closing.JPG){fig-align="center"}
+
+::: {.callout-note}
+### Note
+
+* This material was prepared using {{< fa brands r-project >}} and [**Quarto**](https://quarto.org) with a *template* from [UNAIR Theme](https://github.com/rameliaz/quarto-unair-theme).
+* Contact me via <i class="fas fa-paper-plane"></i> <a href="mailto:amelia.zein@psikologi.unair.ac.id">amelia.zein@psikologi.unair.ac.id</a>
+:::
+
+## References {.scrollable}
+
+Anastasi, A., & Urbina, S. (1997). *Psychological testing* (7th ed.). Prentice Hall.
+
+Azwar, S. (1987). *Tes prestasi: Fungsi dan pengembangan pengukuran prestasi belajar*. Liberty.
+
+Bloom, B. S., Hastings, J. T., & Madaus, G. F. (1971). *Handbook on formative and summative evaluation of student learning*. McGraw-Hill.
+
+Gronlund, N. E. (1993). *How to make achievement tests and assessments* (5th ed.). Allyn & Bacon.

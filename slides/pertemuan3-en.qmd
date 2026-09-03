@@ -1,0 +1,266 @@
+---
+title: "Taxonomy and Instructional Objectives"
+subtitle: "Cognitive Test Development"
+author: "Rizqy Amelia Zein"
+institute:
+  - "[_Departemen Psikologi, Universitas Airlangga_](https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/)"
+date: today
+format:
+  unair-revealjs:
+    slide-number: true
+    progress: true
+    transition: slide
+    center: false
+    css: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css
+    chalkboard: true
+execute:
+  eval: false
+  echo: true
+---
+
+## _Outline_
+
+::: {.incremental}
+* Two ways of formulating a learning objective
+* Definitions of taxonomy and instructional objective
+* Bloom's taxonomy and its revision
+* 6️⃣ levels of cognitive process
+* The knowledge dimension
+* The two-dimensional table and its link to the *blueprint*
+* Formulating instructional objectives
+* Verbs that cannot be observed
+* Activity: classifying instructional objectives
+:::
+
+::: aside
+***Disclosure* on the use of artificial intelligence (AI)**
+
+I used Claude Code (Model Opus 5 and Sonnet 5) to *brainstorm* material, search for references, and *troubleshoot* `quarto` and `git` code. I take full responsibility for the substance and presentation of this material.
+:::
+
+# 2️⃣ ways of formulating a learning objective {background-color="#14497F" .center}
+
+## Compare the two
+
+::: {.incremental}
+1. *"Students understand the concept of fractions."*
+2. *"Students can calculate the sum of two fractions with different denominators."*
+:::
+
+. . .
+
+::: {.callout-note appearance="simple"}
+The first formulation does not name an observable behavior. "Understand" could mean anything, and there is no direct way to assess whether that objective has been met. The second formulation names a specific behavior that can be measured with a single test item.
+:::
+
+The second formulation can be turned directly into a test item. The first cannot, not until it is first translated into a more specific form.
+
+# Definitions {background-color="#14497F" .center}
+
+## Taxonomy and instructional objectives
+
+::: {.callout-note}
+#### Taxonomy
+A classification system that arranges categories hierarchically, from the simplest to the most complex.
+:::
+
+::: {.callout-note}
+#### Instructional objective
+A statement of what learners are expected to be able to do after a learning process, formulated as observable and measurable behavior.
+:::
+
+. . .
+
+These two concepts are linked: taxonomy supplies the vocabulary and structure for formulating instructional objectives at the appropriate level of cognitive complexity.
+
+# Bloom's taxonomy and its revision {background-color="#14497F" .center}
+
+## Bloom's Taxonomy (1956)
+
+::: {.incremental}
+* Benjamin Bloom and his colleagues compiled the *Taxonomy of Educational Objectives: Handbook I, Cognitive Domain* ([Bloom et al., 1956](https://www.amazon.com/Taxonomy-Educational-Objectives-Handbook-Cognitive/dp/0582280109)).
+* Six categories, framed as nouns, arranged hierarchically: **Knowledge, Comprehension, Application, Analysis, Synthesis, Evaluation**.
+* Each level is assumed to encompass and require the level below it.
+:::
+
+::: aside
+This taxonomy served as the standard reference for designing learning objectives and achievement tests for more than four decades.
+:::
+
+## The 2001 revision
+
+::: {.incremental}
+* [Anderson and Krathwohl (2001)](https://books.google.de/books/about/A_Taxonomy_for_Learning_Teaching_and_Ass.html?hl=de&id=EMQlAQAAIAAJ&redir_esc=y) revised this taxonomy together with a group of researchers in education, cognition, curriculum, and measurement.
+* [Krathwohl (2002)](https://www.jstor.org/stable/1477405) wrote a summary of this revision, which is required reading for this session.
+* [Check the short version here](libs/bloom_revised.pdf).
+:::
+
+. . .
+
+::: {.callout-tip}
+#### Two main changes
+1. Categories were changed from nouns to verbs (for example, "Knowledge" became "Remember") to emphasize that this taxonomy describes a **cognitive process**, not just content.
+2. The order of the two highest levels was swapped: **Synthesis** (level 5 in the old taxonomy) became **Create** (level 6, the highest). The reasoning is that creating something new requires evaluation as one of its processes.
+3. A second dimension was added: the **knowledge dimension**, separate from the cognitive process dimension.
+:::
+
+# 6️⃣ levels of cognitive process {background-color="#14497F" .center}
+
+## The more basic levels
+
+| Level | Definition | Example verbs |
+|---|---|---|
+| **Remember** | Recognizing or recalling information | identify, list, name |
+| **Understand** | Explaining the meaning of information | explain, compare, summarize |
+| **Apply** | Using a procedure in a new situation | calculate, apply, demonstrate |
+
+::: aside
+[Krathwohl (2002)](https://www.jstor.org/stable/1477405?seq=1).
+:::
+
+## The more complex levels
+
+| Level | Definition | Example verbs |
+|---|---|---|
+| **Analyze** | Breaking information into parts and seeing the relationships between them | differentiate, organize, relate |
+| **Evaluate** | Making a judgment based on criteria | judge, compare, predict quality |
+| **Create** | Assembling elements into something new | design, formulate, produce |
+
+::: aside
+[Krathwohl (2002)](https://www.jstor.org/stable/1477405?seq=1).
+:::
+
+## These levels are more than just difficulty labels
+
+::: {.incremental}
+* A higher level does not always mean a "harder" item overall — it demands a **different cognitive process**.
+* A remembering item can still be difficult (a rarely known fact), and an analyzing item can still be easy (a simple comparison).
+* What distinguishes the levels is the **type of mental process** required, not the difficulty level.
+:::
+
+# The knowledge dimension {background-color="#14497F" .center}
+
+## Four types of knowledge
+
+::: {.incremental}
+* **Factual** — specific facts, terminology, details
+* **Conceptual** — categories, principles, theories, models
+* **Procedural** — steps, methods, techniques, criteria for when to use a given procedure
+* **Metacognitive** — awareness and knowledge of one's own thinking processes
+:::
+
+::: aside
+Anderson & Krathwohl (2001); [Krathwohl (2002)](https://www.jstor.org/stable/1477405?seq=1).
+:::
+
+## The two-dimensional table
+
+The revised taxonomy crosses the cognitive process dimension with the knowledge dimension, producing a 6×4 table. Each cell is a possible combination to be measured; the check marks below indicate one example combination for each type of knowledge:
+
+| | Remember | Understand | Apply | Analyze | Evaluate | Create |
+|---|:-:|:-:|:-:|:-:|:-:|:-:|
+| **Factual** | ✓ | | | | | |
+| **Conceptual** | | ✓ | | ✓ | | |
+| **Procedural** | | | ✓ | ✓ | ✓ | |
+| **Metacognitive** | | | | ✓ | ✓ | ✓ |
+
+. . .
+
+::: {.callout-tip}
+#### Link to the *blueprint*
+Session 2 explained that a *blueprint* crosses content domain with cognitive level. This table is the tool used to determine which cells are relevant to fill, and what proportion of items each should have, depending on the construct being measured.
+:::
+
+# Formulating instructional objectives {background-color="#14497F" .center}
+
+## The ABCD components
+
+Mager (1962) proposed formulating instructional objectives with three core components: **Behavior, Condition, Degree**. The **Audience** component was added later by other instructional design writers (not by Mager himself), forming the **ABCD** framework that is more widely known today:
+
+| Component | Question | Example |
+|---|---|---|
+| **Audience** | Who is learning? | 5th-semester students |
+| **Behavior** | What behavior is expected, stated as an observable verb? | can calculate |
+| **Condition** | Under what conditions/with what tools? | without a calculator, within 2 minutes |
+| **Degree** | How well/what is the success criterion? | with at least 80% accuracy |
+
+: {tbl-colwidths="[15,45,40]"}
+
+## The ABCD components
+
+::: {.callout-note}
+#### Example instructional objective
+*"5th-semester students (A) can calculate the sum of two fractions with different denominators (B) without a calculator (C) with at least 80% accuracy (D)."*
+:::
+
+# Verbs that cannot be observed {background-color="#14497F" .center}
+
+## Look closely at the verbs in an objective
+
+::: {.incremental}
+* Verbs such as "understand," "know," "realize," or "appreciate" describe an **internal state**, not a directly observable behavior.
+* This also applies to the names of the taxonomy levels themselves. "Understand" is the name of a category, not an operational verb ready to be used in an objective.
+* To formulate a measurable objective, verbs under the "Understand" category need to be translated into operational verbs such as "explain," "compare," or "conclude."
+:::
+
+. . .
+
+::: {.callout-important}
+#### Relevance for test development
+An instructional objective that does not use an operational verb is hard to translate directly into a test item. This is why the list of verbs in the taxonomy table (not the level names) serves as the practical reference when writing objectives and test items.
+:::
+
+## Activity: classifying instructional objectives
+
+Classify each of the following statements into one of the six levels of cognitive process:
+
+::: {.incremental}
+1. *"Students can name three types of cognitive tests."*
+2. *"Students can compare achievement tests and aptitude tests based on their time orientation."*
+3. *"Students can put together a test *blueprint* for a given construct."*
+:::
+
+. . .
+
+::: {.callout-tip}
+#### Answer key
+(1) Remember — recalling information. (2) Analyze — even though "compare" also appears as an example verb under both Understand and Evaluate, the process required here (dissecting two concepts based on certain criteria) fits Analyze better. The same verb can sit at different levels, depending on the cognitive process actually required. (3) Create — assembling elements (proportions, items, format) into a new product.
+:::
+
+## Summary
+
+::: {.incremental}
+1. Taxonomy is a hierarchical classification system; an instructional objective is a statement of measurable behavior that serves as a learning target.
+2. Bloom's Taxonomy (1956) used six noun categories; the [Anderson and Krathwohl (2001)](https://books.google.de/books/about/A_Taxonomy_for_Learning_Teaching_and_Ass.html?hl=de&id=EMQlAQAAIAAJ&redir_esc=y) revision turned them into verbs and swapped the order of the two highest levels.
+3. This revision added the knowledge dimension (factual, conceptual, procedural, metacognitive), forming a two-dimensional table together with the cognitive process dimension.
+4. This two-dimensional table is the tool used when building the *blueprint* in Session 2 and in your project.
+5. A measurable instructional objective is formulated with operational verbs (the ABCD model, rooted in Mager's 1962 Behavior-Condition-Degree), not verbs that describe a learner's internal state.
+:::
+
+## For Session 4
+
+::: {.callout-tip}
+#### Coming up: achievement tests
+Session 4 applies this taxonomy directly to achievement tests, the type of cognitive test most closely tied to specific instructional objectives and learning material.
+:::
+
+## Any questions❓
+
+![](libs/closing.JPG){fig-align="center"}
+
+::: {.callout-note}
+### Note
+
+* This presentation was prepared using {{< fa brands r-project >}} and [**Quarto**](https://quarto.org) with a *template* from the [UNAIR Theme](https://github.com/rameliaz/quarto-unair-theme).
+* Contact me via <i class="fas fa-paper-plane"></i> <a href="mailto:amelia.zein@psikologi.unair.ac.id">amelia.zein@psikologi.unair.ac.id</a>
+:::
+
+## References {.scrollable}
+
+Anderson, L. W., & Krathwohl, D. R. (Eds.). (2001). *A taxonomy for learning, teaching, and assessing: A revision of Bloom's taxonomy of educational objectives*. Longman.
+
+Bloom, B. S., Engelhart, M. D., Furst, E. J., Hill, W. H., & Krathwohl, D. R. (1956). *Taxonomy of educational objectives: The classification of educational goals. Handbook I, Cognitive domain*. David McKay Company.
+
+Krathwohl, D. R. (2002). A revision of Bloom's taxonomy: An overview. *Theory Into Practice, 41*(4), 212–218. <https://www.jstor.org/stable/1477405?seq=1>
+
+Mager, R. F. (1962). *Preparing instructional objectives*. Fearon Publishers.

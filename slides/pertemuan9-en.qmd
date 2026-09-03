@@ -1,0 +1,263 @@
+---
+title: "Writing Items to Measure Higher-Order Thinking Skills (HOTS)"
+subtitle: "Cognitive Test Development"
+author: "Rizqy Amelia Zein"
+institute:
+  - "[_Departemen Psikologi, Universitas Airlangga_](https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/)"
+date: today
+format:
+  unair-revealjs:
+    slide-number: true
+    progress: true
+    transition: slide
+    center: false
+    css: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css
+    chalkboard: true
+execute:
+  eval: false
+  echo: true
+---
+
+## _Outline_
+
+::: {.incremental}
+* From LOTS to HOTS
+* Definition and characteristics of HOTS items
+* Writing items at the Analyzing level
+* Writing items at the Evaluating level
+* Writing items at the Creating level
+* HOTS in achievement tests vs. aptitude tests
+* Common mistakes in writing HOTS items
+* Activity: reviewing a HOTS item
+:::
+
+::: aside
+***Disclosure* on the use of artificial intelligence (AI)**
+
+I used Claude Code (Sonnet 5 model) for *brainstorming* and producing a *baseline* draft of the material, searching for references, and *troubleshooting* `quarto` and `git` code. I take full responsibility for the substance and presentation of this material.
+:::
+
+# LOTS vs. HOTS {background-color="#14497F" .center}
+
+## Recall from Meeting 3: the six levels of cognitive process
+
+Meeting 3 covered the revised Bloom's taxonomy ([Anderson & Krathwohl, 2001](https://www.jstor.org/stable/1477405?seq=1)) with six cognitive process levels, arranged in order from simplest:
+
+Remembering → Understanding → Applying → Analyzing → Evaluating → Creating
+
+::: {.callout-note}
+#### LOTS vs. HOTS
+The first three levels are usually called ***lower-order thinking skills* (LOTS)**; the last three are called ***higher-order thinking skills* (HOTS)**. Today we focus on the Analyzing, Evaluating, and Creating levels.
+:::
+
+## Why LOTS-level items alone aren't enough
+
+Items that measure only the Remembering level require test-takers to recall information, without needing to show that they actually understand, interpret, or can apply that information to solve a problem they have not encountered in exactly the same context in which the information was taught.
+
+::: {.callout-tip appearance="simple"}
+The higher the cognitive level being measured, the more complex the thinking demanded of test-takers — so it's **more than just** a higher difficulty level for the item.
+:::
+
+# Definition and characteristics of HOTS items {background-color="#14497F" .center}
+
+## What is HOTS
+
+::: {.callout-note}
+#### Definition
+HOTS covers thinking processes that go beyond remembering and understanding: analyzing, evaluating (making a *judgement*), and creating — including critical thinking, creative thinking, and problem-solving.
+:::
+
+::: aside
+Bloom et al. (1956); [Anderson & Krathwohl (2001)](https://www.jstor.org/stable/1477405?seq=1); [Brookhart (2010)](https://www.tandfonline.com/doi/full/10.1080/10627197.2015.1093928?casa_token=Mym4vqQKgaQAAAAA%3AQMOZzUbsDrkyxNADhvJxmoRcBLM0937_H9wfV7a9bY3Az0J2vL7EEA4oJOEv6kkoMn6urtYvAM3Scqo).
+:::
+
+## Two characteristics of a good HOTS item
+
+::: {.incremental}
+1. There is an introductory **stimulus** — text, graph, table, case — that gives test-takers something to think through.
+2. A context or problem that **the test-taker has not encountered in exactly the same form before**, so the item cannot be answered simply by relying on memory.
+:::
+
+. . .
+
+::: {.callout-important}
+#### A common mistake
+A long, complicated-looking stimulus **does not automatically** make an item measure HOTS. If the answer can be found simply by matching a sentence in the stimulus, without needing to process that information, the cognitive process actually being demanded is still Remembering.
+:::
+
+::: aside
+[Brookhart (2010)](https://www.tandfonline.com/doi/full/10.1080/10627197.2015.1093928?casa_token=Mym4vqQKgaQAAAAA%3AQMOZzUbsDrkyxNADhvJxmoRcBLM0937_H9wfV7a9bY3Az0J2vL7EEA4oJOEv6kkoMn6urtYvAM3Scqo).
+:::
+
+# Writing items at the Analyzing level {background-color="#14497F" .center}
+
+## Three types of analysis process
+
+::: {.incremental}
+* **Analyzing elements** — recognizing assumptions that are not explicitly stated, distinguishing facts from opinions, distinguishing conclusions from the facts that support them.
+* **Analyzing relationships** — identifying relationships between ideas, recognizing cause-and-effect relationships, distinguishing relevant arguments from irrelevant ones.
+* **Analyzing organizational principles** — recognizing the form, pattern, or structure implicit in a text or communication.
+:::
+
+::: aside
+Bloom et al. (1956).
+:::
+
+## Example item: analyzing relationships
+
+::: {.callout-note}
+#### Stimulus
+*"A report found that ice cream sales and the number of drowning cases at public swimming pools both increased over the year. The report's author concluded that buying ice cream increases the risk of drowning."*
+:::
+
+*"The main flaw in this conclusion is..."*
+
+A) The ice cream sales data are not accurate enough　B) Both are likely influenced by the summer season　C) There are too few drowning cases to analyze　D) Public swimming pools are not representative
+
+. . .
+
+::: {.callout-tip appearance="simple"}
+**B** — correlation between two variables does not prove that one causes the other; both can be explained by a third variable (the summer season). Answering this requires analyzing a cause-and-effect relationship.
+:::
+
+# Writing items at the Evaluating level {background-color="#14497F" .center}
+
+## Two types of evaluation criteria
+
+::: {.incremental}
+* **Internal criteria** — the accuracy, consistency, and logical sequencing of the work or argument itself.
+* **External criteria** — standards outside the work, such as efficiency, fitness for a particular purpose, or comparison with other alternatives.
+:::
+
+::: aside
+Bloom et al. (1956).
+:::
+
+## Example item: evaluating
+
+::: {.callout-note}
+#### Stimulus
+*"The following two study designs both test whether training X improves score Y."*
+
+Design 1: Measures score Y in the same group, before and after training, with no comparison group.
+
+Design 2: Measures score Y in a group that received the training and a group that did not, both measured at the same time.
+:::
+
+*"Based on the criterion of ability to control for alternative explanations, which design is stronger?"*
+
+A) Design 1　B) Design 2　C) Equally strong　D) Cannot be determined
+
+. . .
+
+::: {.callout-tip}
+#### Answer key
+**B** — a design with a comparison group is better able to control for alternative explanations such as time effects or maturation, which cannot be ruled out in Design 1.
+:::
+
+# Writing items at the Creating level {background-color="#14497F" .center}
+
+## Three forms of product demanded
+
+Bloom et al.'s (1956) original taxonomy called this level Synthesis; the revised taxonomy folded it into Creating (Meeting 3). Its three original sub-categories are still useful as a guide for writing items:
+
+::: {.incremental}
+* **Producing a unique communication** — a short story, an essay, a composition.
+* **Devising a plan or a set of proposed operations** — an experimental proposal, an intervention design.
+* **Deriving a set of abstract relations** — formulating a hypothesis, constructing a new conceptual scheme.
+:::
+
+## The limits of multiple choice for this level
+
+::: {.callout-important appearance="simple"}
+Multiple-choice items are poorly suited to measuring Creating in its pure form, because this level emphasizes the test-taker's ability to produce original ideas. In practice, this level is more often measured through essays or *project-based assessment* than through objective tests.
+:::
+
+For tests that must remain standardized with objectively scorable items (such as aptitude tests), a more realistic approach is to ask test-takers to **recognize** the best synthesis among several options provided.
+
+# HOTS in achievement tests vs. aptitude tests {background-color="#14497F" .center}
+
+## Different paths to the same level
+
+::: {.incremental}
+* **Aptitude tests** — items are designed to measure reasoning processes, not content mastery (Meetings 5–7). Because of this, a good aptitude test item is almost automatically at the Analyzing or Evaluating level; for example, the *induction* and *general sequential reasoning* items discussed in Meeting 7.
+* **Achievement tests** — items are derived from Specific Instructional Objectives (TIK) tied to particular content (Meeting 4). Moving from LOTS to HOTS here has to be deliberate: a TIK item that merely tests rote recall needs to be rewritten as one that demands case analysis or application to a new situation.
+:::
+
+::: {.callout-tip}
+#### Relevance for your final project
+The cognitive test you develop for your final project (Meeting 14) will have stronger content validity if some of its items are deliberately designed at the HOTS level, in line with the proportions in your *blueprint* (Meetings 2 and 3).
+:::
+
+# Common mistakes in writing HOTS items {background-color="#14497F" .center}
+
+## Two mistakes that keep happening
+
+::: {.incremental}
+* **Pseudo-HOTS** — the stimulus is made long and looks complex, but the answer can be found directly in the stimulus without any need to process new information. The cognitive process actually demanded is still Remembering.
+* **Irrelevant language difficulty** — the stimulus is written in language that is too complicated, so the item ends up testing test-takers' literacy skills more than the intended cognitive process.
+:::
+
+::: {.callout-note appearance="simple"}
+The principles for writing *stems* and *options* from Meeting 7 — positive wording, one core idea, options of comparable length — still apply in full to HOTS items. A higher cognitive level is no excuse for ignoring these basic principles.
+:::
+
+## Activity: reviewing a HOTS item
+
+::: {.callout-important}
+#### Item to review
+*"Read the following paragraph: 'Cultural bias in a cognitive test occurs when a test produces systematic measurement error against a particular cultural group.' Based on the paragraph above, the definition of cultural bias is..."*
+
+A) Random measurement error affecting all test-takers　B) Systematic measurement error against a particular cultural group　C) A difference in mean scores between cultural groups　D) A mismatch between the test norms and the population
+
+:::
+
+Discuss with a classmate: does this item really measure the Analyzing level?
+
+. . .
+
+::: {.callout-tip}
+#### Answer key
+No — answer (B) can be found by directly matching a sentence in the stimulus, without needing to process or connect any information. This is an example of **pseudo-HOTS**: the stimulus looks as though it requires analytical skills, but the cognitive process actually demanded is still Remembering.
+:::
+
+## Summary
+
+::: {.incremental}
+1. HOTS covers the three highest levels of the revised Bloom's taxonomy: Analyzing, Evaluating, and Creating.
+2. A good HOTS item has a stimulus and context that the test-taker has not encountered in exactly the same form before.
+3. The sub-categories of Bloom et al.'s (1956) original taxonomy — analyzing elements/relationships/organizational principles, internal/external evaluation criteria, the three forms of synthesis products — remain useful as a practical guide for writing items.
+4. Creating in its pure form is hard to measure with multiple choice; aptitude tests usually approximate it through pattern-recognition items.
+5. Aptitude test items tend to sit at the HOTS level almost automatically; achievement test items need to be deliberately raised from the existing TIK.
+6. Watch out for pseudo-HOTS — a complicated stimulus whose answer can still be found through simple recall.
+:::
+
+## For Meeting 10
+
+::: {.callout-tip}
+#### Next up: structured practice
+Meeting 10 begins a series of structured, guided practice sessions on developing a cognitive test, starting with item specifications and building the *blueprint* for your group's final project.
+:::
+
+## Any questions❓
+
+![](libs/closing.JPG){fig-align="center"}
+
+::: {.callout-note}
+### Notes
+
+* This presentation was prepared using {{< fa brands r-project >}} and [**Quarto**](https://quarto.org) with a *template* from [UNAIR Theme](https://github.com/rameliaz/quarto-unair-theme).
+* Contact me via <i class="fas fa-paper-plane"></i> <a href="mailto:amelia.zein@psikologi.unair.ac.id">amelia.zein@psikologi.unair.ac.id</a>
+:::
+
+## References {.scrollable}
+
+Anderson, L. W., & Krathwohl, D. R. (Eds.). (2001). *A taxonomy for learning, teaching, and assessing: A revision of Bloom's taxonomy of educational objectives*. Longman.
+
+Bloom, B. S., Engelhart, M. D., Furst, E. J., Hill, W. H., & Krathwohl, D. R. (1956). *Taxonomy of educational objectives: The classification of educational goals. Handbook I, Cognitive domain*. David McKay Company.
+
+Brookhart, S. M. (2010). *How to assess higher-order thinking skills in your classroom*. ASCD.
+
+Haladyna, T. M., Downing, S. M., & Rodriguez, M. C. (2002). A review of multiple-choice item-writing guidelines for classroom assessment. *Applied Measurement in Education, 15*(3), 309–334.
+
+Krathwohl, D. R. (2002). A revision of Bloom's taxonomy: An overview. *Theory Into Practice, 41*(4), 212–218. <https://www.jstor.org/stable/1477405?seq=1>

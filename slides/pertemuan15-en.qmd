@@ -1,0 +1,299 @@
+---
+title: "Cultural Bias Issues in Cognitive Test Development"
+subtitle: "Cognitive Test Development"
+author: "Rizqy Amelia Zein"
+institute:
+  - "[_Departemen Psikologi, Universitas Airlangga_](https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/)"
+date: today
+format:
+  unair-revealjs:
+    slide-number: true
+    progress: true
+    transition: slide
+    center: false
+    css: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css
+    chalkboard: true
+execute:
+  eval: false
+  echo: true
+---
+
+## _Outline_
+
+::: {.incremental}
+* Bias, cultural loading, and *fairness*
+* History of test litigation in the United States
+* Detecting bias statistically
+* Four approaches to testing individuals across cultures
+* Non-verbal tests: are they really culture-free?
+* The *Culture-Language Test Classification* framework
+* Implications for the Indonesian context
+* Activity: analyzing a case
+:::
+
+::: aside
+***Disclosure* on the use of artificial intelligence (AI)**
+
+I used Claude Code (Model Sonnet 5) for *brainstorming* and creating a *baseline* of the material, searching for references, and troubleshooting `quarto` and `git` code. I take full responsibility for the substance and presentation of these slides.
+:::
+
+# Recap {background-color="#14497F" .center}
+
+## *Leftover* from Meeting 6
+
+::: {.callout-note}
+#### What we've already touched on
+CFIT and the *Progressive Matrices* were designed to reduce the influence of language and cultural background on scores. This design does not fully eliminate cultural influence, and we discuss this issue in depth today.
+:::
+
+Generally, there are three issues that often get confused with one another: bias, cultural loading, and *fairness*.
+
+::: aside
+McCallum (2018).
+:::
+
+# Bias, cultural loading, and *fairness* {background-color="#14497F" .center}
+
+## 3️⃣ terms that are often confused
+
+::: {.incremental}
+* **Test bias** — a technical, statistical term: systematic measurement error tied to membership in a particular cultural or racial group, whose impact disadvantages test takers from that background, demonstrated through a statistical procedure.
+* **Cultural loading** — the extent to which a test's content or stimuli assume that certain cultural knowledge and experience are needed to respond to the test.
+* ***Fairness*** — a broader concept: whether a test gives all test takers, regardless of background and regardless of the results of a statistical bias test, an equal opportunity to demonstrate their optimal ability.
+:::
+
+::: aside
+McCallum (2018).
+:::
+
+## A combination that's often overlooked
+
+::: {.callout-important}
+#### Key point for today
+A test can be highly culturally loaded **without** being proven statistically biased, and conversely can be free of cultural loading yet still biased. These are two different dimensions.
+:::
+
+Most major intelligence and cognitive ability tests, when retested, are not shown to be statistically biased in this sense — but that doesn't mean the test is automatically free of cultural loading or fair when used for cross-group comparisons.
+
+::: aside
+Reynolds & Lowe (2009), in McCallum (2018).
+:::
+
+# History of test litigation in the United States {background-color="#14497F" .center}
+
+## Cases that changed testing practice
+
+::: {.incremental}
+* [***Diana v. State Board of Education***](https://serr.disabilityrightsca.org/serr-manual/chapter-2-information-on-evaluations-assessments/2-48-what-was-the-diana-v-state-board-of-education-case-what-impact-does-the-diana-case-have-on-spanish-speaking-students/) (1970) and [***Larry P. v. Riles***](https://en.wikipedia.org/wiki/Larry_P._v._Riles) (1979) — lawsuits challenging the use of intelligence test scores (normed on the majority group) to place minority children into special education classes.
+* The outcomes of this litigation pushed test developers to build instruments that account more for cultural diversity, and influenced regulations such as the *Individuals with Disabilities Education Act*.
+:::
+
+::: {.callout-note}
+#### Connection to Meeting 6
+This is a further chapter in the history of intelligence-test misuse we already discussed in Meeting 6. This issue is closely tied to decisions (school placement) made on the basis of test results.
+:::
+
+::: aside
+McCallum (2018).
+:::
+
+# Detecting bias statistically {background-color="#14497F" .center}
+
+## *Differential Item Functioning* (DIF)
+
+::: {.incremental}
+* DIF occurs when an item shows different statistical properties between two groups — the **reference group** (e.g. the majority) and the ***focal* group** (e.g. a minority) — **that have already been matched on ability**.
+* ***Uniform* DIF** — an item consistently favors one group across all ability levels.
+* ***Non-uniform* DIF** — an item's discrimination differs between groups depending on ability level.
+:::
+
+::: {.callout-note appearance="simple"}
+DIF is a statistical indicator, but it is not automatically proof of "bias." An item flagged for DIF still needs to be reviewed qualitatively to confirm the cause is genuinely unfair content, rather than simply a real difference in ability between groups.
+:::
+
+::: aside
+Maller & Pei (2018), in McCallum (2018).
+:::
+
+## DIF: Item level vs. test level
+
+::: {.incremental}
+* ***Factor invariance*** — whether the test's factor structure is the same across the two groups being compared.
+* **Predictive bias** — whether the test predicts a criterion (e.g. academic achievement) with the same accuracy for all groups.
+:::
+
+A sound bias investigation starts with item-level DIF, moves on to *factor invariance*, and ends with a predictive-bias test at the total-score level.
+
+::: aside
+Maller & Pei (2018), in McCallum (2018).
+:::
+
+## *Fairness* according to the *Standards* (2014)
+
+::: {.callout-tip}
+#### Definition of *fairness*
+*"A fair test does not advantage or disadvantage some individuals because of characteristics irrelevant to the intended construct."* — *Standards for Educational and Psychological Testing* (AERA, APA, & NCME, 2014, p. 50)
+:::
+
+*Fairness* covers more than just statistical test results: test design, administration procedures, and score interpretation must all give test takers an equal chance to demonstrate their ability.
+
+## The assumption of comparability
+
+::: {.callout-important}
+#### An assumption that's often not met
+When we compare a test taker's score to a norm, we assume the test taker's level of acculturation is comparable to that of the standardization sample. When a test taker's background and experience differ greatly from the norm sample, using that norm to evaluate or predict their performance may not be appropriate.
+:::
+
+::: aside
+Salvia & Ysseldyke (1991), in Ortiz et al. (2018).
+:::
+
+# Four approaches to testing individuals across cultures {background-color="#14497F" .center}
+
+## No single approach is a perfect solution
+
+| Approach | Brief description | Main limitation |
+|---|---|---|
+| Modified/adapted tests | Removing/simplifying some items or instructions, dropping time limits | Violates standardized procedure → introduces uncontrolled *error* |
+| Translator/interpreter | Items are translated directly during administration | Items remain tied to the original culture; standardization is still violated |
+| *Native-language* tests | Tests actually developed and standardized in the test taker's language | Norms often come from monolingual speakers in another country, not representative of bilingual test takers in the destination country |
+| Non-verbal tests | Items designed to minimize language demands | Still culturally loaded through visual stimuli and gestural instructions |
+
+: {tbl-colwidths="[20,40,40]"}
+
+::: aside
+Ortiz, Piazza, Ochoa, & Dynda (2018).
+:::
+
+## The approach practitioners choose most often
+
+* A survey of school psychologists found that 88% chose non-verbal tests, 40% used a translator, and 20% used native-language tests when assessing culturally and linguistically diverse individuals.
+
+* So, far fewer actually check score validity directly.
+
+::: aside
+Sotelo-Dynega et al. (2011), in Ortiz et al. (2018).
+:::
+
+# Non-verbal tests: are they really culture-free? {background-color="#14497F" .center}
+
+## "Non-verbal" is a somewhat misleading term
+
+::: {.incremental}
+* Even tests marketed as "100% non-verbal" still require communication.
+  + At minimum, to explain when to start, when to stop, and what counts as a correct answer — usually through gestures that the test taker also has to learn.
+* Visual stimuli (pictures of objects, symbols) can still be more familiar to one culture than another.
+* A more accurate term: ***language-reduced*** tests — meaning these tests are **not actually free of language or culture**.
+:::
+
+::: aside
+Ortiz et al. (2018); McCallum (2018).
+:::
+
+## Evidence that non-verbal tests aren't automatically fair
+
+::: {.callout-important}
+#### Empirical finding
+A study of three popular non-verbal tests commonly used to identify gifted children found a large score gap between *English language learner* (ELL) and non-ELL students.
+
+Conclusion: non-verbal tests don't automatically "level the *playing field*" for children from different cultural backgrounds.
+:::
+
+::: aside
+Lohman et al. (2008), in Ortiz et al. (2018).
+:::
+
+# The *Culture-Language Test Classification* framework {background-color="#14497F" .center}
+
+## Mapping cultural loading and language demands
+
+Rather than simply assuming a test is "culture-free" or not, this framework maps the degree of cultural loading and language demand for each subtest into a 2×2 matrix:
+
+| | Low language demand | Moderate language demand | High language demand |
+|---|:-:|:-:|:-:|
+| **Low cultural loading** | Least-affected subtests | | |
+| **Moderate cultural loading** | | Analogical reasoning subtests | |
+| **High cultural loading** | Spatial memory subtests | | Most-affected subtests |
+
+::: aside
+Flanagan et al. (2007, 2013), in McCallum (2018).
+:::
+
+## Its practical value
+
+::: {.callout-tip}
+#### Managing bias in a test, not eliminating it entirely
+This framework helps practitioners choose the subtests whose cultural and language demands best match the test taker's background.
+
+This isn't a way to eliminate cultural influence entirely — under this framework, every test is culturally loaded to some degree.
+
+But what can be pursued is managing that loading deliberately when choosing instruments and interpreting scores.
+:::
+
+# Implications for the Indonesian context {background-color="#14497F" .center}
+
+## A few reflective questions
+
+::: {.incremental}
+* Most cognitive tests used in Indonesia (e.g. Wechsler, CFIT, *Progressive Matrices*) were originally developed and normed outside Indonesia (Meeting 6).
+* Cross-cultural test adaptation should ideally include re-testing psychometric properties on a local sample (Meeting 2), not just word-for-word translation.
+* Indonesia itself is highly diverse in language and culture across regions; a single national norm risks masking this variation.
+:::
+
+::: {.callout-note appearance="simple"}
+That said, this doesn't mean we MUST stop using these tests — rather, it's a reason to read test manuals critically and to honestly report their limitations when interpreting scores. This also aligns with the Indonesian Psychological Code of Ethics discussed in Meetings 1 and 6.
+:::
+
+# Activity: analyzing a case {background-color="#14497F" .center}
+
+## A case to discuss
+
+::: {.callout-important}
+#### Case
+A psychologist uses the CFIT (normed in the United States and Europe) to assess children in a village rarely exposed to standardized psychological tests, including multiple-choice formats and timed tasks. The psychologist concludes that the low scores indicate low cognitive ability.
+:::
+
+Discuss with your group:
+
+::: {.incremental}
+* Is this purely a matter of statistical bias, cultural loading, or the broader concept of *fairness*?
+* Of the four approaches we've discussed, which one would most reduce the risk of misinterpretation in this case?
+:::
+
+::: {.notes}
+This is mainly a case of violating the **comparability assumption** and **cultural loading**, not purely statistical bias — the psychologist in this case did not run any DIF test, and the children were most likely unfamiliar with the test format itself (not just its content). No single approach fully resolves this problem; the best recommendation is to combine a non-verbal test with explicit documentation of the interpretive limitations in the report.
+:::
+
+## Summary
+
+::: {.incremental}
+1. Test bias (a statistical matter), cultural loading (about test content), and *fairness* (a broader concept of interpretive validity) are three different things.
+2. DIF is the main method for detecting bias at the item level; *factor invariance* and predictive bias test for bias at the total-score level.
+3. The four approaches to testing individuals across cultures — modification, translator, native-language, non-verbal — each have limitations; none is entirely free of validity problems.
+4. Non-verbal tests reduce, rather than eliminate, language and cultural loading, which is why *language-reduced* is a more accurate label.
+5. Frameworks such as the *Culture-Language Test Classification* help practitioners manage cultural loading more effectively.
+6. For practitioners in Indonesia, this issue is directly relevant to the foreign-adapted tests used every day.
+:::
+
+## Any questions❓
+
+![](libs/closing.JPG){fig-align="center"}
+
+::: {.callout-note}
+### Note
+
+* These slides were prepared using {{< fa brands r-project >}} and [**Quarto**](https://quarto.org) with a *template* from [UNAIR Theme](https://github.com/rameliaz/quarto-unair-theme).
+* Contact me via <i class="fas fa-paper-plane"></i> <a href="mailto:amelia.zein@psikologi.unair.ac.id">amelia.zein@psikologi.unair.ac.id</a>
+:::
+
+## References {.scrollable}
+
+American Educational Research Association, American Psychological Association, & National Council on Measurement in Education. (2014). *Standards for educational and psychological testing*. AERA.
+
+Franklin, T. (2018). Best practices in multicultural assessment of cognition. In R. S. McCallum (Ed.), *Handbook of nonverbal assessment* (2nd ed., pp. 46–53). Springer.
+
+Maller, S. J., & Pei, L.-K. (2018). Best practices in detecting bias in cognitive tests. In R. S. McCallum (Ed.), *Handbook of nonverbal assessment* (2nd ed., pp. 29–45). Springer.
+
+McCallum, R. S. (2018). Context for nonverbal assessment of intelligence and related abilities. In R. S. McCallum (Ed.), *Handbook of nonverbal assessment* (2nd ed., pp. 12–28). Springer.
+
+Ortiz, S. O., Piazza, N., Ochoa, S. H., & Dynda, A. M. (2018). Testing with culturally and linguistically diverse populations: New directions in fairness and validity. In D. P. Flanagan & E. M. McDonough (Eds.), *Contemporary intellectual assessment: Theories, tests, and issues* (4th ed., pp. 684–735). Guilford Press.

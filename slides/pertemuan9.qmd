@@ -37,11 +37,11 @@ execute:
 Saya menggunakan Claude Code (Model Sonnet 5) untuk *brainstorming* dan membuat *baseline* materi, mencari referensi, dan melakukan *troubleshooting* kode `quarto` dan `git`. Saya bertanggung jawab penuh atas substansi dan penyajian presentasi ini.
 :::
 
-# Dari LOTS ke HOTS {background-color="#14497F" .center}
+# LOTS vs. HOTS {background-color="#14497F" .center}
 
-## Recap: enam level proses kognitif
+## Ingat materi Pertemuan 3: enam level proses kognitif
 
-Pertemuan 3 membahas taksonomi Bloom revisi (Anderson & Krathwohl, 2001) dengan enam level proses kognitif, berjenjang dari yang paling sederhana:
+Pertemuan 3 membahas taksonomi Bloom revisi ([Anderson & Krathwohl, 2001](https://www.jstor.org/stable/1477405?seq=1)) dengan enam level proses kognitif, berjenjang dari yang paling sederhana:
 
 Mengingat → Memahami → Menerapkan → Menganalisis → Mengevaluasi → Mencipta
 
@@ -52,10 +52,9 @@ Tiga level pertama biasa disebut ***lower order thinking skills* (LOTS)**; tiga 
 
 ## Mengapa item level LOTS saja tidak cukup
 
-Item yang hanya mengukur level Mengingat menuntut peserta memanggil kembali informasi, tanpa perlu menunjukkan bahwa mereka benar-benar memahami, menafsirkan, atau mampu menerapkan informasi tersebut untuk memecahkan persoalan yang belum pernah mereka jumpai persis dalam bentuk itu.
+Item yang hanya mengukur level Mengingat menuntut peserta memanggil kembali informasi, tanpa perlu menunjukkan bahwa mereka benar-benar memahami, menafsirkan, atau mampu menerapkan informasi tersebut untuk memecahkan persoalan yang belum pernah mereka jumpai persis dalam konteks ketika informasi tsb. diajarkan.
 
-::: {.callout-tip}
-#### Konsekuensi praktis
+::: {.callout-tip appearance="simple"}
 Semakin tinggi level kognitif yang diukur, semakin dituntut kemampuan berpikir kompleks dari peserta, jadi **lebih dari sekadar** semakin tinggi tingkat kesulitan soalnya.
 :::
 
@@ -69,7 +68,7 @@ HOTS mencakup proses berpikir yang melampaui mengingat dan memahami: menganalisi
 :::
 
 ::: aside
-Bloom dkk. (1956); Anderson & Krathwohl (2001); Brookhart (2010).
+Bloom dkk. (1956); [Anderson & Krathwohl (2001)](https://www.jstor.org/stable/1477405?seq=1); [Brookhart (2010)](https://www.tandfonline.com/doi/full/10.1080/10627197.2015.1093928?casa_token=Mym4vqQKgaQAAAAA%3AQMOZzUbsDrkyxNADhvJxmoRcBLM0937_H9wfV7a9bY3Az0J2vL7EEA4oJOEv6kkoMn6urtYvAM3Scqo).
 :::
 
 ## Dua ciri item HOTS yang baik
@@ -87,7 +86,7 @@ Stimulus yang panjang dan tampak rumit **tidak otomatis** membuat sebuah item me
 :::
 
 ::: aside
-Brookhart (2010).
+[Brookhart (2010)](https://www.tandfonline.com/doi/full/10.1080/10627197.2015.1093928?casa_token=Mym4vqQKgaQAAAAA%3AQMOZzUbsDrkyxNADhvJxmoRcBLM0937_H9wfV7a9bY3Az0J2vL7EEA4oJOEv6kkoMn6urtYvAM3Scqo).
 :::
 
 # Menulis item level Menganalisis {background-color="#14497F" .center}
@@ -199,8 +198,7 @@ Tes kognitif yang Anda susun untuk proyek akhir (Pertemuan 14) akan lebih kuat v
 * **Kesulitan bahasa yang tidak relevan** — stimulus ditulis dengan bahasa yang terlalu rumit sehingga item lebih banyak menguji kemampuan literasi peserta dibanding proses kognitif yang dimaksud.
 :::
 
-::: {.callout-note}
-#### Catatan
+::: {.callout-note appearance="simple"}
 Prinsip menulis *stem* dan *options* dari Pertemuan 7 — kalimat positif, satu ide inti, panjang pilihan yang setara juga tetap berlaku penuh untuk item HOTS. Level kognitif yang lebih tinggi bukan alasan untuk mengabaikan prinsip dasar ini.
 :::
 
@@ -214,7 +212,7 @@ A) Kesalahan pengukuran acak pada semua peserta　B) Kesalahan pengukuran sistem
 
 :::
 
-Diskusikan dengan teman sebangku: apakah item ini benar-benar mengukur level Menganalisis?
+Diskusikan dengan rekan Anda: apakah item ini benar-benar mengukur level Menganalisis?
 
 . . .
 

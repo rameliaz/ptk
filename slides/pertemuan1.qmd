@@ -94,7 +94,7 @@ Dari mata kuliah Psikometri, Anda sudah belajar hal-hal berikut ini:
 * **Pengukuran** — mengubah atribut ukur (konstruk psikologis) menjadi angka
 * **Validitas** — apakah tes mengukur apa yang seharusnya diukur?
 * **Reliabilitas** — apakah hasil pengukuran konsisten?
-* **Atribut psikologis** — konstrak yang bersifat laten, tidak teramati langsung
+* **Atribut psikologis** — konstruk yang bersifat laten, tidak teramati langsung
 :::
 
 . . .
@@ -148,7 +148,7 @@ Karena atributnya laten, **tidak ada tes yang mengukur secara sempurna**. Setiap
 | Istilah | Definisi singkat |
 |---|---|
 | **Tes** | Pengukuran objektif dan standar terhadap sampel perilaku (Anastasi & Urbina, 1997) |
-| **Skala** | Instrumen untuk mengidentifikasi konstrak/atribut psikologis, biasanya non-kognitif |
+| **Skala** | Instrumen untuk mengidentifikasi konstruk/atribut psikologis, biasanya non-kognitif |
 | **Inventori** | Alat untuk mengestimasi dan menilai tingkah laku, minat, atau preferensi |
 | **Angket/Kuesioner** | Sekumpulan pertanyaan mengenai suatu topik, jawaban berdasarkan *self-report* partisipan |
 
@@ -161,7 +161,7 @@ Kalau ada jawaban **benar-salah** yang bisa dinilai objektif dari performa → i
 
 # Ranah atribut yang diukur {background-color="#14497F" .center}
 
-## Dari atribut fisik ke atribut psikologis
+## Percabangan atribut: fisik dan psikologis
 
 ::: {.incremental}
 * Atribut terbagi dua: **fisik** (tinggi, berat) dan **non-fisik/psikologis**.

@@ -1,0 +1,224 @@
+---
+title: "Aptitude Tests"
+subtitle: "Cognitive Test Development"
+author: "Rizqy Amelia Zein"
+institute:
+  - "[_Departemen Psikologi, Universitas Airlangga_](https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/)"
+date: today
+format:
+  unair-revealjs:
+    slide-number: true
+    progress: true
+    transition: slide
+    center: false
+    css: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css
+    chalkboard: true
+execute:
+  eval: false
+  echo: true
+---
+
+## _Outline_
+
+::: {.incremental}
+* Definition of an aptitude test
+* Aptitude test vs. achievement test
+* Two categories of aptitude test
+* Academic Potential Test (TPA)
+* Special aptitude tests
+* Common item formats
+* Activity: classifying TPA items
+:::
+
+::: aside
+***Disclosure* on the use of artificial intelligence (AI)**
+
+I used Claude Code (Opus 5 and Sonnet 5 models) to brainstorm content, search for references, and troubleshoot `quarto` and `git` code. I take full responsibility for the substance and presentation of these slides.
+:::
+
+# Achievement Tests vs. Aptitude Tests {background-color="#14497F" .center}
+
+## Compare
+
+::: {.incremental}
+1. A final exam in a Statistics course — measures how well students have mastered material that has already been taught.
+2. An Academic Potential Test (TPA) for admission to a master's program — measures how likely a prospective student is to succeed in further study, before that study begins.
+:::
+
+. . .
+
+Both are cognitive tests that measure maximal performance. The difference: (1) measures learning outcomes that have already occurred, (2) measures the capacity for learning that has not yet occurred. This distinction was introduced in Meeting 1 — today we go deeper into point (2).
+
+# Definition of an aptitude test {background-color="#14497F" .center}
+
+## Definition
+
+::: {.callout-note}
+#### Definition
+An aptitude test is a measurement tool designed to estimate a person's capacity to learn a particular skill or field in the future (Anastasi & Urbina, 1997).
+:::
+
+::: {.incremental}
+* An aptitude test does not assume the test-taker has formally studied the material being tested.
+* Aptitude test scores are interpreted as **predictions** of future performance.
+:::
+
+::: aside
+Azwar (2019).
+:::
+
+# Aptitude test vs. achievement test {background-color="#14497F" .center}
+
+## Comparison
+
+| | Aptitude Test | Achievement Test |
+|---|---|---|
+| Measures | Future learning capacity | Mastery of material already taught |
+| Time orientation | Predictive | Retrospective |
+| Dependence on a specific curriculum | Low | High |
+| Example uses | Admissions, job placement | School exams, certification |
+| Quality evaluation criterion | Predictive validity | Content validity |
+
+::: aside
+Adapted from Anastasi & Urbina (1997) and Azwar (2019); see also Meeting 1.
+:::
+
+## The line between the two is not always clear
+
+::: {.incremental}
+* An aptitude test still requires a certain amount of prior knowledge as a medium of measurement — a quantitative item, for instance, still uses arithmetic operations the test-taker has already learned.
+* Because of this, some experts note that a strong correlation between achievement test scores and aptitude test scores is a case of the [*jangle fallacy*](https://russellwarne.com/2019/10/23/the-jangle-fallacy-aptitude-%E2%89%88-achievement/): the names of the tests/constructs differ, but they actually describe the same psychological phenomenon.
+* So the difference may lie in **the purpose the score is used for**: predicting future performance, rather than evaluating past learning outcomes.
+:::
+
+# Two categories of aptitude test {background-color="#14497F" .center}
+
+## Academic aptitude tests and special aptitude tests
+
+::: {.incremental}
+1. **Academic Potential Test (TPA)** — measures general cognitive capacity relevant to academic success, not tied to any one specific field of expertise.
+2. **Special aptitude test** — measures capacity in one particular ability domain, such as mechanical ability, clerical ability, or spatial ability.
+:::
+
+# Academic Potential Test (TPA) {background-color="#14497F" .center}
+
+## Origins and general structure
+
+::: {.incremental}
+* TPA construction in Indonesia follows in part the concept behind the *Graduate Record Examinations* (GRE) in the United States, which divides ability into verbal reasoning, quantitative reasoning, and analytical ability (the item format of the analytical component has differed across eras — multiple choice in the 1980s, when the Indonesian TPA began to be developed, versus a written essay in the current version of the GRE).
+* The TPA in Indonesia generally consists of three subtests: **Verbal**, **Quantitative**, and **Reasoning** (Azwar, 2019).
+:::
+
+## Sample TPA test blueprint
+
+| Subtest | Component | Sample indicator |
+|---|---|---|
+| **Verbal** | Word equivalents, antonyms, word analogies | Identifying pairs of words that share the same meaning relationship |
+| **Quantitative** | Number series, arithmetic, algebraic concepts | Identifying the underlying principle of a number series |
+| **Reasoning** | Logical thinking, analytical thinking | Drawing a conclusion from two premises |
+
+::: aside
+Blueprint format adapted from the TPA specification-table tradition (Azwar, 2019).
+:::
+
+# Special aptitude tests {background-color="#14497F" .center}
+
+## Measuring a single ability domain
+
+::: {.incremental}
+* Special aptitude tests are used when the decision being made concerns a single specific field, such as tracking students into vocational school programs or selecting candidates for technical job positions.
+* Commonly measured domains include: verbal ability, numerical ability, abstract reasoning, clerical speed, mechanical reasoning, and space relations.
+* A battery of aptitude tests measuring several domains at once is called a *multiple aptitude battery*.
+  + Examples: the *Differential Aptitude Tests* (Bennett, Seashore, & Wesman, 1947) and the *General Aptitude Test Battery*, both already mentioned in Meeting 1.
+:::
+
+::: aside
+Anastasi & Urbina (1997).
+:::
+
+## Why this matters for test development
+
+::: {.callout-note}
+#### Note
+The same principle applies to both the TPA and special aptitude tests: the construct being measured must be defined first (Meeting 2), then translated into a *blueprint* that specifies the proportion of each component.
+:::
+
+# Common item formats {background-color="#14497F" .center}
+
+## A few sample formats
+
+::: {.incremental}
+* **Verbal analogy** — *"Cow relates to grass, as X relates to Y"*.
+* **Synonym/antonym** — choosing a word with the same or opposite meaning.
+* **Number series** — completing a pattern in a sequence of numbers.
+* **Logical reasoning** — drawing a conclusion from given premises.
+* **Non-verbal figural reasoning** — completing a pattern in a sequence of images or shapes.
+:::
+
+## Sample number-series format
+
+This format is commonly used in the quantitative subtest:
+
+*4, 7, 10, 13, ...*
+
+A) 15　B) 16　C) 17　D) 18
+
+. . .
+
+::: {.callout-tip}
+#### Answer key
+The answer is **B (16)** — the pattern increases by 3 at each term. This example was created purely for illustration, not taken from any actual test, following the same principle used in Meeting 1.
+:::
+
+## Activity: classifying TPA items
+
+For each sample item below, determine whether it belongs to the Verbal, Quantitative, or Reasoning subtest:
+
+::: {.incremental}
+1. *"Choose the word most opposite in meaning to the word 'optimistic'."*
+2. *"If all A are B, and some B are C, must all A be C?"*
+3. *"Complete the following series: 2, 6, 18, 54, ..."*
+:::
+
+. . .
+
+::: {.callout-tip}
+#### Answer key
+(1) Verbal. (2) Reasoning. (3) Quantitative.
+:::
+
+## Summary
+
+::: {.incremental}
+1. An aptitude test measures future learning capacity, unlike an achievement test, which measures mastery of material already taught.
+2. There are two categories of aptitude test: the Academic Potential Test (TPA) for general cognitive capacity, and special aptitude tests for a single specific ability domain.
+3. The TPA in Indonesia generally consists of three subtests — Verbal, Quantitative, and Reasoning — following in part the concept behind the GRE.
+4. Special aptitude tests are used for decisions tied to a single specific field, and can be organized as a battery measuring several domains at once.
+5. The test-development principles from Meeting 2 still apply: defining the construct and building the *blueprint* come before writing items.
+:::
+
+## For Meeting 6
+
+::: {.callout-tip}
+#### Coming up: intelligence tests
+Meeting 6 covers intelligence tests, the third type of cognitive test from Meeting 1, including their historical development and several instruments widely used in Indonesia.
+:::
+
+## Any questions❓
+
+![](libs/closing.JPG){fig-align="center"}
+
+::: {.callout-note}
+### Note
+
+* These slides were prepared using {{< fa brands r-project >}} and [**Quarto**](https://quarto.org), with a *template* from [UNAIR Theme](https://github.com/rameliaz/quarto-unair-theme).
+* Contact me via <i class="fas fa-paper-plane"></i> <a href="mailto:amelia.zein@psikologi.unair.ac.id">amelia.zein@psikologi.unair.ac.id</a>
+:::
+
+## References {.scrollable}
+
+Anastasi, A., & Urbina, S. (1997). *Psychological testing* (7th ed.). Prentice Hall.
+
+Azwar, S. (2019). *Konstruksi tes: Kemampuan kognitif*. Pustaka Pelajar.
+
+Bennett, G. K., Seashore, H. G., & Wesman, A. G. (1947). *Differential aptitude tests*. Psychological Corporation.
