@@ -18,23 +18,15 @@ execute:
   echo: true
 ---
 
-## _Outline_
+## Agenda {.agenda-slide}
 
-::: {.incremental}
-* Anatomy of a multiple-choice item
-* Writing the stem
-* Writing the answer options
-* Writing achievement test items vs. aptitude test items
-* Example aptitude test items based on *narrow ability*
-* Example achievement test item from a TIK (learning objective)
-* Activity: spotting errors in an item
-:::
-
-::: aside
-***Disclosure* on the use of artificial intelligence (AI)**
-
-I used Claude Code (Opus 5 and Sonnet 5 models) to brainstorm material, look up references, and troubleshoot `quarto` and `git` code. I take full responsibility for the substance and presentation of this material.
-:::
+1. Anatomy of a multiple-choice item
+2. Writing the stem
+3. Writing the answer options
+4. Writing achievement test items vs. aptitude test items
+5. Example aptitude test items based on *narrow ability*
+6. Example achievement test item from a TIK (learning objective)
+7. Activity: spotting errors in an item
 
 # Today's Topic and Its Link to Assignment 2 {background-color="#14497F" .center}
 
@@ -237,15 +229,22 @@ D) All of the above are correct
 Meeting 8 is the Midterm Exam, covering the material from Meetings 1–7: types of cognitive tests, stages of test development, taxonomy and instructional objectives, achievement tests, aptitude tests, intelligence tests, and item-writing principles.
 :::
 
-## Any questions❓
+## Thank you!😊 {.closing-slide}
 
-![](libs/closing.JPG){fig-align="center"}
+::: {.closing-subtitle}
+Any questions?
+:::
 
-::: {.callout-note}
-### Note
+::: {.closing-contact}
+- [ ]{.fa-solid .fa-envelope .fa-fw} [amelia.zein@psikologi.unair.ac.id](mailto:amelia.zein@psikologi.unair.ac.id)
+- [ ]{.fa-solid .fa-globe .fa-fw} [https://rameliaz.github.io/](https://rameliaz.github.io/)
+- [ ]{.fa-brands .fa-discord .fa-fw} [@rameliaz](https://discord.com/users/807046335613632555)
+- [ ]{.fa-brands .fa-keybase .fa-fw} [@rameliaz](https://keybase.io/rameliaz)
+- [ ]{.fa-brands .fa-github .fa-fw} [@rameliaz](https://github.com/rameliaz)
+:::
 
-* This presentation was built using {{< fa brands r-project >}} and [**Quarto**](https://quarto.org) with a template from [UNAIR Theme](https://github.com/rameliaz/quarto-unair-theme).
-* Contact me via <i class="fas fa-paper-plane"></i> <a href="mailto:amelia.zein@psikologi.unair.ac.id">amelia.zein@psikologi.unair.ac.id</a>
+::: {.closing-note}
+These slides were prepared using {{< fa brands r-project >}} and [**Quarto**](https://quarto.org) with a *template* from [UNAIR Theme](https://github.com/rameliaz/quarto-unair-theme).
 :::
 
 ## References {.scrollable}

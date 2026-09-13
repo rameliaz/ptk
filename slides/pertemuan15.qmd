@@ -18,24 +18,16 @@ execute:
   echo: true
 ---
 
-## _Outline_
+## Agenda {.agenda-slide}
 
-::: {.incremental}
-* Bias, muatan budaya, dan *fairness*
-* Sejarah litigasi tes di Amerika Serikat
-* Mendeteksi bias secara statistik
-* Empat pendekatan menguji individu lintas budaya
-* Tes non-verbal: benarkah bebas budaya?
-* Kerangka *Culture-Language Test Classification*
-* Implikasi untuk konteks Indonesia
-* Aktivitas: menganalisis kasus
-:::
-
-::: aside
-***Disclosure* penggunaan akal imitasi (AI)**
-
-Saya menggunakan Claude Code (Model Sonnet 5) untuk *brainstorming* dan membuat *baseline* materi, mencari referensi, dan melakukan *troubleshooting* kode `quarto` dan `git`. Saya bertanggung jawab penuh atas substansi dan penyajian presentasi ini.
-:::
+1. Bias, muatan budaya, dan *fairness*
+2. Sejarah litigasi tes di Amerika Serikat
+3. Mendeteksi bias secara statistik
+4. Empat pendekatan menguji individu lintas budaya
+5. Tes non-verbal: benarkah bebas budaya?
+6. Kerangka *Culture-Language Test Classification*
+7. Implikasi untuk konteks Indonesia
+8. Aktivitas: menganalisis kasus
 
 # Mengingat kembali {background-color="#14497F" .center}
 
@@ -275,15 +267,22 @@ Ini terutama kasus pelanggaran **asumsi keterbandingan** dan **muatan budaya**, 
 6. Bagi praktisi di Indonesia, isu ini relevan langsung dengan tes-tes adaptasi luar negeri yang dipakai sehari-hari.
 :::
 
-## Ada pertanyaan❓
+## Terima kasih!😊 {.closing-slide}
 
-![](libs/closing.JPG){fig-align="center"}
+::: {.closing-subtitle}
+Ada pertanyaan?
+:::
 
-::: {.callout-note}
-### Catatan
+::: {.closing-contact}
+- [ ]{.fa-solid .fa-envelope .fa-fw} [amelia.zein@psikologi.unair.ac.id](mailto:amelia.zein@psikologi.unair.ac.id)
+- [ ]{.fa-solid .fa-globe .fa-fw} [https://rameliaz.github.io/](https://rameliaz.github.io/)
+- [ ]{.fa-brands .fa-discord .fa-fw} [@rameliaz](https://discord.com/users/807046335613632555)
+- [ ]{.fa-brands .fa-keybase .fa-fw} [@rameliaz](https://keybase.io/rameliaz)
+- [ ]{.fa-brands .fa-github .fa-fw} [@rameliaz](https://github.com/rameliaz)
+:::
 
-* Paparan disusun dengan menggunakan {{< fa brands r-project >}} dan [**Quarto**](https://quarto.org) dengan *template* dari [UNAIR Theme](https://github.com/rameliaz/quarto-unair-theme).
-* Kontak saya via <i class="fas fa-paper-plane"></i> <a href="mailto:amelia.zein@psikologi.unair.ac.id">amelia.zein@psikologi.unair.ac.id</a>
+::: {.closing-note}
+Paparan disusun dengan menggunakan {{< fa brands r-project >}} dan [**Quarto**](https://quarto.org) dengan *template* dari [UNAIR Theme](https://github.com/rameliaz/quarto-unair-theme).
 :::
 
 ## Rujukan {.scrollable}

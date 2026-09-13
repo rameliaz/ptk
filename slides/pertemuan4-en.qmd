@@ -18,25 +18,17 @@ execute:
   echo: true
 ---
 
-## _Outline_
+## Agenda {.agenda-slide}
 
-::: {.incremental}
-* Achievement tests in everyday life
-* Definition and purpose of achievement tests
-* Four types of achievement tests by function
-* Basic principles of achievement test construction
-* Steps in constructing an achievement test
-* General and specific instructional objectives
-* Achievement test table of specifications
-* Item formats: objective or essay
-* Activity: identifying types of achievement tests
-:::
-
-::: aside
-***Disclosure* on the use of artificial intelligence (AI)**
-
-I used Claude Code (Opus 5 and Sonnet 5 models) to brainstorm material, search for references, and troubleshoot `quarto` and `git` code. I take full responsibility for the substance and presentation of this material.
-:::
+1. Achievement tests in everyday life
+2. Definition and purpose of achievement tests
+3. Four types of achievement tests by function
+4. Basic principles of achievement test construction
+5. Steps in constructing an achievement test
+6. General and specific instructional objectives
+7. Achievement test table of specifications
+8. Item formats: objective or essay
+9. Activity: identifying types of achievement tests
 
 # Achievement tests in everyday life {background-color="#14497F" .center}
 
@@ -224,15 +216,22 @@ For each situation below, determine whether the test functions as placement, for
 Meeting 5 covers aptitude tests, the second type of cognitive test from Meeting 1, which measure the capacity to learn something in the future rather than what has already been learned.
 :::
 
-## Any questions❓
+## Thank you!😊 {.closing-slide}
 
-![](libs/closing.JPG){fig-align="center"}
+::: {.closing-subtitle}
+Any questions?
+:::
 
-::: {.callout-note}
-### Note
+::: {.closing-contact}
+- [ ]{.fa-solid .fa-envelope .fa-fw} [amelia.zein@psikologi.unair.ac.id](mailto:amelia.zein@psikologi.unair.ac.id)
+- [ ]{.fa-solid .fa-globe .fa-fw} [https://rameliaz.github.io/](https://rameliaz.github.io/)
+- [ ]{.fa-brands .fa-discord .fa-fw} [@rameliaz](https://discord.com/users/807046335613632555)
+- [ ]{.fa-brands .fa-keybase .fa-fw} [@rameliaz](https://keybase.io/rameliaz)
+- [ ]{.fa-brands .fa-github .fa-fw} [@rameliaz](https://github.com/rameliaz)
+:::
 
-* This material was prepared using {{< fa brands r-project >}} and [**Quarto**](https://quarto.org) with a *template* from [UNAIR Theme](https://github.com/rameliaz/quarto-unair-theme).
-* Contact me via <i class="fas fa-paper-plane"></i> <a href="mailto:amelia.zein@psikologi.unair.ac.id">amelia.zein@psikologi.unair.ac.id</a>
+::: {.closing-note}
+These slides were prepared using {{< fa brands r-project >}} and [**Quarto**](https://quarto.org) with a *template* from [UNAIR Theme](https://github.com/rameliaz/quarto-unair-theme).
 :::
 
 ## References {.scrollable}

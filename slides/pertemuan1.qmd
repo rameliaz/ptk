@@ -18,25 +18,17 @@ execute:
   echo: true
 ---
 
-## _Outline_
+## Agenda {.agenda-slide}
 
-::: {.incremental}
-* Apa yang akan kita lakukan selama satu semester?
-* Tiga situasi yang membutuhkan jenis tes kognitif berbeda-beda
-* Mengingat kembali materi mata kuliah Psikometri
-* Istilah yang sering tertukar: tes, skala, inventori, angket
-* Ranah atribut: kognitif vs. non-kognitif
-* Performansi maksimal vs. performansi tipikal
-* Sejarah singkat: tiga tradisi tes kognitif
-* Tiga jenis utama tes kognitif
-* Klasifikasi tes menurut Kode Etik Psikologi Indonesia
-:::
-
-::: aside
-***Disclosure* penggunaan akal imitasi (AI)**
-
-Saya menggunakan Claude Code (Model Opus 5 dan Sonnet 5) untuk *brainstorming* materi, mencari referensi, dan melakukan *troubleshooting* kode `quarto` dan `git`. Saya bertanggung jawab penuh atas substansi dan penyajian presentasi ini.
-:::
+1. Apa yang akan kita lakukan selama satu semester?
+2. Tiga situasi yang membutuhkan jenis tes kognitif berbeda-beda
+3. Mengingat kembali materi mata kuliah Psikometri
+4. Istilah yang sering tertukar: tes, skala, inventori, angket
+5. Ranah atribut: kognitif vs. non-kognitif
+6. Performansi maksimal vs. performansi tipikal
+7. Sejarah singkat: tiga tradisi tes kognitif
+8. Tiga jenis utama tes kognitif
+9. Klasifikasi tes menurut Kode Etik Psikologi Indonesia
 
 # Orientasi mata kuliah {background-color="#14497F" .center}
 
@@ -154,8 +146,7 @@ Karena atributnya laten, **tidak ada tes yang mengukur secara sempurna**. Setiap
 
 . . .
 
-::: {.callout-tip}
-#### Aturan yang kita gunakan sepanjang semester
+::: {.callout-tip appearance="simple"}
 Kalau ada jawaban **benar-salah** yang bisa dinilai objektif dari performa → ini adalah **tes**. Kalau yang diukur kecenderungan atau preferensi tanpa jawaban benar-salah → biasanya **skala** atau **inventori**.
 :::
 
@@ -399,15 +390,22 @@ Di Minggu 6, Anda akan me-*review* 3 artikel jurnal yang menggunakan tes kogniti
 Kalau hari ini kita bicara **apa itu** tes kognitif, Pertemuan 2 akan membahas **bagaimana** menyusunnya. Kita mulai dari analisis kebutuhan, definisi konstruk, sampai *blueprint* awal.
 :::
 
-## Ada pertanyaan❓
+## Terima kasih!😊 {.closing-slide}
 
-![](libs/closing.JPG){fig-align="center"}
+::: {.closing-subtitle}
+Ada pertanyaan?
+:::
 
-::: {.callout-note}
-### Catatan
+::: {.closing-contact}
+- [ ]{.fa-solid .fa-envelope .fa-fw} [amelia.zein@psikologi.unair.ac.id](mailto:amelia.zein@psikologi.unair.ac.id)
+- [ ]{.fa-solid .fa-globe .fa-fw} [https://rameliaz.github.io/](https://rameliaz.github.io/)
+- [ ]{.fa-brands .fa-discord .fa-fw} [@rameliaz](https://discord.com/users/807046335613632555)
+- [ ]{.fa-brands .fa-keybase .fa-fw} [@rameliaz](https://keybase.io/rameliaz)
+- [ ]{.fa-brands .fa-github .fa-fw} [@rameliaz](https://github.com/rameliaz)
+:::
 
-* Paparan disusun dengan menggunakan {{< fa brands r-project >}} dan [**Quarto**](https://quarto.org) dengan *template* dari [UNAIR Theme](https://github.com/rameliaz/quarto-unair-theme).
-* Kontak saya via <i class="fas fa-paper-plane"></i> <a href="mailto:amelia.zein@psikologi.unair.ac.id">amelia.zein@psikologi.unair.ac.id</a>
+::: {.closing-note}
+Paparan disusun dengan menggunakan {{< fa brands r-project >}} dan [**Quarto**](https://quarto.org) dengan *template* dari [UNAIR Theme](https://github.com/rameliaz/quarto-unair-theme).
 :::
 
 ## Rujukan {.scrollable}
