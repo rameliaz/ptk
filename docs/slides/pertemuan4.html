@@ -7,11 +7,12 @@
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-contrib/fontawesome6-6.7.2/all.min.css" rel="stylesheet">
 <link href="../site_libs/quarto-contrib/fontawesome6-6.7.2/latex-fontsize.css" rel="stylesheet"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.10.18">
 
   <meta name="author" content="Rizqy Amelia Zein">
-  <meta name="dcterms.date" content="2026-09-13">
+  <meta name="dcterms.date" content="2026-09-14">
   <title>Penyusunan Tes Kognitif – Pengertian dan Tujuan Tes Prestasi</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -37,7 +38,7 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-c364f9206410e7bfa4455604195b7ac3.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-251ec9301427f96990f712d3bb75160d.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
   <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -136,7 +137,6 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&amp;display=swap">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer">
 </head>
 <body class="quarto-light">
   <div class="reveal">
@@ -157,7 +157,7 @@ Rizqy Amelia Zein
     </div>
 </div>
 
-  <p class="date">2026-09-13</p>
+  <p class="date">2026-09-14</p>
 </section>
 <section id="agenda" class="slide level2 agenda-slide">
 <h2>Agenda</h2>
@@ -738,19 +738,19 @@ Rizqy Amelia Zein
     // Detect extension base path by probing for the logo file.
     // Stylesheet detection is unreliable: Quarto compiles extension SCSS into the
     // bundled theme CSS, so no _extensions/ path ever appears in document.styleSheets.
+    // In a Quarto *website* project, `_extensions/` is only copied to the site
+    // root (e.g. docs/_extensions/), not duplicated next to every page — a deck
+    // rendered from a subdirectory (e.g. docs/slides/talk.html) needs `../` to
+    // reach it. So probe increasing `../` depths, not just the page's own folder.
     var _unairExtPath = null;
 
     function _resolveUnairExtPath(callback) {
-      var candidates = [
-        // Project-root img/ (see _quarto.yml `resources`), tried at both the
-        // site root and one level down (slides/*.html) since _extensions/ isn't
-        // copied into the rendered output — only a plain, non-underscore
-        // directory like img/ survives into docs/.
-        '../img/',
-        'img/',
-        '_extensions/rameliaz/unair/',
-        '_extensions/unair/'
-      ];
+      var candidates = [];
+      for (var depth = 0; depth <= 4; depth++) {
+        var prefix = new Array(depth + 1).join('../');
+        candidates.push(prefix + '_extensions/rameliaz/unair/');
+        candidates.push(prefix + '_extensions/unair/');
+      }
 
       function probe(idx) {
         if (idx >= candidates.length) {
