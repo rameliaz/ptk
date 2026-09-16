@@ -72,7 +72,7 @@ Definisi ini menekankan tiga aspek sekaligus: perilaku terarah, penalaran, dan k
 ## Penyalahgunaan tes inteligensi di masa lalu
 
 ::: {.incremental}
-* Pada awal abad ke-20, skor tes inteligensi pernah dipakai sebagai dasar kebijakan sterilisasi paksa terhadap orang dengan disabilitas intelektual di Amerika Serikat, termasuk kasus *Buck v. Bell* (1927) yang disahkan oleh Mahkamah Agung AS.
+* Pada awal abad ke-20, skor tes inteligensi pernah dipakai sebagai dasar kebijakan sterilisasi paksa terhadap orang dengan disabilitas intelektual di Amerika Serikat, termasuk [kasus *Buck v. Bell* (1927)](https://en.wikipedia.org/wiki/Buck_v._Bell) yang disahkan oleh Mahkamah Agung AS.
 * Sejumlah tokoh awal dalam pengembangan tes inteligensi juga terlibat dalam gerakan eugenika, yang bertujuan "memperbaiki" populasi manusia berdasarkan atribut yang dianggap terwariskan.
 :::
 
@@ -130,7 +130,7 @@ Sumber: [Schneider & McGrew (2018)](https://onlinelibrary.wiley.com/doi/pdf/10.1
 
 ## CHC melandasi beberapa tes intelegensi (2)
 
-| Tes | *Broad abilities* yang diukur | Catatan |
+| Tes | Broad abilities yang diukur | Catatan |
 |---|---|---|
 | Differential Ability Scales–II (DAS-II; Elliott, 2007) | 5 | Selaras dengan CHC sejak edisi kedua |
 | Stanford-Binet–5 (SB5; Roid, 2003) | 5 | Lima faktornya dipetakan langsung ke lima *broad abilities* CHC |
@@ -139,7 +139,7 @@ Sumber: [Schneider & McGrew (2018)](https://onlinelibrary.wiley.com/doi/pdf/10.1
 
 ::: {.callout-note}
 #### Catatan
-Klaim keselarasan dengan CHC pada dua slide ini berasal dari manual/*technical report* masing-masing penerbit tes. Dua slide berikutnya menunjukkan bahwa klaim ini tidak selalu bertahan ketika diuji ulang secara independen.
+Klaim keselarasan dengan CHC pada dua *slide* ini berasal dari manual/*technical report* masing-masing penerbit tes. Dua *slide* berikutnya menunjukkan bahwa klaim ini tidak selalu bertahan ketika diuji ulang secara independen.
 :::
 
 ## Bukti empirik teori CHC 1️⃣: yang didukung
