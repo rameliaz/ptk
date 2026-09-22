@@ -67,6 +67,14 @@ Definisi ini menekankan tiga aspek sekaligus: perilaku terarah, penalaran, dan k
 [Wasserman (2018)](https://books.google.de/books?hl=id&lr=&id=5pxgDwAAQBAJ&oi=fnd&pg=PA3&dq=wasserman+2018+intelligence+assessment&ots=T_gM2ZlP8L&sig=_0z2oZYwLsXhixBGOt3wjLE3TVk&redir_esc=y#v=onepage&q=wasserman%202018%20intelligence%20assessment&f=false); Schneider & [McGrew (2023)](https://www.mdpi.com/2079-3200/11/2/32).
 :::
 
+## Stanford-Binet dan CHC
+
+![](libs/stanfordbinet.png){fig-align="center"}
+
+::: aside
+Thorndike, R. (1998)
+:::
+
 # Sejarah yang perlu diketahui {background-color="#14497F" .center}
 
 ## Penyalahgunaan tes inteligensi di masa lalu
@@ -329,6 +337,8 @@ Schneider, W. J., & McGrew, K. S. (2018). The Cattell–Horn–Carroll theory of
 Spearman, C. (1904). "General intelligence," objectively determined and measured. *American Journal of Psychology, 15*(2), 201–292.
 
 Sternberg, R. J. (2018). The triarchic theory of successful intelligence. In D. P. Flanagan & E. M. McDonough (Eds.), *Contemporary intellectual assessment: Theories, tests, and issues* (4th ed., pp. 174–194). Guilford Press.
+
+Thorndike, R. (1998). IRT and Intelligence Testing. In S. E. Embretson & S. L. Hershberger (Eds.), *The New Rules of Measurement: What Every Psychologist and Educator Should Know* (pp. 17-36). Lawrence Elbaum Associates.
 
 Thurstone, L. L. (1938). *Primary mental abilities*. University of Chicago Press.
 

@@ -48,7 +48,7 @@ This definition emphasizes three aspects at once: goal-directed behavior, reason
 
 # A brief history of intelligence theory {background-color="#14497F" .center}
 
-## From one factor to many factors
+## Single factor vs. many factors
 
 ::: {.incremental}
 * **Spearman (1904)** found that scores on various ability tests tended to correlate positively with one another, and concluded there was a single general factor underlying them, later called ***g*** (*general intelligence*).
@@ -56,7 +56,7 @@ This definition emphasizes three aspects at once: goal-directed behavior, reason
 * **Cattell (1963)** used the term ***fluid intelligence* (Gf)** for the capacity to reason in novel situations, and ***crystallized intelligence* (Gc)** for knowledge already acquired through learning.
 :::
 
-## Toward CHC
+## The early development of CHC theory
 
 ::: {.incremental}
 * **[Carroll (1993)](https://books.google.de/books?hl=id&lr=&id=JQX-PlF6EgYC&oi=fnd&pg=PA1&dq=carroll+1993+intelligence+theory&ots=_sMO6xvIYP&sig=3vIwKRnZ1f070onJ9kvzQc4UFFY&redir_esc=y#v=onepage&q=carroll%201993%20intelligence%20theory&f=false)** reanalyzed more than 460 cognitive ability datasets and proposed a three-stratum model: a general factor (*g*) at the top, a number of broad factors at the second stratum, and dozens of narrow factors at the third stratum.
@@ -67,12 +67,20 @@ This definition emphasizes three aspects at once: goal-directed behavior, reason
 [Wasserman (2018)](https://books.google.de/books?hl=id&lr=&id=5pxgDwAAQBAJ&oi=fnd&pg=PA3&dq=wasserman+2018+intelligence+assessment&ots=T_gM2ZlP8L&sig=_0z2oZYwLsXhixBGOt3wjLE3TVk&redir_esc=y#v=onepage&q=wasserman%202018%20intelligence%20assessment&f=false); Schneider & [McGrew (2023)](https://www.mdpi.com/2079-3200/11/2/32).
 :::
 
+## Stanford-Binet and CHC
+
+![](libs/stanfordbinet.png){fig-align="center"}
+
+::: aside
+Thorndike, R. (1998)
+:::
+
 # History worth knowing {background-color="#14497F" .center}
 
 ## Past misuses of intelligence testing
 
 ::: {.incremental}
-* In the early 20th century, intelligence test scores were once used as grounds for policies of forced sterilization of people with intellectual disabilities in the United States, including the *Buck v. Bell* (1927) case upheld by the US Supreme Court.
+* In the early 20th century, intelligence test scores were once used as grounds for policies of forced sterilization of people with intellectual disabilities in the United States, including the [*Buck v. Bell* (1927) case](https://en.wikipedia.org/wiki/Buck_v._Bell) upheld by the US Supreme Court.
 * Several early figures in the development of intelligence tests were also involved in the eugenics movement, which aimed to "improve" the human population based on attributes considered heritable.
 :::
 
@@ -116,7 +124,7 @@ Source: [Schneider & McGrew (2018)](https://onlinelibrary.wiley.com/doi/pdf/10.1
 
 ## CHC underlies several intelligence tests (1)
 
-| Test | *Broad abilities* measured | Note |
+| Test | Broad abilities measured | Note |
 |---|---|---|
 | Woodcock-Johnson IV (WJ IV; Schrank et al., 2014) | 7 | Explicitly designed as an operationalization of CHC; served as the main reference for developing the CHC taxonomy itself |
 | Wechsler (WISC-V, WAIS-IV; Wechsler, 2014) | 5 | *Index scores* aligned with five CHC *broad abilities* (Gf, Gc, Gv, Gwm, Gs) |
@@ -130,7 +138,7 @@ Source: [Schneider & McGrew (2018)](https://onlinelibrary.wiley.com/doi/pdf/10.1
 
 ## CHC underlies several intelligence tests (2)
 
-| Test | *Broad abilities* measured | Note |
+| Test | Broad abilities measured | Note |
 |---|---|---|
 | Differential Ability Scales–II (DAS-II; Elliott, 2007) | 5 | Aligned with CHC since its second edition |
 | Stanford-Binet–5 (SB5; Roid, 2003) | 5 | Its five factors are mapped directly onto the five CHC *broad abilities* |
@@ -223,8 +231,11 @@ Both theories have strongly influenced discussions in education, but not as broa
 ## The debate over *multiple intelligences*
 
 ::: {.incremental}
-* Unlike CHC, which was built from factor analysis of test scores, Gardner's (1983, 1999) eight "intelligences" were formulated mainly from clinical observation, case studies, and conceptual criteria. Note that the original theory (1983) proposed seven intelligences; naturalistic intelligence was added later, bringing the total to eight (Gardner, 1999).
+* Unlike CHC, which was built from factor analysis of test scores, Gardner's (1983, 1999) eight "intelligences" were formulated mainly from clinical observation, case studies, and conceptual criteria.
+  + Note that the original theory (1983) proposed seven intelligences; naturalistic intelligence was added later, bringing the total to eight (Gardner, 1999).
+
 * When tested psychometrically, [Visser, Ashton, and Vernon (2006)](https://www.sciencedirect.com/science/article/pii/S0160289606000201) found that measures of the eight "intelligences" still correlated with one another and were largely explained by the general factor (*g*), rather than emerging as independent abilities.
+
 * Other critiques point out that some "intelligences" (e.g., musical or kinesthetic) sit closer to the notion of talent or skill than to the concept of intelligence in the psychometric tradition.
 :::
 
@@ -248,17 +259,6 @@ Both theories have strongly influenced discussions in education, but not as broa
 Anastasi & Urbina (1997); Azwar (2019).
 :::
 
-## On non-verbal tests
-
-::: {.callout-note}
-#### Note
-CFIT and Progressive Matrices are designed to reduce the influence of language and cultural background on scores. This design does not eliminate cultural influence entirely. We will revisit this issue in Session 15.
-:::
-
-::: aside
-McCallum (2018).
-:::
-
 ## Activity: identifying intelligence tests in a research article
 
 Imagine a journal abstract states:
@@ -272,13 +272,8 @@ Imagine a journal abstract states:
 
 . . .
 
-::: {.callout-tip}
-#### Answer
+::: {.callout-tip appearance="simple"}
 Progressive Matrices is an intelligence test — designed to measure the general capacity to solve problems in novel situations. The most relevant CHC ability is **Gf (fluid reasoning)**.
-:::
-
-::: aside
-This exercise is relevant to Assignment 1 (Session 6).
 :::
 
 ## Summary
@@ -342,6 +337,8 @@ Schneider, W. J., & McGrew, K. S. (2018). The Cattell–Horn–Carroll theory of
 Spearman, C. (1904). "General intelligence," objectively determined and measured. *American Journal of Psychology, 15*(2), 201–292.
 
 Sternberg, R. J. (2018). The triarchic theory of successful intelligence. In D. P. Flanagan & E. M. McDonough (Eds.), *Contemporary intellectual assessment: Theories, tests, and issues* (4th ed., pp. 174–194). Guilford Press.
+
+Thorndike, R. (1998). IRT and Intelligence Testing. In S. E. Embretson & S. L. Hershberger (Eds.), *The New Rules of Measurement: What Every Psychologist and Educator Should Know* (pp. 17-36). Lawrence Elbaum Associates.
 
 Thurstone, L. L. (1938). *Primary mental abilities*. University of Chicago Press.
 

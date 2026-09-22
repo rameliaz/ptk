@@ -33,9 +33,9 @@ execute:
 ## What you'll submit this week
 
 ::: {.incremental}
-* Assignment 2 is done individually: write **20 items** — 2 items for each achievement test indicator (5 indicators) and 2 items for each aptitude test indicator (5 indicators).
-* Each item should follow the *blueprint* you developed yourself (Meetings 2 and 4).
-* Today's material is a practical guide for the **item-writing** stage, which is Stage 5 of the eleven stages covered in Meeting 2.
+* Assignment 2 is done individually: write **20 items**: 2 items for each achievement test indicator (5 indicators) and 2 items for each aptitude test indicator (5 indicators).
+* Each item should follow the *blueprint* you learned about in [Meeting 2](/slides/pertemuan2-en.qmd) and [4](/slides/pertemuan4-en.qmd).
+* Today's material is a practical guide for the **item-writing** stage, which is Stage 5 of the eleven stages covered in [Meeting 2](/slides/pertemuan2-en.qmd).
 :::
 
 # Anatomy of a Multiple-Choice Item {background-color="#14497F" .center}
@@ -55,9 +55,14 @@ execute:
 
 ## Why these parts need to be clearly separated
 
-::: {.callout-note}
-#### Note
-The *stem* and *options* serve different functions: the *stem* conveys **one** clear core idea, while the *options* provide alternative answers that are equivalent in form. A good item doesn't mix the two — for example, by putting part of the essential information in only one of the *options*.
+::: {.incremental}
+
+* The *stem* and *options* serve different functions.
+  + The *stem* conveys **one** clear core idea.
+  + While the *options* provide alternative answers that are equivalent in form.
+
+* A good item doesn't mix the two, for example by putting part of the essential information in only one of the *options*.
+
 :::
 
 # Writing the Stem {background-color="#14497F" .center}
@@ -65,11 +70,11 @@ The *stem* and *options* serve different functions: the *stem* conveys **one** c
 ## Basic principles
 
 ::: {.incremental}
-* State the core idea clearly and concisely in the stem — don't tuck it away in the options.
-* Use positive phrasing; avoid negative forms such as "EXCEPT" or "NOT", which are easy to miss when reading and increase the risk of misunderstanding.
+* State the core idea clearly and concisely in the stem, don't tuck it away in the options.
+* Use positive phrasing; avoid negative forms such as "EXCEPT" or "NOT", which are easy to miss when reading and increase the risk that test-takers misunderstand the instruction.
   + So if a test-taker answers incorrectly, you'll have a hard time telling whether they genuinely couldn't answer or simply misread the instruction.
 * Limit each item to a single type of content and a single level of cognitive process (Meeting 3).
-* Match the complexity of the language to the group who will take the test; avoid needlessly long sentences.
+* Match the complexity of the language to the group who will take the test; avoid sentences that are long and rambling.
 :::
 
 ::: aside
@@ -78,19 +83,21 @@ The *stem* and *options* serve different functions: the *stem* conveys **one** c
 
 # Writing the Answer Options {background-color="#14497F" .center}
 
-## Principles for the key and distractors
+## Principles for the *key* and *distractors*
 
 ::: {.incremental}
 * Make sure there is only **one** correct answer, with no ambiguity.
-* Make the *distractors* plausible. Ideally, base them on common misconceptions about the topic, rather than choices that are obviously wrong or impossible.
+* Make the *distractors* plausible.
+  + Ideally, base them on common misconceptions about the topic, rather than choices that are obviously wrong or impossible.
 * Keep the length and grammatical structure of all options consistent; an option that is noticeably longer or more detailed often gives away the correct answer.
-* Avoid absolute words like "always" or "never" in a distractor, since they tend to be easy to spot as the wrong answer.
+* Avoid absolute words like "*always*" or "*never*" in a distractor, since they tend to be easy to spot as the wrong answer.
 :::
 
-## Further principles
+## Principles for the *key* and *distractors*
 
 ::: {.incremental}
-* Avoid options like "all of the above" or "none of the above". These can often be answered correctly without truly understanding the other options.
+* Avoid options like "*all of the above*" or "*none of the above*".
+  + These can often be answered correctly without truly understanding the other options.
 * Randomize the position of the correct answer across items; don't always place it in the same spot.
 * Order the options logically — alphabetically or by numerical value, for example — whenever possible.
 :::
@@ -101,23 +108,25 @@ The *stem* and *options* serve different functions: the *stem* conveys **one** c
 
 # Writing Achievement Test Items vs. Aptitude Test Items {background-color="#14497F" .center}
 
-## Different sources of content
+## Different test substance
 
 ::: {.incremental}
-* **Achievement test items** are derived from the TIK (learning objectives) already formulated (Meeting 4). Their content is tied to the material or curriculum being taught.
-* **Aptitude test items** are derived from the definition of a more general ability construct (Meetings 5 and 6). Their content is deliberately kept independent of any one subject area, so that what's measured is the reasoning process itself, not specific knowledge.
+* **Achievement test items** are derived from the TIK (learning objectives) already formulated ([Meeting 4](/slides/pertemuan4-en.qmd)).
+  + Their content is tied to the material or curriculum being taught.
+* **Aptitude test items** are derived from the definition of a more general ability construct ([Meeting 5](/slides/pertemuan5-en.qmd) and [6](/slides/pertemuan6-en.qmd)).
+  + Their content is deliberately kept independent of any one subject area, so that what's measured is the reasoning process itself, not specific knowledge.
 :::
 
 ::: {.callout-tip}
 #### Practical implication
-When writing an achievement test item, you start from the TIK. When writing an aptitude test item, you start from the *narrow ability* you want to measure — for example, *induction* or *quantitative reasoning* from the *broad ability* Gf discussed in Meeting 6.
+When writing an achievement test item, you start from the TIK. When writing an aptitude test item, you start from the *narrow ability* you want to measure. For example, *induction* or *quantitative reasoning* from the *broad ability* Gf discussed in [Meeting 6](/slides/pertemuan6-en.qmd).
 :::
 
 # Example Aptitude Test Items {background-color="#14497F" .center}
 
-## Based on narrow abilities from Gf
+## Based on *narrow abilities* from Gf
 
-Three *narrow abilities* commonly measured on aptitude tests (Meeting 6):
+Three *narrow abilities* commonly measured on aptitude tests ([Meeting 6](/slides/pertemuan6-en.qmd)):
 
 ::: {.incremental}
 * ***Induction*** — discovering the rule underlying a pattern.
@@ -125,7 +134,7 @@ Three *narrow abilities* commonly measured on aptitude tests (Meeting 6):
 * ***Quantitative reasoning*** — reasoning using numerical relationships and operations.
 :::
 
-## Example: induction
+## Example: *induction*
 
 *"SHOE : FOOT, as ... : ..."*
 
@@ -138,7 +147,7 @@ A) Earring : Ear　B) Finger : Ring　C) Head : Hat　D) Brush : Paint
 **A** — the relationship between a body part and the item worn/used on it, just like a shoe on a foot.
 :::
 
-## Example: general sequential reasoning
+## Example: *general sequential reasoning*
 
 *"All flowers have a pistil. All jasmines are flowers."*
 
@@ -151,7 +160,7 @@ A) All jasmines have a pistil　B) Some jasmines do not have a pistil　C) Some 
 **A** — a direct logical conclusion drawn from the two premises (categorical syllogism).
 :::
 
-## Example: quantitative reasoning
+## Example: *quantitative reasoning*
 
 *"3, 6, 12, 24, ..."*
 
@@ -189,7 +198,7 @@ Answer: B.
 
 ## Activity: Spotting Errors in an Item
 
-The item below has several problems. Discuss with the classmate next to you what needs to be fixed.
+The item below has several problems. Discuss what needs to be fixed.
 
 ::: {.callout-important}
 #### Item to review

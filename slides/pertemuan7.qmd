@@ -33,9 +33,9 @@ execute:
 ## Apa yang akan Anda kumpulkan minggu ini
 
 ::: {.incremental}
-* Tugas 2 dikerjakan individu: menulis **20 butir** — 2 butir untuk tiap indikator tes prestasi (5 indikator) dan 2 butir untuk tiap indikator tes potensi (5 indikator).
-* Setiap butir mengacu pada *blueprint* yang sudah Anda susun sendiri (Pertemuan 2 dan 4).
-* Materi hari ini adalah panduan praktis untuk tahap **penulisan item**, yang merupakan Tahap 5 dari sebelas tahap di Pertemuan 2.
+* Tugas 2 dikerjakan individu: menulis **20 butir**: 2 butir untuk tiap indikator tes prestasi (5 indikator) dan 2 butir untuk tiap indikator tes potensi (5 indikator).
+* Setiap butir mengacu pada *blueprint* yang sudah Anda pelajari di [Pertemuan 2](/slides/pertemuan2.qmd) dan [4](/slides/pertemuan4.qmd).
+* Materi hari ini adalah panduan praktis untuk tahap **penulisan item**, yang merupakan Tahap 5 dari sebelas tahap di [Pertemuan 2](/slides/pertemuan2.qmd).
 :::
 
 # Anatomi item pilihan ganda {background-color="#14497F" .center}
@@ -55,9 +55,14 @@ execute:
 
 ## Mengapa bagian ini perlu dipisahkan dengan jelas
 
-::: {.callout-note}
-#### Catatan
-*Stem* dan *options* punya fungsi berbeda: *stem* menyampaikan **satu** ide inti yang jelas, sementara *options* menyediakan alternatif jawaban yang setara secara bentuk. Item yang baik tidak mencampur keduanya — misalnya menaruh sebagian informasi penting hanya di salah satu *option*.
+::: {.incremental}
+
+* *Stem* dan *options* punya fungsi berbeda. 
+  + *Stem* menyampaikan **satu** ide inti yang jelas. 
+  + Sementara *options* menyediakan alternatif jawaban yang setara secara bentuk. 
+
+* Item yang baik tidak mencampur keduanya, misalnya menaruh sebagian informasi penting hanya di salah satu *option*.
+
 :::
 
 # Menulis stem {background-color="#14497F" .center}
@@ -65,11 +70,11 @@ execute:
 ## Prinsip dasar
 
 ::: {.incremental}
-* Sampaikan ide inti secara jelas dan ringkas di *stem* — jangan disimpan di *options*.
-* Gunakan kalimat positif; sebaiknya hindari bentuk negatif seperti "KECUALI" atau "BUKAN", yang mudah terlewat dibaca dan meningkatkan risiko salah paham.
+* Sampaikan ide inti secara jelas dan ringkas di *stem*, jangan disimpan di *options*.
+* Gunakan kalimat positif; sebaiknya hindari bentuk negatif seperti "KECUALI" atau "BUKAN", yang mudah terlewat dibaca dan meningkatkan risiko kesalahan partisipan memahami instruksi.
   + Sehingga apabila partisipan salah menjawab, Anda akan kesulitan membedakan apakah memang partisipan tidak mampu menjawab atau tidak paham instruksi soal.
 * Batasi setiap item pada satu jenis konten dan satu tingkat proses kognitif saja (Pertemuan 3).
-* Sesuaikan kompleksitas bahasa dengan kelompok yang akan mengerjakan tes; hindari kalimat yang panjang tanpa alasan.
+* Sesuaikan kompleksitas bahasa dengan kelompok yang akan mengerjakan tes; hindari kalimat yang panjang dan bertele-tele.
 :::
 
 ::: aside
@@ -78,19 +83,21 @@ execute:
 
 # Menulis pilihan jawaban {background-color="#14497F" .center}
 
-## Prinsip untuk key dan distractors
+## Prinsip untuk *key* dan *distractors*
 
 ::: {.incremental}
 * Pastikan hanya ada **satu** jawaban yang benar tanpa ambiguitas.
-* Buat *distractors* yang masuk akal. Idealnya berdasarkan kesalahan berpikir yang umum terjadi pada topik tersebut, bukan pilihan yang jelas-jelas salah/tidak mungkin benar.
+* Buat *distractors* yang masuk akal. 
+  + Idealnya berdasarkan kesalahan berpikir yang umum terjadi pada topik tersebut, bukan pilihan yang jelas-jelas salah/tidak mungkin benar.
 * Samakan panjang dan struktur tata bahasa semua pilihan; pilihan yang jelas lebih panjang atau lebih detail sering menjadi petunjuk jawaban benar.
-* Hindari kata mutlak seperti "selalu" atau "tidak pernah" pada distractor, karena cenderung mudah ditebak sebagai jawaban salah.
+* Hindari kata mutlak seperti "*selalu*" atau "*tidak pernah*" pada distractor, karena cenderung mudah ditebak sebagai jawaban salah.
 :::
 
-## Prinsip lanjutan
+## Prinsip untuk *key* dan *distractors*
 
 ::: {.incremental}
-* Hindari pilihan seperti "semua benar" atau "semua salah". Pilihan ini sering bisa dijawab tanpa benar-benar memahami opsi lain.
+* Hindari pilihan seperti "*semua benar*" atau "*semua salah*". 
+  + Pilihan ini sering bisa dijawab tanpa benar-benar memahami opsi lain.
 * Acak posisi jawaban benar antar-item; jangan menaruhnya selalu di posisi yang sama.
 * Urutkan pilihan secara logis, misalnya menurut abjad atau nilai numerik, bila memungkinkan.
 :::
@@ -101,23 +108,25 @@ execute:
 
 # Menulis item tes prestasi vs. tes potensi {background-color="#14497F" .center}
 
-## Sumber isi yang berbeda
+## Substansi tes yang berbeda
 
 ::: {.incremental}
-* **Item tes prestasi** diturunkan dari TIK yang sudah dirumuskan (Pertemuan 4). Isinya terikat pada materi atau kurikulum yang diajarkan.
-* **Item tes potensi** diturunkan dari definisi konstruk kemampuan yang lebih umum (Pertemuan 5 dan 6). Isinya sengaja dibuat tidak terikat pada satu bidang materi tertentu, agar yang diukur adalah proses bernalarnya, bukan pengetahuan spesifiknya.
+* **Item tes prestasi** diturunkan dari TIK yang sudah dirumuskan ([Pertemuan 4](/slides/pertemuan4.qmd)). 
+  + Isinya terikat pada materi atau kurikulum yang diajarkan.
+* **Item tes potensi** diturunkan dari definisi konstruk kemampuan yang lebih umum ([Pertemuan 5](/slides/pertemuan5.qmd) dan [6](/slides/pertemuan6.qmd)). 
+  + Isinya sengaja dibuat tidak terikat pada satu bidang materi tertentu, agar yang diukur adalah proses bernalarnya, bukan pengetahuan spesifiknya.
 :::
 
 ::: {.callout-tip}
-#### Konsekuensi praktis
-Saat menulis item tes prestasi, Anda mulai dari TIK. Saat menulis item tes potensi, Anda mulai dari *narrow ability* yang ingin diukur — misalnya *induction* atau *quantitative reasoning* dari *broad ability* Gf yang dibahas di Pertemuan 6.
+#### Konsekuensinya
+Saat menulis item tes prestasi, Anda mulai dari TIK. Saat menulis item tes potensi, Anda mulai dari *narrow ability* yang ingin diukur. Misalnya, *induction* atau *quantitative reasoning* dari *broad ability* Gf yang dibahas di [Pertemuan 6](/slides/pertemuan6.qmd).
 :::
 
 # Contoh item tes potensi {background-color="#14497F" .center}
 
-## Berdasarkan narrow ability dari Gf
+## Berdasarkan *narrow ability* dari Gf
 
-Tiga *narrow ability* yang umum diukur pada tes potensi (Pertemuan 6):
+Tiga *narrow ability* yang umum diukur pada tes potensi ([Pertemuan 6](/slides/pertemuan6.qmd)):
 
 ::: {.incremental}
 * ***Induction*** — menemukan aturan yang mendasari suatu pola.
@@ -125,7 +134,7 @@ Tiga *narrow ability* yang umum diukur pada tes potensi (Pertemuan 6):
 * ***Quantitative reasoning*** — bernalar menggunakan hubungan dan operasi bilangan.
 :::
 
-## Contoh: induction
+## Contoh: *induction*
 
 *"SEPATU : KAKI, sebagaimana ... : ..."*
 
@@ -138,7 +147,7 @@ A) Anting : Telinga　B) Jari : Cincin　C) Kepala : Topi　D) Kuas : Cat
 **A** — hubungan bagian tubuh dengan benda yang dikenakan/dipakai di sana, sama seperti sepatu di kaki.
 :::
 
-## Contoh: general sequential reasoning
+## Contoh: *general sequential reasoning*
 
 *"Semua bunga memiliki putik. Semua melati termasuk bunga."*
 
@@ -151,7 +160,7 @@ A) Semua melati memiliki putik　B) Sebagian melati tidak memiliki putik　C) Se
 **A** — kesimpulan logis langsung dari dua premis (silogisme kategorikal).
 :::
 
-## Contoh: quantitative reasoning
+## Contoh: *quantitative reasoning*
 
 *"3, 6, 12, 24, ..."*
 
@@ -189,7 +198,7 @@ Jawaban: B.
 
 ## Aktivitas: menemukan kesalahan pada item
 
-Item berikut punya beberapa masalah. Diskusikan dengan teman sebangku Anda, apa saja yang perlu diperbaiki?
+Item berikut punya beberapa masalah. Diskusikan apa saja yang perlu diperbaiki?
 
 ::: {.callout-important}
 #### Item yang perlu ditelaah

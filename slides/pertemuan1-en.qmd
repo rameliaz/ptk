@@ -146,8 +146,7 @@ Because the attribute is latent, **no test measures it perfectly**. Every test i
 
 . . .
 
-::: {.callout-tip}
-#### The rule we'll use throughout the semester
+::: {.callout-tip appearance="simple"}
 If there is a **right-or-wrong** answer that can be objectively scored from performance → it's a **test**. If what's being measured is a tendency or preference with no right-or-wrong answer → it's usually a **scale** or **inventory**.
 :::
 

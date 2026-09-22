@@ -9,6 +9,9 @@ project:
   render:
     - index.qmd
     - slides/
+
+metadata-files:
+  - _announcements.yml    
     
 website:
   title: "Penyusunan Tes Kognitif"
@@ -60,6 +63,10 @@ website:
             href: slides/pertemuan9-en.qmd
           - text: "15. Cultural Bias Issues in Cognitive Test Development"
             href: slides/pertemuan15-en.qmd
+      - section: Survei
+        contents:
+          - text: "Survei Evaluasi Perkuliahan"
+            href: https://www.soscisurvey.de/evaluasi/
   navbar:
     left:
       - href: https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/
