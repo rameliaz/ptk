@@ -2,13 +2,19 @@
 // Detect extension base path by probing for the logo file.
 // Stylesheet detection is unreliable: Quarto compiles extension SCSS into the
 // bundled theme CSS, so no _extensions/ path ever appears in document.styleSheets.
+// In a Quarto *website* project, `_extensions/` is only copied to the site
+// root (e.g. docs/_extensions/), not duplicated next to every page — a deck
+// rendered from a subdirectory (e.g. docs/slides/talk.html) needs `../` to
+// reach it. So probe increasing `../` depths, not just the page's own folder.
 var _unairExtPath = null;
 
 function _resolveUnairExtPath(callback) {
-  var candidates = [
-    '_extensions/rameliaz/unair/',
-    '_extensions/unair/'
-  ];
+  var candidates = [];
+  for (var depth = 0; depth <= 4; depth++) {
+    var prefix = new Array(depth + 1).join('../');
+    candidates.push(prefix + '_extensions/rameliaz/unair/');
+    candidates.push(prefix + '_extensions/unair/');
+  }
 
   function probe(idx) {
     if (idx >= candidates.length) {
