@@ -138,7 +138,10 @@ Tiga *narrow ability* yang umum diukur pada tes potensi ([Pertemuan 6](/slides/p
 
 *"SEPATU : KAKI, sebagaimana ... : ..."*
 
-(A) Anting : Telinga <br> (B) Sarang : Burung <br>　(C) Sayur : Panci <br> (D) Kuas : Cat
+a. Anting : Telinga
+b. Sarang : Burung 
+c. Sayur : Panci 
+d. Kuas : Cat
 
 . . .
 
@@ -151,7 +154,10 @@ Tiga *narrow ability* yang umum diukur pada tes potensi ([Pertemuan 6](/slides/p
 
 *"Semua bunga memiliki putik. Semua melati termasuk bunga."*
 
-(A) Semua melati memiliki putik <br> (B) Sebagian melati tidak memiliki putik <br> (C) Sebagian bunga bukan melati <br> (D) Semua bunga adalah melati
+a. Semua melati memiliki putik
+b. Sebagian melati tidak memiliki putik
+c. Sebagian bunga bukan melati
+d. Semua bunga adalah melati
 
 . . .
 
@@ -164,7 +170,10 @@ Tiga *narrow ability* yang umum diukur pada tes potensi ([Pertemuan 6](/slides/p
 
 *"3, 6, 12, 24, ..."*
 
-(A) 30 <br> (B) 36 <br> (C) 48 <br> (D) 60
+a. 30
+b. 36
+c. 48
+d. 60
 
 . . .
 

@@ -138,7 +138,10 @@ Three *narrow abilities* commonly measured on aptitude tests ([Meeting 6](/slide
 
 *"SHOE : FOOT, as ... : ..."*
 
-(A) Earring : Ear <br> (B) Nest : Bird <br>　(C) Vegetable : Pot <br> (D) Brush : Paint
+a. Earring : Ear 
+b. Nest : Bird 
+c. Vegetable : Pot
+d. Brush : Paint
 
 . . .
 
@@ -151,7 +154,10 @@ Three *narrow abilities* commonly measured on aptitude tests ([Meeting 6](/slide
 
 *"All flowers have a pistil. All jasmines are flowers."*
 
-(A) All jasmines have a pistil <br> (B) Some jasmines do not have a pistil <br> (C) Some flowers are not jasmines <br> (D) All flowers are jasmines
+a. All jasmines have a pistil
+b. Some jasmines do not have a pistil
+c. Some flowers are not jasmines
+d. All flowers are jasmines
 
 . . .
 
@@ -164,7 +170,10 @@ Three *narrow abilities* commonly measured on aptitude tests ([Meeting 6](/slide
 
 *"3, 6, 12, 24, ..."*
 
-(A) 30 <br> (B) 36 <br> (C) 48 <br> (D) 60
+a. 30
+b. 36
+c. 48
+d. 60
 
 . . .
 

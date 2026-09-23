@@ -2031,7 +2031,7 @@
     "href": "index.html#deskripsi-mata-kuliah",
     "title": "Penyusunan Tes Kognitif",
     "section": "Deskripsi Mata Kuliah",
-    "text": "Deskripsi Mata Kuliah\nMata kuliah ini didesain untuk membekali mahasiswa kemampuan menerapkan teori psikometri melalui kegiatan penyusunan tes kognitif. Mahasiswa dibimbing untuk menentukan spesifikasi item, menyusun blueprint, menulis item, melaksanakan uji coba, hingga menganalisis hasilnya. Mahasiswa akan berpraktik menyusun tes kognitif sesuai tahapan baku serta menyusun buku manual untuk tes yang dihasilkan.\n\nManfaat mata kuliah\nMahasiswa memperoleh pengalaman langsung menyusun alat ukur kognitif dari nol — mulai dari kajian teori dan taksonomi, penulisan item, hingga pembuktian validitas, estimasi reliabilitas, dan penyusunan norma — sehingga siap merancang dan mengevaluasi asesmen psikologi kategori A dan B sesuai Kode Etik Psikologi Indonesia.\n\n\nMata kuliah prasyarat\nPsikometri",
+    "text": "Deskripsi Mata Kuliah\nMata kuliah ini didesain untuk membekali mahasiswa kemampuan menerapkan teori psikometri melalui kegiatan penyusunan tes kognitif. Mahasiswa dibimbing untuk menentukan spesifikasi item, menyusun blueprint, menulis item, melaksanakan uji coba, hingga menganalisis hasilnya. Mahasiswa akan berpraktik menyusun tes kognitif sesuai tahapan baku serta menyusun buku manual untuk tes yang dihasilkan.\n\nManfaat mata kuliah\nMahasiswa memperoleh pengalaman langsung menyusun alat ukur kognitif, mulai dari kajian teori dan taksonomi, penulisan item, hingga pembuktian validitas, estimasi reliabilitas, dan penyusunan norma, sehingga siap merancang dan mengevaluasi asesmen psikologi kategori A dan B sesuai Kode Etik Psikologi Indonesia.\n\n\nMata kuliah prasyarat\nPsikometri",
     "crumbs": [
       "oleh Rizqy Amelia Zein",
       "Beranda"
@@ -2482,7 +2482,7 @@
     "href": "slides/pertemuan7.html#contoh-induction",
     "title": "Menulis Item Tes Prestasi dan Potensi",
     "section": "Contoh: induction",
-    "text": "Contoh: induction\n“SEPATU : KAKI, sebagaimana … : …”\n\nAnting : Telinga  (B) Sarang : Burung 　(C) Sayur : Panci  (D) Kuas : Cat\n\n\n\n\n\n\n\n\nKunci\n\n\nA — hubungan bagian tubuh dengan benda yang dikenakan/dipakai di sana, sama seperti sepatu di kaki.",
+    "text": "Contoh: induction\n“SEPATU : KAKI, sebagaimana … : …”\n\nAnting : Telinga\nSarang : Burung\nSayur : Panci\nKuas : Cat\n\n\n\n\n\n\n\n\nKunci\n\n\nA — hubungan bagian tubuh dengan benda yang dikenakan/dipakai di sana, sama seperti sepatu di kaki.",
     "crumbs": [
       "oleh Rizqy Amelia Zein",
       "Materi 🇮🇩",
@@ -2494,7 +2494,7 @@
     "href": "slides/pertemuan7.html#contoh-general-sequential-reasoning",
     "title": "Menulis Item Tes Prestasi dan Potensi",
     "section": "Contoh: general sequential reasoning",
-    "text": "Contoh: general sequential reasoning\n“Semua bunga memiliki putik. Semua melati termasuk bunga.”\n\nSemua melati memiliki putik  (B) Sebagian melati tidak memiliki putik  (C) Sebagian bunga bukan melati  (D) Semua bunga adalah melati\n\n\n\n\n\n\n\n\nKunci\n\n\nA — kesimpulan logis langsung dari dua premis (silogisme kategorikal).",
+    "text": "Contoh: general sequential reasoning\n“Semua bunga memiliki putik. Semua melati termasuk bunga.”\n\nSemua melati memiliki putik\nSebagian melati tidak memiliki putik\nSebagian bunga bukan melati\nSemua bunga adalah melati\n\n\n\n\n\n\n\n\nKunci\n\n\nA — kesimpulan logis langsung dari dua premis (silogisme kategorikal).",
     "crumbs": [
       "oleh Rizqy Amelia Zein",
       "Materi 🇮🇩",
@@ -2506,7 +2506,7 @@
     "href": "slides/pertemuan7.html#contoh-quantitative-reasoning",
     "title": "Menulis Item Tes Prestasi dan Potensi",
     "section": "Contoh: quantitative reasoning",
-    "text": "Contoh: quantitative reasoning\n“3, 6, 12, 24, …”\n\n30  (B) 36  (C) 48  (D) 60\n\n\n\n\n\n\n\n\nKunci\n\n\nC (48) — pola: tiap suku dikalikan 2.",
+    "text": "Contoh: quantitative reasoning\n“3, 6, 12, 24, …”\n\n30\n36\n48\n60\n\n\n\n\n\n\n\n\nKunci\n\n\nC (48) — pola: tiap suku dikalikan 2.",
     "crumbs": [
       "oleh Rizqy Amelia Zein",
       "Materi 🇮🇩",
@@ -4066,7 +4066,7 @@
     "href": "slides/pertemuan7-en.html#example-induction",
     "title": "Writing Achievement and Aptitude Test Items",
     "section": "Example: induction",
-    "text": "Example: induction\n“SHOE : FOOT, as … : …”\n\nEarring : Ear  (B) Nest : Bird 　(C) Vegetable : Pot  (D) Brush : Paint\n\n\n\n\n\n\n\n\nKey\n\n\nA — the relationship between a body part and the item worn/used on it, just like a shoe on a foot.",
+    "text": "Example: induction\n“SHOE : FOOT, as … : …”\n\nEarring : Ear\nNest : Bird\nVegetable : Pot\nBrush : Paint\n\n\n\n\n\n\n\n\nKey\n\n\nA — the relationship between a body part and the item worn/used on it, just like a shoe on a foot.",
     "crumbs": [
       "oleh Rizqy Amelia Zein",
       "Materi 🇬🇧",
@@ -4078,7 +4078,7 @@
     "href": "slides/pertemuan7-en.html#example-general-sequential-reasoning",
     "title": "Writing Achievement and Aptitude Test Items",
     "section": "Example: general sequential reasoning",
-    "text": "Example: general sequential reasoning\n“All flowers have a pistil. All jasmines are flowers.”\n\nAll jasmines have a pistil  (B) Some jasmines do not have a pistil  (C) Some flowers are not jasmines  (D) All flowers are jasmines\n\n\n\n\n\n\n\n\nKey\n\n\nA — a direct logical conclusion drawn from the two premises (categorical syllogism).",
+    "text": "Example: general sequential reasoning\n“All flowers have a pistil. All jasmines are flowers.”\n\nAll jasmines have a pistil\nSome jasmines do not have a pistil\nSome flowers are not jasmines\nAll flowers are jasmines\n\n\n\n\n\n\n\n\nKey\n\n\nA — a direct logical conclusion drawn from the two premises (categorical syllogism).",
     "crumbs": [
       "oleh Rizqy Amelia Zein",
       "Materi 🇬🇧",
@@ -4090,7 +4090,7 @@
     "href": "slides/pertemuan7-en.html#example-quantitative-reasoning",
     "title": "Writing Achievement and Aptitude Test Items",
     "section": "Example: quantitative reasoning",
-    "text": "Example: quantitative reasoning\n“3, 6, 12, 24, …”\n\n30  (B) 36  (C) 48  (D) 60\n\n\n\n\n\n\n\n\nKey\n\n\nC (48) — pattern: each term is multiplied by 2.",
+    "text": "Example: quantitative reasoning\n“3, 6, 12, 24, …”\n\n30\n36\n48\n60\n\n\n\n\n\n\n\n\nKey\n\n\nC (48) — pattern: each term is multiplied by 2.",
     "crumbs": [
       "oleh Rizqy Amelia Zein",
       "Materi 🇬🇧",
