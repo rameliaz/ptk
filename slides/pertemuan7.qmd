@@ -138,7 +138,7 @@ Tiga *narrow ability* yang umum diukur pada tes potensi ([Pertemuan 6](/slides/p
 
 *"SEPATU : KAKI, sebagaimana ... : ..."*
 
-A) Anting : Telinga　B) Jari : Cincin　C) Kepala : Topi　D) Kuas : Cat
+(A) Anting : Telinga <br> (B) Sarang : Burung <br>　(C) Sayur : Panci <br> (D) Kuas : Cat
 
 . . .
 
@@ -151,7 +151,7 @@ A) Anting : Telinga　B) Jari : Cincin　C) Kepala : Topi　D) Kuas : Cat
 
 *"Semua bunga memiliki putik. Semua melati termasuk bunga."*
 
-A) Semua melati memiliki putik　B) Sebagian melati tidak memiliki putik　C) Sebagian bunga bukan melati　D) Semua bunga adalah melati
+(A) Semua melati memiliki putik <br> (B) Sebagian melati tidak memiliki putik <br> (C) Sebagian bunga bukan melati <br> (D) Semua bunga adalah melati
 
 . . .
 
@@ -164,7 +164,7 @@ A) Semua melati memiliki putik　B) Sebagian melati tidak memiliki putik　C) Se
 
 *"3, 6, 12, 24, ..."*
 
-A) 30　B) 36　C) 48　D) 60
+(A) 30 <br> (B) 36 <br> (C) 48 <br> (D) 60
 
 . . .
 
@@ -183,13 +183,13 @@ Menggunakan TIK dari Pertemuan 4: *"Mahasiswa dapat memasangkan setiap prinsip p
 #### Contoh item
 *"Prinsip 'mengukur sampel materi yang representatif' pada tes prestasi paling sesuai dicontohkan oleh:"*
 
-A) Ujian akhir semester yang hanya berisi soal dari satu pertemuan terakhir
+(A) Ujian akhir semester yang hanya berisi soal dari satu pertemuan terakhir
 
-B) Ujian akhir semester yang soalnya tersebar merata dari seluruh pertemuan
+(B) Ujian akhir semester yang soalnya tersebar merata dari seluruh pertemuan
 
-C) Ujian akhir semester yang tingkat kesulitannya seragam
+(C) Ujian akhir semester yang tingkat kesulitannya seragam
 
-D) Ujian akhir semester yang jumlah soalnya banyak
+(D) Ujian akhir semester yang jumlah soalnya banyak
 :::
 
 ::: aside
@@ -201,16 +201,16 @@ Jawaban: B.
 Item berikut punya beberapa masalah. Diskusikan apa saja yang perlu diperbaiki?
 
 ::: {.callout-important}
-#### Item yang perlu ditelaah
+#### Apa masalah dari item ini?
 *"Manakah pernyataan berikut yang BUKAN merupakan ciri tes potensi?"*
 
-A) Selalu mengukur kemampuan bawaan sejak lahir yang tidak mungkin berubah sama sekali sepanjang hidup seseorang
+(A) Selalu mengukur kemampuan bawaan sejak lahir yang tidak mungkin berubah sama sekali sepanjang hidup seseorang
 
-B) Bersifat prediktif terhadap performa mendatang
+(B) Bersifat prediktif terhadap performa mendatang
 
-C) Tidak terikat pada satu bidang materi tertentu
+(C) Tidak terikat pada satu bidang materi tertentu
 
-D) Semua jawaban di atas benar
+(D) Semua jawaban di atas benar
 :::
 
 . . .
@@ -219,16 +219,16 @@ D) Semua jawaban di atas benar
 * Stem memakai kata negatif ("BUKAN") yang seharusnya dihindari.
 * Opsi A memakai kata mutlak ("selalu", "tidak mungkin", "sama sekali") yang menjadi petunjuk bahwa opsi ini salah.
 * Opsi D ("semua jawaban di atas benar") sebaiknya dihindari sesuai prinsip yang dibahas hari ini.
+* Opsi jawaban ada yang ditulis terlalu panjang.
 :::
 
 ## Ringkasan
 
 ::: {.incremental}
-1. Item pilihan ganda terdiri atas *stem*, *key*, dan *distractors* — masing-masing punya fungsi dan prinsip penulisan tersendiri.
+1. Item pilihan ganda terdiri atas *stem*, *key*, dan *distractors*, dan masing-masing punya fungsi dan prinsip penulisan tersendiri.
 2. *Stem* ditulis jelas, ringkas, dan positif; ide inti ada di *stem*, bukan di *options*.
 3. *Options* dibuat setara panjang dan strukturnya, dengan *distractors* yang masuk akal, tanpa kata mutlak atau opsi "semua benar/semua salah".
 4. Item tes prestasi diturunkan dari TIK; item tes potensi diturunkan dari *narrow ability* yang ingin diukur.
-5. Prinsip-prinsip ini langsung relevan untuk Tugas 2 yang dikumpulkan minggu ini.
 :::
 
 ## Untuk Pertemuan 8

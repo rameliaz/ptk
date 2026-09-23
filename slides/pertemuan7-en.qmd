@@ -138,7 +138,7 @@ Three *narrow abilities* commonly measured on aptitude tests ([Meeting 6](/slide
 
 *"SHOE : FOOT, as ... : ..."*
 
-A) Earring : Ear　B) Finger : Ring　C) Head : Hat　D) Brush : Paint
+(A) Earring : Ear <br> (B) Nest : Bird <br>　(C) Vegetable : Pot <br> (D) Brush : Paint
 
 . . .
 
@@ -151,7 +151,7 @@ A) Earring : Ear　B) Finger : Ring　C) Head : Hat　D) Brush : Paint
 
 *"All flowers have a pistil. All jasmines are flowers."*
 
-A) All jasmines have a pistil　B) Some jasmines do not have a pistil　C) Some flowers are not jasmines　D) All flowers are jasmines
+(A) All jasmines have a pistil <br> (B) Some jasmines do not have a pistil <br> (C) Some flowers are not jasmines <br> (D) All flowers are jasmines
 
 . . .
 
@@ -164,7 +164,7 @@ A) All jasmines have a pistil　B) Some jasmines do not have a pistil　C) Some 
 
 *"3, 6, 12, 24, ..."*
 
-A) 30　B) 36　C) 48　D) 60
+(A) 30 <br> (B) 36 <br> (C) 48 <br> (D) 60
 
 . . .
 
@@ -183,13 +183,13 @@ Using the TIK from Meeting 4: *"Students can match each principle of achievement
 #### Example item
 *"The principle of 'measuring a representative sample of content' in an achievement test is best illustrated by:"*
 
-A) A final exam that contains questions only from the last meeting
+(A) A final exam that contains questions only from the last meeting
 
-B) A final exam whose questions are spread evenly across all meetings
+(B) A final exam whose questions are spread evenly across all meetings
 
-C) A final exam with a uniform level of difficulty
+(C) A final exam with a uniform level of difficulty
 
-D) A final exam with a large number of questions
+(D) A final exam with a large number of questions
 :::
 
 ::: aside
@@ -201,16 +201,16 @@ Answer: B.
 The item below has several problems. Discuss what needs to be fixed.
 
 ::: {.callout-important}
-#### Item to review
+#### What's wrong with this item?
 *"Which of the following statements is NOT a characteristic of an aptitude test?"*
 
-A) Always measures an innate ability present from birth that can never change at all over a person's lifetime
+(A) Always measures an innate ability present from birth that can never change at all over a person's lifetime
 
-B) Is predictive of future performance
+(B) Is predictive of future performance
 
-C) Is not tied to any one specific subject area
+(C) Is not tied to any one specific subject area
 
-D) All of the above are correct
+(D) All of the above are correct
 :::
 
 . . .
@@ -219,16 +219,16 @@ D) All of the above are correct
 * The stem uses a negative word ("NOT"), which should be avoided.
 * Option A uses absolute words ("always", "can never", "at all"), which gives away that this option is wrong.
 * Option D ("all of the above are correct") should be avoided, per the principle discussed today.
+* Some answer options are written too long.
 :::
 
 ## Summary
 
 ::: {.incremental}
-1. A multiple-choice item consists of a *stem*, *key*, and *distractors* — each with its own function and writing principles.
+1. A multiple-choice item consists of a *stem*, *key*, and *distractors*, and each has its own function and writing principles.
 2. The *stem* is written clearly, concisely, and positively; the core idea belongs in the *stem*, not the *options*.
 3. The *options* are made equal in length and structure, with plausible *distractors*, free of absolute words or "all/none of the above" choices.
 4. Achievement test items are derived from the TIK; aptitude test items are derived from the *narrow ability* being measured.
-5. These principles are directly relevant to Assignment 2, due this week.
 :::
 
 ## Looking Ahead to Meeting 8
